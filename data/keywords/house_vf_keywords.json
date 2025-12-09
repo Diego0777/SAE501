@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "cuddy",
+    "score": 1483.107515790963
+  },
+  {
+    "keyword": "foreman",
+    "score": 136.28928851620725
+  },
+  {
+    "keyword": "biopsie",
+    "score": 115.41971922342708
+  },
+  {
+    "keyword": "peut etre",
+    "score": 101.03572148907594
+  },
+  {
+    "keyword": "juste",
+    "score": 94.66539298246533
+  },
+  {
+    "keyword": "kutner",
+    "score": 79.01291716171637
+  },
+  {
+    "keyword": "house",
+    "score": 77.0113128033469
+  },
+  {
+    "keyword": "deux",
+    "score": 68.38888341207198
+  },
+  {
+    "keyword": "faites",
+    "score": 64.77456732074423
+  },
+  {
+    "keyword": "parce",
+    "score": 54.87876114021236
+  },
+  {
+    "keyword": "raison",
+    "score": 53.817976523275654
+  },
+  {
+    "keyword": "voir",
+    "score": 51.84913159709744
+  },
+  {
+    "keyword": "taub",
+    "score": 50.8614969516489
+  },
+  {
+    "keyword": "tumeur",
+    "score": 50.15944539197221
+  },
+  {
+    "keyword": "besoin",
+    "score": 50.03069946205894
+  },
+  {
+    "keyword": "probleme",
+    "score": 49.67786378934969
+  },
+  {
+    "keyword": "temps",
+    "score": 47.63623816639473
+  },
+  {
+    "keyword": "ans",
+    "score": 46.254394149707316
+  },
+  {
+    "keyword": "irm",
+    "score": 46.04387120374001
+  },
+  {
+    "keyword": "mieux",
+    "score": 43.840512876753344
+  },
+  {
+    "keyword": "vie",
+    "score": 40.21921364300191
+  },
+  {
+    "keyword": "cerveau",
+    "score": 39.47184430628366
+  },
+  {
+    "keyword": "pense",
+    "score": 37.92714839579312
+  },
+  {
+    "keyword": "quelque chose",
+    "score": 36.92073394313789
+  },
+  {
+    "keyword": "peu",
+    "score": 36.53320388092816
+  },
+  {
+    "keyword": "symptomes",
+    "score": 35.68329727984345
+  },
+  {
+    "keyword": "caillot",
+    "score": 35.629714476741924
+  },
+  {
+    "keyword": "vraiment",
+    "score": 34.19772365655496
+  },
+  {
+    "keyword": "poumons",
+    "score": 34.13095236278244
+  },
+  {
+    "keyword": "quelqu",
+    "score": 33.467082055840244
+  },
+  {
+    "keyword": "faut",
+    "score": 33.43449840997465
+  },
+  {
+    "keyword": "pourrait",
+    "score": 33.177557127170594
+  },
+  {
+    "keyword": "cameron",
+    "score": 31.821364281245174
+  },
+  {
+    "keyword": "foie",
+    "score": 31.121146051974698
+  },
+  {
+    "keyword": "fois",
+    "score": 29.016822752208242
+  },
+  {
+    "keyword": "traitement",
+    "score": 27.729529797397184
+  },
+  {
+    "keyword": "passe",
+    "score": 27.50773680343968
+  },
+  {
+    "keyword": "trouve",
+    "score": 26.650335018754383
+  },
+  {
+    "keyword": "symptome",
+    "score": 26.486731838175043
+  },
+  {
+    "keyword": "coeur",
+    "score": 25.959387528011444
+  },
+  {
+    "keyword": "maintenant",
+    "score": 25.305706066832293
+  },
+  {
+    "keyword": "cas",
+    "score": 24.52110952733695
+  },
+  {
+    "keyword": "fais",
+    "score": 24.235403883311392
+  },
+  {
+    "keyword": "depuis",
+    "score": 23.979267397260397
+  },
+  {
+    "keyword": "parler",
+    "score": 23.84014142864092
+  },
+  {
+    "keyword": "ouais",
+    "score": 23.23549484241971
+  },
+  {
+    "keyword": "kidi",
+    "score": 22.587355893910487
+  },
+  {
+    "keyword": "personne",
+    "score": 22.202730233936684
+  },
+  {
+    "keyword": "auto immune",
+    "score": 22.07517377001962
+  },
+  {
+    "keyword": "donne",
+    "score": 22.034310630104457
+  },
+  {
+    "keyword": "femme",
+    "score": 21.187276524179648
+  },
+  {
+    "keyword": "maladie",
+    "score": 20.773423243251536
+  },
+  {
+    "keyword": "bonne",
+    "score": 20.46282471968512
+  },
+  {
+    "keyword": "gens",
+    "score": 20.46163717751025
+  },
+  {
+    "keyword": "savoir",
+    "score": 20.074765527229285
+  },
+  {
+    "keyword": "wilson",
+    "score": 19.261877216701688
+  },
+  {
+    "keyword": "mourir",
+    "score": 18.789926384192597
+  },
+  {
+    "keyword": "bon",
+    "score": 18.50110754348148
+  },
+  {
+    "keyword": "desole",
+    "score": 18.328827468950603
+  },
+  {
+    "keyword": "aime",
+    "score": 18.27830257801385
+  },
+  {
+    "keyword": "lupus",
+    "score": 18.17877966530566
+  },
+  {
+    "keyword": "patiente",
+    "score": 18.1616313619698
+  },
+  {
+    "keyword": "cardiaque",
+    "score": 17.866011533827347
+  },
+  {
+    "keyword": "parle",
+    "score": 17.535256711221777
+  },
+  {
+    "keyword": "dieu",
+    "score": 17.257070746064173
+  },
+  {
+    "keyword": "devrait",
+    "score": 17.23434682475039
+  },
+  {
+    "keyword": "tuberculose",
+    "score": 16.876575961189975
+  },
+  {
+    "keyword": "dites",
+    "score": 16.714763981369675
+  },
+  {
+    "keyword": "douleur",
+    "score": 16.0438606205098
+  },
+  {
+    "keyword": "tete",
+    "score": 16.03659822193021
+  },
+  {
+    "keyword": "sang",
+    "score": 16.032349241393153
+  },
+  {
+    "keyword": "fievre",
+    "score": 15.937645539120204
+  },
+  {
+    "keyword": "malade",
+    "score": 15.908431933564703
+  },
+  {
+    "keyword": "crois",
+    "score": 15.475986883098583
+  },
+  {
+    "keyword": "monde",
+    "score": 15.142557632480317
+  },
+  {
+    "keyword": "caillots",
+    "score": 14.855084922531242
+  },
+  {
+    "keyword": "pensez",
+    "score": 14.639995595436966
+  },
+  {
+    "keyword": "merci",
+    "score": 14.464740621444486
+  },
+  {
+    "keyword": "aucun",
+    "score": 14.370828342260285
+  },
+  {
+    "keyword": "truc",
+    "score": 14.336681822077436
+  },
+  {
+    "keyword": "mort",
+    "score": 14.241700080552416
+  },
+  {
+    "keyword": "infection",
+    "score": 14.221035236628202
+  },
+  {
+    "keyword": "pere",
+    "score": 14.204275973545471
+  },
+  {
+    "keyword": "examens",
+    "score": 14.122974030270177
+  },
+  {
+    "keyword": "mettez sous",
+    "score": 13.457783115524075
+  },
+  {
+    "keyword": "seul",
+    "score": 12.994267695302323
+  },
+  {
+    "keyword": "patient",
+    "score": 12.770558887862906
+  },
+  {
+    "keyword": "reste",
+    "score": 12.72101764778218
+  },
+  {
+    "keyword": "hepatique",
+    "score": 12.693923486125543
+  },
+  {
+    "keyword": "examen",
+    "score": 12.674432405554825
+  },
+  {
+    "keyword": "aucune",
+    "score": 12.437317557242519
+  },
+  {
+    "keyword": "assez",
+    "score": 12.36049003771687
+  },
+  {
+    "keyword": "medecin",
+    "score": 12.106962003018733
+  },
+  {
+    "keyword": "pulmonaire",
+    "score": 12.058070524287007
+  },
+  {
+    "keyword": "prendre",
+    "score": 12.037431652206322
+  },
+  {
+    "keyword": "pris",
+    "score": 12.025025005103297
+  },
+  {
+    "keyword": "vrai",
+    "score": 11.91494862751622
+  },
+  {
+    "keyword": "steroides",
+    "score": 11.878605744776463
+  },
+  {
+    "keyword": "demande",
+    "score": 11.843238125130764
+  },
+  {
+    "keyword": "diagnostic",
+    "score": 11.658558492881985
+  },
+  {
+    "keyword": "antibiotiques",
+    "score": 11.636780429873015
+  },
+  {
+    "keyword": "reins",
+    "score": 11.534661700627126
+  },
+  {
+    "keyword": "lymphome",
+    "score": 11.374034843864525
+  },
+  {
+    "keyword": "accord",
+    "score": 11.351649230759454
+  },
+  {
+    "keyword": "mois",
+    "score": 11.305276494566959
+  },
+  {
+    "keyword": "shalimarfox",
+    "score": 11.09297129030506
+  },
+  {
+    "keyword": "venusia",
+    "score": 10.712480626526421
+  },
+  {
+    "keyword": "tort",
+    "score": 10.605100798141208
+  },
+  {
+    "keyword": "tuer",
+    "score": 10.42771597624294
+  },
+  {
+    "keyword": "idee",
+    "score": 10.258973423247324
+  },
+  {
+    "keyword": "globules",
+    "score": 10.257290530822662
+  },
+  {
+    "keyword": "interferon",
+    "score": 10.178055850334664
+  },
+  {
+    "keyword": "angio",
+    "score": 10.178055850334664
+  },
+  {
+    "keyword": "cancer",
+    "score": 10.152253122957594
+  },
+  {
+    "keyword": "trouver",
+    "score": 10.024469576407304
+  },
+  {
+    "keyword": "hopital",
+    "score": 9.958836765730807
+  },
+  {
+    "keyword": "chase",
+    "score": 9.883180106041777
+  },
+  {
+    "keyword": "immunitaire",
+    "score": 9.601235542169002
+  },
+  {
+    "keyword": "marche",
+    "score": 9.44776287853203
+  },
+  {
+    "keyword": "explique",
+    "score": 9.268513284871485
+  },
+  {
+    "keyword": "trois",
+    "score": 8.865679386655533
+  },
+  {
+    "keyword": "vogler",
+    "score": 8.83327261927743
+  },
+  {
+    "keyword": "anemie",
+    "score": 8.791203275973805
+  },
+  {
+    "keyword": "heures",
+    "score": 8.76727127182564
+  },
+  {
+    "keyword": "boulot",
+    "score": 8.710638331162835
+  },
+  {
+    "keyword": "voulais",
+    "score": 8.588969284358203
+  },
+  {
+    "keyword": "ponction",
+    "score": 8.281578958022303
+  },
+  {
+    "keyword": "aider",
+    "score": 8.241347451318005
+  },
+  {
+    "keyword": "beaucoup",
+    "score": 8.221009600253645
+  },
+  {
+    "keyword": "vicodin",
+    "score": 8.173855159481711
+  },
+  {
+    "keyword": "sauf",
+    "score": 8.091199064918957
+  },
+  {
+    "keyword": "dis",
+    "score": 8.054534625719853
+  },
+  {
+    "keyword": "peur",
+    "score": 7.9559414014799
+  },
+  {
+    "keyword": "systeme immunitaire",
+    "score": 7.942928148601112
+  },
+  {
+    "keyword": "moelle",
+    "score": 7.83398088360039
+  },
+  {
+    "keyword": "vient",
+    "score": 7.805909328323613
+  },
+  {
+    "keyword": "laisse",
+    "score": 7.780418339272345
+  },
+  {
+    "keyword": "pensais",
+    "score": 7.648615660810015
+  },
+  {
+    "keyword": "mere",
+    "score": 7.518861145281894
+  },
+  {
+    "keyword": "pendant",
+    "score": 7.452655311032182
+  },
+  {
+    "keyword": "medicaments",
+    "score": 7.3883123603831375
+  },
+  {
+    "keyword": "toxines",
+    "score": 7.356702828681063
+  },
+  {
+    "keyword": "hemorragie",
+    "score": 7.168395895740934
+  },
+  {
+    "keyword": "sens",
+    "score": 7.086296237429464
+  },
+  {
+    "keyword": "cushing",
+    "score": 7.0648249454061585
+  },
+  {
+    "keyword": "moelle osseuse",
+    "score": 7.040177807623215
+  },
+  {
+    "keyword": "jours",
+    "score": 7.007518109188245
+  },
+  {
+    "keyword": "vois",
+    "score": 7.007518109188245
+  },
+  {
+    "keyword": "entre",
+    "score": 7.001983676509623
+  },
+  {
+    "keyword": "nouveau",
+    "score": 6.990798748908094
+  },
+  {
+    "keyword": "pneumonie",
+    "score": 6.986047209874224
+  },
+  {
+    "keyword": "fils",
+    "score": 6.958892444256784
+  },
+  {
+    "keyword": "importe",
+    "score": 6.910417323284978
+  },
+  {
+    "keyword": "combien",
+    "score": 6.782902386398142
+  },
+  {
+    "keyword": "jambe",
+    "score": 6.745242573900401
+  },
+  {
+    "keyword": "surement",
+    "score": 6.7320130953779795
+  },
+  {
+    "keyword": "anticorps",
+    "score": 6.664457757743665
+  },
+  {
+    "keyword": "petit",
+    "score": 6.601826794214437
+  },
+  {
+    "keyword": "paralysie",
+    "score": 6.5758428066939665
+  },
+  {
+    "keyword": "fille",
+    "score": 6.549025503688902
+  },
+  {
+    "keyword": "seule",
+    "score": 6.4339720402507465
+  },
+  {
+    "keyword": "arrete",
+    "score": 6.4339720402507465
+  },
+  {
+    "keyword": "globules blancs",
+    "score": 6.4280802256861165
+  },
+  {
+    "keyword": "puis",
+    "score": 6.422412399988618
+  },
+  {
+    "keyword": "jusqu",
+    "score": 6.329856731543855
+  },
+  {
+    "keyword": "vite",
+    "score": 6.216639534650363
+  },
+  {
+    "keyword": "cote",
+    "score": 6.172302090116387
+  },
+  {
+    "keyword": "contre",
+    "score": 6.171767977365425
+  },
+  {
+    "keyword": "douleurs",
+    "score": 6.16097594989375
+  },
+  {
+    "keyword": "docteur",
+    "score": 6.138628747624171
+  },
+  {
+    "keyword": "tant",
+    "score": 5.888069279348364
+  },
+  {
+    "keyword": "neurologique",
+    "score": 5.880163921568033
+  },
+  {
+    "keyword": "medecins",
+    "score": 5.782441061187489
+  },
+  {
+    "keyword": "systeme",
+    "score": 5.770205651463218
+  },
+  {
+    "keyword": "jour",
+    "score": 5.667619423063019
+  },
+  {
+    "keyword": "bebe",
+    "score": 5.620517131478583
+  },
+  {
+    "keyword": "nouvelle",
+    "score": 5.611008522512667
+  },
+  {
+    "keyword": "donnez",
+    "score": 5.531097593073381
+  },
+  {
+    "keyword": "etat",
+    "score": 5.523867246467123
+  },
+  {
+    "keyword": "oedeme",
+    "score": 5.482142094573379
+  },
+  {
+    "keyword": "cause",
+    "score": 5.446120398632883
+  },
+  {
+    "keyword": "lombaire",
+    "score": 5.407294698220949
+  },
+  {
+    "keyword": "sortir",
+    "score": 5.395989382009355
+  },
+  {
+    "keyword": "peut causer",
+    "score": 5.392026283006492
+  },
+  {
+    "keyword": "drogues",
+    "score": 5.305806453363666
+  },
+  {
+    "keyword": "tachycardie",
+    "score": 5.286365953977747
+  },
+  {
+    "keyword": "tout monde",
+    "score": 5.223657798033784
+  },
+  {
+    "keyword": "donner",
+    "score": 5.169600699199746
+  },
+  {
+    "keyword": "dessus",
+    "score": 5.138618095338882
+  },
+  {
+    "keyword": "chercher",
+    "score": 5.094733615336726
+  },
+  {
+    "keyword": "osseuse",
+    "score": 5.079675015626142
+  },
+  {
+    "keyword": "montre",
+    "score": 5.012032532237335
+  },
+  {
+    "keyword": "problemes",
+    "score": 5.003562438543087
+  },
+  {
+    "keyword": "mettez",
+    "score": 4.995177321990398
+  },
+  {
+    "keyword": "tue",
+    "score": 4.973907223437822
+  },
+  {
+    "keyword": "droit",
+    "score": 4.889721866053574
+  },
+  {
+    "keyword": "taux",
+    "score": 4.85632118915512
+  },
+  {
+    "keyword": "veut dire",
+    "score": 4.845438357476134
+  },
+  {
+    "keyword": "cellules",
+    "score": 4.821754990348987
+  },
+  {
+    "keyword": "partir",
+    "score": 4.80777255764561
+  }
+]

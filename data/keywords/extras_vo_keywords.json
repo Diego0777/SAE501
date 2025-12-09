@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "millman",
+    "score": 181.06589031412236
+  },
+  {
+    "keyword": "say",
+    "score": 29.023175027755073
+  },
+  {
+    "keyword": "really",
+    "score": 24.17510329537046
+  },
+  {
+    "keyword": "bit",
+    "score": 15.920483660766735
+  },
+  {
+    "keyword": "said",
+    "score": 15.809130970141307
+  },
+  {
+    "keyword": "andy",
+    "score": 15.786491950760242
+  },
+  {
+    "keyword": "laugh",
+    "score": 15.105929583364727
+  },
+  {
+    "keyword": "bbc",
+    "score": 13.60110232193808
+  },
+  {
+    "keyword": "mean",
+    "score": 11.876146214444312
+  },
+  {
+    "keyword": "sitcom",
+    "score": 10.066326722003799
+  },
+  {
+    "keyword": "something",
+    "score": 9.563851889494517
+  },
+  {
+    "keyword": "alright",
+    "score": 8.528019863681468
+  },
+  {
+    "keyword": "bloke",
+    "score": 8.481566542258925
+  },
+  {
+    "keyword": "kemp",
+    "score": 7.789653982684098
+  },
+  {
+    "keyword": "niro",
+    "score": 7.77717534385999
+  },
+  {
+    "keyword": "anything",
+    "score": 7.160866693944133
+  },
+  {
+    "keyword": "cheers",
+    "score": 7.073851846925511
+  },
+  {
+    "keyword": "thank",
+    "score": 6.985983949136795
+  },
+  {
+    "keyword": "maggie",
+    "score": 6.6454182126838415
+  },
+  {
+    "keyword": "later",
+    "score": 6.069824693066054
+  },
+  {
+    "keyword": "never",
+    "score": 6.004877955488054
+  },
+  {
+    "keyword": "work",
+    "score": 5.73912673917882
+  },
+  {
+    "keyword": "thought",
+    "score": 5.624508458338462
+  },
+  {
+    "keyword": "nothing",
+    "score": 5.270840284661221
+  },
+  {
+    "keyword": "comedy",
+    "score": 5.189071126281303
+  },
+  {
+    "keyword": "actually",
+    "score": 5.014961043514175
+  },
+  {
+    "keyword": "actor",
+    "score": 5.0132037230278765
+  },
+  {
+    "keyword": "corbett",
+    "score": 4.761816396181025
+  },
+  {
+    "keyword": "still",
+    "score": 4.194990161813783
+  },
+  {
+    "keyword": "god",
+    "score": 4.184406507544592
+  },
+  {
+    "keyword": "funny",
+    "score": 4.089720509040614
+  },
+  {
+    "keyword": "little",
+    "score": 3.987789954358771
+  },
+  {
+    "keyword": "brilliant",
+    "score": 3.971533032788744
+  },
+  {
+    "keyword": "nice",
+    "score": 3.9594446448884257
+  },
+  {
+    "keyword": "please",
+    "score": 3.900635203533957
+  },
+  {
+    "keyword": "much",
+    "score": 3.8872051813747865
+  },
+  {
+    "keyword": "see later",
+    "score": 3.85164711032356
+  },
+  {
+    "keyword": "les",
+    "score": 3.8404761237824316
+  },
+  {
+    "keyword": "give",
+    "score": 3.7204570386910816
+  },
+  {
+    "keyword": "mate",
+    "score": 3.6688162561609308
+  },
+  {
+    "keyword": "even",
+    "score": 3.545012645126528
+  },
+  {
+    "keyword": "thanks",
+    "score": 3.4233044872245073
+  },
+  {
+    "keyword": "shit",
+    "score": 3.4167628494117634
+  },
+  {
+    "keyword": "seen",
+    "score": 3.394021991754272
+  },
+  {
+    "keyword": "done",
+    "score": 3.351157567454699
+  },
+  {
+    "keyword": "fucking",
+    "score": 3.2803878470338996
+  },
+  {
+    "keyword": "great",
+    "score": 3.233497964325041
+  },
+  {
+    "keyword": "hello",
+    "score": 3.190179328870758
+  },
+  {
+    "keyword": "getting",
+    "score": 3.0859339917091604
+  },
+  {
+    "keyword": "barry",
+    "score": 2.9415287960629395
+  },
+  {
+    "keyword": "fuck",
+    "score": 2.9124298225056315
+  },
+  {
+    "keyword": "saying",
+    "score": 2.8535994508615925
+  },
+  {
+    "keyword": "hiya",
+    "score": 2.6692522010317625
+  },
+  {
+    "keyword": "put",
+    "score": 2.648246515307738
+  },
+  {
+    "keyword": "though",
+    "score": 2.62938213593531
+  },
+  {
+    "keyword": "lovely",
+    "score": 2.611400467396013
+  },
+  {
+    "keyword": "looking",
+    "score": 2.603801496762717
+  },
+  {
+    "keyword": "quid",
+    "score": 2.557898640851353
+  },
+  {
+    "keyword": "love",
+    "score": 2.5367106005139175
+  },
+  {
+    "keyword": "wanted",
+    "score": 2.5282726249833662
+  },
+  {
+    "keyword": "everything",
+    "score": 2.509748098591709
+  },
+  {
+    "keyword": "name",
+    "score": 2.431549860695719
+  },
+  {
+    "keyword": "someone",
+    "score": 2.3723554791555266
+  },
+  {
+    "keyword": "always",
+    "score": 2.335153706769128
+  },
+  {
+    "keyword": "clive",
+    "score": 2.3323672927008285
+  },
+  {
+    "keyword": "racist",
+    "score": 2.3033123732146823
+  },
+  {
+    "keyword": "stuff",
+    "score": 2.2417653561789175
+  },
+  {
+    "keyword": "friend",
+    "score": 2.240494461974656
+  },
+  {
+    "keyword": "money",
+    "score": 2.232413317531982
+  },
+  {
+    "keyword": "around",
+    "score": 2.227561209563789
+  },
+  {
+    "keyword": "stokes",
+    "score": 2.226463670306731
+  },
+  {
+    "keyword": "bloody",
+    "score": 2.1772258187109443
+  },
+  {
+    "keyword": "probably",
+    "score": 2.1745511293166673
+  },
+  {
+    "keyword": "loads",
+    "score": 2.168107126573227
+  },
+  {
+    "keyword": "first",
+    "score": 2.131869941103385
+  },
+  {
+    "keyword": "old",
+    "score": 2.118084410489908
+  },
+  {
+    "keyword": "erm",
+    "score": 2.110776667353412
+  },
+  {
+    "keyword": "definitely",
+    "score": 2.1070361833310254
+  },
+  {
+    "keyword": "thinking",
+    "score": 2.104849079882779
+  },
+  {
+    "keyword": "darren",
+    "score": 2.08781496980139
+  },
+  {
+    "keyword": "wig",
+    "score": 2.05069530971826
+  },
+  {
+    "keyword": "quite",
+    "score": 1.942276490729665
+  },
+  {
+    "keyword": "ask",
+    "score": 1.942276490729665
+  },
+  {
+    "keyword": "call",
+    "score": 1.9157960238491323
+  },
+  {
+    "keyword": "talking",
+    "score": 1.9096553299671162
+  },
+  {
+    "keyword": "meet",
+    "score": 1.8808728519134568
+  },
+  {
+    "keyword": "years",
+    "score": 1.8789410104869628
+  },
+  {
+    "keyword": "havin",
+    "score": 1.799329412278519
+  },
+  {
+    "keyword": "shaun",
+    "score": 1.7938764758182266
+  },
+  {
+    "keyword": "worry",
+    "score": 1.7512006566321003
+  },
+  {
+    "keyword": "coming",
+    "score": 1.7489190123064233
+  },
+  {
+    "keyword": "told",
+    "score": 1.6595829046176063
+  },
+  {
+    "keyword": "famous",
+    "score": 1.6538736225848503
+  },
+  {
+    "keyword": "acting",
+    "score": 1.6496782724318753
+  },
+  {
+    "keyword": "mind",
+    "score": 1.6017654182229637
+  },
+  {
+    "keyword": "rather",
+    "score": 1.5952264268542844
+  },
+  {
+    "keyword": "mum",
+    "score": 1.5938553004543912
+  },
+  {
+    "keyword": "life",
+    "score": 1.5817079527906397
+  },
+  {
+    "keyword": "trying",
+    "score": 1.5701596827058728
+  },
+  {
+    "keyword": "catch",
+    "score": 1.5124358022764175
+  },
+  {
+    "keyword": "whistle",
+    "score": 1.5065446404916396
+  },
+  {
+    "keyword": "big",
+    "score": 1.4597651112976633
+  },
+  {
+    "keyword": "called",
+    "score": 1.4590209799456604
+  },
+  {
+    "keyword": "ross",
+    "score": 1.4552601318033633
+  },
+  {
+    "keyword": "listen",
+    "score": 1.4482331769589742
+  },
+  {
+    "keyword": "sas",
+    "score": 1.4467344464221066
+  },
+  {
+    "keyword": "wee",
+    "score": 1.4396647174767832
+  },
+  {
+    "keyword": "next",
+    "score": 1.4360018817299416
+  },
+  {
+    "keyword": "film",
+    "score": 1.4265010527656563
+  },
+  {
+    "keyword": "vinnie",
+    "score": 1.3942845778458108
+  },
+  {
+    "keyword": "ratings",
+    "score": 1.368954887729112
+  },
+  {
+    "keyword": "remember",
+    "score": 1.3586812122781466
+  },
+  {
+    "keyword": "talk",
+    "score": 1.3548765572082602
+  },
+  {
+    "keyword": "keep",
+    "score": 1.337318672494051
+  },
+  {
+    "keyword": "way",
+    "score": 1.33647196140019
+  },
+  {
+    "keyword": "making",
+    "score": 1.3315767657342399
+  },
+  {
+    "keyword": "better",
+    "score": 1.316347690152099
+  },
+  {
+    "keyword": "number",
+    "score": 1.3151953264904213
+  },
+  {
+    "keyword": "actors",
+    "score": 1.3005134707973367
+  },
+  {
+    "keyword": "reviews",
+    "score": 1.2865460721005648
+  },
+  {
+    "keyword": "leave",
+    "score": 1.2832127259901271
+  },
+  {
+    "keyword": "laughing",
+    "score": 1.279940118416543
+  },
+  {
+    "keyword": "wrong",
+    "score": 1.2630367769428459
+  },
+  {
+    "keyword": "script",
+    "score": 1.2465182516911586
+  },
+  {
+    "keyword": "line",
+    "score": 1.244752870836902
+  },
+  {
+    "keyword": "phone",
+    "score": 1.2432306361244376
+  },
+  {
+    "keyword": "everyone",
+    "score": 1.2327199662860187
+  },
+  {
+    "keyword": "else",
+    "score": 1.229043410188458
+  },
+  {
+    "keyword": "watch",
+    "score": 1.193783249672835
+  },
+  {
+    "keyword": "away",
+    "score": 1.190489890217485
+  },
+  {
+    "keyword": "britain",
+    "score": 1.1847071979855013
+  },
+  {
+    "keyword": "used",
+    "score": 1.1754764293672313
+  },
+  {
+    "keyword": "bowie",
+    "score": 1.1716343209236966
+  },
+  {
+    "keyword": "gay",
+    "score": 1.134811650982686
+  },
+  {
+    "keyword": "character",
+    "score": 1.1260172012282281
+  },
+  {
+    "keyword": "byron",
+    "score": 1.1223831623187133
+  },
+  {
+    "keyword": "show",
+    "score": 1.1174844387390537
+  },
+  {
+    "keyword": "tonight",
+    "score": 1.102597620606977
+  },
+  {
+    "keyword": "sister",
+    "score": 1.1015462229278608
+  },
+  {
+    "keyword": "went",
+    "score": 1.0839339262050645
+  },
+  {
+    "keyword": "night",
+    "score": 1.0726032354688093
+  },
+  {
+    "keyword": "glasses",
+    "score": 1.0690918822407791
+  },
+  {
+    "keyword": "actress",
+    "score": 1.0541433059976733
+  },
+  {
+    "keyword": "milligan",
+    "score": 1.0517994604694199
+  },
+  {
+    "keyword": "believe",
+    "score": 1.0496967683214145
+  },
+  {
+    "keyword": "would rather",
+    "score": 1.0485333149147886
+  },
+  {
+    "keyword": "damon",
+    "score": 1.0338394356772416
+  },
+  {
+    "keyword": "rubbish",
+    "score": 1.0335797471433699
+  },
+  {
+    "keyword": "heard",
+    "score": 1.0234135558237516
+  },
+  {
+    "keyword": "fat",
+    "score": 1.012744889681002
+  },
+  {
+    "keyword": "problem",
+    "score": 1.0068525546828055
+  },
+  {
+    "keyword": "day",
+    "score": 0.9940826912786209
+  },
+  {
+    "keyword": "anyway",
+    "score": 0.99060953420401
+  },
+  {
+    "keyword": "three",
+    "score": 0.988223678742971
+  },
+  {
+    "keyword": "five",
+    "score": 0.9874993163269139
+  },
+  {
+    "keyword": "blows",
+    "score": 0.9785958810107127
+  },
+  {
+    "keyword": "cup tea",
+    "score": 0.975918474810153
+  },
+  {
+    "keyword": "sure",
+    "score": 0.9693828792034828
+  },
+  {
+    "keyword": "fran",
+    "score": 0.9617951064348819
+  },
+  {
+    "keyword": "says",
+    "score": 0.9590471648314379
+  },
+  {
+    "keyword": "apologise",
+    "score": 0.9557271144569007
+  },
+  {
+    "keyword": "wife",
+    "score": 0.9355221957238307
+  },
+  {
+    "keyword": "drink",
+    "score": 0.9204299102518062
+  },
+  {
+    "keyword": "depp",
+    "score": 0.9176854151385542
+  },
+  {
+    "keyword": "tits",
+    "score": 0.9153844436610314
+  },
+  {
+    "keyword": "journalist",
+    "score": 0.9153844436610314
+  },
+  {
+    "keyword": "obviously",
+    "score": 0.9127774505211432
+  },
+  {
+    "keyword": "bionic",
+    "score": 0.9011559360744548
+  },
+  {
+    "keyword": "lunch",
+    "score": 0.8953170487368018
+  },
+  {
+    "keyword": "keith",
+    "score": 0.8943875052668263
+  },
+  {
+    "keyword": "enough",
+    "score": 0.8911035734805027
+  },
+  {
+    "keyword": "happy",
+    "score": 0.8809514946789841
+  },
+  {
+    "keyword": "cause",
+    "score": 0.8780117598095242
+  },
+  {
+    "keyword": "bye",
+    "score": 0.8735361428056517
+  },
+  {
+    "keyword": "play",
+    "score": 0.862845166202124
+  },
+  {
+    "keyword": "ever",
+    "score": 0.835698415211991
+  },
+  {
+    "keyword": "another",
+    "score": 0.8095204869919397
+  },
+  {
+    "keyword": "looks",
+    "score": 0.7869938044838256
+  },
+  {
+    "keyword": "ten",
+    "score": 0.7869938044838256
+  },
+  {
+    "keyword": "cos",
+    "score": 0.7854307623857629
+  },
+  {
+    "keyword": "stupid",
+    "score": 0.7726659865508939
+  },
+  {
+    "keyword": "half",
+    "score": 0.7720308356193246
+  },
+  {
+    "keyword": "girlfriend",
+    "score": 0.7373354281035805
+  },
+  {
+    "keyword": "friends",
+    "score": 0.733482686968304
+  },
+  {
+    "keyword": "ridley",
+    "score": 0.7331943639009226
+  },
+  {
+    "keyword": "real",
+    "score": 0.7112308084424227
+  },
+  {
+    "keyword": "japanese",
+    "score": 0.7013969234850882
+  },
+  {
+    "keyword": "ronnie",
+    "score": 0.7013969234850882
+  },
+  {
+    "keyword": "buy",
+    "score": 0.7007170431233118
+  },
+  {
+    "keyword": "celebrity",
+    "score": 0.6908943862972949
+  },
+  {
+    "keyword": "luck",
+    "score": 0.6895134855917852
+  },
+  {
+    "keyword": "little bit",
+    "score": 0.6894619709052325
+  },
+  {
+    "keyword": "wants",
+    "score": 0.6848778832815307
+  },
+  {
+    "keyword": "find",
+    "score": 0.6812802090935389
+  },
+  {
+    "keyword": "without",
+    "score": 0.678520950625972
+  },
+  {
+    "keyword": "cock",
+    "score": 0.6770204938106766
+  },
+  {
+    "keyword": "best",
+    "score": 0.6746642785533836
+  },
+  {
+    "keyword": "speak",
+    "score": 0.673795107074502
+  },
+  {
+    "keyword": "face",
+    "score": 0.6713482612649039
+  },
+  {
+    "keyword": "made",
+    "score": 0.660843739717288
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "alice": {
+    "lost_vf": 5,
+    "breakingbad_vf": 5,
+    "thewire_vf": 4,
+    "thesopranos_vf": 4,
+    "dexter_vf": 5,
+    "heroes_vf": 3,
+    "prisonbreak_vf": 4
+  },
+  "bob": {
+    "lost_vo": 4,
+    "friends_vo": 5,
+    "thebigbangtheory_vo": 5,
+    "howimetyourmother_vo": 4,
+    "community_vo": 4,
+    "scrubs_vo": 5
+  },
+  "charlie": {
+    "breakingbad_vo": 5,
+    "thewire_vo": 5,
+    "thesopranos_vo": 4,
+    "dexter_vo": 4,
+    "madmen_vo": 5,
+    "sonsofanarchy_vo": 4
+  },
+  "diana": {
+    "lost_vf": 5,
+    "supernatural_vf": 5,
+    "buffy_vf": 5,
+    "charmed_vf": 4,
+    "thevampirediaries_vf": 4,
+    "trueblood_vf": 3
+  },
+  "eve": {
+    "doctorwho_vo": 5,
+    "torchwood_vo": 4,
+    "fringe_vo": 5,
+    "lost_vo": 5,
+    "heroes_vo": 4,
+    "flashforward_vo": 3
+  },
+  "frank": {
+    "24_vo": 5,
+    "prisonbreak_vo": 4,
+    "theshield_vo": 5,
+    "lost_vo": 4,
+    "breakingbad_vo": 5,
+    "thewire_vo": 4
+  },
+  "guest_1765189315966": {
+    "flashforward_vo": 4
+  },
+  "guest_1765189317934": {
+    "flashforward_vo": 5
+  },
+  "guest_1765189318789": {
+    "flashforward_vo": 5
+  },
+  "guest_1765189318961": {
+    "flashforward_vo": 5
+  },
+  "guest_1765189319118": {
+    "flashforward_vo": 5
+  },
+  "guest_1765189319292": {
+    "flashforward_vo": 5
+  },
+  "guest_1765189319463": {
+    "flashforward_vo": 5
+  },
+  "guest_1765189319636": {
+    "flashforward_vo": 5
+  },
+  "guest_1765189320227": {
+    "flashforward_vo": 5
+  },
+  "guest_1765189320840": {
+    "flashforward_vo": 5
+  },
+  "guest_1765189320997": {
+    "flashforward_vo": 5
+  },
+  "guest_1765189321131": {
+    "flashforward_vo": 5
+  }
+}

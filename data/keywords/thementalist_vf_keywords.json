@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "cbi",
+    "score": 484.14604912363586
+  },
+  {
+    "keyword": "red john",
+    "score": 418.74121075006144
+  },
+  {
+    "keyword": "rigsby",
+    "score": 373.8406927940222
+  },
+  {
+    "keyword": "lisbon",
+    "score": 244.61351740640717
+  },
+  {
+    "keyword": "van pelt",
+    "score": 166.14654882493122
+  },
+  {
+    "keyword": "agent lisbon",
+    "score": 99.63019795273937
+  },
+  {
+    "keyword": "pelt",
+    "score": 72.98937460778873
+  },
+  {
+    "keyword": "patrick jane",
+    "score": 63.65337994167351
+  },
+  {
+    "keyword": "cho",
+    "score": 52.54957696591119
+  },
+  {
+    "keyword": "selby",
+    "score": 51.744990833423685
+  },
+  {
+    "keyword": "merci",
+    "score": 45.51838478862853
+  },
+  {
+    "keyword": "bosco",
+    "score": 33.347069297950014
+  },
+  {
+    "keyword": "vraiment",
+    "score": 27.313620880336874
+  },
+  {
+    "keyword": "tue",
+    "score": 26.06664374209995
+  },
+  {
+    "keyword": "voir",
+    "score": 24.993983635825238
+  },
+  {
+    "keyword": "parler",
+    "score": 23.35712783735148
+  },
+  {
+    "keyword": "jane",
+    "score": 19.990331194978943
+  },
+  {
+    "keyword": "peut etre",
+    "score": 19.204334656686836
+  },
+  {
+    "keyword": "peu",
+    "score": 18.590627496114987
+  },
+  {
+    "keyword": "mort",
+    "score": 18.442070863476467
+  },
+  {
+    "keyword": "quelqu",
+    "score": 17.90079437140414
+  },
+  {
+    "keyword": "bon",
+    "score": 16.871174114066473
+  },
+  {
+    "keyword": "personne",
+    "score": 14.625461479658913
+  },
+  {
+    "keyword": "parle",
+    "score": 14.261547210411178
+  },
+  {
+    "keyword": "vrai",
+    "score": 14.236808746197712
+  },
+  {
+    "keyword": "trouve",
+    "score": 13.695111057403691
+  },
+  {
+    "keyword": "femme",
+    "score": 13.603438556685003
+  },
+  {
+    "keyword": "juste",
+    "score": 13.1102767160009
+  },
+  {
+    "keyword": "deux",
+    "score": 12.503127531540194
+  },
+  {
+    "keyword": "xander",
+    "score": 12.142116779056172
+  },
+  {
+    "keyword": "argent",
+    "score": 11.968617237583999
+  },
+  {
+    "keyword": "temps",
+    "score": 11.401106990428094
+  },
+  {
+    "keyword": "depuis",
+    "score": 11.364518739654176
+  },
+  {
+    "keyword": "passe",
+    "score": 11.206929981347585
+  },
+  {
+    "keyword": "meurtre",
+    "score": 11.090905504121633
+  },
+  {
+    "keyword": "hodge",
+    "score": 11.053071703927493
+  },
+  {
+    "keyword": "quelque chose",
+    "score": 10.783468412418983
+  },
+  {
+    "keyword": "accord",
+    "score": 10.602973835713863
+  },
+  {
+    "keyword": "desole",
+    "score": 10.600420694239384
+  },
+  {
+    "keyword": "affaire",
+    "score": 10.157738505082776
+  },
+  {
+    "keyword": "maintenant",
+    "score": 9.99787977188305
+  },
+  {
+    "keyword": "nuit",
+    "score": 9.8885512119479
+  },
+  {
+    "keyword": "crois",
+    "score": 9.78466049545343
+  },
+  {
+    "keyword": "tuer",
+    "score": 9.55311836386947
+  },
+  {
+    "keyword": "vie",
+    "score": 9.450299385752722
+  },
+  {
+    "keyword": "aime",
+    "score": 9.077028430096425
+  },
+  {
+    "keyword": "ans",
+    "score": 8.836314060267217
+  },
+  {
+    "keyword": "besoin",
+    "score": 8.829803484811505
+  },
+  {
+    "keyword": "fais",
+    "score": 8.648648753137877
+  },
+  {
+    "keyword": "nom",
+    "score": 8.150616966247926
+  },
+  {
+    "keyword": "pos",
+    "score": 8.067669624511007
+  },
+  {
+    "keyword": "meier",
+    "score": 8.033403331198967
+  },
+  {
+    "keyword": "kara",
+    "score": 7.676966106444167
+  },
+  {
+    "keyword": "gens",
+    "score": 7.657226895680296
+  },
+  {
+    "keyword": "homme",
+    "score": 7.602855988558363
+  },
+  {
+    "keyword": "pense",
+    "score": 7.318167761963305
+  },
+  {
+    "keyword": "kirby",
+    "score": 7.253711650906384
+  },
+  {
+    "keyword": "dites",
+    "score": 7.025918025923505
+  },
+  {
+    "keyword": "patrice",
+    "score": 7.014209888132243
+  },
+  {
+    "keyword": "pere",
+    "score": 6.98659792232386
+  },
+  {
+    "keyword": "fois",
+    "score": 6.854451062454116
+  },
+  {
+    "keyword": "arme",
+    "score": 6.615690011679933
+  },
+  {
+    "keyword": "voulait",
+    "score": 6.582513839085392
+  },
+  {
+    "keyword": "faut",
+    "score": 6.315872807523126
+  },
+  {
+    "keyword": "fille",
+    "score": 6.241089897861937
+  },
+  {
+    "keyword": "bonne",
+    "score": 6.214592854173453
+  },
+  {
+    "keyword": "hypnose",
+    "score": 6.142978102683688
+  },
+  {
+    "keyword": "mois",
+    "score": 6.06529270014827
+  },
+  {
+    "keyword": "brava",
+    "score": 6.000629386814093
+  },
+  {
+    "keyword": "faites",
+    "score": 5.909844702895635
+  },
+  {
+    "keyword": "savoir",
+    "score": 5.900989047208155
+  },
+  {
+    "keyword": "voiture",
+    "score": 5.849990024003121
+  },
+  {
+    "keyword": "demande",
+    "score": 5.805791507614933
+  },
+  {
+    "keyword": "vois",
+    "score": 5.648719577539318
+  },
+  {
+    "keyword": "aider",
+    "score": 5.472826300336683
+  },
+  {
+    "keyword": "procureur",
+    "score": 5.447774598095202
+  },
+  {
+    "keyword": "scarlett",
+    "score": 5.430510267030348
+  },
+  {
+    "keyword": "beaucoup",
+    "score": 5.242891721203116
+  },
+  {
+    "keyword": "monde",
+    "score": 5.222829467230338
+  },
+  {
+    "keyword": "mari",
+    "score": 5.0590567849833095
+  },
+  {
+    "keyword": "raison",
+    "score": 4.891439855652404
+  },
+  {
+    "keyword": "laisse",
+    "score": 4.73848896100483
+  },
+  {
+    "keyword": "noah",
+    "score": 4.73311615403895
+  },
+  {
+    "keyword": "dis",
+    "score": 4.682525050823774
+  },
+  {
+    "keyword": "entre",
+    "score": 4.663796510230921
+  },
+  {
+    "keyword": "arrete",
+    "score": 4.657072078783012
+  },
+  {
+    "keyword": "cody",
+    "score": 4.581331301283024
+  },
+  {
+    "keyword": "voulais",
+    "score": 4.500102572688536
+  },
+  {
+    "keyword": "verite",
+    "score": 4.495489697422215
+  },
+  {
+    "keyword": "tueur",
+    "score": 4.452311222445569
+  },
+  {
+    "keyword": "kristin",
+    "score": 4.410774642466322
+  },
+  {
+    "keyword": "maison",
+    "score": 4.370534409694525
+  },
+  {
+    "keyword": "purcell",
+    "score": 4.309671627997621
+  },
+  {
+    "keyword": "rosemary",
+    "score": 4.227331121779685
+  },
+  {
+    "keyword": "pris",
+    "score": 4.2062400064823215
+  },
+  {
+    "keyword": "truc",
+    "score": 4.0515431032718165
+  },
+  {
+    "keyword": "mary beth",
+    "score": 4.031363163609901
+  },
+  {
+    "keyword": "mieux",
+    "score": 3.993667433414621
+  },
+  {
+    "keyword": "desolee",
+    "score": 3.9605748169008153
+  },
+  {
+    "keyword": "famille",
+    "score": 3.896284148971118
+  },
+  {
+    "keyword": "assez",
+    "score": 3.896284148971118
+  },
+  {
+    "keyword": "travail",
+    "score": 3.71073650150873
+  },
+  {
+    "keyword": "fils",
+    "score": 3.608946894029468
+  },
+  {
+    "keyword": "porte",
+    "score": 3.583056795782114
+  },
+  {
+    "keyword": "marche",
+    "score": 3.526196574662236
+  },
+  {
+    "keyword": "contre",
+    "score": 3.442461775216167
+  },
+  {
+    "keyword": "appelle",
+    "score": 3.381966427013256
+  },
+  {
+    "keyword": "probleme",
+    "score": 3.3701280542373677
+  },
+  {
+    "keyword": "sands",
+    "score": 3.319319977807838
+  },
+  {
+    "keyword": "dieu",
+    "score": 3.1988052760074583
+  },
+  {
+    "keyword": "mere",
+    "score": 3.1961306488059167
+  },
+  {
+    "keyword": "aucune",
+    "score": 3.1814424276677244
+  },
+  {
+    "keyword": "red",
+    "score": 3.1619849845785932
+  },
+  {
+    "keyword": "arrive",
+    "score": 3.1617495169770082
+  },
+  {
+    "keyword": "reste",
+    "score": 3.14466455510231
+  },
+  {
+    "keyword": "tuee",
+    "score": 3.126624407921718
+  },
+  {
+    "keyword": "genre",
+    "score": 3.1144503615819743
+  },
+  {
+    "keyword": "allait",
+    "score": 3.0984242498079233
+  },
+  {
+    "keyword": "idee",
+    "score": 3.0791523656303834
+  },
+  {
+    "keyword": "trouver",
+    "score": 3.063833194352024
+  },
+  {
+    "keyword": "regardez",
+    "score": 3.031553598176267
+  },
+  {
+    "keyword": "puis",
+    "score": 3.0142538774291685
+  },
+  {
+    "keyword": "kathryn",
+    "score": 3.003654138911188
+  },
+  {
+    "keyword": "regarde",
+    "score": 2.9984925109565324
+  },
+  {
+    "keyword": "partir",
+    "score": 2.9499705448241813
+  },
+  {
+    "keyword": "victime",
+    "score": 2.912515125894413
+  },
+  {
+    "keyword": "boulot",
+    "score": 2.8348434527109134
+  },
+  {
+    "keyword": "frere",
+    "score": 2.809905853832957
+  },
+  {
+    "keyword": "prendre",
+    "score": 2.7608263411226823
+  },
+  {
+    "keyword": "voyez",
+    "score": 2.7608263411226823
+  },
+  {
+    "keyword": "entendu",
+    "score": 2.7434128374172064
+  },
+  {
+    "keyword": "avocat",
+    "score": 2.7185121846754354
+  },
+  {
+    "keyword": "soir",
+    "score": 2.655476759652364
+  },
+  {
+    "keyword": "importe",
+    "score": 2.6196646969754425
+  },
+  {
+    "keyword": "bureau",
+    "score": 2.61854844920327
+  },
+  {
+    "keyword": "mcbride",
+    "score": 2.609301836560384
+  },
+  {
+    "keyword": "ami",
+    "score": 2.5410413400160543
+  },
+  {
+    "keyword": "tres bien",
+    "score": 2.535695184487515
+  },
+  {
+    "keyword": "agent",
+    "score": 2.5132750479658807
+  },
+  {
+    "keyword": "appele",
+    "score": 2.4999706247740945
+  },
+  {
+    "keyword": "drogue",
+    "score": 2.499812097406746
+  },
+  {
+    "keyword": "tete",
+    "score": 2.4894336076517907
+  },
+  {
+    "keyword": "enquete",
+    "score": 2.472594023627881
+  },
+  {
+    "keyword": "aide",
+    "score": 2.4616835358457556
+  },
+  {
+    "keyword": "hector",
+    "score": 2.4582749967975377
+  },
+  {
+    "keyword": "carmen",
+    "score": 2.4566837434019253
+  },
+  {
+    "keyword": "patrick",
+    "score": 2.4388185952106958
+  },
+  {
+    "keyword": "peur",
+    "score": 2.360645839467271
+  },
+  {
+    "keyword": "selon",
+    "score": 2.339189169091986
+  },
+  {
+    "keyword": "derniere",
+    "score": 2.3214583474260695
+  },
+  {
+    "keyword": "amis",
+    "score": 2.319116156686509
+  },
+  {
+    "keyword": "partie",
+    "score": 2.2637446133039294
+  },
+  {
+    "keyword": "dessus",
+    "score": 2.2637446133039294
+  },
+  {
+    "keyword": "sacramento",
+    "score": 2.2621458976720645
+  },
+  {
+    "keyword": "donne",
+    "score": 2.2488908745126235
+  },
+  {
+    "keyword": "harrington",
+    "score": 2.2201363471978075
+  },
+  {
+    "keyword": "sherif",
+    "score": 2.199944620844655
+  },
+  {
+    "keyword": "sens",
+    "score": 2.195749892784896
+  },
+  {
+    "keyword": "elkins",
+    "score": 2.174677671151743
+  },
+  {
+    "keyword": "calme",
+    "score": 2.170968816534284
+  },
+  {
+    "keyword": "jour",
+    "score": 2.15847411970713
+  },
+  {
+    "keyword": "seul",
+    "score": 2.1502589575697293
+  },
+  {
+    "keyword": "cas",
+    "score": 2.1269688803571922
+  },
+  {
+    "keyword": "tout monde",
+    "score": 2.1154632087280216
+  },
+  {
+    "keyword": "christine",
+    "score": 2.1104472363659004
+  },
+  {
+    "keyword": "parlez",
+    "score": 2.106542752160849
+  },
+  {
+    "keyword": "pourrait",
+    "score": 2.060597441253193
+  },
+  {
+    "keyword": "mains",
+    "score": 2.0435501295501086
+  },
+  {
+    "keyword": "vient",
+    "score": 2.039374793066877
+  },
+  {
+    "keyword": "parti",
+    "score": 2.0176651196805864
+  },
+  {
+    "keyword": "matin",
+    "score": 2.0176651196805864
+  },
+  {
+    "keyword": "nicole",
+    "score": 2.014029941703735
+  },
+  {
+    "keyword": "gars",
+    "score": 1.984913046004518
+  },
+  {
+    "keyword": "aucun",
+    "score": 1.984913046004518
+  },
+  {
+    "keyword": "verifie",
+    "score": 1.972775703671793
+  },
+  {
+    "keyword": "securite",
+    "score": 1.972775703671793
+  },
+  {
+    "keyword": "equipe",
+    "score": 1.972775703671793
+  },
+  {
+    "keyword": "tant",
+    "score": 1.9629717259192745
+  },
+  {
+    "keyword": "comprends",
+    "score": 1.9527929445728922
+  },
+  {
+    "keyword": "jusqu",
+    "score": 1.9527929445728922
+  },
+  {
+    "keyword": "jours",
+    "score": 1.9311074715570218
+  },
+  {
+    "keyword": "compris",
+    "score": 1.9311074715570218
+  },
+  {
+    "keyword": "laisser",
+    "score": 1.9311074715570218
+  },
+  {
+    "keyword": "flic",
+    "score": 1.870296090049813
+  },
+  {
+    "keyword": "chambre",
+    "score": 1.8327589872263552
+  },
+  {
+    "keyword": "affaires",
+    "score": 1.8094536396440304
+  },
+  {
+    "keyword": "plait",
+    "score": 1.7915714637167586
+  },
+  {
+    "keyword": "aimait",
+    "score": 1.7699418115053518
+  },
+  {
+    "keyword": "combien",
+    "score": 1.7669600464438868
+  },
+  {
+    "keyword": "savais",
+    "score": 1.7509095248082085
+  },
+  {
+    "keyword": "flics",
+    "score": 1.7462271713821804
+  },
+  {
+    "keyword": "tard",
+    "score": 1.7444225016532684
+  },
+  {
+    "keyword": "russo",
+    "score": 1.724959210225875
+  },
+  {
+    "keyword": "pensez",
+    "score": 1.7224876042440438
+  },
+  {
+    "keyword": "john",
+    "score": 1.7059557092220852
+  },
+  {
+    "keyword": "dur",
+    "score": 1.699582508851206
+  },
+  {
+    "keyword": "vite",
+    "score": 1.6897791444295531
+  },
+  {
+    "keyword": "bas",
+    "score": 1.6833106676318745
+  },
+  {
+    "keyword": "devait",
+    "score": 1.676231268226553
+  },
+  {
+    "keyword": "corps",
+    "score": 1.6724937453204622
+  }
+]

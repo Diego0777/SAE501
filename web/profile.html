@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil - TV Series</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <a href="index.html" class="logo">📺 TV Series</a>
+            <ul class="nav-links">
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="search.html">Recherche</a></li>
+                <li><a href="recommendations.html">Recommandations</a></li>
+                <li><a href="series.html">Séries</a></li>
+                <li><a href="profile.html" class="active" id="profileLink">Profil</a></li>
+                <li><button id="languageToggle" class="language-toggle all" onclick="toggleLanguage()">🌍 Tous</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container">
+        <!-- Formulaire de connexion -->
+        <div id="loginSection" class="auth-form" style="display: none;">
+            <h2>👤 Connexion</h2>
+            <form onsubmit="login(event)">
+                <div class="form-group">
+                    <label for="loginUsername">Nom d'utilisateur</label>
+                    <input type="text" id="loginUsername" required>
+                </div>
+                <div class="form-group">
+                    <label for="loginPassword">Mot de passe</label>
+                    <input type="password" id="loginPassword" required>
+                </div>
+                <button type="submit" class="btn btn-primary">Se connecter</button>
+                <div id="loginMessage" style="margin-top: 15px;"></div>
+            </form>
+            <div class="form-footer">
+                Pas encore de compte ? 
+                <a href="#" onclick="showRegister(); return false;">S'inscrire</a>
+            </div>
+        </div>
+
+        <!-- Formulaire d'inscription -->
+        <div id="registerSection" class="auth-form" style="display: none;">
+            <h2>📝 Inscription</h2>
+            <form onsubmit="register(event)">
+                <div class="form-group">
+                    <label for="registerUsername">Nom d'utilisateur</label>
+                    <input type="text" id="registerUsername" required minlength="3">
+                </div>
+                <div class="form-group">
+                    <label for="registerEmail">Email</label>
+                    <input type="email" id="registerEmail" required>
+                </div>
+                <div class="form-group">
+                    <label for="registerPassword">Mot de passe</label>
+                    <input type="password" id="registerPassword" required minlength="4">
+                </div>
+                <button type="submit" class="btn btn-primary">S'inscrire</button>
+                <div id="registerMessage" style="margin-top: 15px;"></div>
+            </form>
+            <div class="form-footer">
+                Déjà un compte ? 
+                <a href="#" onclick="showLogin(); return false;">Se connecter</a>
+            </div>
+        </div>
+
+        <!-- Section profil connecté -->
+        <div id="profileSection" style="display: none;">
+            <div class="search-section">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+                    <h2>👤 Mon Profil</h2>
+                    <button class="btn btn-secondary" onclick="logout()">Se déconnecter</button>
+                </div>
+                
+                <div id="profileInfo"></div>
+            </div>
+
+            <div class="search-section" style="margin-top: 30px;">
+                <h3>⭐ Mes notations</h3>
+                <div id="userRatings"></div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 TV Series - SAE501 Project</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+    <script>
+        function showLogin() {
+            document.getElementById('loginSection').style.display = 'block';
+            document.getElementById('registerSection').style.display = 'none';
+            document.getElementById('profileSection').style.display = 'none';
+        }
+
+        function showRegister() {
+            document.getElementById('loginSection').style.display = 'none';
+            document.getElementById('registerSection').style.display = 'block';
+            document.getElementById('profileSection').style.display = 'none';
+        }
+
+        function showProfile() {
+            document.getElementById('loginSection').style.display = 'none';
+            document.getElementById('registerSection').style.display = 'none';
+            document.getElementById('profileSection').style.display = 'block';
+        }
+
+        async function login(event) {
+            event.preventDefault();
+            
+            const username = document.getElementById('loginUsername').value;
+            const password = document.getElementById('loginPassword').value;
+            const messageDiv = document.getElementById('loginMessage');
+            
+            try {
+                const response = await apiRequest('/login', {
+                    method: 'POST',
+                    requireAuth: false,
+                    body: JSON.stringify({ username, password })
+                });
+                
+                setToken(response.token);
+                updateProfileLink();
+                loadProfile();
+                
+            } catch (error) {
+                messageDiv.innerHTML = showError('Identifiants incorrects.');
+            }
+        }
+
+        async function register(event) {
+            event.preventDefault();
+            
+            const username = document.getElementById('registerUsername').value;
+            const email = document.getElementById('registerEmail').value;
+            const password = document.getElementById('registerPassword').value;
+            const messageDiv = document.getElementById('registerMessage');
+            
+            try {
+                const response = await apiRequest('/register', {
+                    method: 'POST',
+                    requireAuth: false,
+                    body: JSON.stringify({ username, password, email })
+                });
+                
+                messageDiv.innerHTML = '<div style="color: #4caf50; text-align: center;">Compte créé ! Connexion en cours...</div>';
+                
+                // Se connecter automatiquement
+                setTimeout(async () => {
+                    const loginResponse = await apiRequest('/login', {
+                        method: 'POST',
+                        requireAuth: false,
+                        body: JSON.stringify({ username, password })
+                    });
+                    
+                    setToken(loginResponse.token);
+                    updateProfileLink();
+                    loadProfile();
+                }, 1000);
+                
+            } catch (error) {
+                messageDiv.innerHTML = showError('Erreur lors de l\'inscription. Le nom d\'utilisateur existe peut-être déjà.');
+            }
+        }
+
+        async function loadProfile() {
+            showProfile();
+            
+            const profileInfo = document.getElementById('profileInfo');
+            const ratingsDiv = document.getElementById('userRatings');
+            
+            profileInfo.innerHTML = showLoading();
+            ratingsDiv.innerHTML = showLoading();
+            
+            try {
+                const profile = await apiRequest('/profile');
+                
+                profileInfo.innerHTML = `
+                    <div class="series-stats" style="justify-content: flex-start; gap: 30px;">
+                        <div class="stat">
+                            <span class="stat-label">Nom d'utilisateur</span>
+                            <span class="stat-value">${profile.username || profile.id}</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-label">Email</span>
+                            <span class="stat-value">${profile.email || 'Non renseigné'}</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-label">Langue préférée</span>
+                            <span class="stat-value">${(profile.language_preference || 'vf').toUpperCase()}</span>
+                        </div>
+                    </div>
+                `;
+                
+                // Charger les notations
+                const ratings = await apiRequest(`/user/${profile.user_id}/ratings`, { requireAuth: false });
+                
+                if (ratings.ratings.length === 0) {
+                    ratingsDiv.innerHTML = showNoResults('Vous n\'avez pas encore noté de séries.');
+                } else {
+                    ratingsDiv.innerHTML = `
+                        <p style="color: var(--text-secondary); margin-bottom: 15px;">
+                            ${ratings.total} série${ratings.total > 1 ? 's' : ''} notée${ratings.total > 1 ? 's' : ''}
+                        </p>
+                        <div style="display: grid; gap: 15px;">
+                            ${ratings.ratings.map(r => `
+                                <div style="display: flex; justify-content: space-between; align-items: center; padding: 15px; background: var(--bg-dark); border-radius: 8px;">
+                                    <div>
+                                        <strong>${formatSeriesTitle(r.serie_id)}</strong>
+                                        <span class="language-badge ${getLanguage(r.serie_id)}" style="margin-left: 10px;">
+                                            ${getLanguage(r.serie_id).toUpperCase()}
+                                        </span>
+                                    </div>
+                                    <div style="font-size: 20px;">
+                                        ${'★'.repeat(r.rating)}${'☆'.repeat(5 - r.rating)}
+                                    </div>
+                                </div>
+                            `).join('')}
+                        </div>
+                    `;
+                }
+                
+            } catch (error) {
+                profileInfo.innerHTML = showError('Erreur lors du chargement du profil.');
+            }
+        }
+
+        function logout() {
+            removeToken();
+            updateProfileLink();
+            showLogin();
+        }
+
+        // Initialisation
+        document.addEventListener('DOMContentLoaded', async () => {
+            if (isLoggedIn()) {
+                try {
+                    await apiRequest('/verify');
+                    loadProfile();
+                } catch {
+                    removeToken();
+                    showLogin();
+                }
+            } else {
+                showLogin();
+            }
+        });
+    </script>
+</body>
+</html>

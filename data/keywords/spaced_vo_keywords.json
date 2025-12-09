@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "daisy",
+    "score": 101.33974372456616
+  },
+  {
+    "keyword": "marsha",
+    "score": 77.47376897593128
+  },
+  {
+    "keyword": "colin",
+    "score": 41.11926431002171
+  },
+  {
+    "keyword": "tim",
+    "score": 35.11829663502238
+  },
+  {
+    "keyword": "really",
+    "score": 24.49464889515917
+  },
+  {
+    "keyword": "shit",
+    "score": 23.903900511262382
+  },
+  {
+    "keyword": "erm",
+    "score": 22.957036076521103
+  },
+  {
+    "keyword": "steiner",
+    "score": 21.155306326497286
+  },
+  {
+    "keyword": "brian",
+    "score": 16.379707933492472
+  },
+  {
+    "keyword": "mike",
+    "score": 10.957696859742956
+  },
+  {
+    "keyword": "mean",
+    "score": 7.806706405047679
+  },
+  {
+    "keyword": "cos",
+    "score": 7.304021270277931
+  },
+  {
+    "keyword": "thanks",
+    "score": 7.03424072302482
+  },
+  {
+    "keyword": "duane",
+    "score": 6.389203190070809
+  },
+  {
+    "keyword": "hello",
+    "score": 5.9366973648377055
+  },
+  {
+    "keyword": "twist",
+    "score": 5.866922248367891
+  },
+  {
+    "keyword": "say",
+    "score": 5.514224269143272
+  },
+  {
+    "keyword": "nice",
+    "score": 5.426182254354603
+  },
+  {
+    "keyword": "rabbit",
+    "score": 4.5996052323502585
+  },
+  {
+    "keyword": "fuck",
+    "score": 4.384405792603136
+  },
+  {
+    "keyword": "said",
+    "score": 3.9936346752515486
+  },
+  {
+    "keyword": "work",
+    "score": 3.9003819835633173
+  },
+  {
+    "keyword": "bit",
+    "score": 3.8946383651148047
+  },
+  {
+    "keyword": "something",
+    "score": 3.835812086227957
+  },
+  {
+    "keyword": "fucking",
+    "score": 3.655857563866138
+  },
+  {
+    "keyword": "dog",
+    "score": 3.4553367724506647
+  },
+  {
+    "keyword": "great",
+    "score": 2.809324119014908
+  },
+  {
+    "keyword": "sophie",
+    "score": 2.7026800210694444
+  },
+  {
+    "keyword": "thought",
+    "score": 2.6950591797503294
+  },
+  {
+    "keyword": "mum",
+    "score": 2.6446617679467055
+  },
+  {
+    "keyword": "always",
+    "score": 2.5734695352919257
+  },
+  {
+    "keyword": "friend",
+    "score": 2.5734695352919257
+  },
+  {
+    "keyword": "feel",
+    "score": 2.5356343537381005
+  },
+  {
+    "keyword": "never",
+    "score": 2.5356343537381005
+  },
+  {
+    "keyword": "please",
+    "score": 2.4886551571237168
+  },
+  {
+    "keyword": "bloke",
+    "score": 2.4538009569089216
+  },
+  {
+    "keyword": "birthday",
+    "score": 2.361714340624265
+  },
+  {
+    "keyword": "much",
+    "score": 2.264871342671358
+  },
+  {
+    "keyword": "love",
+    "score": 2.031454863505784
+  },
+  {
+    "keyword": "mike mike",
+    "score": 2.024388153942495
+  },
+  {
+    "keyword": "last",
+    "score": 1.9619877811544928
+  },
+  {
+    "keyword": "amber",
+    "score": 1.900257296920138
+  },
+  {
+    "keyword": "night",
+    "score": 1.8451293033082758
+  },
+  {
+    "keyword": "happy birthday",
+    "score": 1.834516024856447
+  },
+  {
+    "keyword": "getting",
+    "score": 1.8287326456490747
+  },
+  {
+    "keyword": "damien",
+    "score": 1.8083598386637247
+  },
+  {
+    "keyword": "believe",
+    "score": 1.797135214909733
+  },
+  {
+    "keyword": "bloody",
+    "score": 1.788662018195963
+  },
+  {
+    "keyword": "flat",
+    "score": 1.7786710884310706
+  },
+  {
+    "keyword": "better",
+    "score": 1.7643071194422308
+  },
+  {
+    "keyword": "everything",
+    "score": 1.7132442333898164
+  },
+  {
+    "keyword": "later",
+    "score": 1.708458224631774
+  },
+  {
+    "keyword": "portfolio",
+    "score": 1.6756082196766133
+  },
+  {
+    "keyword": "coming",
+    "score": 1.6349589163722804
+  },
+  {
+    "keyword": "done",
+    "score": 1.6057524016288152
+  },
+  {
+    "keyword": "bloody hell",
+    "score": 1.5559629953912522
+  },
+  {
+    "keyword": "mind",
+    "score": 1.5338897365455564
+  },
+  {
+    "keyword": "stay",
+    "score": 1.4764419776935063
+  },
+  {
+    "keyword": "klein",
+    "score": 1.46163091683268
+  },
+  {
+    "keyword": "little",
+    "score": 1.4163454324174405
+  },
+  {
+    "keyword": "actually",
+    "score": 1.4083460148445988
+  },
+  {
+    "keyword": "fine",
+    "score": 1.401484342434365
+  },
+  {
+    "keyword": "anyway",
+    "score": 1.3856259124284533
+  },
+  {
+    "keyword": "find",
+    "score": 1.3853906342317237
+  },
+  {
+    "keyword": "god",
+    "score": 1.3706637549835718
+  },
+  {
+    "keyword": "ooh",
+    "score": 1.3564491188850538
+  },
+  {
+    "keyword": "called",
+    "score": 1.283440873855651
+  },
+  {
+    "keyword": "give",
+    "score": 1.2313264101698602
+  },
+  {
+    "keyword": "looking",
+    "score": 1.2239826126925655
+  },
+  {
+    "keyword": "leave",
+    "score": 1.2186615742537807
+  },
+  {
+    "keyword": "thinking",
+    "score": 1.1847496439083707
+  },
+  {
+    "keyword": "rubbish",
+    "score": 1.1789490663511872
+  },
+  {
+    "keyword": "seen",
+    "score": 1.1656944885114926
+  },
+  {
+    "keyword": "ever",
+    "score": 1.1652918841001514
+  },
+  {
+    "keyword": "big",
+    "score": 1.1616398372183114
+  },
+  {
+    "keyword": "loo",
+    "score": 1.1605727504806225
+  },
+  {
+    "keyword": "jaffa",
+    "score": 1.1494506572546643
+  },
+  {
+    "keyword": "put",
+    "score": 1.1448792670904602
+  },
+  {
+    "keyword": "happy",
+    "score": 1.1389540874067834
+  },
+  {
+    "keyword": "yeah yeah",
+    "score": 1.1341254608195674
+  },
+  {
+    "keyword": "money",
+    "score": 1.1213928859454998
+  },
+  {
+    "keyword": "bye",
+    "score": 1.1164024421279077
+  },
+  {
+    "keyword": "happened",
+    "score": 1.1074493297809667
+  },
+  {
+    "keyword": "way",
+    "score": 1.1054243678918578
+  },
+  {
+    "keyword": "party",
+    "score": 1.1052408460116068
+  },
+  {
+    "keyword": "tonight",
+    "score": 1.093618965020703
+  },
+  {
+    "keyword": "artist",
+    "score": 1.0587550437601945
+  },
+  {
+    "keyword": "tea",
+    "score": 1.0586808635541172
+  },
+  {
+    "keyword": "heath",
+    "score": 1.0519404709439077
+  },
+  {
+    "keyword": "wants",
+    "score": 1.0310231461996067
+  },
+  {
+    "keyword": "friends",
+    "score": 1.0259669246950962
+  },
+  {
+    "keyword": "three",
+    "score": 0.9801763912395305
+  },
+  {
+    "keyword": "another",
+    "score": 0.9582914492686565
+  },
+  {
+    "keyword": "asia",
+    "score": 0.9582091930473381
+  },
+  {
+    "keyword": "anything",
+    "score": 0.9284331926708519
+  },
+  {
+    "keyword": "name",
+    "score": 0.9284331926708519
+  },
+  {
+    "keyword": "thank",
+    "score": 0.9099598764627077
+  },
+  {
+    "keyword": "still",
+    "score": 0.8996548166695373
+  },
+  {
+    "keyword": "eileen",
+    "score": 0.8793629184399122
+  },
+  {
+    "keyword": "three five",
+    "score": 0.8793629184399122
+  },
+  {
+    "keyword": "shit shit",
+    "score": 0.8415754982736571
+  },
+  {
+    "keyword": "cup tea",
+    "score": 0.8281785085806173
+  },
+  {
+    "keyword": "girlfriend",
+    "score": 0.81466650789318
+  },
+  {
+    "keyword": "talk",
+    "score": 0.8001155741946813
+  },
+  {
+    "keyword": "funny",
+    "score": 0.7951707493350004
+  },
+  {
+    "keyword": "hope",
+    "score": 0.7914820352516478
+  },
+  {
+    "keyword": "gone",
+    "score": 0.7862361850112739
+  },
+  {
+    "keyword": "boyfriend",
+    "score": 0.7632619375328492
+  },
+  {
+    "keyword": "kitten",
+    "score": 0.7619286575462038
+  },
+  {
+    "keyword": "ready",
+    "score": 0.7570720145213943
+  },
+  {
+    "keyword": "auntie",
+    "score": 0.7560553419134389
+  },
+  {
+    "keyword": "day",
+    "score": 0.755821667473393
+  },
+  {
+    "keyword": "next",
+    "score": 0.7504465635450173
+  },
+  {
+    "keyword": "kind",
+    "score": 0.7495750563710178
+  },
+  {
+    "keyword": "drink",
+    "score": 0.7448585715712811
+  },
+  {
+    "keyword": "talking",
+    "score": 0.7448585715712811
+  },
+  {
+    "keyword": "move",
+    "score": 0.7328784913045636
+  },
+  {
+    "keyword": "five",
+    "score": 0.7165191643413035
+  },
+  {
+    "keyword": "made",
+    "score": 0.7165191643413035
+  },
+  {
+    "keyword": "ahh",
+    "score": 0.7162648869609793
+  },
+  {
+    "keyword": "stupid",
+    "score": 0.7129651572162099
+  },
+  {
+    "keyword": "wanted",
+    "score": 0.6871830149696717
+  },
+  {
+    "keyword": "problem",
+    "score": 0.6788051098567743
+  },
+  {
+    "keyword": "understand",
+    "score": 0.6788051098567743
+  },
+  {
+    "keyword": "today",
+    "score": 0.6710588549280913
+  },
+  {
+    "keyword": "yeah well",
+    "score": 0.6670340374416542
+  },
+  {
+    "keyword": "dunno",
+    "score": 0.65524712941918
+  },
+  {
+    "keyword": "sarah",
+    "score": 0.6403670341119364
+  },
+  {
+    "keyword": "yes yes",
+    "score": 0.6363576199147253
+  },
+  {
+    "keyword": "went",
+    "score": 0.6362375194643868
+  },
+  {
+    "keyword": "working",
+    "score": 0.6362375194643868
+  },
+  {
+    "keyword": "comics",
+    "score": 0.6194743294909109
+  },
+  {
+    "keyword": "house",
+    "score": 0.6150752278669482
+  },
+  {
+    "keyword": "used",
+    "score": 0.6142974171343755
+  },
+  {
+    "keyword": "dog dog",
+    "score": 0.6095203044315076
+  },
+  {
+    "keyword": "away",
+    "score": 0.6019305731325497
+  },
+  {
+    "keyword": "care",
+    "score": 0.5967881708634235
+  },
+  {
+    "keyword": "try",
+    "score": 0.5967881708634235
+  },
+  {
+    "keyword": "life",
+    "score": 0.5846664452677409
+  },
+  {
+    "keyword": "wrong",
+    "score": 0.5781442221414417
+  },
+  {
+    "keyword": "left",
+    "score": 0.5601774907969117
+  },
+  {
+    "keyword": "morning",
+    "score": 0.5428577858973037
+  },
+  {
+    "keyword": "quid",
+    "score": 0.5329915772968913
+  },
+  {
+    "keyword": "else",
+    "score": 0.5313350968444149
+  },
+  {
+    "keyword": "slayer",
+    "score": 0.5121678441588811
+  },
+  {
+    "keyword": "together",
+    "score": 0.5084329496509855
+  },
+  {
+    "keyword": "favourite",
+    "score": 0.5073962014061335
+  },
+  {
+    "keyword": "tails",
+    "score": 0.5061395704715486
+  },
+  {
+    "keyword": "listen",
+    "score": 0.4923276973385159
+  },
+  {
+    "keyword": "han",
+    "score": 0.481192101390509
+  },
+  {
+    "keyword": "sergeant",
+    "score": 0.48098425551864626
+  },
+  {
+    "keyword": "stew",
+    "score": 0.4693740690138928
+  },
+  {
+    "keyword": "stuff",
+    "score": 0.46711860823447077
+  },
+  {
+    "keyword": "remember",
+    "score": 0.4618844556942175
+  },
+  {
+    "keyword": "saying",
+    "score": 0.45958283044427645
+  },
+  {
+    "keyword": "best",
+    "score": 0.4585102432151342
+  },
+  {
+    "keyword": "woo",
+    "score": 0.4579649655273535
+  },
+  {
+    "keyword": "phantom",
+    "score": 0.451770378499548
+  },
+  {
+    "keyword": "ask",
+    "score": 0.4449398025398154
+  },
+  {
+    "keyword": "first",
+    "score": 0.4442196044649901
+  },
+  {
+    "keyword": "half",
+    "score": 0.440494154279179
+  },
+  {
+    "keyword": "iooking",
+    "score": 0.4400952102293476
+  },
+  {
+    "keyword": "havin",
+    "score": 0.43849748175525605
+  },
+  {
+    "keyword": "frightened",
+    "score": 0.4383188291054206
+  },
+  {
+    "keyword": "see later",
+    "score": 0.43797875093564176
+  },
+  {
+    "keyword": "hours",
+    "score": 0.4378257916494827
+  },
+  {
+    "keyword": "luck",
+    "score": 0.4378257916494827
+  },
+  {
+    "keyword": "well well",
+    "score": 0.4323470127933011
+  },
+  {
+    "keyword": "busy",
+    "score": 0.4318491022525081
+  },
+  {
+    "keyword": "nothing",
+    "score": 0.4268748480995172
+  },
+  {
+    "keyword": "lot",
+    "score": 0.4265834964388237
+  },
+  {
+    "keyword": "old",
+    "score": 0.4261873717289837
+  },
+  {
+    "keyword": "months",
+    "score": 0.42479420195279477
+  },
+  {
+    "keyword": "writer",
+    "score": 0.41604560258749046
+  },
+  {
+    "keyword": "brilliant",
+    "score": 0.41533509990500345
+  },
+  {
+    "keyword": "research",
+    "score": 0.41502162517770264
+  },
+  {
+    "keyword": "travelling",
+    "score": 0.40993771276076
+  },
+  {
+    "keyword": "bad",
+    "score": 0.4075831421991932
+  },
+  {
+    "keyword": "home",
+    "score": 0.4054229976581149
+  },
+  {
+    "keyword": "number",
+    "score": 0.4044411876296551
+  },
+  {
+    "keyword": "many",
+    "score": 0.39791655156195743
+  },
+  {
+    "keyword": "robot",
+    "score": 0.39791655156195743
+  },
+  {
+    "keyword": "graphic",
+    "score": 0.39673006248866655
+  },
+  {
+    "keyword": "well done",
+    "score": 0.3893251683169318
+  },
+  {
+    "keyword": "oooh",
+    "score": 0.3841693176774044
+  },
+  {
+    "keyword": "room",
+    "score": 0.38212767099699385
+  },
+  {
+    "keyword": "clothes",
+    "score": 0.3816722302597821
+  },
+  {
+    "keyword": "cup",
+    "score": 0.3816722302597821
+  },
+  {
+    "keyword": "knew",
+    "score": 0.37907884641737044
+  },
+  {
+    "keyword": "wish",
+    "score": 0.37303540047886696
+  },
+  {
+    "keyword": "hiya",
+    "score": 0.3722104834170157
+  },
+  {
+    "keyword": "call",
+    "score": 0.3709150898093342
+  },
+  {
+    "keyword": "feeling",
+    "score": 0.36776821118217073
+  },
+  {
+    "keyword": "hear",
+    "score": 0.36710525466848726
+  },
+  {
+    "keyword": "sure",
+    "score": 0.3628480847738004
+  },
+  {
+    "keyword": "comic",
+    "score": 0.355826612807094
+  },
+  {
+    "keyword": "bag",
+    "score": 0.3555743954818783
+  },
+  {
+    "keyword": "probably",
+    "score": 0.35149670343623074
+  },
+  {
+    "keyword": "supposed",
+    "score": 0.35149670343623074
+  },
+  {
+    "keyword": "right yes",
+    "score": 0.34969285053013255
+  }
+]

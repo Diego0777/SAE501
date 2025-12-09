@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "dokey",
+    "score": 227.39092908904036
+  },
+  {
+    "keyword": "huey",
+    "score": 145.75332944966155
+  },
+  {
+    "keyword": "tommy",
+    "score": 124.02962488197456
+  },
+  {
+    "keyword": "donnelly",
+    "score": 83.40720990536741
+  },
+  {
+    "keyword": "jimmy",
+    "score": 66.73335284599072
+  },
+  {
+    "keyword": "louie",
+    "score": 52.44305006981017
+  },
+  {
+    "keyword": "joey",
+    "score": 43.95334309400098
+  },
+  {
+    "keyword": "whitey",
+    "score": 42.49075599779319
+  },
+  {
+    "keyword": "kevin",
+    "score": 40.80105253760207
+  },
+  {
+    "keyword": "nicky",
+    "score": 32.152360676626586
+  },
+  {
+    "keyword": "money",
+    "score": 20.53697423671479
+  },
+  {
+    "keyword": "reilly",
+    "score": 19.41829103589009
+  },
+  {
+    "keyword": "sean",
+    "score": 17.112482868629332
+  },
+  {
+    "keyword": "sal",
+    "score": 15.329461459196942
+  },
+  {
+    "keyword": "firecracker",
+    "score": 15.010312813492591
+  },
+  {
+    "keyword": "lino",
+    "score": 12.912698931561575
+  },
+  {
+    "keyword": "jenny",
+    "score": 11.536452105343809
+  },
+  {
+    "keyword": "give",
+    "score": 10.454052088058507
+  },
+  {
+    "keyword": "something",
+    "score": 9.546877391816897
+  },
+  {
+    "keyword": "joanie",
+    "score": 7.8438672428884235
+  },
+  {
+    "keyword": "say",
+    "score": 7.830193150299256
+  },
+  {
+    "keyword": "brother",
+    "score": 7.805987082990065
+  },
+  {
+    "keyword": "never",
+    "score": 7.6013713466546955
+  },
+  {
+    "keyword": "mean",
+    "score": 7.141635481789237
+  },
+  {
+    "keyword": "really",
+    "score": 7.076038048079489
+  },
+  {
+    "keyword": "hell",
+    "score": 6.536795775211183
+  },
+  {
+    "keyword": "anything",
+    "score": 6.239477610072998
+  },
+  {
+    "keyword": "samson",
+    "score": 6.229813066981398
+  },
+  {
+    "keyword": "told",
+    "score": 5.885910905730533
+  },
+  {
+    "keyword": "said",
+    "score": 5.2932450440200425
+  },
+  {
+    "keyword": "father",
+    "score": 4.749383499680679
+  },
+  {
+    "keyword": "dad",
+    "score": 4.701589749171262
+  },
+  {
+    "keyword": "phone",
+    "score": 4.602313300328831
+  },
+  {
+    "keyword": "jimmy jimmy",
+    "score": 4.356912585367943
+  },
+  {
+    "keyword": "talk",
+    "score": 4.274528827397281
+  },
+  {
+    "keyword": "farrell",
+    "score": 4.181549328144959
+  },
+  {
+    "keyword": "thanks",
+    "score": 4.055910717243027
+  },
+  {
+    "keyword": "vinnie",
+    "score": 3.943505467566575
+  },
+  {
+    "keyword": "pay",
+    "score": 3.8214099688847676
+  },
+  {
+    "keyword": "kill",
+    "score": 3.80095507364127
+  },
+  {
+    "keyword": "killed",
+    "score": 3.706380985864907
+  },
+  {
+    "keyword": "franny",
+    "score": 3.5111377607130243
+  },
+  {
+    "keyword": "put",
+    "score": 3.381391727936571
+  },
+  {
+    "keyword": "happened",
+    "score": 3.2708427084603495
+  },
+  {
+    "keyword": "irish",
+    "score": 3.156023438009175
+  },
+  {
+    "keyword": "phone ringing",
+    "score": 3.1521710841739665
+  },
+  {
+    "keyword": "keep",
+    "score": 3.1475287774179463
+  },
+  {
+    "keyword": "everything",
+    "score": 3.0115653311628883
+  },
+  {
+    "keyword": "wanted",
+    "score": 2.968895310853989
+  },
+  {
+    "keyword": "somebody",
+    "score": 2.9165321876265495
+  },
+  {
+    "keyword": "much",
+    "score": 2.7805267113346717
+  },
+  {
+    "keyword": "wait",
+    "score": 2.7370854621460965
+  },
+  {
+    "keyword": "call",
+    "score": 2.7215280338125885
+  },
+  {
+    "keyword": "ringing",
+    "score": 2.7111959388829345
+  },
+  {
+    "keyword": "neighborhood",
+    "score": 2.598940609490952
+  },
+  {
+    "keyword": "work",
+    "score": 2.5631673816305836
+  },
+  {
+    "keyword": "thought",
+    "score": 2.5573231424848
+  },
+  {
+    "keyword": "icu",
+    "score": 2.543188410826288
+  },
+  {
+    "keyword": "find",
+    "score": 2.5274628112208166
+  },
+  {
+    "keyword": "problem",
+    "score": 2.400596380234221
+  },
+  {
+    "keyword": "done",
+    "score": 2.38300853630585
+  },
+  {
+    "keyword": "day",
+    "score": 2.3724892061686034
+  },
+  {
+    "keyword": "even",
+    "score": 2.3614677832663467
+  },
+  {
+    "keyword": "always",
+    "score": 2.3244367448141503
+  },
+  {
+    "keyword": "trying",
+    "score": 2.3113252508421733
+  },
+  {
+    "keyword": "little",
+    "score": 2.249670706451401
+  },
+  {
+    "keyword": "around",
+    "score": 2.2173380329625756
+  },
+  {
+    "keyword": "please",
+    "score": 2.200503249764184
+  },
+  {
+    "keyword": "else",
+    "score": 2.1903472258052954
+  },
+  {
+    "keyword": "care",
+    "score": 2.1903472258052954
+  },
+  {
+    "keyword": "better",
+    "score": 2.1659963549280032
+  },
+  {
+    "keyword": "frankie",
+    "score": 2.1620029149783644
+  },
+  {
+    "keyword": "councilman",
+    "score": 2.0929770292682086
+  },
+  {
+    "keyword": "brothers",
+    "score": 2.0841222493420433
+  },
+  {
+    "keyword": "way",
+    "score": 2.066504341800127
+  },
+  {
+    "keyword": "knew",
+    "score": 2.0032798272392958
+  },
+  {
+    "keyword": "looking",
+    "score": 2.001766553385867
+  },
+  {
+    "keyword": "understand",
+    "score": 1.9693737264725595
+  },
+  {
+    "keyword": "god",
+    "score": 1.9614845097845164
+  },
+  {
+    "keyword": "still",
+    "score": 1.9501642542727657
+  },
+  {
+    "keyword": "huh",
+    "score": 1.9017259803137945
+  },
+  {
+    "keyword": "nice",
+    "score": 1.864128347090813
+  },
+  {
+    "keyword": "door",
+    "score": 1.864128347090813
+  },
+  {
+    "keyword": "nothing",
+    "score": 1.8484258440916193
+  },
+  {
+    "keyword": "ask",
+    "score": 1.7980747062754052
+  },
+  {
+    "keyword": "anybody",
+    "score": 1.7933078262754523
+  },
+  {
+    "keyword": "idea",
+    "score": 1.7784124455983215
+  },
+  {
+    "keyword": "talking",
+    "score": 1.7784124455983215
+  },
+  {
+    "keyword": "leave",
+    "score": 1.7761248298599681
+  },
+  {
+    "keyword": "made",
+    "score": 1.759877942528994
+  },
+  {
+    "keyword": "newton",
+    "score": 1.737415236430956
+  },
+  {
+    "keyword": "away",
+    "score": 1.7220505906693655
+  },
+  {
+    "keyword": "getting",
+    "score": 1.7010987727367097
+  },
+  {
+    "keyword": "last",
+    "score": 1.6957578309922683
+  },
+  {
+    "keyword": "ever",
+    "score": 1.6862778101068863
+  },
+  {
+    "keyword": "bangs",
+    "score": 1.6744173248757226
+  },
+  {
+    "keyword": "whole",
+    "score": 1.6596203280520405
+  },
+  {
+    "keyword": "dead",
+    "score": 1.6553911462775261
+  },
+  {
+    "keyword": "grunting",
+    "score": 1.6437273310874088
+  },
+  {
+    "keyword": "today",
+    "score": 1.6414993135300409
+  },
+  {
+    "keyword": "hey jimmy",
+    "score": 1.6406905321913745
+  },
+  {
+    "keyword": "groaning",
+    "score": 1.6204698159052575
+  },
+  {
+    "keyword": "wants",
+    "score": 1.6024359603156693
+  },
+  {
+    "keyword": "mom",
+    "score": 1.552533256396114
+  },
+  {
+    "keyword": "went",
+    "score": 1.5483722726081086
+  },
+  {
+    "keyword": "took",
+    "score": 1.5016526367267982
+  },
+  {
+    "keyword": "great",
+    "score": 1.495284144559856
+  },
+  {
+    "keyword": "grunts",
+    "score": 1.4704758225963643
+  },
+  {
+    "keyword": "kind",
+    "score": 1.4082860467161515
+  },
+  {
+    "keyword": "damn",
+    "score": 1.4047540354260075
+  },
+  {
+    "keyword": "night",
+    "score": 1.3728732221355877
+  },
+  {
+    "keyword": "remember",
+    "score": 1.3641720333673488
+  },
+  {
+    "keyword": "groans",
+    "score": 1.3575884897281711
+  },
+  {
+    "keyword": "carr",
+    "score": 1.3572604338228709
+  },
+  {
+    "keyword": "bet",
+    "score": 1.316140286670796
+  },
+  {
+    "keyword": "wrong",
+    "score": 1.2797911711555015
+  },
+  {
+    "keyword": "nobody",
+    "score": 1.2743290184960556
+  },
+  {
+    "keyword": "shut",
+    "score": 1.2743290184960556
+  },
+  {
+    "keyword": "deal",
+    "score": 1.2409416001544216
+  },
+  {
+    "keyword": "coming",
+    "score": 1.2353393074509396
+  },
+  {
+    "keyword": "hear",
+    "score": 1.2340780375578393
+  },
+  {
+    "keyword": "lester",
+    "score": 1.2309981329261037
+  },
+  {
+    "keyword": "try",
+    "score": 1.1953153669193695
+  },
+  {
+    "keyword": "first",
+    "score": 1.1829012205268095
+  },
+  {
+    "keyword": "downtown",
+    "score": 1.1739364953005103
+  },
+  {
+    "keyword": "everybody",
+    "score": 1.1713378963028913
+  },
+  {
+    "keyword": "enough",
+    "score": 1.1648878107189558
+  },
+  {
+    "keyword": "chuckling",
+    "score": 1.1562998808252802
+  },
+  {
+    "keyword": "asking",
+    "score": 1.1477813716390528
+  },
+  {
+    "keyword": "asked",
+    "score": 1.1477813716390528
+  },
+  {
+    "keyword": "head",
+    "score": 1.1316865944693155
+  },
+  {
+    "keyword": "whatever",
+    "score": 1.0927881288183832
+  },
+  {
+    "keyword": "name",
+    "score": 1.081866727267533
+  },
+  {
+    "keyword": "bookie",
+    "score": 1.0795721759609818
+  },
+  {
+    "keyword": "meet",
+    "score": 1.0751897481355837
+  },
+  {
+    "keyword": "thinking",
+    "score": 1.0751587551103592
+  },
+  {
+    "keyword": "sure",
+    "score": 1.0615376353179704
+  },
+  {
+    "keyword": "uncle",
+    "score": 1.0406900911122736
+  },
+  {
+    "keyword": "cell phone",
+    "score": 1.0316724979164824
+  },
+  {
+    "keyword": "listen",
+    "score": 1.007930620670611
+  },
+  {
+    "keyword": "bring",
+    "score": 1.007930620670611
+  },
+  {
+    "keyword": "another",
+    "score": 1.001217954274524
+  },
+  {
+    "keyword": "chattering",
+    "score": 0.9909948067361193
+  },
+  {
+    "keyword": "son",
+    "score": 0.9876953464505744
+  },
+  {
+    "keyword": "bad",
+    "score": 0.9731390096968889
+  },
+  {
+    "keyword": "doin",
+    "score": 0.9705430385398212
+  },
+  {
+    "keyword": "telling",
+    "score": 0.9655557433114749
+  },
+  {
+    "keyword": "left",
+    "score": 0.9548506137848094
+  },
+  {
+    "keyword": "buildings",
+    "score": 0.9517136184802049
+  },
+  {
+    "keyword": "nadine",
+    "score": 0.9445166376830484
+  },
+  {
+    "keyword": "ass",
+    "score": 0.9231566559769057
+  },
+  {
+    "keyword": "life",
+    "score": 0.9165409058578565
+  },
+  {
+    "keyword": "saying",
+    "score": 0.8951709978474217
+  },
+  {
+    "keyword": "yet",
+    "score": 0.8805065358694408
+  },
+  {
+    "keyword": "school",
+    "score": 0.8772770549093613
+  },
+  {
+    "keyword": "cell",
+    "score": 0.8643518731838379
+  },
+  {
+    "keyword": "ringing hello",
+    "score": 0.863382305836211
+  },
+  {
+    "keyword": "mother",
+    "score": 0.850126842516468
+  },
+  {
+    "keyword": "throw",
+    "score": 0.8362962499537163
+  },
+  {
+    "keyword": "believe",
+    "score": 0.825856516515005
+  },
+  {
+    "keyword": "guess",
+    "score": 0.8249630150969988
+  },
+  {
+    "keyword": "feel",
+    "score": 0.8110547968782548
+  },
+  {
+    "keyword": "heard",
+    "score": 0.8093236562367803
+  },
+  {
+    "keyword": "came",
+    "score": 0.8033986200222215
+  },
+  {
+    "keyword": "wanna know",
+    "score": 0.7870572201580758
+  },
+  {
+    "keyword": "take care",
+    "score": 0.7792918577289738
+  },
+  {
+    "keyword": "stop",
+    "score": 0.776693985021616
+  },
+  {
+    "keyword": "stay",
+    "score": 0.7735260055779677
+  },
+  {
+    "keyword": "forget",
+    "score": 0.7707822935669022
+  },
+  {
+    "keyword": "calling",
+    "score": 0.7541577946901842
+  },
+  {
+    "keyword": "get money",
+    "score": 0.7350702937156303
+  },
+  {
+    "keyword": "thank",
+    "score": 0.7299843718730509
+  },
+  {
+    "keyword": "hurt",
+    "score": 0.7227234891771811
+  },
+  {
+    "keyword": "pretty",
+    "score": 0.7163353693223352
+  },
+  {
+    "keyword": "matter",
+    "score": 0.7112666219316696
+  },
+  {
+    "keyword": "matthew",
+    "score": 0.7079594978128921
+  },
+  {
+    "keyword": "cause",
+    "score": 0.7044503553063752
+  },
+  {
+    "keyword": "mistake",
+    "score": 0.6893902782467217
+  },
+  {
+    "keyword": "bob",
+    "score": 0.6845204413121644
+  },
+  {
+    "keyword": "taking",
+    "score": 0.6782687090006946
+  },
+  {
+    "keyword": "bets",
+    "score": 0.6768529523393625
+  },
+  {
+    "keyword": "jukebox",
+    "score": 0.6762462788986405
+  },
+  {
+    "keyword": "family",
+    "score": 0.6731409680097102
+  },
+  {
+    "keyword": "stupid",
+    "score": 0.6706844355229433
+  },
+  {
+    "keyword": "bobby",
+    "score": 0.6675191662656694
+  },
+  {
+    "keyword": "right yeah",
+    "score": 0.6614937103832933
+  },
+  {
+    "keyword": "kate",
+    "score": 0.6597629347213305
+  },
+  {
+    "keyword": "half",
+    "score": 0.6570788629995741
+  },
+  {
+    "keyword": "wake",
+    "score": 0.6566580069145903
+  },
+  {
+    "keyword": "together",
+    "score": 0.6566580069145903
+  },
+  {
+    "keyword": "business",
+    "score": 0.652872172018236
+  },
+  {
+    "keyword": "gun",
+    "score": 0.6503528058585224
+  },
+  {
+    "keyword": "already",
+    "score": 0.6490532267346293
+  },
+  {
+    "keyword": "trevor",
+    "score": 0.6465472880098607
+  },
+  {
+    "keyword": "real",
+    "score": 0.6427085249132207
+  },
+  {
+    "keyword": "earl",
+    "score": 0.6399048379174272
+  },
+  {
+    "keyword": "actually",
+    "score": 0.6385501694247864
+  },
+  {
+    "keyword": "happen",
+    "score": 0.6385501694247864
+  },
+  {
+    "keyword": "kid",
+    "score": 0.636763137734118
+  },
+  {
+    "keyword": "someone",
+    "score": 0.6319286157924368
+  }
+]

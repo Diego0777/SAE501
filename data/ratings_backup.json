@@ -1,0 +1,90 @@
+{
+  "alice": {
+    "Lost": 5,
+    "Breaking Bad": 5,
+    "The Wire": 4,
+    "Game of Thrones": 5,
+    "The Sopranos": 4,
+    "True Detective": 5,
+    "Westworld": 4
+  },
+  "bob": {
+    "Lost": 4,
+    "The Office": 5,
+    "Friends": 5,
+    "Parks and Recreation": 5,
+    "Brooklyn Nine-Nine": 4,
+    "Community": 4,
+    "Arrested Development": 5
+  },
+  "charlie": {
+    "Breaking Bad": 5,
+    "Better Call Saul": 5,
+    "The Wire": 5,
+    "The Sopranos": 4,
+    "Ozark": 4,
+    "Narcos": 4,
+    "Peaky Blinders": 5
+  },
+  "diana": {
+    "Game of Thrones": 5,
+    "Vikings": 4,
+    "The Last Kingdom": 4,
+    "The Witcher": 3,
+    "House of the Dragon": 4,
+    "Westworld": 5,
+    "Lost": 3
+  },
+  "eve": {
+    "Black Mirror": 5,
+    "Stranger Things": 5,
+    "Dark": 5,
+    "The OA": 4,
+    "Westworld": 5,
+    "Lost": 4,
+    "Fringe": 4
+  },
+  "frank": {
+    "The Office": 5,
+    "Parks and Recreation": 5,
+    "Community": 5,
+    "30 Rock": 4,
+    "Scrubs": 4,
+    "Friends": 3,
+    "How I Met Your Mother": 3
+  },
+  "grace": {
+    "Grey's Anatomy": 5,
+    "This Is Us": 5,
+    "The Good Place": 5,
+    "Gilmore Girls": 4,
+    "Parenthood": 4,
+    "Jane the Virgin": 4
+  },
+  "henry": {
+    "Sherlock": 5,
+    "Mindhunter": 5,
+    "True Detective": 5,
+    "Hannibal": 4,
+    "The Killing": 4,
+    "Broadchurch": 4,
+    "The Fall": 4
+  },
+  "isabel": {
+    "The Crown": 5,
+    "Downton Abbey": 5,
+    "The Queen's Gambit": 5,
+    "Bridgerton": 4,
+    "Mad Men": 4,
+    "The Handmaid's Tale": 5
+  },
+  "jack": {
+    "The Walking Dead": 4,
+    "Fear the Walking Dead": 3,
+    "Game of Thrones": 5,
+    "Vikings": 4,
+    "The 100": 3,
+    "Lost": 4,
+    "Revolution": 3
+  }
+}

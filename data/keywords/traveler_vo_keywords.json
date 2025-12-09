@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "burchell",
+    "score": 982.1266519396154
+  },
+  {
+    "keyword": "drexler",
+    "score": 568.1381537373753
+  },
+  {
+    "keyword": "fog",
+    "score": 149.24414028726892
+  },
+  {
+    "keyword": "marlow",
+    "score": 95.85002793453104
+  },
+  {
+    "keyword": "traveler",
+    "score": 85.29003938203577
+  },
+  {
+    "keyword": "jay",
+    "score": 47.71223415529887
+  },
+  {
+    "keyword": "doherty",
+    "score": 44.02826181300908
+  },
+  {
+    "keyword": "tyler",
+    "score": 28.465881552714393
+  },
+  {
+    "keyword": "bombing",
+    "score": 16.78585737801721
+  },
+  {
+    "keyword": "carlton",
+    "score": 10.976752796004739
+  },
+  {
+    "keyword": "holloway",
+    "score": 10.222925879145576
+  },
+  {
+    "keyword": "freed",
+    "score": 5.862681912748722
+  },
+  {
+    "keyword": "father",
+    "score": 5.617162850900773
+  },
+  {
+    "keyword": "dad",
+    "score": 5.58992944356402
+  },
+  {
+    "keyword": "name",
+    "score": 4.504690564039617
+  },
+  {
+    "keyword": "sir",
+    "score": 4.483340401716882
+  },
+  {
+    "keyword": "kim",
+    "score": 3.968412209361134
+  },
+  {
+    "keyword": "wait",
+    "score": 3.917627291178907
+  },
+  {
+    "keyword": "something",
+    "score": 3.744723838522021
+  },
+  {
+    "keyword": "said",
+    "score": 3.734251371306956
+  },
+  {
+    "keyword": "son",
+    "score": 3.6910449252456385
+  },
+  {
+    "keyword": "maya",
+    "score": 3.4921093880230853
+  },
+  {
+    "keyword": "museum",
+    "score": 3.2786131459595973
+  },
+  {
+    "keyword": "still",
+    "score": 3.1670010887900566
+  },
+  {
+    "keyword": "call",
+    "score": 2.93607786449129
+  },
+  {
+    "keyword": "fbi",
+    "score": 2.8759321306175325
+  },
+  {
+    "keyword": "keep",
+    "score": 2.7601927824768504
+  },
+  {
+    "keyword": "chambers",
+    "score": 2.6285226554821177
+  },
+  {
+    "keyword": "find",
+    "score": 2.627367442568027
+  },
+  {
+    "keyword": "found",
+    "score": 2.608683851363003
+  },
+  {
+    "keyword": "friend",
+    "score": 2.5861667344816315
+  },
+  {
+    "keyword": "say",
+    "score": 2.545717910883464
+  },
+  {
+    "keyword": "told",
+    "score": 2.495486281409426
+  },
+  {
+    "keyword": "anything",
+    "score": 2.3333187472371315
+  },
+  {
+    "keyword": "last",
+    "score": 2.2892488963314253
+  },
+  {
+    "keyword": "way",
+    "score": 2.270531297659569
+  },
+  {
+    "keyword": "nell",
+    "score": 2.037088600875558
+  },
+  {
+    "keyword": "looking",
+    "score": 1.9945961252965743
+  },
+  {
+    "keyword": "hahn",
+    "score": 1.9635277890218736
+  },
+  {
+    "keyword": "knew",
+    "score": 1.8392630896477884
+  },
+  {
+    "keyword": "please",
+    "score": 1.7802980199525378
+  },
+  {
+    "keyword": "work",
+    "score": 1.7529323864748512
+  },
+  {
+    "keyword": "new",
+    "score": 1.7422832304257472
+  },
+  {
+    "keyword": "dunn",
+    "score": 1.7290085636721693
+  },
+  {
+    "keyword": "special agent",
+    "score": 1.5902905189308905
+  },
+  {
+    "keyword": "idea",
+    "score": 1.5743956045154426
+  },
+  {
+    "keyword": "field office",
+    "score": 1.5434966713157527
+  },
+  {
+    "keyword": "deer",
+    "score": 1.5295054185977839
+  },
+  {
+    "keyword": "painting",
+    "score": 1.5259707462933012
+  },
+  {
+    "keyword": "already",
+    "score": 1.5113002344087187
+  },
+  {
+    "keyword": "ago",
+    "score": 1.4628577203523558
+  },
+  {
+    "keyword": "saying",
+    "score": 1.4628577203523558
+  },
+  {
+    "keyword": "thank",
+    "score": 1.4628577203523558
+  },
+  {
+    "keyword": "hell",
+    "score": 1.4517984522524303
+  },
+  {
+    "keyword": "framed",
+    "score": 1.439537324595368
+  },
+  {
+    "keyword": "never",
+    "score": 1.352023596194254
+  },
+  {
+    "keyword": "everything",
+    "score": 1.2865871491025178
+  },
+  {
+    "keyword": "getting",
+    "score": 1.2507850407030792
+  },
+  {
+    "keyword": "kind",
+    "score": 1.2302427472161384
+  },
+  {
+    "keyword": "left",
+    "score": 1.2270040941268872
+  },
+  {
+    "keyword": "kill",
+    "score": 1.2211993502038918
+  },
+  {
+    "keyword": "used",
+    "score": 1.1884071201624646
+  },
+  {
+    "keyword": "mean",
+    "score": 1.1725752465941324
+  },
+  {
+    "keyword": "prank",
+    "score": 1.167456490527802
+  },
+  {
+    "keyword": "believe",
+    "score": 1.1539348114584351
+  },
+  {
+    "keyword": "first",
+    "score": 1.1238021801509857
+  },
+  {
+    "keyword": "give",
+    "score": 1.1187869074401486
+  },
+  {
+    "keyword": "killed",
+    "score": 1.106450799288177
+  },
+  {
+    "keyword": "new york",
+    "score": 1.1024423705136268
+  },
+  {
+    "keyword": "involved",
+    "score": 1.0776960789223191
+  },
+  {
+    "keyword": "put",
+    "score": 1.0577507751265653
+  },
+  {
+    "keyword": "years",
+    "score": 1.0366544145364565
+  },
+  {
+    "keyword": "really",
+    "score": 1.0279099255011024
+  },
+  {
+    "keyword": "leave",
+    "score": 1.011704553398128
+  },
+  {
+    "keyword": "hours",
+    "score": 1.0037218797833785
+  },
+  {
+    "keyword": "went",
+    "score": 1.0037218797833785
+  },
+  {
+    "keyword": "thought",
+    "score": 0.9877200928857652
+  },
+  {
+    "keyword": "lawyer",
+    "score": 0.9696332362685107
+  },
+  {
+    "keyword": "yes sir",
+    "score": 0.9696332362685107
+  },
+  {
+    "keyword": "deputy director",
+    "score": 0.9584584474815548
+  },
+  {
+    "keyword": "york",
+    "score": 0.9569265394403728
+  },
+  {
+    "keyword": "dead",
+    "score": 0.9150779592829644
+  },
+  {
+    "keyword": "much",
+    "score": 0.9062538351742071
+  },
+  {
+    "keyword": "done",
+    "score": 0.9006091979180608
+  },
+  {
+    "keyword": "listen",
+    "score": 0.9006091979180608
+  },
+  {
+    "keyword": "agent",
+    "score": 0.8867209272570228
+  },
+  {
+    "keyword": "stuff",
+    "score": 0.8858817092938841
+  },
+  {
+    "keyword": "ever",
+    "score": 0.8722423923689429
+  },
+  {
+    "keyword": "harbor",
+    "score": 0.8633933550948266
+  },
+  {
+    "keyword": "move",
+    "score": 0.8575718533091579
+  },
+  {
+    "keyword": "took",
+    "score": 0.8438200188526934
+  },
+  {
+    "keyword": "run",
+    "score": 0.8355975414452655
+  },
+  {
+    "keyword": "even",
+    "score": 0.8316350682731469
+  },
+  {
+    "keyword": "working",
+    "score": 0.8303284301718592
+  },
+  {
+    "keyword": "yet",
+    "score": 0.8258214766810118
+  },
+  {
+    "keyword": "boston",
+    "score": 0.817770445508499
+  },
+  {
+    "keyword": "stay",
+    "score": 0.8041016603736242
+  },
+  {
+    "keyword": "happened",
+    "score": 0.799269580174308
+  },
+  {
+    "keyword": "day",
+    "score": 0.7979495414713057
+  },
+  {
+    "keyword": "nothing",
+    "score": 0.7808770797105103
+  },
+  {
+    "keyword": "talk",
+    "score": 0.776859928781253
+  },
+  {
+    "keyword": "coming",
+    "score": 0.7651253205490148
+  },
+  {
+    "keyword": "bomb",
+    "score": 0.7624686450065331
+  },
+  {
+    "keyword": "trust",
+    "score": 0.745162567885038
+  },
+  {
+    "keyword": "recording",
+    "score": 0.7434139186761055
+  },
+  {
+    "keyword": "phone",
+    "score": 0.7426813684117759
+  },
+  {
+    "keyword": "three",
+    "score": 0.733680043690106
+  },
+  {
+    "keyword": "country",
+    "score": 0.7305244937186024
+  },
+  {
+    "keyword": "boat",
+    "score": 0.7239917399635625
+  },
+  {
+    "keyword": "trying",
+    "score": 0.7166402465931688
+  },
+  {
+    "keyword": "drop gun",
+    "score": 0.7161711050810758
+  },
+  {
+    "keyword": "called",
+    "score": 0.7050790680003318
+  },
+  {
+    "keyword": "talking",
+    "score": 0.7050790680003318
+  },
+  {
+    "keyword": "thanks",
+    "score": 0.7026974662575035
+  },
+  {
+    "keyword": "together",
+    "score": 0.6826141459369911
+  },
+  {
+    "keyword": "someone",
+    "score": 0.6807448603453974
+  },
+  {
+    "keyword": "asked",
+    "score": 0.6701510392912401
+  },
+  {
+    "keyword": "otis",
+    "score": 0.6467135921074209
+  },
+  {
+    "keyword": "around",
+    "score": 0.639196299980773
+  },
+  {
+    "keyword": "best",
+    "score": 0.638865381298587
+  },
+  {
+    "keyword": "suspects",
+    "score": 0.6294467228645554
+  },
+  {
+    "keyword": "queens",
+    "score": 0.6283915912572217
+  },
+  {
+    "keyword": "killed two",
+    "score": 0.6258773365376655
+  },
+  {
+    "keyword": "seen",
+    "score": 0.6176526023281012
+  },
+  {
+    "keyword": "units",
+    "score": 0.6149887976891176
+  },
+  {
+    "keyword": "daniel",
+    "score": 0.6007973225037004
+  },
+  {
+    "keyword": "exploded",
+    "score": 0.5935703894802694
+  },
+  {
+    "keyword": "john doe",
+    "score": 0.5932817731159611
+  },
+  {
+    "keyword": "anyone",
+    "score": 0.5884968772504966
+  },
+  {
+    "keyword": "inside",
+    "score": 0.5884968772504966
+  },
+  {
+    "keyword": "cubs",
+    "score": 0.5871954964317675
+  },
+  {
+    "keyword": "sure",
+    "score": 0.5862368878580688
+  },
+  {
+    "keyword": "firm",
+    "score": 0.576122064542949
+  },
+  {
+    "keyword": "today",
+    "score": 0.573115511214331
+  },
+  {
+    "keyword": "area",
+    "score": 0.5722542681379474
+  },
+  {
+    "keyword": "manhattan",
+    "score": 0.5689263054668398
+  },
+  {
+    "keyword": "number",
+    "score": 0.5635282469068829
+  },
+  {
+    "keyword": "insurance",
+    "score": 0.55881556302
+  },
+  {
+    "keyword": "another",
+    "score": 0.5521069834096607
+  },
+  {
+    "keyword": "apologized",
+    "score": 0.5482604936584462
+  },
+  {
+    "keyword": "cops",
+    "score": 0.5392518872157389
+  },
+  {
+    "keyword": "clear",
+    "score": 0.5367719086423112
+  },
+  {
+    "keyword": "better",
+    "score": 0.5349045425523762
+  },
+  {
+    "keyword": "truth",
+    "score": 0.5349045425523762
+  },
+  {
+    "keyword": "next",
+    "score": 0.5301977024483812
+  },
+  {
+    "keyword": "sold",
+    "score": 0.530129846441789
+  },
+  {
+    "keyword": "lead",
+    "score": 0.5265745969427872
+  },
+  {
+    "keyword": "getting involved",
+    "score": 0.5209431382974532
+  },
+  {
+    "keyword": "school",
+    "score": 0.5140767394737129
+  },
+  {
+    "keyword": "wanted",
+    "score": 0.5115062138109217
+  },
+  {
+    "keyword": "alright",
+    "score": 0.5046120726851505
+  },
+  {
+    "keyword": "heard",
+    "score": 0.501266346963269
+  },
+  {
+    "keyword": "foundation",
+    "score": 0.49749951828134925
+  },
+  {
+    "keyword": "city",
+    "score": 0.49721651001159645
+  },
+  {
+    "keyword": "upstate",
+    "score": 0.4965273232165018
+  },
+  {
+    "keyword": "terrorists",
+    "score": 0.495535970012849
+  },
+  {
+    "keyword": "else",
+    "score": 0.4954396877955
+  },
+  {
+    "keyword": "whole",
+    "score": 0.4954396877955
+  },
+  {
+    "keyword": "actually",
+    "score": 0.4931547947010024
+  },
+  {
+    "keyword": "happen",
+    "score": 0.4931547947010024
+  },
+  {
+    "keyword": "tried",
+    "score": 0.4931547947010024
+  },
+  {
+    "keyword": "means",
+    "score": 0.48519898886598795
+  },
+  {
+    "keyword": "since",
+    "score": 0.48519898886598795
+  },
+  {
+    "keyword": "check",
+    "score": 0.47770888342418455
+  },
+  {
+    "keyword": "continents",
+    "score": 0.47695108765418237
+  },
+  {
+    "keyword": "always",
+    "score": 0.4724354562925642
+  },
+  {
+    "keyword": "deputy",
+    "score": 0.4718570705144434
+  },
+  {
+    "keyword": "making",
+    "score": 0.4697397900827941
+  },
+  {
+    "keyword": "friends",
+    "score": 0.464807880906842
+  },
+  {
+    "keyword": "hadley",
+    "score": 0.46462517061749636
+  },
+  {
+    "keyword": "chain command",
+    "score": 0.46293838819491934
+  },
+  {
+    "keyword": "telling",
+    "score": 0.46222925952743305
+  },
+  {
+    "keyword": "swsub",
+    "score": 0.45897897495195056
+  },
+  {
+    "keyword": "swsub com",
+    "score": 0.45897897495195056
+  },
+  {
+    "keyword": "car",
+    "score": 0.45494571543775125
+  },
+  {
+    "keyword": "made",
+    "score": 0.4507068684527358
+  },
+  {
+    "keyword": "morning",
+    "score": 0.45066793393910476
+  },
+  {
+    "keyword": "east",
+    "score": 0.44384056877143474
+  },
+  {
+    "keyword": "hold",
+    "score": 0.44328605618246697
+  },
+  {
+    "keyword": "evidence",
+    "score": 0.44277707308303615
+  },
+  {
+    "keyword": "maine",
+    "score": 0.43923508957558144
+  },
+  {
+    "keyword": "homeland security",
+    "score": 0.4389751500049892
+  },
+  {
+    "keyword": "gone",
+    "score": 0.43680297857159095
+  },
+  {
+    "keyword": "subtitles",
+    "score": 0.4340100040897264
+  },
+  {
+    "keyword": "life",
+    "score": 0.430124266673146
+  },
+  {
+    "keyword": "gun",
+    "score": 0.43005600195360416
+  },
+  {
+    "keyword": "problem",
+    "score": 0.42698386948870365
+  },
+  {
+    "keyword": "whatever",
+    "score": 0.42698386948870365
+  },
+  {
+    "keyword": "hands",
+    "score": 0.42673376579791616
+  },
+  {
+    "keyword": "looks",
+    "score": 0.4200955642408659
+  },
+  {
+    "keyword": "anywhere",
+    "score": 0.40970572550025885
+  },
+  {
+    "keyword": "federal",
+    "score": 0.400622470469311
+  },
+  {
+    "keyword": "case",
+    "score": 0.4004951626926597
+  },
+  {
+    "keyword": "cover",
+    "score": 0.4002078859307915
+  },
+  {
+    "keyword": "blast",
+    "score": 0.3929163727320004
+  },
+  {
+    "keyword": "job",
+    "score": 0.39069332809678753
+  },
+  {
+    "keyword": "corner",
+    "score": 0.3898241163748316
+  },
+  {
+    "keyword": "hired",
+    "score": 0.3894019988001628
+  },
+  {
+    "keyword": "security",
+    "score": 0.38142306476941196
+  },
+  {
+    "keyword": "two years",
+    "score": 0.37577460675489566
+  }
+]

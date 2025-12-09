@@ -1,0 +1,200 @@
+garza	600.192612
+hopper	584.892747
+dominguez	156.087281
+brett hopper	121.966865
+brett	71.042880
+detweiler	54.540157
+alberto	53.696003
+rita	45.722565
+shelton	34.926556
+chad	33.769119
+murder	18.511582
+damien	14.993115
+booth	13.064263
+andrea	13.037199
+day	10.761543
+something	10.455249
+said	7.692133
+say	7.649564
+today	7.413052
+call	7.032532
+baxter	6.608364
+everything	6.565706
+find	6.462473
+cop	6.363135
+talking	5.817111
+jen	5.477755
+arrest murder	5.335675
+killed	5.246414
+anything	5.200497
+last	5.134981
+name	4.718228
+never	4.430973
+hell	4.163789
+miguel	4.163602
+detective	4.143688
+isabella	4.108548
+really	4.002697
+looking	3.997353
+councilman	3.969382
+happened	3.932668
+give	3.803205
+talk	3.739512
+told	3.695969
+understand	3.580075
+way	3.552397
+framed	3.547615
+wait	3.408969
+thought	3.408969
+mean	3.408969
+listen	3.408969
+alright	3.367849
+away	3.358338
+found	3.248483
+please	3.147889
+morning	3.145055
+margo	3.107403
+prints	2.999998
+put	2.964004
+cops	2.929197
+last night	2.802727
+subtitles www	2.766235
+wanted	2.746092
+tobias	2.690455
+kill	2.644940
+keep	2.576742
+dad	2.528276
+disciples	2.475219
+called	2.472033
+night	2.429510
+gun	2.308816
+wrong	2.224441
+still	2.203636
+safe	2.173915
+ask	2.119683
+believe	2.105250
+father	2.105250
+package	2.077795
+work	2.071877
+even	2.056967
+hop	2.056967
+eddie	2.042512
+sister	2.031779
+tomorrow	2.006976
+nothing	1.931422
+care	1.875329
+trying	1.866680
+someone	1.816743
+move	1.807027
+leave	1.767414
+went	1.749621
+partner	1.745255
+somebody	1.725846
+murder weapon	1.717921
+stay	1.694358
+arrest	1.631268
+little	1.600471
+battle	1.589246
+case	1.561728
+hear	1.541175
+telling	1.514859
+randall	1.504685
+else	1.492766
+years	1.487205
+old	1.470257
+brother	1.439094
+thank	1.434671
+saying	1.434671
+ass	1.388960
+happen	1.381907
+phone	1.354955
+www swsub	1.352956
+girlfriend	1.314331
+dodgers	1.300380
+internal affairs	1.296766
+knew	1.295248
+idea	1.286353
+safe house	1.284282
+thanks	1.282008
+took	1.245368
+framing	1.219889
+left	1.203362
+pelican	1.195681
+heard	1.183197
+first	1.165780
+consequence	1.154272
+changes everything	1.126285
+deputies	1.118740
+god	1.087992
+family	1.078828
+done	1.073659
+book	1.062282
+jared	1.000252
+stuff	0.962960
+hit	0.960622
+came	0.949080
+bring	0.948272
+damn	0.929605
+supposed	0.914515
+coming	0.904339
+different things	0.882086
+husband	0.880580
+seen	0.870964
+already	0.852179
+much	0.848868
+cold case	0.847667
+problem	0.838389
+remember	0.833263
+kind	0.803713
+knows	0.785814
+anyone	0.773286
+narcotics	0.762225
+happening	0.757856
+asking	0.757856
+better	0.754280
+billy	0.750231
+run	0.749215
+ortiz	0.739210
+saw	0.730143
+wanna know	0.727992
+dead	0.727667
+named	0.722862
+wife	0.721545
+packages	0.716914
+fine	0.710022
+ever	0.695872
+bullet head	0.694961
+gets	0.687286
+day day	0.685357
+whole	0.684871
+made	0.680226
+murder case	0.679171
+used	0.677017
+kids	0.676298
+another	0.674074
+grand jury	0.674016
+whatever	0.666062
+every day	0.664970
+homicide	0.662087
+nick	0.660074
+head	0.659680
+shot	0.655435
+jane doe	0.654015
+word	0.653071
+always	0.653071
+guess	0.644777
+three	0.629957
+bullet	0.627987
+kid	0.622981
+around	0.622981
+next	0.620272
+yesterday	0.619245
+sure	0.617262
+house	0.616471
+caught	0.612560
+girl	0.611440
+since	0.602677
+getting	0.602677
+save	0.594990
+yeah know	0.593630
+sir	0.593136

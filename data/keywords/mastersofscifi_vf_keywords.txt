@@ -1,0 +1,200 @@
+jerry	39.891102
+deanna	20.881342
+cela	14.184586
+vaisseau	11.086172
+pegase	8.572526
+monsieur	7.471607
+bonbon	6.793784
+maintenant	6.611883
+brownie	5.593959
+monde	5.384752
+tagne	5.357932
+pense	5.212673
+vraiment	5.212673
+deux	3.743169
+juste	3.466561
+maison	3.460908
+terre	3.393809
+euh	3.287142
+martha	3.051220
+peut etre	3.035434
+non non	2.726794
+peu	2.721733
+joe	2.692471
+temps	2.544765
+aime	2.511575
+dieu	2.432628
+quelque chose	2.426167
+ouais	2.093728
+dites	2.059634
+genetics	1.960843
+voir	1.929709
+seulement	1.868633
+depuis	1.838300
+combien	1.779376
+ans	1.752557
+pensez	1.658571
+gens	1.631731
+heures	1.631731
+quelqu	1.631731
+chien	1.511509
+faites	1.487106
+mccoy	1.451091
+vogel	1.451091
+bert	1.412266
+evans	1.390892
+contre	1.368132
+beaucoup	1.367967
+plait	1.346571
+personnes	1.345853
+capitaine	1.310662
+parce	1.302581
+vie	1.284682
+briggs	1.275563
+petit	1.265990
+fais	1.240735
+cheval	1.221285
+parler	1.150459
+pourrait	1.150459
+terrestre	1.148767
+besoin	1.131899
+homme	1.113694
+bonne	1.095835
+passe	1.095835
+harmony	1.063520
+bon	1.061632
+peuple	1.030180
+jusqu	1.006789
+personne	1.006789
+puis	1.006789
+maladie	0.991124
+demande	0.990547
+peur	0.990547
+travail	0.974616
+caca	0.973709
+societe	0.941299
+president	0.937917
+envoye	0.930772
+choix	0.915567
+arreter	0.900658
+regarde	0.886038
+laisse	0.871700
+raceman synchro	0.855080
+femme	0.844045
+argent	0.843843
+crois	0.830311
+donne	0.817036
+annie	0.809359
+elephant	0.806601
+napoleon	0.806150
+nourriture	0.792904
+bebe	0.791229
+niles	0.770372
+rentrer	0.770088
+honneur	0.766355
+ecoute	0.757587
+facon	0.757587
+oui monsieur	0.753700
+rentrer maison	0.751673
+parcours	0.747689
+savoir	0.745328
+croyances	0.728625
+fois	0.721510
+accord	0.698028
+docteur	0.681545
+veux rentrer	0.668058
+etincelle	0.661298
+huit heures	0.651615
+matin	0.648684
+mines	0.643101
+dessus	0.638155
+exclus	0.633608
+centrale	0.630533
+controlled	0.630533
+idee	0.627828
+exigences	0.616328
+infini	0.616328
+major	0.614177
+armes	0.612892
+cette grande	0.599732
+infirmerie	0.599732
+trois	0.598019
+sang	0.587852
+cette chose	0.563857
+proteines	0.553691
+stupide	0.545507
+ceux	0.536624
+leurs	0.536624
+verite	0.536624
+travis www	0.532059
+ecoutez	0.527913
+venez	0.527913
+maison maison	0.527744
+comprends	0.519370
+pourrais	0.519370
+viens	0.519370
+ordures	0.515550
+champ	0.513236
+boom	0.510590
+entre	0.502773
+probleme	0.502773
+mort separe	0.493338
+dorothy	0.487603
+bas	0.486801
+laissez	0.479040
+tete	0.479040
+nucleaires	0.477981
+transcript raceman	0.475751
+rentre maison	0.460217
+retourner	0.456096
+demandons	0.454131
+expedition	0.454131
+merci	0.452219
+arretez	0.448621
+autour	0.448621
+triste	0.448621
+quelle annee	0.436045
+nom	0.435416
+chercher	0.434106
+marche	0.434106
+perdu	0.434106
+sauf	0.434106
+ami	0.428605
+sharon	0.427068
+aucun	0.427059
+enfants	0.427059
+famille	0.427059
+mourir	0.427059
+yeux	0.427059
+ouvriers	0.422195
+etat	0.420148
+semble	0.420148
+voyez	0.420148
+passager	0.412507
+aleatoire	0.411104
+bonbons	0.410203
+venir	0.406722
+univers	0.404445
+ambassadeur	0.399429
+commence	0.392594
+radiations	0.388241
+raceman	0.385230
+retourner chez	0.377512
+donner	0.375317
+attaque	0.370764
+dis	0.369650
+quel but	0.368410
+comment vie	0.367216
+connaissez	0.364646
+ecouter	0.364646
+mort	0.363560
+democratie	0.357328
+proteger	0.352772
+petite	0.350400
+ensuite	0.347009
+maman	0.347009
+sauver	0.347009
+battus	0.345011
+regarder	0.341358
+rentre	0.341358
+travaille	0.341358

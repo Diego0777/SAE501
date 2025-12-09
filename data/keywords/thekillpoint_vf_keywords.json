@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "sabian",
+    "score": 226.58269476562828
+  },
+  {
+    "keyword": "tonray",
+    "score": 181.7125052833408
+  },
+  {
+    "keyword": "otages",
+    "score": 80.60218319927912
+  },
+  {
+    "keyword": "wolf",
+    "score": 78.21896846421077
+  },
+  {
+    "keyword": "sergent",
+    "score": 46.926590205469346
+  },
+  {
+    "keyword": "hawke",
+    "score": 36.282897356849446
+  },
+  {
+    "keyword": "beck",
+    "score": 35.21125979720765
+  },
+  {
+    "keyword": "cali",
+    "score": 29.459645323143324
+  },
+  {
+    "keyword": "mec",
+    "score": 20.501806290947698
+  },
+  {
+    "keyword": "mendez",
+    "score": 20.448450860973516
+  },
+  {
+    "keyword": "faut",
+    "score": 19.30740384688931
+  },
+  {
+    "keyword": "shelton",
+    "score": 18.384234495238324
+  },
+  {
+    "keyword": "robby",
+    "score": 18.28899462409839
+  },
+  {
+    "keyword": "fais",
+    "score": 15.111311661953287
+  },
+  {
+    "keyword": "caporal",
+    "score": 13.688390199832636
+  },
+  {
+    "keyword": "gars",
+    "score": 12.846527761205042
+  },
+  {
+    "keyword": "otage",
+    "score": 11.79928769474635
+  },
+  {
+    "keyword": "bon",
+    "score": 10.608410723877407
+  },
+  {
+    "keyword": "voir",
+    "score": 10.199182902996236
+  },
+  {
+    "keyword": "vie",
+    "score": 8.941171300965475
+  },
+  {
+    "keyword": "temps",
+    "score": 8.832779534274792
+  },
+  {
+    "keyword": "ashley",
+    "score": 8.773885062944021
+  },
+  {
+    "keyword": "fils",
+    "score": 8.746382454884763
+  },
+  {
+    "keyword": "reste",
+    "score": 8.239586064611341
+  },
+  {
+    "keyword": "leon",
+    "score": 8.070088821301173
+  },
+  {
+    "keyword": "banque",
+    "score": 7.948570760401611
+  },
+  {
+    "keyword": "capitaine",
+    "score": 7.930276317673369
+  },
+  {
+    "keyword": "faites",
+    "score": 7.304495318998726
+  },
+  {
+    "keyword": "passe",
+    "score": 6.845087683611525
+  },
+  {
+    "keyword": "donne",
+    "score": 6.419951231042014
+  },
+  {
+    "keyword": "connie",
+    "score": 6.401299196490752
+  },
+  {
+    "keyword": "parler",
+    "score": 6.1975056612222765
+  },
+  {
+    "keyword": "negociateur",
+    "score": 5.842087385680447
+  },
+  {
+    "keyword": "assaut",
+    "score": 5.775447971972954
+  },
+  {
+    "keyword": "cap",
+    "score": 5.529473391414782
+  },
+  {
+    "keyword": "deux",
+    "score": 5.380461209583203
+  },
+  {
+    "keyword": "abe",
+    "score": 5.295254565681589
+  },
+  {
+    "keyword": "fille",
+    "score": 5.189207540949049
+  },
+  {
+    "keyword": "ouais",
+    "score": 4.93214588901015
+  },
+  {
+    "keyword": "besoin",
+    "score": 4.9009709519605575
+  },
+  {
+    "keyword": "juste",
+    "score": 4.82384442100627
+  },
+  {
+    "keyword": "peu",
+    "score": 4.822145215598981
+  },
+  {
+    "keyword": "accord",
+    "score": 4.781941508381558
+  },
+  {
+    "keyword": "chef",
+    "score": 4.630335428884179
+  },
+  {
+    "keyword": "swat",
+    "score": 4.602528891585905
+  },
+  {
+    "keyword": "sixe",
+    "score": 4.598431572625282
+  },
+  {
+    "keyword": "bas",
+    "score": 4.401359918222024
+  },
+  {
+    "keyword": "plait",
+    "score": 4.352561981547288
+  },
+  {
+    "keyword": "laisse",
+    "score": 4.1474285099407
+  },
+  {
+    "keyword": "rabbit",
+    "score": 4.0158029856787065
+  },
+  {
+    "keyword": "arme",
+    "score": 3.884626136090219
+  },
+  {
+    "keyword": "quelqu",
+    "score": 3.884626136090219
+  },
+  {
+    "keyword": "vois",
+    "score": 3.689196326679994
+  },
+  {
+    "keyword": "desole",
+    "score": 3.5135105519083782
+  },
+  {
+    "keyword": "crois",
+    "score": 3.457168666054218
+  },
+  {
+    "keyword": "merci",
+    "score": 3.382371973142806
+  },
+  {
+    "keyword": "homme",
+    "score": 3.2740194223022834
+  },
+  {
+    "keyword": "monde",
+    "score": 3.14249566605109
+  },
+  {
+    "keyword": "parce",
+    "score": 3.14249566605109
+  },
+  {
+    "keyword": "alan",
+    "score": 3.062349422852219
+  },
+  {
+    "keyword": "fois",
+    "score": 3.0420718749227658
+  },
+  {
+    "keyword": "monsieur",
+    "score": 2.964548439836215
+  },
+  {
+    "keyword": "personne",
+    "score": 2.910747661073683
+  },
+  {
+    "keyword": "peut etre",
+    "score": 2.910747661073683
+  },
+  {
+    "keyword": "sgt",
+    "score": 2.8566531558107324
+  },
+  {
+    "keyword": "henry",
+    "score": 2.8395102047387244
+  },
+  {
+    "keyword": "maintenant",
+    "score": 2.772545273793232
+  },
+  {
+    "keyword": "helico",
+    "score": 2.761387139424617
+  },
+  {
+    "keyword": "parle",
+    "score": 2.6435766367744806
+  },
+  {
+    "keyword": "entre",
+    "score": 2.6010581486902677
+  },
+  {
+    "keyword": "mieux",
+    "score": 2.6010581486902677
+  },
+  {
+    "keyword": "herb",
+    "score": 2.5612036445593436
+  },
+  {
+    "keyword": "restez",
+    "score": 2.5399690143126006
+  },
+  {
+    "keyword": "ecoute",
+    "score": 2.511738784525264
+  },
+  {
+    "keyword": "merde",
+    "score": 2.471093525685791
+  },
+  {
+    "keyword": "freres",
+    "score": 2.451453235390162
+  },
+  {
+    "keyword": "putain",
+    "score": 2.4353314048762913
+  },
+  {
+    "keyword": "saufs",
+    "score": 2.423979354344028
+  },
+  {
+    "keyword": "braquage",
+    "score": 2.4167794498541646
+  },
+  {
+    "keyword": "soldat",
+    "score": 2.4086406496965167
+  },
+  {
+    "keyword": "bouge",
+    "score": 2.3385213186548106
+  },
+  {
+    "keyword": "mort",
+    "score": 2.325032490324803
+  },
+  {
+    "keyword": "ecoutez",
+    "score": 2.3005608951065435
+  },
+  {
+    "keyword": "prends",
+    "score": 2.3005608951065435
+  },
+  {
+    "keyword": "sortir",
+    "score": 2.3005608951065435
+  },
+  {
+    "keyword": "viens",
+    "score": 2.063720765046026
+  },
+  {
+    "keyword": "demande",
+    "score": 2.0304278479319415
+  },
+  {
+    "keyword": "marco",
+    "score": 2.0262519603907045
+  },
+  {
+    "keyword": "albert",
+    "score": 1.9843251916862488
+  },
+  {
+    "keyword": "ordre",
+    "score": 1.8957561994379581
+  },
+  {
+    "keyword": "tout monde",
+    "score": 1.872341060554059
+  },
+  {
+    "keyword": "piggy",
+    "score": 1.8471983598276385
+  },
+  {
+    "keyword": "aime",
+    "score": 1.8435139012972852
+  },
+  {
+    "keyword": "entree",
+    "score": 1.8143707562904872
+  },
+  {
+    "keyword": "sniper",
+    "score": 1.7900146654050477
+  },
+  {
+    "keyword": "addie",
+    "score": 1.7828066686339719
+  },
+  {
+    "keyword": "trouve",
+    "score": 1.7170692061623756
+  },
+  {
+    "keyword": "dis",
+    "score": 1.7137799891689496
+  },
+  {
+    "keyword": "savoir",
+    "score": 1.6892833859330845
+  },
+  {
+    "keyword": "sains",
+    "score": 1.6549102809931546
+  },
+  {
+    "keyword": "grimes",
+    "score": 1.6546971896829503
+  },
+  {
+    "keyword": "frere",
+    "score": 1.6090761595041752
+  },
+  {
+    "keyword": "fbi",
+    "score": 1.598796279360048
+  },
+  {
+    "keyword": "femme",
+    "score": 1.5696822796964864
+  },
+  {
+    "keyword": "laissez",
+    "score": 1.5581066510240829
+  },
+  {
+    "keyword": "hommes",
+    "score": 1.514643484863786
+  },
+  {
+    "keyword": "pere",
+    "score": 1.514643484863786
+  },
+  {
+    "keyword": "puis",
+    "score": 1.514643484863786
+  },
+  {
+    "keyword": "mecs",
+    "score": 1.504198397181939
+  },
+  {
+    "keyword": "petey",
+    "score": 1.5022713612160565
+  },
+  {
+    "keyword": "pittsburgh",
+    "score": 1.490526946117336
+  },
+  {
+    "keyword": "vraiment",
+    "score": 1.4662404774703093
+  },
+  {
+    "keyword": "cas",
+    "score": 1.4617606247063715
+  },
+  {
+    "keyword": "kerry",
+    "score": 1.4372892886796593
+  },
+  {
+    "keyword": "dites",
+    "score": 1.393322362605046
+  },
+  {
+    "keyword": "fous",
+    "score": 1.393322362605046
+  },
+  {
+    "keyword": "marche",
+    "score": 1.393322362605046
+  },
+  {
+    "keyword": "bernard",
+    "score": 1.3887624352681494
+  },
+  {
+    "keyword": "leroy",
+    "score": 1.3768709811464714
+  },
+  {
+    "keyword": "compris",
+    "score": 1.370705033183314
+  },
+  {
+    "keyword": "dehors",
+    "score": 1.370705033183314
+  },
+  {
+    "keyword": "guerre",
+    "score": 1.370705033183314
+  },
+  {
+    "keyword": "quelque chose",
+    "score": 1.370705033183314
+  },
+  {
+    "keyword": "regarde",
+    "score": 1.370705033183314
+  },
+  {
+    "keyword": "tiens",
+    "score": 1.370705033183314
+  },
+  {
+    "keyword": "vrai",
+    "score": 1.3485241196227369
+  },
+  {
+    "keyword": "peur",
+    "score": 1.326769092246278
+  },
+  {
+    "keyword": "pris",
+    "score": 1.326769092246278
+  },
+  {
+    "keyword": "stan",
+    "score": 1.3142914588398202
+  },
+  {
+    "keyword": "petit",
+    "score": 1.3106422670575095
+  },
+  {
+    "keyword": "tirs",
+    "score": 1.2848474275242476
+  },
+  {
+    "keyword": "arretez",
+    "score": 1.2717494563095562
+  },
+  {
+    "keyword": "donnez",
+    "score": 1.2509735288532284
+  },
+  {
+    "keyword": "suivez",
+    "score": 1.2509134028711206
+  },
+  {
+    "keyword": "meneur",
+    "score": 1.2410576118768195
+  },
+  {
+    "keyword": "gros",
+    "score": 1.230602535171954
+  },
+  {
+    "keyword": "delta",
+    "score": 1.2176535377333204
+  },
+  {
+    "keyword": "aucun",
+    "score": 1.210626581528919
+  },
+  {
+    "keyword": "confiance",
+    "score": 1.210626581528919
+  },
+  {
+    "keyword": "seul",
+    "score": 1.210626581528919
+  },
+  {
+    "keyword": "chambre forte",
+    "score": 1.1724275398715316
+  },
+  {
+    "keyword": "heure",
+    "score": 1.1529744941632063
+  },
+  {
+    "keyword": "debout",
+    "score": 1.1503952550213394
+  },
+  {
+    "keyword": "irak",
+    "score": 1.142781232865546
+  },
+  {
+    "keyword": "gateau",
+    "score": 1.1001978357728361
+  },
+  {
+    "keyword": "reculez",
+    "score": 1.0891127980121749
+  },
+  {
+    "keyword": "fini",
+    "score": 1.081085744066331
+  },
+  {
+    "keyword": "sortie",
+    "score": 1.0769247928960306
+  },
+  {
+    "keyword": "tir",
+    "score": 1.0693948857237079
+  },
+  {
+    "keyword": "attends",
+    "score": 1.0639479921650001
+  },
+  {
+    "keyword": "assez",
+    "score": 1.0594434379296032
+  },
+  {
+    "keyword": "entendu",
+    "score": 1.0594434379296032
+  },
+  {
+    "keyword": "espere",
+    "score": 1.0594434379296032
+  },
+  {
+    "keyword": "venez",
+    "score": 1.0594434379296032
+  },
+  {
+    "keyword": "vient",
+    "score": 1.0594434379296032
+  },
+  {
+    "keyword": "gens",
+    "score": 1.042299396906815
+  },
+  {
+    "keyword": "tuez",
+    "score": 1.0312919583861768
+  },
+  {
+    "keyword": "vite",
+    "score": 1.0306202346130156
+  },
+  {
+    "keyword": "balle",
+    "score": 1.0297953148368773
+  },
+  {
+    "keyword": "pret",
+    "score": 1.025484531244258
+  },
+  {
+    "keyword": "negociation",
+    "score": 1.0218745281369979
+  },
+  {
+    "keyword": "bagdad",
+    "score": 1.0129499747840864
+  },
+  {
+    "keyword": "hein",
+    "score": 1.0089909478104695
+  },
+  {
+    "keyword": "ash",
+    "score": 0.9994934208758518
+  },
+  {
+    "keyword": "mikey",
+    "score": 0.9972859339664474
+  },
+  {
+    "keyword": "termine",
+    "score": 0.9796576332547655
+  },
+  {
+    "keyword": "toit",
+    "score": 0.9744992083281377
+  },
+  {
+    "keyword": "patrouilles",
+    "score": 0.9457344297543143
+  },
+  {
+    "keyword": "liberte",
+    "score": 0.9418688382189252
+  },
+  {
+    "keyword": "controle",
+    "score": 0.932424301983844
+  },
+  {
+    "keyword": "croyez",
+    "score": 0.932424301983844
+  },
+  {
+    "keyword": "arrete",
+    "score": 0.9172885744847404
+  },
+  {
+    "keyword": "ans",
+    "score": 0.9163630938242558
+  },
+  {
+    "keyword": "flingue",
+    "score": 0.9106357522837867
+  },
+  {
+    "keyword": "armes",
+    "score": 0.9105596908683208
+  },
+  {
+    "keyword": "jusqu",
+    "score": 0.9024449005445498
+  },
+  {
+    "keyword": "frequences",
+    "score": 0.8852387757140636
+  },
+  {
+    "keyword": "teddy",
+    "score": 0.8795360851173126
+  },
+  {
+    "keyword": "bouclez",
+    "score": 0.8793919191398701
+  },
+  {
+    "keyword": "cote",
+    "score": 0.8736057396266319
+  },
+  {
+    "keyword": "probleme",
+    "score": 0.8736057396266319
+  },
+  {
+    "keyword": "terre",
+    "score": 0.8736057396266319
+  },
+  {
+    "keyword": "envoie",
+    "score": 0.8659269567826041
+  },
+  {
+    "keyword": "tous ici",
+    "score": 0.8658823323698103
+  },
+  {
+    "keyword": "cour martiale",
+    "score": 0.856356233092641
+  },
+  {
+    "keyword": "section",
+    "score": 0.8464601196704282
+  },
+  {
+    "keyword": "dieu",
+    "score": 0.8458529504836781
+  },
+  {
+    "keyword": "ainsi",
+    "score": 0.8376351955749317
+  },
+  {
+    "keyword": "baisse arme",
+    "score": 0.8305273126546376
+  },
+  {
+    "keyword": "amene",
+    "score": 0.8239065010887
+  },
+  {
+    "keyword": "fera",
+    "score": 0.8239065010887
+  },
+  {
+    "keyword": "oreillette",
+    "score": 0.8203581952192194
+  },
+  {
+    "keyword": "frangin",
+    "score": 0.8134097381963791
+  },
+  {
+    "keyword": "courant",
+    "score": 0.8104467574163197
+  },
+  {
+    "keyword": "regardez",
+    "score": 0.8104467574163197
+  },
+  {
+    "keyword": "reviens",
+    "score": 0.8104467574163197
+  },
+  {
+    "keyword": "pig",
+    "score": 0.8084531841683413
+  },
+  {
+    "keyword": "roman",
+    "score": 0.8084531841683413
+  },
+  {
+    "keyword": "mike",
+    "score": 0.8082606952513365
+  },
+  {
+    "keyword": "sens",
+    "score": 0.8061505933781793
+  }
+]

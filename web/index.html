@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TV Series - Accueil</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <a href="index.html" class="logo">📺 TV Series</a>
+            <ul class="nav-links">
+                <li><a href="index.html" class="active">Accueil</a></li>
+                <li><a href="search.html">Recherche</a></li>
+                <li><a href="recommendations.html">Recommandations</a></li>
+                <li><a href="series.html">Séries</a></li>
+                <li><a href="profile.html" id="profileLink">Profil</a></li>
+                <li><button id="languageToggle" class="language-toggle all" onclick="toggleLanguage()">🌍 Tous</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container">
+        <section class="hero">
+            <div class="hero-content">
+                <h1>Découvrez vos Séries Préférées</h1>
+                <p class="subtitle">Plus de 250 séries TV avec recherche intelligente et recommandations personnalisées</p>
+                
+                <div class="quick-search">
+                    <input type="text" id="quickSearch" placeholder="🔍 Rechercher une série (ex: crash avion ile)...">
+                    <button onclick="quickSearch()" class="btn btn-primary">Rechercher</button>
+                </div>
+                
+                <div class="hero-stats">
+                    <div class="stat-item">
+                        <span class="stat-number" id="totalSeries">250</span>
+                        <span class="stat-label">Séries</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number">6</span>
+                        <span class="stat-label">Utilisateurs</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number">37</span>
+                        <span class="stat-label">Notes</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="popular-series">
+            <div class="section-header">
+                <h2>🔥 Séries Populaires</h2>
+                <a href="series.html" class="btn btn-secondary btn-sm">Voir toutes les séries</a>
+            </div>
+            <div id="popularSeriesGrid" class="series-grid">
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>Chargement des séries populaires...</p>
+                </div>
+            </div>
+        </section>
+        
+        <section class="features">
+            <h2>Pourquoi TV Series ?</h2>
+            <div class="feature-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🔍</div>
+                    <h3>Recherche intelligente</h3>
+                    <p>Trouvez des séries par mots-clés avec notre moteur de recherche avancé utilisant TF-IDF</p>
+                    <a href="search.html" class="btn btn-secondary">Rechercher</a>
+                </div>
+
+                <div class="feature-card">
+                    <div class="feature-icon">⭐</div>
+                    <h3>Recommandations personnalisées</h3>
+                    <p>Découvrez de nouvelles séries basées sur vos préférences et celles d'utilisateurs similaires</p>
+                    <a href="recommendations.html" class="btn btn-secondary">Voir les recommandations</a>
+                </div>
+
+                <div class="feature-card">
+                    <div class="feature-icon">📚</div>
+                    <h3>Catalogue complet</h3>
+                    <p>Parcourez notre collection de 250+ séries VF et VO avec images de couverture</p>
+                    <a href="series.html" class="btn btn-secondary">Explorer</a>
+                </div>
+
+                <div class="feature-card">
+                    <div class="feature-icon">👤</div>
+                    <h3>Gestion de profil</h3>
+                    <p>Notez vos séries favorites et gérez vos préférences pour de meilleures recommandations</p>
+                    <a href="profile.html" class="btn btn-secondary">Mon profil</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 TV Series - SAE501 Project</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+    <script>
+        // Chargement des séries populaires
+        document.addEventListener('DOMContentLoaded', async () => {
+            updateLanguageToggle();
+            
+            try {
+                const pref = getLanguagePreference();
+                let url = '/api/recommend/popularity?limit=24';
+                if (pref !== 'all') {
+                    url += `&language=${pref}`;
+                }
+                
+                let data = await apiRequest(url, { requireAuth: false });
+                let series = data.recommendations || [];
+                
+                // Filtrer côté client aussi
+                if (pref !== 'all') {
+                    series = series.filter(s => shouldShowSeries(s.title));
+                }
+                
+                // Limiter à 12 résultats
+                series = series.slice(0, 12);
+                
+                const grid = document.getElementById('popularSeriesGrid');
+                if (series.length === 0) {
+                    grid.innerHTML = '<p class="no-results">Aucune série populaire disponible.</p>';
+                    return;
+                }
+                
+                grid.innerHTML = series.map(s => createSeriesCard(s)).join('');
+            } catch (error) {
+                console.error('Erreur chargement séries populaires:', error);
+                document.getElementById('popularSeriesGrid').innerHTML = 
+                    '<p class="error">Erreur lors du chargement des séries.</p>';
+            }
+        });
+
+        function quickSearch() {
+            const query = document.getElementById('quickSearch').value;
+            if (query.trim()) {
+                window.location.href = `search.html?q=${encodeURIComponent(query)}`;
+            }
+        }
+
+        // Permettre la recherche avec Enter
+        document.getElementById('quickSearch')?.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') quickSearch();
+        });
+    </script>
+</body>
+</html>

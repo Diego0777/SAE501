@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "eventreur",
+    "score": 176.22697796785693
+  },
+  {
+    "keyword": "leary",
+    "score": 27.62198521868158
+  },
+  {
+    "keyword": "tueur",
+    "score": 11.19519484767055
+  },
+  {
+    "keyword": "meurtre",
+    "score": 10.989327523933543
+  },
+  {
+    "keyword": "fitz",
+    "score": 7.444080758991032
+  },
+  {
+    "keyword": "meurtres",
+    "score": 6.826992572436262
+  },
+  {
+    "keyword": "kent",
+    "score": 6.725212001228142
+  },
+  {
+    "keyword": "merci",
+    "score": 4.852491152985066
+  },
+  {
+    "keyword": "jack",
+    "score": 4.532098649037202
+  },
+  {
+    "keyword": "mary",
+    "score": 4.114452907896425
+  },
+  {
+    "keyword": "cathy",
+    "score": 3.951212208237479
+  },
+  {
+    "keyword": "inspecteur",
+    "score": 3.611411130752862
+  },
+  {
+    "keyword": "homme",
+    "score": 3.5363601470436556
+  },
+  {
+    "keyword": "enquete",
+    "score": 3.1620712388875925
+  },
+  {
+    "keyword": "kiry",
+    "score": 3.143993603692081
+  },
+  {
+    "keyword": "commissaire",
+    "score": 3.0691221625427083
+  },
+  {
+    "keyword": "aout",
+    "score": 3.028687748547478
+  },
+  {
+    "keyword": "soldat",
+    "score": 2.9362048260493943
+  },
+  {
+    "keyword": "chandler",
+    "score": 2.7461106386867558
+  },
+  {
+    "keyword": "voir",
+    "score": 2.7161399533455914
+  },
+  {
+    "keyword": "tablier",
+    "score": 2.5802030513765577
+  },
+  {
+    "keyword": "femme",
+    "score": 2.5797740203201727
+  },
+  {
+    "keyword": "complot",
+    "score": 2.5580092442686144
+  },
+  {
+    "keyword": "nichols",
+    "score": 2.4758645260604824
+  },
+  {
+    "keyword": "temps",
+    "score": 2.3522536678001056
+  },
+  {
+    "keyword": "bon",
+    "score": 2.3490617442792323
+  },
+  {
+    "keyword": "trouve",
+    "score": 2.334501869343476
+  },
+  {
+    "keyword": "victime",
+    "score": 2.229431103153447
+  },
+  {
+    "keyword": "pense",
+    "score": 2.2233289380859818
+  },
+  {
+    "keyword": "olaola",
+    "score": 2.0975440457857415
+  },
+  {
+    "keyword": "nuit",
+    "score": 2.0260654686330546
+  },
+  {
+    "keyword": "kelly",
+    "score": 1.9903010701339392
+  },
+  {
+    "keyword": "couteau",
+    "score": 1.8844270268380567
+  },
+  {
+    "keyword": "rein",
+    "score": 1.8462896331748213
+  },
+  {
+    "keyword": "alice",
+    "score": 1.8448073834851304
+  },
+  {
+    "keyword": "poignardee",
+    "score": 1.7984769605419584
+  },
+  {
+    "keyword": "fois",
+    "score": 1.774842944547208
+  },
+  {
+    "keyword": "ouais",
+    "score": 1.7008050876027978
+  },
+  {
+    "keyword": "graves",
+    "score": 1.6722686496767571
+  },
+  {
+    "keyword": "cohen",
+    "score": 1.6356543714980685
+  },
+  {
+    "keyword": "vans",
+    "score": 1.6356543714980685
+  },
+  {
+    "keyword": "visage",
+    "score": 1.6193150151166025
+  },
+  {
+    "keyword": "monsieur",
+    "score": 1.5715426457422899
+  },
+  {
+    "keyword": "faut",
+    "score": 1.5675670510363917
+  },
+  {
+    "keyword": "matricule",
+    "score": 1.5537604153842373
+  },
+  {
+    "keyword": "morte",
+    "score": 1.5177684338095314
+  },
+  {
+    "keyword": "clarence",
+    "score": 1.49428889421298
+  },
+  {
+    "keyword": "rob",
+    "score": 1.469828170807443
+  },
+  {
+    "keyword": "ans",
+    "score": 1.4236605350938196
+  },
+  {
+    "keyword": "soir",
+    "score": 1.3942335850999759
+  },
+  {
+    "keyword": "tuee",
+    "score": 1.3770979581541123
+  },
+  {
+    "keyword": "dieu",
+    "score": 1.3282293913168866
+  },
+  {
+    "keyword": "joe",
+    "score": 1.2728486458560495
+  },
+  {
+    "keyword": "yeux",
+    "score": 1.2471319642660543
+  },
+  {
+    "keyword": "sanders",
+    "score": 1.227864423348462
+  },
+  {
+    "keyword": "femmes",
+    "score": 1.22695072495611
+  },
+  {
+    "keyword": "personne",
+    "score": 1.22695072495611
+  },
+  {
+    "keyword": "puis",
+    "score": 1.22695072495611
+  },
+  {
+    "keyword": "tue",
+    "score": 1.2071569769447998
+  },
+  {
+    "keyword": "catherine",
+    "score": 1.1730019907542273
+  },
+  {
+    "keyword": "chapeau",
+    "score": 1.1392036069132545
+  },
+  {
+    "keyword": "wilkes",
+    "score": 1.069725716709846
+  },
+  {
+    "keyword": "aucun",
+    "score": 1.0663333713075662
+  },
+  {
+    "keyword": "miles",
+    "score": 1.0604954389789476
+  },
+  {
+    "keyword": "celui",
+    "score": 1.0490778365549127
+  },
+  {
+    "keyword": "pourrait",
+    "score": 1.0490778365549127
+  },
+  {
+    "keyword": "voyez",
+    "score": 1.0490778365549127
+  },
+  {
+    "keyword": "victimes",
+    "score": 1.0242067657682719
+  },
+  {
+    "keyword": "cote",
+    "score": 1.01555277089653
+  },
+  {
+    "keyword": "peu",
+    "score": 1.01555277089653
+  },
+  {
+    "keyword": "crois",
+    "score": 0.9992675890388434
+  },
+  {
+    "keyword": "gauche",
+    "score": 0.9917012319679791
+  },
+  {
+    "keyword": "square",
+    "score": 0.9678351171761942
+  },
+  {
+    "keyword": "emma",
+    "score": 0.9587025555967158
+  },
+  {
+    "keyword": "caserne",
+    "score": 0.9497355875354733
+  },
+  {
+    "keyword": "francs",
+    "score": 0.9436033055166627
+  },
+  {
+    "keyword": "anthony",
+    "score": 0.9223871511688473
+  },
+  {
+    "keyword": "annie",
+    "score": 0.9215667794167179
+  },
+  {
+    "keyword": "over",
+    "score": 0.9171734469658606
+  },
+  {
+    "keyword": "dites",
+    "score": 0.9130483323321118
+  },
+  {
+    "keyword": "mort",
+    "score": 0.9077817768752168
+  },
+  {
+    "keyword": "faites",
+    "score": 0.8982271283777675
+  },
+  {
+    "keyword": "trouver",
+    "score": 0.8982271283777675
+  },
+  {
+    "keyword": "lieu",
+    "score": 0.8935087272823268
+  },
+  {
+    "keyword": "parler",
+    "score": 0.8836919090490383
+  },
+  {
+    "keyword": "peut etre",
+    "score": 0.8836919090490383
+  },
+  {
+    "keyword": "nom",
+    "score": 0.8794972907207835
+  },
+  {
+    "keyword": "deux",
+    "score": 0.8657415532066044
+  },
+  {
+    "keyword": "desole",
+    "score": 0.855452031853711
+  },
+  {
+    "keyword": "sergent",
+    "score": 0.8517626487242776
+  },
+  {
+    "keyword": "phillips",
+    "score": 0.8478891185954882
+  },
+  {
+    "keyword": "bonne",
+    "score": 0.841734190389927
+  },
+  {
+    "keyword": "maintenant",
+    "score": 0.841734190389927
+  },
+  {
+    "keyword": "raison",
+    "score": 0.802114011239102
+  },
+  {
+    "keyword": "paupieres",
+    "score": 0.7661007727553543
+  },
+  {
+    "keyword": "dernier",
+    "score": 0.7553187827488373
+  },
+  {
+    "keyword": "jusqu",
+    "score": 0.73103369606192
+  },
+  {
+    "keyword": "quelqu",
+    "score": 0.73103369606192
+  },
+  {
+    "keyword": "parle",
+    "score": 0.7192403155509431
+  },
+  {
+    "keyword": "corps",
+    "score": 0.7085724945522616
+  },
+  {
+    "keyword": "temoins",
+    "score": 0.6991997386177203
+  },
+  {
+    "keyword": "mutile",
+    "score": 0.6943919778824885
+  },
+  {
+    "keyword": "skip",
+    "score": 0.6868834254437406
+  },
+  {
+    "keyword": "larkin",
+    "score": 0.6756341117059761
+  },
+  {
+    "keyword": "livre",
+    "score": 0.674827965222115
+  },
+  {
+    "keyword": "intestins",
+    "score": 0.6727762001690445
+  },
+  {
+    "keyword": "premiere victime",
+    "score": 0.6727762001690445
+  },
+  {
+    "keyword": "recul",
+    "score": 0.6664062306475566
+  },
+  {
+    "keyword": "pres",
+    "score": 0.6635484203201343
+  },
+  {
+    "keyword": "juste",
+    "score": 0.632573718024602
+  },
+  {
+    "keyword": "andouille",
+    "score": 0.6325194202180322
+  },
+  {
+    "keyword": "roux",
+    "score": 0.6137495784195106
+  },
+  {
+    "keyword": "separee",
+    "score": 0.6137495784195106
+  },
+  {
+    "keyword": "arrete",
+    "score": 0.6011019600910548
+  },
+  {
+    "keyword": "depuis",
+    "score": 0.6011019600910548
+  },
+  {
+    "keyword": "toutes unites",
+    "score": 0.5958086710752004
+  },
+  {
+    "keyword": "idee",
+    "score": 0.5913748559402013
+  },
+  {
+    "keyword": "reste",
+    "score": 0.5913748559402013
+  },
+  {
+    "keyword": "attraper",
+    "score": 0.5872966934650955
+  },
+  {
+    "keyword": "derniere victime",
+    "score": 0.5865443047821455
+  },
+  {
+    "keyword": "demande",
+    "score": 0.5818345177337717
+  },
+  {
+    "keyword": "incendie",
+    "score": 0.57971799279276
+  },
+  {
+    "keyword": "theorie",
+    "score": 0.5773619217726762
+  },
+  {
+    "keyword": "non non",
+    "score": 0.5737438191161437
+  },
+  {
+    "keyword": "suspect",
+    "score": 0.569683242292691
+  },
+  {
+    "keyword": "porte",
+    "score": 0.5632963598336644
+  },
+  {
+    "keyword": "mutilation",
+    "score": 0.5622115037038399
+  },
+  {
+    "keyword": "putain",
+    "score": 0.5487625757716312
+  },
+  {
+    "keyword": "cuir",
+    "score": 0.5440267867571593
+  },
+  {
+    "keyword": "nuit meurtre",
+    "score": 0.5375831912002478
+  },
+  {
+    "keyword": "vertebres",
+    "score": 0.5375831912002478
+  },
+  {
+    "keyword": "trois enfants",
+    "score": 0.531363108495189
+  },
+  {
+    "keyword": "jones",
+    "score": 0.5282729070079043
+  },
+  {
+    "keyword": "lane",
+    "score": 0.5199217175098158
+  },
+  {
+    "keyword": "tueurs serie",
+    "score": 0.5155943745315796
+  },
+  {
+    "keyword": "paquet",
+    "score": 0.5023919015615236
+  },
+  {
+    "keyword": "beaucoup",
+    "score": 0.49578073759313096
+  },
+  {
+    "keyword": "duc",
+    "score": 0.49504938908866036
+  },
+  {
+    "keyword": "legistes",
+    "score": 0.49504938908866036
+  },
+  {
+    "keyword": "john doe",
+    "score": 0.48957887137418143
+  },
+  {
+    "keyword": "boulot",
+    "score": 0.4884280015749804
+  },
+  {
+    "keyword": "endroit",
+    "score": 0.4884280015749804
+  },
+  {
+    "keyword": "histoire",
+    "score": 0.4884280015749804
+  },
+  {
+    "keyword": "regardez",
+    "score": 0.4884280015749804
+  },
+  {
+    "keyword": "cherche",
+    "score": 0.4804743850480486
+  },
+  {
+    "keyword": "feu",
+    "score": 0.4804743850480486
+  },
+  {
+    "keyword": "essaye",
+    "score": 0.472675007289539
+  },
+  {
+    "keyword": "importe",
+    "score": 0.472675007289539
+  },
+  {
+    "keyword": "laisse",
+    "score": 0.46502612352161
+  },
+  {
+    "keyword": "merde",
+    "score": 0.46502612352161
+  },
+  {
+    "keyword": "prendre",
+    "score": 0.46502612352161
+  },
+  {
+    "keyword": "vrai",
+    "score": 0.46502612352161
+  },
+  {
+    "keyword": "putes",
+    "score": 0.4643421398342087
+  },
+  {
+    "keyword": "rapport",
+    "score": 0.4583874897928748
+  },
+  {
+    "keyword": "connais",
+    "score": 0.4575241026821078
+  },
+  {
+    "keyword": "travail",
+    "score": 0.4501654232182641
+  },
+  {
+    "keyword": "adn",
+    "score": 0.44943322072252523
+  },
+  {
+    "keyword": "identite",
+    "score": 0.4449931588878881
+  },
+  {
+    "keyword": "biere",
+    "score": 0.4374656085246195
+  },
+  {
+    "keyword": "john",
+    "score": 0.4358988750489144
+  },
+  {
+    "keyword": "grand fan",
+    "score": 0.4298846943473204
+  },
+  {
+    "keyword": "tete",
+    "score": 0.4289157769457091
+  },
+  {
+    "keyword": "gauche droite",
+    "score": 0.4192144483111172
+  },
+  {
+    "keyword": "attrape",
+    "score": 0.4157959593324108
+  },
+  {
+    "keyword": "police",
+    "score": 0.41394700443190063
+  },
+  {
+    "keyword": "kfc",
+    "score": 0.409736650479004
+  },
+  {
+    "keyword": "agresseur",
+    "score": 0.40891858121652114
+  },
+  {
+    "keyword": "chef",
+    "score": 0.39801495981865653
+  },
+  {
+    "keyword": "hopital",
+    "score": 0.3954149665508155
+  },
+  {
+    "keyword": "presse",
+    "score": 0.3954149665508155
+  },
+  {
+    "keyword": "enveloppe",
+    "score": 0.39422275024419295
+  },
+  {
+    "keyword": "manteau",
+    "score": 0.39422275024419295
+  },
+  {
+    "keyword": "coupures",
+    "score": 0.3893786435054292
+  },
+  {
+    "keyword": "faits",
+    "score": 0.38889084966866805
+  },
+  {
+    "keyword": "moitie",
+    "score": 0.37622683878494606
+  },
+  {
+    "keyword": "poissons",
+    "score": 0.371314661895383
+  },
+  {
+    "keyword": "affaire",
+    "score": 0.36405417695400955
+  },
+  {
+    "keyword": "arreter",
+    "score": 0.36405417695400955
+  },
+  {
+    "keyword": "dehors",
+    "score": 0.35814460895415945
+  },
+  {
+    "keyword": "entendu",
+    "score": 0.35814460895415945
+  },
+  {
+    "keyword": "gars",
+    "score": 0.35814460895415945
+  },
+  {
+    "keyword": "venez",
+    "score": 0.35814460895415945
+  },
+  {
+    "keyword": "frances",
+    "score": 0.35713764128779374
+  },
+  {
+    "keyword": "sub way",
+    "score": 0.35700454538046306
+  },
+  {
+    "keyword": "chocolate",
+    "score": 0.3555470922381788
+  },
+  {
+    "keyword": "lieux",
+    "score": 0.3555470922381788
+  },
+  {
+    "keyword": "holmes",
+    "score": 0.35406569548976885
+  },
+  {
+    "keyword": "truc",
+    "score": 0.3523490698548758
+  },
+  {
+    "keyword": "besoin",
+    "score": 0.34666480840992137
+  },
+  {
+    "keyword": "schema",
+    "score": 0.3459412116919202
+  },
+  {
+    "keyword": "detachez",
+    "score": 0.34563113940153667
+  },
+  {
+    "keyword": "argent",
+    "score": 0.3410891563480323
+  },
+  {
+    "keyword": "hein",
+    "score": 0.3410891563480323
+  },
+  {
+    "keyword": "legiste",
+    "score": 0.33807364220261543
+  },
+  {
+    "keyword": "passe",
+    "score": 0.3356195253254033
+  },
+  {
+    "keyword": "dernier repas",
+    "score": 0.3346882214043091
+  },
+  {
+    "keyword": "serie",
+    "score": 0.33168922223013847
+  },
+  {
+    "keyword": "identifie",
+    "score": 0.3304686964139049
+  },
+  {
+    "keyword": "donne",
+    "score": 0.33025340401069
+  },
+  {
+    "keyword": "laissez",
+    "score": 0.32498835529586967
+  }
+]

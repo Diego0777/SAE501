@@ -1,0 +1,200 @@
+ripper	191.245858
+jack ripper	33.090948
+leary	26.994560
+murder	13.553982
+fitz	6.563719
+kent	5.929866
+murders	5.929452
+killer	5.168206
+sir	4.814269
+mary	4.693721
+cut	3.705808
+found	3.530971
+cathy	3.483929
+thank	3.433101
+jack	3.248517
+nothing	3.012735
+victim	2.779279
+alice	2.730107
+august	2.421347
+chandler	2.421347
+kidney	2.392879
+nichols	2.183061
+catherine	2.145863
+apron	2.132051
+say	2.041629
+copycat	2.022387
+vans	2.002427
+kelly	1.971103
+night	1.939906
+bloody	1.907705
+inquiry	1.814560
+dead	1.802837
+witnesses	1.799982
+square	1.770535
+last	1.747596
+prime suspect	1.694153
+graves	1.684913
+killed	1.670310
+body	1.669103
+work	1.622001
+throat	1.578040
+find	1.546489
+bloody hell	1.519992
+stab wounds	1.519992
+conspiracy	1.496267
+joe	1.481221
+something	1.475054
+cohen	1.442216
+fire	1.407426
+eureka	1.405502
+please	1.376877
+kiry	1.336153
+left	1.334088
+emma	1.328871
+clarence	1.317569
+thought	1.316937
+rob	1.296001
+red hair	1.258049
+shit	1.225019
+annie	1.214238
+knife	1.209013
+inspector	1.175055
+hat	1.150921
+soldier	1.130735
+sanders	1.082653
+first	1.057929
+name	1.047526
+miles	1.042893
+phillips	1.038016
+away	1.024229
+knew	1.014005
+mean	0.997840
+head	0.978127
+much	0.968518
+known	0.955739
+eyes	0.953558
+wilkes	0.943216
+next	0.924431
+suspect	0.920456
+made	0.882638
+stab	0.833202
+mutilation	0.832010
+theory	0.828122
+investigation	0.818395
+anthony	0.813303
+intestines	0.806374
+book	0.788116
+historical	0.786358
+anything	0.775485
+skip	0.770207
+still	0.751448
+never	0.728272
+dead woman	0.723508
+wanted	0.707253
+start	0.705921
+copper	0.687174
+thanks	0.685038
+another	0.674238
+envelope	0.668334
+even	0.663637
+victims	0.662465
+looking	0.655181
+used	0.655181
+wants	0.655181
+give	0.632983
+private	0.623981
+years	0.623981
+god	0.613461
+saw	0.604158
+larkin	0.595731
+address	0.595021
+domestic	0.587595
+jones	0.575800
+murdered	0.574469
+lane	0.566698
+really	0.566698
+attacker	0.557716
+prostitutes	0.557716
+died	0.556773
+stabbed	0.552110
+keep	0.548994
+police	0.545408
+night murder	0.541305
+vertebrae	0.541305
+cos	0.541166
+tonight	0.540385
+detective	0.533044
+catch	0.525686
+longer	0.521437
+fish	0.513025
+move	0.504774
+side	0.497996
+took	0.496679
+way	0.490072
+cuts	0.489237
+lived	0.483864
+wearing	0.483864
+home	0.474230
+great	0.469570
+completely	0.467893
+squad	0.461309
+history	0.460147
+serial	0.458900
+everything	0.451207
+east	0.448388
+forensics	0.443473
+looks like	0.437817
+next victim	0.436503
+john doe	0.431680
+half	0.430311
+mother	0.430311
+least	0.423652
+heard	0.416775
+happen	0.410031
+read	0.410031
+dna	0.403737
+apologise	0.403624
+first victim	0.403624
+looks	0.403416
+failed	0.399144
+officer	0.399144
+eat	0.396927
+seen	0.396927
+leather	0.393224
+dark	0.391091
+ask	0.390562
+clear	0.390562
+recognise	0.388662
+money	0.385779
+injuries	0.385087
+john	0.384348
+step	0.384318
+man killed	0.379045
+eyeball	0.374572
+get body	0.374572
+hand	0.374049
+believe	0.372179
+sir need	0.369637
+real	0.368338
+step back	0.361987
+thank sir	0.361987
+false	0.361520
+kfc	0.361280
+said	0.360488
+someone	0.349227
+wrong	0.349227
+community	0.348698
+talk	0.346469
+word	0.343750
+press	0.337261
+beer	0.331733
+look like	0.331733
+flat	0.330515
+leak	0.327402
+serial killer	0.327402
+colour	0.325582
+yet	0.321000
+linked	0.319593
+frances	0.314901
+serial killers	0.314901

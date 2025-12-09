@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recommandations - TV Series</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <a href="index.html" class="logo">📺 TV Series</a>
+            <ul class="nav-links">
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="search.html">Recherche</a></li>
+                <li><a href="recommendations.html" class="active">Recommandations</a></li>
+                <li><a href="series.html">Séries</a></li>
+                <li><a href="profile.html" id="profileLink">Profil</a></li>
+                <li><button id="languageToggle" class="language-toggle all" onclick="toggleLanguage()">🌍 Tous</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container">
+        <h1>⭐ Recommandations de séries</h1>
+
+        <!-- Séries populaires -->
+        <section style="margin-bottom: 50px;">
+            <div class="search-section">
+                <h2>🔥 Séries populaires</h2>
+                <div class="search-form">
+                    <div class="form-group">
+                        <label for="popularLanguage">Langue</label>
+                        <select id="popularLanguage" onchange="loadPopularSeries()">
+                            <option value="">Toutes</option>
+                            <option value="vf" selected>VF</option>
+                            <option value="vo">VO</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="popularTop">Nombre</label>
+                        <select id="popularTop" onchange="loadPopularSeries()">
+                            <option value="10">10</option>
+                            <option value="20" selected>20</option>
+                            <option value="50">50</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div id="popularSeries" class="series-grid"></div>
+        </section>
+
+        <!-- Recommandations personnalisées -->
+        <section id="userRecommendations" style="display: none; margin-bottom: 50px;">
+            <div class="search-section">
+                <h2>👤 Recommandations personnalisées</h2>
+                <p style="color: var(--text-secondary); margin-bottom: 20px;">
+                    Basées sur vos préférences et celles d'utilisateurs similaires
+                </p>
+                <div class="search-form">
+                    <div class="form-group">
+                        <label for="userSelect">Utilisateur</label>
+                        <select id="userSelect" onchange="loadUserRecommendations()">
+                            <option value="">Sélectionner un utilisateur</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="userRecType">Type</label>
+                        <select id="userRecType" onchange="loadUserRecommendations()">
+                            <option value="user">Collaboratives</option>
+                            <option value="hybrid">Hybrides (collaboratives + popularité)</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="userRecTop">Nombre</label>
+                        <select id="userRecTop" onchange="loadUserRecommendations()">
+                            <option value="10" selected>10</option>
+                            <option value="20">20</option>
+                            <option value="30">30</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div id="userRecResults" class="series-grid"></div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 TV Series - SAE501 Project</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+    <script>
+        // Charger les utilisateurs disponibles
+        async function loadUsers() {
+            try {
+                const users = await apiRequest('/api/users', { requireAuth: false });
+                const userSelect = document.getElementById('userSelect');
+                
+                users.forEach(user => {
+                    const option = document.createElement('option');
+                    option.value = user.id;
+                    option.textContent = `${user.username.charAt(0).toUpperCase() + user.username.slice(1)} (${user.num_ratings} notes)`;
+                    userSelect.appendChild(option);
+                });
+                
+                document.getElementById('userRecommendations').style.display = 'block';
+            } catch (error) {
+                console.error('Erreur chargement utilisateurs:', error);
+            }
+        }
+
+        // Charger les séries populaires
+        async function loadPopularSeries() {
+            const language = document.getElementById('popularLanguage').value;
+            const top = document.getElementById('popularTop').value;
+            const div = document.getElementById('popularSeries');
+            
+            div.innerHTML = showLoading();
+            
+            try {
+                let url = `/api/recommend/popularity?limit=${top}`;
+                if (language) {
+                    url += `&language=${language}`;
+                }
+                
+                const data = await apiRequest(url, { requireAuth: false });
+                const series = data.recommendations || [];
+                
+                if (series.length === 0) {
+                    div.innerHTML = showNoResults();
+                    return;
+                }
+                
+                div.innerHTML = series.map(s => createSeriesCard(s)).join('');
+            } catch (error) {
+                div.innerHTML = showError('Erreur lors du chargement des séries populaires.');
+            }
+        }
+
+        // Charger les recommandations utilisateur
+        async function loadUserRecommendations() {
+            const userId = document.getElementById('userSelect').value;
+            if (!userId) return;
+            
+            const type = document.getElementById('userRecType').value;
+            const top = document.getElementById('userRecTop').value;
+            const div = document.getElementById('userRecResults');
+            
+            div.innerHTML = showLoading();
+            
+            try {
+                const recType = type === 'user' ? 'collaborative' : 'hybrid';
+                const url = `/api/recommend/${recType}/${userId}?limit=${top}`;
+                const data = await apiRequest(url, { requireAuth: false });
+                const series = data.recommendations || [];
+                
+                if (series.length === 0) {
+                    div.innerHTML = showNoResults('Aucune recommandation disponible pour cet utilisateur.');
+                    return;
+                }
+                
+                div.innerHTML = series.map(s => createSeriesCard(s, { showRating: false })).join('');
+            } catch (error) {
+                console.error('Erreur recommandations:', error);
+                div.innerHTML = showError('Erreur lors du chargement des recommandations.');
+            }
+        }
+
+        // Initialisation
+        document.addEventListener('DOMContentLoaded', () => {
+            updateLanguageToggle();
+            loadUsers();
+            loadPopularSeries();
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "graystone",
+    "score": 986.9440390901434
+  },
+  {
+    "keyword": "vergis",
+    "score": 243.14655288012483
+  },
+  {
+    "keyword": "zoe",
+    "score": 217.42645737379695
+  },
+  {
+    "keyword": "caprica",
+    "score": 168.02604981063993
+  },
+  {
+    "keyword": "tauron",
+    "score": 158.51131722875706
+  },
+  {
+    "keyword": "gemenon",
+    "score": 151.9377803899472
+  },
+  {
+    "keyword": "tamara",
+    "score": 50.58027555448215
+  },
+  {
+    "keyword": "avatar",
+    "score": 42.49841137901611
+  },
+  {
+    "keyword": "lacy",
+    "score": 26.54138091621092
+  },
+  {
+    "keyword": "adama",
+    "score": 20.867203063532607
+  },
+  {
+    "keyword": "fille",
+    "score": 19.46360678905179
+  },
+  {
+    "keyword": "attentat",
+    "score": 12.057810217520208
+  },
+  {
+    "keyword": "vraiment",
+    "score": 11.595856481749593
+  },
+  {
+    "keyword": "monde",
+    "score": 11.21962566340514
+  },
+  {
+    "keyword": "lords kobol",
+    "score": 9.494094975319566
+  },
+  {
+    "keyword": "kobol",
+    "score": 9.494094975319566
+  },
+  {
+    "keyword": "virtuel",
+    "score": 8.810127656062349
+  },
+  {
+    "keyword": "dieu",
+    "score": 8.086414119350204
+  },
+  {
+    "keyword": "dieux",
+    "score": 7.905216860675649
+  },
+  {
+    "keyword": "peu",
+    "score": 7.718532933351388
+  },
+  {
+    "keyword": "ministre",
+    "score": 6.720569105141327
+  },
+  {
+    "keyword": "voir",
+    "score": 6.519192718202435
+  },
+  {
+    "keyword": "fais",
+    "score": 4.980534902964674
+  },
+  {
+    "keyword": "besoin",
+    "score": 4.971048255168104
+  },
+  {
+    "keyword": "merci",
+    "score": 4.708539738464857
+  },
+  {
+    "keyword": "crois",
+    "score": 4.324464802792298
+  },
+  {
+    "keyword": "vie",
+    "score": 4.2575633620784386
+  },
+  {
+    "keyword": "virtuelle",
+    "score": 4.222790973707446
+  },
+  {
+    "keyword": "mort",
+    "score": 4.074038129869581
+  },
+  {
+    "keyword": "faut",
+    "score": 3.770358456051255
+  },
+  {
+    "keyword": "desole",
+    "score": 3.620886689108359
+  },
+  {
+    "keyword": "jeu",
+    "score": 3.439965253834467
+  },
+  {
+    "keyword": "peut etre",
+    "score": 3.2939444837443657
+  },
+  {
+    "keyword": "passe",
+    "score": 3.2766355991895284
+  },
+  {
+    "keyword": "nestor",
+    "score": 3.27546787474203
+  },
+  {
+    "keyword": "robot",
+    "score": 3.2408050171396137
+  },
+  {
+    "keyword": "terroriste",
+    "score": 3.226184464584018
+  },
+  {
+    "keyword": "trouver",
+    "score": 3.202569818275306
+  },
+  {
+    "keyword": "deux",
+    "score": 3.086744634103485
+  },
+  {
+    "keyword": "bon",
+    "score": 2.9074774957753284
+  },
+  {
+    "keyword": "vrai",
+    "score": 2.6064526189254837
+  },
+  {
+    "keyword": "processeur",
+    "score": 2.585162226562165
+  },
+  {
+    "keyword": "tomas",
+    "score": 2.5336923177981046
+  },
+  {
+    "keyword": "temps",
+    "score": 2.5237621329981126
+  },
+  {
+    "keyword": "reel",
+    "score": 2.4044881481093325
+  },
+  {
+    "keyword": "stark",
+    "score": 2.3828489728288056
+  },
+  {
+    "keyword": "trouve",
+    "score": 2.265247781969131
+  },
+  {
+    "keyword": "aider",
+    "score": 2.2285912701531227
+  },
+  {
+    "keyword": "morte",
+    "score": 2.204152084775818
+  },
+  {
+    "keyword": "rand",
+    "score": 2.181903345613454
+  },
+  {
+    "keyword": "parle",
+    "score": 2.074492750057834
+  },
+  {
+    "keyword": "gens",
+    "score": 1.9913902758107018
+  },
+  {
+    "keyword": "aime",
+    "score": 1.9907920957249403
+  },
+  {
+    "keyword": "ecole",
+    "score": 1.9819911159374997
+  },
+  {
+    "keyword": "desolee",
+    "score": 1.9396192272494954
+  },
+  {
+    "keyword": "quelque chose",
+    "score": 1.9081340460790683
+  },
+  {
+    "keyword": "reste",
+    "score": 1.8772563916505436
+  },
+  {
+    "keyword": "parler",
+    "score": 1.8772563916505436
+  },
+  {
+    "keyword": "savoir",
+    "score": 1.8772563916505436
+  },
+  {
+    "keyword": "amanda",
+    "score": 1.87703991457902
+  },
+  {
+    "keyword": "labo",
+    "score": 1.833234619475277
+  },
+  {
+    "keyword": "juste",
+    "score": 1.8245217398776623
+  },
+  {
+    "keyword": "lords",
+    "score": 1.8058920750238077
+  },
+  {
+    "keyword": "depuis",
+    "score": 1.7951759372184293
+  },
+  {
+    "keyword": "cylon",
+    "score": 1.7787424902420141
+  },
+  {
+    "keyword": "donnees",
+    "score": 1.6739023317702462
+  },
+  {
+    "keyword": "maintenant",
+    "score": 1.5792972496988893
+  },
+  {
+    "keyword": "pere",
+    "score": 1.552959424423117
+  },
+  {
+    "keyword": "quelqu",
+    "score": 1.552959424423117
+  },
+  {
+    "keyword": "mieux",
+    "score": 1.5033319660454245
+  },
+  {
+    "keyword": "pense",
+    "score": 1.5033319660454245
+  },
+  {
+    "keyword": "daniel",
+    "score": 1.4806367461000691
+  },
+  {
+    "keyword": "faites",
+    "score": 1.4748323270643269
+  },
+  {
+    "keyword": "vue",
+    "score": 1.4748323270643269
+  },
+  {
+    "keyword": "viens",
+    "score": 1.4509664131214959
+  },
+  {
+    "keyword": "soeur",
+    "score": 1.3965297676676358
+  },
+  {
+    "keyword": "athena",
+    "score": 1.3670261842745934
+  },
+  {
+    "keyword": "monde reel",
+    "score": 1.3442531840729144
+  },
+  {
+    "keyword": "connais",
+    "score": 1.3302521699367518
+  },
+  {
+    "keyword": "vole",
+    "score": 1.3194981074546948
+  },
+  {
+    "keyword": "papa",
+    "score": 1.3048175237059136
+  },
+  {
+    "keyword": "savais",
+    "score": 1.2980112518262998
+  },
+  {
+    "keyword": "perturbee",
+    "score": 1.2915583619913553
+  },
+  {
+    "keyword": "ans",
+    "score": 1.2756527302125735
+  },
+  {
+    "keyword": "nom",
+    "score": 1.216421684646287
+  },
+  {
+    "keyword": "accord",
+    "score": 1.2082538982366562
+  },
+  {
+    "keyword": "vois",
+    "score": 1.182771161323359
+  },
+  {
+    "keyword": "partie",
+    "score": 1.182771161323359
+  },
+  {
+    "keyword": "contrat",
+    "score": 1.176335803463448
+  },
+  {
+    "keyword": "parce",
+    "score": 1.163631416260682
+  },
+  {
+    "keyword": "www sous",
+    "score": 1.1561622691312674
+  },
+  {
+    "keyword": "pyramide",
+    "score": 1.1561622691312674
+  },
+  {
+    "keyword": "aide",
+    "score": 1.1557777979471848
+  },
+  {
+    "keyword": "attends",
+    "score": 1.1222278727023738
+  },
+  {
+    "keyword": "devrais",
+    "score": 1.1098366121741188
+  },
+  {
+    "keyword": "seule",
+    "score": 1.0918210108060986
+  },
+  {
+    "keyword": "seul",
+    "score": 1.0918210108060986
+  },
+  {
+    "keyword": "personne",
+    "score": 1.0741530320083048
+  },
+  {
+    "keyword": "jusqu",
+    "score": 1.0741530320083048
+  },
+  {
+    "keyword": "willie",
+    "score": 1.054242673278691
+  },
+  {
+    "keyword": "femme",
+    "score": 1.0532036663156537
+  },
+  {
+    "keyword": "fille morte",
+    "score": 1.040028833683981
+  },
+  {
+    "keyword": "sens",
+    "score": 1.0394675133362687
+  },
+  {
+    "keyword": "puce",
+    "score": 1.015400325384786
+  },
+  {
+    "keyword": "maison",
+    "score": 0.9907425819294241
+  },
+  {
+    "keyword": "truc",
+    "score": 0.9878706070816525
+  },
+  {
+    "keyword": "pourrait",
+    "score": 0.9878706070816525
+  },
+  {
+    "keyword": "souviens",
+    "score": 0.9878706070816525
+  },
+  {
+    "keyword": "merde",
+    "score": 0.9878706070816525
+  },
+  {
+    "keyword": "coeur",
+    "score": 0.9878706070816525
+  },
+  {
+    "keyword": "comprends",
+    "score": 0.9878706070816525
+  },
+  {
+    "keyword": "fois",
+    "score": 0.9563015224909828
+  },
+  {
+    "keyword": "porte",
+    "score": 0.9409664806784339
+  },
+  {
+    "keyword": "promis",
+    "score": 0.9196966705039994
+  },
+  {
+    "keyword": "tha",
+    "score": 0.8813054532730403
+  },
+  {
+    "keyword": "probleme",
+    "score": 0.8758991580366217
+  },
+  {
+    "keyword": "bonjour",
+    "score": 0.860618202561553
+  },
+  {
+    "keyword": "premier ministre",
+    "score": 0.8586043675329249
+  },
+  {
+    "keyword": "dis",
+    "score": 0.8542950105288837
+  },
+  {
+    "keyword": "regarde",
+    "score": 0.8385850269893353
+  },
+  {
+    "keyword": "idee",
+    "score": 0.8250149433122899
+  },
+  {
+    "keyword": "academie",
+    "score": 0.8051364482516504
+  },
+  {
+    "keyword": "entre",
+    "score": 0.7986501883056261
+  },
+  {
+    "keyword": "soldats",
+    "score": 0.79783706149333
+  },
+  {
+    "keyword": "tue deux",
+    "score": 0.7819427460157664
+  },
+  {
+    "keyword": "perdu",
+    "score": 0.7733725109347671
+  },
+  {
+    "keyword": "donne",
+    "score": 0.773278594153212
+  },
+  {
+    "keyword": "societe",
+    "score": 0.7647183419961049
+  },
+  {
+    "keyword": "famille",
+    "score": 0.7608186172236089
+  },
+  {
+    "keyword": "arrete",
+    "score": 0.7608186172236089
+  },
+  {
+    "keyword": "programme",
+    "score": 0.748853801574977
+  },
+  {
+    "keyword": "laisse",
+    "score": 0.7485069589343541
+  },
+  {
+    "keyword": "lace",
+    "score": 0.7384556457112386
+  },
+  {
+    "keyword": "soir",
+    "score": 0.7364316915022503
+  },
+  {
+    "keyword": "ainsi",
+    "score": 0.7331064207657813
+  },
+  {
+    "keyword": "voiture",
+    "score": 0.7331064207657813
+  },
+  {
+    "keyword": "homme",
+    "score": 0.7245871466290666
+  },
+  {
+    "keyword": "copie",
+    "score": 0.7159121020819755
+  },
+  {
+    "keyword": "amie",
+    "score": 0.7093108368529167
+  },
+  {
+    "keyword": "bas",
+    "score": 0.7015683941370265
+  },
+  {
+    "keyword": "vient",
+    "score": 0.6864338324151802
+  },
+  {
+    "keyword": "entreprise",
+    "score": 0.6855624431491276
+  },
+  {
+    "keyword": "ben",
+    "score": 0.6700595683723796
+  },
+  {
+    "keyword": "adams",
+    "score": 0.6555389637248826
+  },
+  {
+    "keyword": "morte morte",
+    "score": 0.6527802156844551
+  },
+  {
+    "keyword": "petit",
+    "score": 0.6476935776436322
+  },
+  {
+    "keyword": "bonne",
+    "score": 0.6432613844872019
+  },
+  {
+    "keyword": "chambre",
+    "score": 0.635981533192624
+  },
+  {
+    "keyword": "copier",
+    "score": 0.6228835492463821
+  },
+  {
+    "keyword": "demain",
+    "score": 0.6154695776419107
+  },
+  {
+    "keyword": "sortir",
+    "score": 0.6154695776419107
+  },
+  {
+    "keyword": "raison",
+    "score": 0.6129832615534234
+  },
+  {
+    "keyword": "tammy",
+    "score": 0.6100497677407237
+  },
+  {
+    "keyword": "prendre",
+    "score": 0.6055099749773349
+  },
+  {
+    "keyword": "pensais",
+    "score": 0.5662299053971966
+  },
+  {
+    "keyword": "prie",
+    "score": 0.5662299053971966
+  },
+  {
+    "keyword": "entrer",
+    "score": 0.5662299053971966
+  },
+  {
+    "keyword": "plait",
+    "score": 0.557306287357363
+  },
+  {
+    "keyword": "tant",
+    "score": 0.5570093539155289
+  },
+  {
+    "keyword": "ecoute",
+    "score": 0.5479676099612156
+  },
+  {
+    "keyword": "tard",
+    "score": 0.540899755020875
+  },
+  {
+    "keyword": "tout monde",
+    "score": 0.5391003322491622
+  },
+  {
+    "keyword": "bienvenue",
+    "score": 0.5391003322491622
+  },
+  {
+    "keyword": "amis",
+    "score": 0.5323489543007816
+  },
+  {
+    "keyword": "equipe",
+    "score": 0.5084080769915904
+  },
+  {
+    "keyword": "beaucoup",
+    "score": 0.507630953529443
+  },
+  {
+    "keyword": "essaie",
+    "score": 0.500102471454758
+  },
+  {
+    "keyword": "effet",
+    "score": 0.500102471454758
+  },
+  {
+    "keyword": "bombe",
+    "score": 0.496700147451733
+  },
+  {
+    "keyword": "unique",
+    "score": 0.496422341198205
+  },
+  {
+    "keyword": "colonies",
+    "score": 0.4961383791120621
+  },
+  {
+    "keyword": "corps",
+    "score": 0.49395278761596806
+  },
+  {
+    "keyword": "aucune",
+    "score": 0.49195874654689875
+  },
+  {
+    "keyword": "rester",
+    "score": 0.49195874654689875
+  },
+  {
+    "keyword": "seulement",
+    "score": 0.49195874654689875
+  },
+  {
+    "keyword": "logiciel",
+    "score": 0.48811212311944135
+  },
+  {
+    "keyword": "ecoutez",
+    "score": 0.48397294704264765
+  },
+  {
+    "keyword": "devrait",
+    "score": 0.48397294704264765
+  },
+  {
+    "keyword": "celui",
+    "score": 0.47614123865599345
+  },
+  {
+    "keyword": "calme",
+    "score": 0.47614123865599345
+  },
+  {
+    "keyword": "tue",
+    "score": 0.46845990353466094
+  },
+  {
+    "keyword": "tres bien",
+    "score": 0.46845990353466094
+  },
+  {
+    "keyword": "peur",
+    "score": 0.46845990353466094
+  },
+  {
+    "keyword": "mois",
+    "score": 0.46845990353466094
+  },
+  {
+    "keyword": "nuit",
+    "score": 0.46845990353466094
+  },
+  {
+    "keyword": "commence",
+    "score": 0.46805720120271177
+  },
+  {
+    "keyword": "cree",
+    "score": 0.4676095168624774
+  },
+  {
+    "keyword": "tele",
+    "score": 0.4676095168624774
+  },
+  {
+    "keyword": "heure",
+    "score": 0.4609253359532675
+  },
+  {
+    "keyword": "responsable",
+    "score": 0.45989423190544415
+  },
+  {
+    "keyword": "trinite",
+    "score": 0.45686565112374383
+  },
+  {
+    "keyword": "trois",
+    "score": 0.4535340381951139
+  },
+  {
+    "keyword": "frere",
+    "score": 0.4535340381951139
+  },
+  {
+    "keyword": "ramener",
+    "score": 0.44491803598010005
+  },
+  {
+    "keyword": "the",
+    "score": 0.44491803598010005
+  },
+  {
+    "keyword": "appel",
+    "score": 0.44491803598010005
+  },
+  {
+    "keyword": "nouveau",
+    "score": 0.4391677778604138
+  },
+  {
+    "keyword": "aimerais",
+    "score": 0.43764963512199545
+  },
+  {
+    "keyword": "creer",
+    "score": 0.43297850382036934
+  },
+  {
+    "keyword": "devant",
+    "score": 0.4305228992270682
+  }
+]

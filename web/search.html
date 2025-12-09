@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recherche - TV Series</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <a href="index.html" class="logo">📺 TV Series</a>
+            <ul class="nav-links">
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="search.html" class="active">Recherche</a></li>
+                <li><a href="recommendations.html">Recommandations</a></li>
+                <li><a href="series.html">Séries</a></li>
+                <li><a href="profile.html" id="profileLink">Profil</a></li>
+                <li><button id="languageToggle" class="language-toggle all" onclick="toggleLanguage()">🌍 Tous</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container">
+        <section class="search-section">
+            <h2>🔍 Rechercher des séries</h2>
+            <form class="search-form" onsubmit="performSearch(event)">
+                <div class="form-group">
+                    <label for="searchType">Type de recherche</label>
+                    <select id="searchType" onchange="updateSearchPlaceholder()">
+                        <option value="keywords">Par mots-clés (TF-IDF)</option>
+                        <option value="title">Par nom de série</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label for="searchQuery">Recherche</label>
+                    <input type="text" id="searchQuery" placeholder="Ex: crash avion ile" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="searchLanguage">Langue</label>
+                    <select id="searchLanguage">
+                        <option value="">Toutes</option>
+                        <option value="vf">VF (Version Française)</option>
+                        <option value="vo">VO (Version Originale)</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label for="searchTop">Nombre de résultats</label>
+                    <select id="searchTop">
+                        <option value="10">10</option>
+                        <option value="20">20</option>
+                        <option value="50">50</option>
+                    </select>
+                </div>
+                
+                <button type="submit" class="btn btn-primary">Rechercher</button>
+            </form>
+        </section>
+
+        <section id="resultsSection" style="display: none;">
+            <h2>Résultats de recherche</h2>
+            <div id="searchResults" class="series-grid"></div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 TV Series - SAE501 Project</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+    <script>
+        function updateSearchPlaceholder() {
+            const type = document.getElementById('searchType').value;
+            const input = document.getElementById('searchQuery');
+            if (type === 'title') {
+                input.placeholder = 'Ex: lost, breaking bad, friends';
+            } else {
+                input.placeholder = 'Ex: crash avion ile';
+            }
+        }
+        
+        // Charger la recherche depuis l'URL si présente
+        document.addEventListener('DOMContentLoaded', () => {
+            updateLanguageToggle();
+            const params = getUrlParams();
+            if (params.q) {
+                document.getElementById('searchQuery').value = params.q;
+                if (params.type) {
+                    document.getElementById('searchType').value = params.type;
+                    updateSearchPlaceholder();
+                }
+                if (params.language) {
+                    document.getElementById('searchLanguage').value = params.language;
+                }
+                if (params.top) {
+                    document.getElementById('searchTop').value = params.top;
+                }
+                performSearch(null, params.q);
+            }
+        });
+
+        async function performSearch(event, queryOverride = null) {
+            if (event) event.preventDefault();
+            
+            const query = queryOverride || document.getElementById('searchQuery').value;
+            const searchType = document.getElementById('searchType').value;
+            const language = document.getElementById('searchLanguage').value;
+            const top = document.getElementById('searchTop').value;
+            
+            const resultsSection = document.getElementById('resultsSection');
+            const resultsDiv = document.getElementById('searchResults');
+            
+            resultsSection.style.display = 'block';
+            resultsDiv.innerHTML = showLoading();
+            
+            try {
+                let url, data, results;
+                
+                if (searchType === 'title') {
+                    // Recherche par nom de série
+                    url = `/api/series/search?query=${encodeURIComponent(query)}`;
+                    if (language) url += `&language=${language}`;
+                    if (top) url += `&limit=${top}`;
+                    
+                    const response = await apiRequest(url, { requireAuth: false });
+                    results = response.series || response || [];
+                } else {
+                    // Recherche TF-IDF par mots-clés
+                    url = `/api/search?q=${encodeURIComponent(query)}&limit=${top}`;
+                    if (language) url += `&language=${language}`;
+                    
+                    data = await apiRequest(url, { requireAuth: false });
+                    results = data.results || [];
+                }
+                
+                if (results.length === 0) {
+                    resultsDiv.innerHTML = showNoResults('Aucune série trouvée pour ces critères.');
+                    return;
+                }
+                
+                resultsDiv.innerHTML = results.map(s => createSeriesCard(s, { showRating: false })).join('');
+                
+                // Mettre à jour l'URL sans recharger la page
+                const newUrl = `search.html?q=${encodeURIComponent(query)}&type=${searchType}${language ? '&language=' + language : ''}&top=${top}`;
+                window.history.pushState({}, '', newUrl);
+                
+            } catch (error) {
+                resultsDiv.innerHTML = showError('Erreur lors de la recherche. Veuillez réessayer.');
+            }
+        }
+    </script>
+</body>
+</html>

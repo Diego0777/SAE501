@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "lana",
+    "score": 3260.5824162333374
+  },
+  {
+    "keyword": "lex",
+    "score": 2058.6155412361168
+  },
+  {
+    "keyword": "clark",
+    "score": 1603.4321842900356
+  },
+  {
+    "keyword": "smallville",
+    "score": 1160.2126270968338
+  },
+  {
+    "keyword": "luthor",
+    "score": 786.1758695286039
+  },
+  {
+    "keyword": "luthorcorp",
+    "score": 515.5763841373082
+  },
+  {
+    "keyword": "chloe",
+    "score": 490.25493077314013
+  },
+  {
+    "keyword": "metropolis",
+    "score": 344.79059758406027
+  },
+  {
+    "keyword": "kent",
+    "score": 214.23533687162595
+  },
+  {
+    "keyword": "meteor",
+    "score": 131.69313475574944
+  },
+  {
+    "keyword": "zod",
+    "score": 125.66095653746022
+  },
+  {
+    "keyword": "clark kent",
+    "score": 119.89271471112531
+  },
+  {
+    "keyword": "lionel luthor",
+    "score": 114.52296501326529
+  },
+  {
+    "keyword": "really",
+    "score": 103.34108183950026
+  },
+  {
+    "keyword": "lex luthor",
+    "score": 98.13025702627502
+  },
+  {
+    "keyword": "kryptonian",
+    "score": 95.08808432502228
+  },
+  {
+    "keyword": "never",
+    "score": 92.64463610145958
+  },
+  {
+    "keyword": "jor",
+    "score": 92.26148476212151
+  },
+  {
+    "keyword": "dad",
+    "score": 91.2190094306064
+  },
+  {
+    "keyword": "lionel",
+    "score": 90.71790756806183
+  },
+  {
+    "keyword": "mrs kent",
+    "score": 88.21639339632341
+  },
+  {
+    "keyword": "clark know",
+    "score": 85.41122741738452
+  },
+  {
+    "keyword": "something",
+    "score": 81.7427221358786
+  },
+  {
+    "keyword": "kal",
+    "score": 72.69020606515619
+  },
+  {
+    "keyword": "clark clark",
+    "score": 72.21507727197042
+  },
+  {
+    "keyword": "find",
+    "score": 67.71321632937648
+  },
+  {
+    "keyword": "thought",
+    "score": 65.44676428542066
+  },
+  {
+    "keyword": "lana lang",
+    "score": 61.123893188554426
+  },
+  {
+    "keyword": "meteor rocks",
+    "score": 56.82891508604844
+  },
+  {
+    "keyword": "father",
+    "score": 56.16237216276514
+  },
+  {
+    "keyword": "okay clark",
+    "score": 54.715614627201056
+  },
+  {
+    "keyword": "daily planet",
+    "score": 53.135976308478604
+  },
+  {
+    "keyword": "lana know",
+    "score": 52.637982433857445
+  },
+  {
+    "keyword": "said",
+    "score": 52.2900242047139
+  },
+  {
+    "keyword": "son",
+    "score": 50.654664739464735
+  },
+  {
+    "keyword": "happened",
+    "score": 49.604449808638655
+  },
+  {
+    "keyword": "know clark",
+    "score": 48.09877918936178
+  },
+  {
+    "keyword": "rickman",
+    "score": 47.39145307956909
+  },
+  {
+    "keyword": "anything",
+    "score": 46.255586337389396
+  },
+  {
+    "keyword": "nao",
+    "score": 45.8701240392261
+  },
+  {
+    "keyword": "whitney",
+    "score": 45.058924593161564
+  },
+  {
+    "keyword": "lois",
+    "score": 44.68959640648162
+  },
+  {
+    "keyword": "say",
+    "score": 42.98453369017386
+  },
+  {
+    "keyword": "mean",
+    "score": 42.960135184526216
+  },
+  {
+    "keyword": "luthors",
+    "score": 39.31799947084246
+  },
+  {
+    "keyword": "told",
+    "score": 37.92921938439385
+  },
+  {
+    "keyword": "even",
+    "score": 37.37581348973778
+  },
+  {
+    "keyword": "life",
+    "score": 36.98838517124781
+  },
+  {
+    "keyword": "believe",
+    "score": 36.57657004456342
+  },
+  {
+    "keyword": "meteor shower",
+    "score": 36.19902166423386
+  },
+  {
+    "keyword": "lex lex",
+    "score": 35.825166818416854
+  },
+  {
+    "keyword": "still",
+    "score": 34.7769739870188
+  },
+  {
+    "keyword": "meteor rock",
+    "score": 34.72622784597016
+  },
+  {
+    "keyword": "ever",
+    "score": 34.37036913016173
+  },
+  {
+    "keyword": "mom",
+    "score": 33.73959677467463
+  },
+  {
+    "keyword": "someone",
+    "score": 33.64279900161326
+  },
+  {
+    "keyword": "last",
+    "score": 32.781100878701054
+  },
+  {
+    "keyword": "everything",
+    "score": 32.35065212847943
+  },
+  {
+    "keyword": "way",
+    "score": 32.18299564541885
+  },
+  {
+    "keyword": "nell",
+    "score": 31.884907235929735
+  },
+  {
+    "keyword": "hey clark",
+    "score": 31.659127269381788
+  },
+  {
+    "keyword": "found",
+    "score": 31.500231406564136
+  },
+  {
+    "keyword": "wanted",
+    "score": 31.381295113435762
+  },
+  {
+    "keyword": "lex know",
+    "score": 31.09450587692908
+  },
+  {
+    "keyword": "right clark",
+    "score": 31.09450587692908
+  },
+  {
+    "keyword": "always",
+    "score": 30.761471269291608
+  },
+  {
+    "keyword": "give",
+    "score": 30.49694624748538
+  },
+  {
+    "keyword": "much",
+    "score": 30.188848624587838
+  },
+  {
+    "keyword": "guess",
+    "score": 29.595977921067746
+  },
+  {
+    "keyword": "chloe sullivan",
+    "score": 27.64216092716723
+  },
+  {
+    "keyword": "better",
+    "score": 27.07168534020295
+  },
+  {
+    "keyword": "thanks",
+    "score": 26.445246556621328
+  },
+  {
+    "keyword": "clark lana",
+    "score": 26.311971440304397
+  },
+  {
+    "keyword": "keep",
+    "score": 25.499586328324607
+  },
+  {
+    "keyword": "clark okay",
+    "score": 25.354713223607394
+  },
+  {
+    "keyword": "kind",
+    "score": 25.261050689102976
+  },
+  {
+    "keyword": "krypton",
+    "score": 25.147419782048214
+  },
+  {
+    "keyword": "lana lana",
+    "score": 23.945911391383472
+  },
+  {
+    "keyword": "green arrow",
+    "score": 23.88595586633267
+  },
+  {
+    "keyword": "away",
+    "score": 23.844328229480922
+  },
+  {
+    "keyword": "trying",
+    "score": 23.67671397318588
+  },
+  {
+    "keyword": "nothing",
+    "score": 23.27491951311598
+  },
+  {
+    "keyword": "little",
+    "score": 22.88642168916114
+  },
+  {
+    "keyword": "please",
+    "score": 20.652218276420214
+  },
+  {
+    "keyword": "thank",
+    "score": 19.932163091571447
+  },
+  {
+    "keyword": "saw",
+    "score": 19.881150615297692
+  },
+  {
+    "keyword": "warrior angel",
+    "score": 19.523091895832934
+  },
+  {
+    "keyword": "lana clark",
+    "score": 19.523091895832934
+  },
+  {
+    "keyword": "talk",
+    "score": 19.154391427182347
+  },
+  {
+    "keyword": "looking",
+    "score": 19.11945578660998
+  },
+  {
+    "keyword": "miss sullivan",
+    "score": 19.10279271184041
+  },
+  {
+    "keyword": "understand",
+    "score": 18.81006245554212
+  },
+  {
+    "keyword": "lang",
+    "score": 18.753085811170983
+  },
+  {
+    "keyword": "first",
+    "score": 18.461140976085368
+  },
+  {
+    "keyword": "friend",
+    "score": 18.086139810090682
+  },
+  {
+    "keyword": "work",
+    "score": 17.782752068903697
+  },
+  {
+    "keyword": "call",
+    "score": 17.644847065935824
+  },
+  {
+    "keyword": "around",
+    "score": 17.398434238432415
+  },
+  {
+    "keyword": "watchtower",
+    "score": 17.165100132733894
+  },
+  {
+    "keyword": "remember",
+    "score": 16.72320627976475
+  },
+  {
+    "keyword": "actually",
+    "score": 16.43037646848318
+  },
+  {
+    "keyword": "belle reve",
+    "score": 16.35388739909358
+  },
+  {
+    "keyword": "wait",
+    "score": 15.905190801481355
+  },
+  {
+    "keyword": "lex clark",
+    "score": 15.677025443193303
+  },
+  {
+    "keyword": "clark chloe",
+    "score": 15.158333604520104
+  },
+  {
+    "keyword": "else",
+    "score": 15.064409999092872
+  },
+  {
+    "keyword": "anyone",
+    "score": 15.006323773955069
+  },
+  {
+    "keyword": "day",
+    "score": 14.937392422779148
+  },
+  {
+    "keyword": "made",
+    "score": 14.813994109513052
+  },
+  {
+    "keyword": "done",
+    "score": 14.323315883136992
+  },
+  {
+    "keyword": "hurt",
+    "score": 14.286240493262781
+  },
+  {
+    "keyword": "feel",
+    "score": 13.96766389798976
+  },
+  {
+    "keyword": "kara",
+    "score": 13.741034988442388
+  },
+  {
+    "keyword": "wrong",
+    "score": 13.585150036517081
+  },
+  {
+    "keyword": "stay",
+    "score": 13.437419609584506
+  },
+  {
+    "keyword": "meteors",
+    "score": 13.425123868122322
+  },
+  {
+    "keyword": "seen",
+    "score": 13.354124717000378
+  },
+  {
+    "keyword": "jodi",
+    "score": 13.325051327513787
+  },
+  {
+    "keyword": "jonathan kent",
+    "score": 13.161574292494391
+  },
+  {
+    "keyword": "oliver",
+    "score": 13.140662794453595
+  },
+  {
+    "keyword": "great",
+    "score": 12.80299215403242
+  },
+  {
+    "keyword": "talon",
+    "score": 12.784912927724855
+  },
+  {
+    "keyword": "years",
+    "score": 12.594794071123559
+  },
+  {
+    "keyword": "night",
+    "score": 12.502150989453767
+  },
+  {
+    "keyword": "talking",
+    "score": 12.328557891427788
+  },
+  {
+    "keyword": "kill",
+    "score": 12.213036443179579
+  },
+  {
+    "keyword": "knew",
+    "score": 12.058962576744886
+  },
+  {
+    "keyword": "tess",
+    "score": 11.968042313094456
+  },
+  {
+    "keyword": "getting",
+    "score": 11.726622090229705
+  },
+  {
+    "keyword": "sure",
+    "score": 11.620509370330474
+  },
+  {
+    "keyword": "put",
+    "score": 11.515951014238162
+  },
+  {
+    "keyword": "save",
+    "score": 11.108763396426374
+  },
+  {
+    "keyword": "blur",
+    "score": 11.06704150589844
+  },
+  {
+    "keyword": "heard",
+    "score": 10.958108750296255
+  },
+  {
+    "keyword": "que",
+    "score": 10.948172464789511
+  },
+  {
+    "keyword": "together",
+    "score": 10.913561532816376
+  },
+  {
+    "keyword": "jonathan",
+    "score": 10.887682511731033
+  },
+  {
+    "keyword": "trust",
+    "score": 10.871162009966975
+  },
+  {
+    "keyword": "went",
+    "score": 10.739067825682085
+  },
+  {
+    "keyword": "exactly",
+    "score": 10.722856678268258
+  },
+  {
+    "keyword": "idea",
+    "score": 10.56311301488884
+  },
+  {
+    "keyword": "worry",
+    "score": 10.471231532672473
+  },
+  {
+    "keyword": "since",
+    "score": 10.302304684910743
+  },
+  {
+    "keyword": "came",
+    "score": 10.279141771123319
+  },
+  {
+    "keyword": "god",
+    "score": 10.24338053167172
+  },
+  {
+    "keyword": "world",
+    "score": 10.21444274149642
+  },
+  {
+    "keyword": "care",
+    "score": 10.194132522768719
+  },
+  {
+    "keyword": "farm",
+    "score": 9.968420640559392
+  },
+  {
+    "keyword": "leave",
+    "score": 9.914393690909506
+  },
+  {
+    "keyword": "already",
+    "score": 9.81004201829933
+  },
+  {
+    "keyword": "abilities",
+    "score": 9.806061713527203
+  },
+  {
+    "keyword": "enough",
+    "score": 9.683026887221303
+  },
+  {
+    "keyword": "looks",
+    "score": 9.662997737124064
+  },
+  {
+    "keyword": "lois lane",
+    "score": 9.630105717488119
+  },
+  {
+    "keyword": "ask",
+    "score": 9.518445623692038
+  },
+  {
+    "keyword": "name",
+    "score": 9.490778893818458
+  },
+  {
+    "keyword": "friends",
+    "score": 9.442858086481287
+  },
+  {
+    "keyword": "person",
+    "score": 9.215337813884897
+  },
+  {
+    "keyword": "another",
+    "score": 9.137080921993329
+  },
+  {
+    "keyword": "try",
+    "score": 9.052109817058863
+  },
+  {
+    "keyword": "home",
+    "score": 9.03610840422546
+  },
+  {
+    "keyword": "whole",
+    "score": 8.861320868543086
+  },
+  {
+    "keyword": "hear",
+    "score": 8.721914297595992
+  },
+  {
+    "keyword": "planet",
+    "score": 8.70946285837239
+  },
+  {
+    "keyword": "family",
+    "score": 8.544527406347902
+  },
+  {
+    "keyword": "used",
+    "score": 8.354418128111433
+  },
+  {
+    "keyword": "love",
+    "score": 8.32663873429634
+  },
+  {
+    "keyword": "story",
+    "score": 8.259795681968237
+  },
+  {
+    "keyword": "mother",
+    "score": 8.14032532522146
+  },
+  {
+    "keyword": "whatever",
+    "score": 8.101248021056936
+  },
+  {
+    "keyword": "inquisitor",
+    "score": 8.077856309438108
+  },
+  {
+    "keyword": "truth",
+    "score": 8.055701865730533
+  },
+  {
+    "keyword": "summerholt",
+    "score": 7.93812619640008
+  },
+  {
+    "keyword": "took",
+    "score": 7.791437836141474
+  },
+  {
+    "keyword": "pretty",
+    "score": 7.531993719965201
+  },
+  {
+    "keyword": "called",
+    "score": 7.476206203167315
+  },
+  {
+    "keyword": "lot",
+    "score": 7.316827523630732
+  },
+  {
+    "keyword": "next",
+    "score": 7.297899150476446
+  },
+  {
+    "keyword": "without",
+    "score": 7.256634695520276
+  },
+  {
+    "keyword": "school",
+    "score": 7.230196797953512
+  },
+  {
+    "keyword": "mind",
+    "score": 7.045518842624012
+  },
+  {
+    "keyword": "left",
+    "score": 7.045518842624012
+  },
+  {
+    "keyword": "looks like",
+    "score": 6.858627800117478
+  },
+  {
+    "keyword": "problem",
+    "score": 6.601204503038085
+  },
+  {
+    "keyword": "ago",
+    "score": 6.565304961544369
+  },
+  {
+    "keyword": "kryptonite",
+    "score": 6.508192241324137
+  },
+  {
+    "keyword": "martha",
+    "score": 6.5073339759768825
+  },
+  {
+    "keyword": "may",
+    "score": 6.468781179530759
+  },
+  {
+    "keyword": "yet",
+    "score": 6.240282836141578
+  },
+  {
+    "keyword": "listen",
+    "score": 6.221283703260898
+  },
+  {
+    "keyword": "best",
+    "score": 6.136302789779055
+  },
+  {
+    "keyword": "matter",
+    "score": 6.090040487051913
+  },
+  {
+    "keyword": "tried",
+    "score": 6.074091202689905
+  },
+  {
+    "keyword": "coming",
+    "score": 5.879230048614014
+  },
+  {
+    "keyword": "pete",
+    "score": 5.869321203313263
+  },
+  {
+    "keyword": "brainiac",
+    "score": 5.838883735130494
+  },
+  {
+    "keyword": "nice",
+    "score": 5.837789371127646
+  },
+  {
+    "keyword": "sullivan",
+    "score": 5.81685494301391
+  },
+  {
+    "keyword": "phelan",
+    "score": 5.816513507188979
+  },
+  {
+    "keyword": "gone",
+    "score": 5.801690194681468
+  }
+]

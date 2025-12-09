@@ -1,0 +1,200 @@
+colonel young	237.357204
+vaisseau	213.028208
+telford	142.352520
+kino	108.404159
+hyperespace	73.435092
+eli	44.992261
+colonel	42.405419
+destiny	27.518063
+rush	24.017989
+chevron	22.171291
+planete	22.012489
+porte	18.019725
+temps	15.451521
+greer	14.354494
+passe	13.012055
+porte etoiles	11.739705
+peut etre	11.614432
+navette	11.556890
+ftl	10.022017
+young	9.904675
+faut	9.762232
+vraiment	8.712851
+besoin	8.174343
+energie	7.970923
+terre	7.556075
+peu	7.556075
+boucliers	7.331669
+hyperpropulsion	7.320810
+trouve	6.954429
+scott	6.780948
+probleme	6.623247
+personne	6.533272
+voir	6.473103
+systemes	6.416925
+fois	6.177413
+juste	6.055962
+composer	5.793876
+faites	5.738491
+bon	5.703988
+pierres	5.501993
+lieutenant	5.433254
+mieux	5.191234
+annees lumiere	5.096390
+monde	5.086067
+equipage	5.078402
+chloe	5.076625
+deux	5.019322
+brody	4.727837
+repondez	4.567510
+pourrait	4.552610
+savoir	4.552610
+cette planete	4.286947
+ici colonel	4.260362
+devrait	4.112125
+sergent	4.019179
+assez	3.987522
+quelqu	3.922995
+www projet	3.822543
+depuis	3.743442
+planetes	3.729597
+pense	3.680586
+systeme	3.672661
+parler	3.565334
+tout monde	3.565334
+maintenant	3.508003
+gens	3.449500
+merci	3.339071
+bouclier	3.289718
+desole	3.228782
+idee	3.222949
+salle controle	3.191055
+quelque chose	3.163436
+raison	3.027466
+general neill	3.005847
+accord	3.003505
+rentrer	2.992218
+bonne	2.964475
+etoile	2.837647
+trouver	2.730919
+milliers annees	2.697982
+reste	2.686727
+controle	2.566982
+neill	2.545144
+bord	2.462499
+eau	2.438702
+mort	2.414657
+cas	2.324863
+oui colonel	2.299330
+heures	2.289236
+vois	2.230393
+fais	2.180543
+crois	2.180543
+projet	2.162544
+vortex	2.149643
+annees	2.135717
+donnees	2.095952
+beaucoup	2.082844
+rester	2.076578
+spencer	2.060816
+equipe	2.050408
+arrete	2.042870
+loin	2.034010
+arrive	2.000317
+dites	1.984068
+parle	1.977389
+vie	1.956037
+aucun	1.951862
+vaisseaux	1.946374
+prendre	1.920276
+vrai	1.920276
+quartiers	1.869615
+galaxie	1.866204
+adresse	1.833900
+laisse	1.832559
+truc	1.832559
+dieu	1.799857
+aider	1.746669
+marche	1.717848
+fini	1.663386
+pere	1.580410
+endroit	1.575552
+donne	1.558354
+aucune	1.549895
+attendez	1.524736
+vite	1.511417
+sgc	1.478958
+composez	1.469351
+seul	1.444967
+portes	1.412670
+naquadria	1.406913
+arreter	1.389665
+entre	1.376155
+importe	1.367108
+bord vaisseau	1.346308
+etoiles	1.343138
+salle	1.334202
+dirait	1.312476
+personnes	1.312476
+compris	1.291171
+alliance	1.285565
+utiliser	1.278622
+alimente	1.230011
+sortir	1.217169
+doit etre	1.217169
+essaie	1.183279
+fauteuil	1.178088
+air	1.174567
+plait	1.173149
+propulsion	1.151951
+connexion	1.150634
+survie	1.144820
+passer	1.140617
+dis	1.130614
+peine	1.129298
+trajectoire	1.125246
+doute	1.110849
+combien	1.108410
+rapport	1.101901
+activer	1.101191
+franklin	1.055895
+choix	1.040460
+croyez	1.023517
+entrant	1.014776
+aliens	1.012078
+commandement	1.002865
+survivre	0.994327
+jusqu	0.990609
+tres bien	0.974628
+principaux	0.953434
+etre prets	0.947852
+mourir	0.940773
+ecoute	0.940773
+arme	0.925549
+mauvaises personnes	0.911665
+pris	0.910618
+senateur	0.907412
+essayer	0.905863
+pendant	0.899768
+attaque	0.899306
+devrais	0.891112
+attendre	0.891112
+regarde	0.876647
+parce	0.862461
+pensais	0.841687
+mauvais	0.841687
+heure	0.834900
+travail	0.834900
+ordre	0.832986
+compose	0.828012
+ceux	0.827981
+aime	0.826789
+trois	0.821511
+autres planetes	0.817201
+espere	0.814541
+partie	0.814541
+civils	0.805264
+ancien	0.795086
+portee	0.794628
+ramener	0.792564
+enclenche	0.788320

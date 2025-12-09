@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "cuddy",
+    "score": 1404.0242759876437
+  },
+  {
+    "keyword": "foreman",
+    "score": 152.91848001214586
+  },
+  {
+    "keyword": "biopsy",
+    "score": 134.61624022874784
+  },
+  {
+    "keyword": "kutner",
+    "score": 114.45337733366486
+  },
+  {
+    "keyword": "house",
+    "score": 109.55915730089154
+  },
+  {
+    "keyword": "something",
+    "score": 88.50405316761274
+  },
+  {
+    "keyword": "wrong",
+    "score": 73.80360232738701
+  },
+  {
+    "keyword": "taub",
+    "score": 66.15328939199779
+  },
+  {
+    "keyword": "brain",
+    "score": 60.334320003853236
+  },
+  {
+    "keyword": "liver",
+    "score": 57.170933514199845
+  },
+  {
+    "keyword": "really",
+    "score": 54.11264693746901
+  },
+  {
+    "keyword": "better",
+    "score": 49.3487032992467
+  },
+  {
+    "keyword": "blood",
+    "score": 49.087634234485115
+  },
+  {
+    "keyword": "give",
+    "score": 48.904450147742054
+  },
+  {
+    "keyword": "means",
+    "score": 47.993740599534306
+  },
+  {
+    "keyword": "autoimmune",
+    "score": 47.613184359810084
+  },
+  {
+    "keyword": "nothing",
+    "score": 46.01712261674455
+  },
+  {
+    "keyword": "still",
+    "score": 44.73281345972783
+  },
+  {
+    "keyword": "heart",
+    "score": 42.40240695041915
+  },
+  {
+    "keyword": "symptoms",
+    "score": 41.88269003906067
+  },
+  {
+    "keyword": "say",
+    "score": 41.78223605443998
+  },
+  {
+    "keyword": "never",
+    "score": 40.94513205001575
+  },
+  {
+    "keyword": "said",
+    "score": 40.865610628856764
+  },
+  {
+    "keyword": "anything",
+    "score": 38.96814058240565
+  },
+  {
+    "keyword": "even",
+    "score": 37.77285932887547
+  },
+  {
+    "keyword": "mean",
+    "score": 35.25333574386364
+  },
+  {
+    "keyword": "tumor",
+    "score": 34.14487339841896
+  },
+  {
+    "keyword": "symptom",
+    "score": 34.06048261016154
+  },
+  {
+    "keyword": "cameron",
+    "score": 33.87246491615468
+  },
+  {
+    "keyword": "work",
+    "score": 33.459889075313136
+  },
+  {
+    "keyword": "find",
+    "score": 31.624841321177065
+  },
+  {
+    "keyword": "patient",
+    "score": 30.139212683247994
+  },
+  {
+    "keyword": "thought",
+    "score": 26.316469138149106
+  },
+  {
+    "keyword": "way",
+    "score": 26.108463818699057
+  },
+  {
+    "keyword": "mri",
+    "score": 25.243430303405283
+  },
+  {
+    "keyword": "lungs",
+    "score": 25.170011548979197
+  },
+  {
+    "keyword": "told",
+    "score": 25.15738364506127
+  },
+  {
+    "keyword": "problem",
+    "score": 24.253593993745113
+  },
+  {
+    "keyword": "everything",
+    "score": 22.88523316632677
+  },
+  {
+    "keyword": "sick",
+    "score": 22.39600385706729
+  },
+  {
+    "keyword": "much",
+    "score": 22.340376895018355
+  },
+  {
+    "keyword": "either",
+    "score": 22.29291965183045
+  },
+  {
+    "keyword": "treatment",
+    "score": 22.082636805952443
+  },
+  {
+    "keyword": "life",
+    "score": 21.875818424715465
+  },
+  {
+    "keyword": "doctor",
+    "score": 21.257558242957955
+  },
+  {
+    "keyword": "god",
+    "score": 20.969218703166966
+  },
+  {
+    "keyword": "actually",
+    "score": 20.78631549062366
+  },
+  {
+    "keyword": "else",
+    "score": 20.774630285272046
+  },
+  {
+    "keyword": "getting",
+    "score": 20.533407467362146
+  },
+  {
+    "keyword": "wilson",
+    "score": 20.474933491746928
+  },
+  {
+    "keyword": "clots",
+    "score": 20.161098849432232
+  },
+  {
+    "keyword": "diagnosis",
+    "score": 19.97542538597392
+  },
+  {
+    "keyword": "keep",
+    "score": 19.74983888822372
+  },
+  {
+    "keyword": "care",
+    "score": 19.696711617667464
+  },
+  {
+    "keyword": "someone",
+    "score": 19.67506042675714
+  },
+  {
+    "keyword": "start",
+    "score": 19.47785833064436
+  },
+  {
+    "keyword": "feel",
+    "score": 19.095152110362996
+  },
+  {
+    "keyword": "kidneys",
+    "score": 18.698250988043775
+  },
+  {
+    "keyword": "kid",
+    "score": 18.68521173097657
+  },
+  {
+    "keyword": "years",
+    "score": 18.45253487790127
+  },
+  {
+    "keyword": "talk",
+    "score": 17.82131512505937
+  },
+  {
+    "keyword": "steroids",
+    "score": 17.662830811665305
+  },
+  {
+    "keyword": "surgery",
+    "score": 17.08598709359713
+  },
+  {
+    "keyword": "lymphoma",
+    "score": 17.01325134018949
+  },
+  {
+    "keyword": "three",
+    "score": 16.704032904654415
+  },
+  {
+    "keyword": "enough",
+    "score": 16.50382157054315
+  },
+  {
+    "keyword": "drugs",
+    "score": 16.469429259723636
+  },
+  {
+    "keyword": "kidney",
+    "score": 16.387007079984453
+  },
+  {
+    "keyword": "trying",
+    "score": 16.26073849855646
+  },
+  {
+    "keyword": "also",
+    "score": 16.0723271392844
+  },
+  {
+    "keyword": "last",
+    "score": 15.521379696438501
+  },
+  {
+    "keyword": "already",
+    "score": 15.180516690990645
+  },
+  {
+    "keyword": "ofcourse",
+    "score": 15.039828847489101
+  },
+  {
+    "keyword": "little",
+    "score": 14.641683005761745
+  },
+  {
+    "keyword": "clot",
+    "score": 14.637457492673823
+  },
+  {
+    "keyword": "vogler",
+    "score": 14.491861582322713
+  },
+  {
+    "keyword": "another",
+    "score": 14.462689286941016
+  },
+  {
+    "keyword": "put",
+    "score": 14.174904005769251
+  },
+  {
+    "keyword": "fever",
+    "score": 14.110849980875102
+  },
+  {
+    "keyword": "infection",
+    "score": 13.877775902596035
+  },
+  {
+    "keyword": "reason",
+    "score": 13.756331421605337
+  },
+  {
+    "keyword": "first",
+    "score": 13.221825127077604
+  },
+  {
+    "keyword": "fine",
+    "score": 13.064268266571142
+  },
+  {
+    "keyword": "call",
+    "score": 13.057445065785338
+  },
+  {
+    "keyword": "lupus",
+    "score": 13.055373148274812
+  },
+  {
+    "keyword": "antibiotics",
+    "score": 12.96921304760815
+  },
+  {
+    "keyword": "neurological",
+    "score": 12.937515939176237
+  },
+  {
+    "keyword": "always",
+    "score": 12.764061494545663
+  },
+  {
+    "keyword": "old",
+    "score": 12.514679230034641
+  },
+  {
+    "keyword": "bad",
+    "score": 12.483934772023058
+  },
+  {
+    "keyword": "year",
+    "score": 12.479118675949971
+  },
+  {
+    "keyword": "marrow",
+    "score": 12.457926595434818
+  },
+  {
+    "keyword": "disease",
+    "score": 12.435497895041914
+  },
+  {
+    "keyword": "caused",
+    "score": 12.361413950626579
+  },
+  {
+    "keyword": "probably",
+    "score": 12.302677812170892
+  },
+  {
+    "keyword": "without",
+    "score": 12.28017093779199
+  },
+  {
+    "keyword": "doctors",
+    "score": 11.865902972239354
+  },
+  {
+    "keyword": "talking",
+    "score": 11.843653470130906
+  },
+  {
+    "keyword": "away",
+    "score": 11.664524101893031
+  },
+  {
+    "keyword": "wait",
+    "score": 11.530614830889599
+  },
+  {
+    "keyword": "makes",
+    "score": 11.526346610443598
+  },
+  {
+    "keyword": "done",
+    "score": 11.469100092977556
+  },
+  {
+    "keyword": "looking",
+    "score": 11.317382926044187
+  },
+  {
+    "keyword": "die",
+    "score": 11.2641581858519
+  },
+  {
+    "keyword": "mom",
+    "score": 11.04948724376143
+  },
+  {
+    "keyword": "great",
+    "score": 11.038352171642329
+  },
+  {
+    "keyword": "hours",
+    "score": 11.037985683853298
+  },
+  {
+    "keyword": "idea",
+    "score": 11.01709951219084
+  },
+  {
+    "keyword": "cancer",
+    "score": 10.887054110388819
+  },
+  {
+    "keyword": "lung",
+    "score": 10.683939377773097
+  },
+  {
+    "keyword": "left",
+    "score": 10.53810220177575
+  },
+  {
+    "keyword": "differential",
+    "score": 10.53507504579297
+  },
+  {
+    "keyword": "wife",
+    "score": 10.508059921747074
+  },
+  {
+    "keyword": "chase",
+    "score": 10.427110615526313
+  },
+  {
+    "keyword": "vicodin",
+    "score": 10.377960748396468
+  },
+  {
+    "keyword": "pain",
+    "score": 10.370954898387792
+  },
+  {
+    "keyword": "around",
+    "score": 10.320348364921806
+  },
+  {
+    "keyword": "thank",
+    "score": 10.277803520072185
+  },
+  {
+    "keyword": "nice",
+    "score": 10.202328842927646
+  },
+  {
+    "keyword": "meds",
+    "score": 10.088118187006138
+  },
+  {
+    "keyword": "dying",
+    "score": 9.997422155714546
+  },
+  {
+    "keyword": "made",
+    "score": 9.747172538582662
+  },
+  {
+    "keyword": "hospital",
+    "score": 9.594189071376375
+  },
+  {
+    "keyword": "abdominal pain",
+    "score": 9.54618199254923
+  },
+  {
+    "keyword": "kill",
+    "score": 9.43873838476149
+  },
+  {
+    "keyword": "pills",
+    "score": 9.362088000372882
+  },
+  {
+    "keyword": "sure",
+    "score": 9.360959448045756
+  },
+  {
+    "keyword": "ago",
+    "score": 9.327746122678153
+  },
+  {
+    "keyword": "ever",
+    "score": 9.22181036140607
+  },
+  {
+    "keyword": "seizure",
+    "score": 9.17011206429379
+  },
+  {
+    "keyword": "thirteen",
+    "score": 9.117980360377784
+  },
+  {
+    "keyword": "immune system",
+    "score": 9.094743917911567
+  },
+  {
+    "keyword": "believe",
+    "score": 9.093864362070997
+  },
+  {
+    "keyword": "wants",
+    "score": 9.044755424176905
+  },
+  {
+    "keyword": "next",
+    "score": 8.906061948863934
+  },
+  {
+    "keyword": "wanted",
+    "score": 8.76694596000387
+  },
+  {
+    "keyword": "meningitis",
+    "score": 8.760607211795492
+  },
+  {
+    "keyword": "please",
+    "score": 8.740324505622752
+  },
+  {
+    "keyword": "unless",
+    "score": 8.710267273016333
+  },
+  {
+    "keyword": "since",
+    "score": 8.698437210817938
+  },
+  {
+    "keyword": "home",
+    "score": 8.640288636881687
+  },
+  {
+    "keyword": "bone marrow",
+    "score": 8.592248691667955
+  },
+  {
+    "keyword": "head",
+    "score": 8.518431422106694
+  },
+  {
+    "keyword": "tumors",
+    "score": 8.488440428526395
+  },
+  {
+    "keyword": "dad",
+    "score": 8.448023323671178
+  },
+  {
+    "keyword": "seizures",
+    "score": 8.442275996811365
+  },
+  {
+    "keyword": "test",
+    "score": 8.177282102035266
+  },
+  {
+    "keyword": "day",
+    "score": 8.158908957330931
+  },
+  {
+    "keyword": "dead",
+    "score": 8.129921603099179
+  },
+  {
+    "keyword": "toxins",
+    "score": 8.100054639866801
+  },
+  {
+    "keyword": "cause",
+    "score": 8.046256367388294
+  },
+  {
+    "keyword": "explain",
+    "score": 7.944957781068773
+  },
+  {
+    "keyword": "saying",
+    "score": 7.9258832099544065
+  },
+  {
+    "keyword": "ask",
+    "score": 7.778305713829558
+  },
+  {
+    "keyword": "cells",
+    "score": 7.763969480124036
+  },
+  {
+    "keyword": "worse",
+    "score": 7.742111860685418
+  },
+  {
+    "keyword": "happened",
+    "score": 7.729287180312331
+  },
+  {
+    "keyword": "found",
+    "score": 7.65394068458143
+  },
+  {
+    "keyword": "went",
+    "score": 7.5506652142880295
+  },
+  {
+    "keyword": "needs",
+    "score": 7.437549812204747
+  },
+  {
+    "keyword": "transplant",
+    "score": 7.357659402889178
+  },
+  {
+    "keyword": "try",
+    "score": 7.276821227977899
+  },
+  {
+    "keyword": "son",
+    "score": 7.20152756492407
+  },
+  {
+    "keyword": "stuff",
+    "score": 7.198416950619705
+  },
+  {
+    "keyword": "lymph",
+    "score": 7.1711001140416535
+  },
+  {
+    "keyword": "leave",
+    "score": 7.162099506939241
+  },
+  {
+    "keyword": "antibodies",
+    "score": 7.1088222694585586
+  },
+  {
+    "keyword": "kind",
+    "score": 7.098421438411764
+  },
+  {
+    "keyword": "obviously",
+    "score": 7.060523681472165
+  },
+  {
+    "keyword": "case",
+    "score": 7.038736238002135
+  },
+  {
+    "keyword": "love",
+    "score": 6.9991061862091914
+  },
+  {
+    "keyword": "room",
+    "score": 6.776609327937235
+  },
+  {
+    "keyword": "pulmonary",
+    "score": 6.732834861914067
+  },
+  {
+    "keyword": "bleeding",
+    "score": 6.732288783928782
+  },
+  {
+    "keyword": "months",
+    "score": 6.6017227459935075
+  },
+  {
+    "keyword": "interferon",
+    "score": 6.574943195915598
+  },
+  {
+    "keyword": "leg",
+    "score": 6.509762957037218
+  },
+  {
+    "keyword": "explains",
+    "score": 6.508373429754204
+  },
+  {
+    "keyword": "whatever",
+    "score": 6.483544803850632
+  },
+  {
+    "keyword": "paralysis",
+    "score": 6.459377739053908
+  },
+  {
+    "keyword": "working",
+    "score": 6.456033943693278
+  },
+  {
+    "keyword": "drug",
+    "score": 6.449629431365246
+  },
+  {
+    "keyword": "system",
+    "score": 6.443483638962438
+  },
+  {
+    "keyword": "answer",
+    "score": 6.433756660314637
+  },
+  {
+    "keyword": "took",
+    "score": 6.415260322800005
+  },
+  {
+    "keyword": "yet",
+    "score": 6.392924662295551
+  },
+  {
+    "keyword": "body",
+    "score": 6.356488227467153
+  },
+  {
+    "keyword": "could cause",
+    "score": 6.322758228902679
+  },
+  {
+    "keyword": "run",
+    "score": 6.3008370240433695
+  },
+  {
+    "keyword": "hurt",
+    "score": 6.298693698755828
+  },
+  {
+    "keyword": "check",
+    "score": 6.170079182706548
+  },
+  {
+    "keyword": "thyroid",
+    "score": 6.086068762272417
+  },
+  {
+    "keyword": "rash",
+    "score": 6.0838076599377695
+  },
+  {
+    "keyword": "night",
+    "score": 6.013440009653428
+  },
+  {
+    "keyword": "says",
+    "score": 5.986984961952612
+  },
+  {
+    "keyword": "treat",
+    "score": 5.93700291378502
+  },
+  {
+    "keyword": "taking",
+    "score": 5.896672845060683
+  },
+  {
+    "keyword": "year old",
+    "score": 5.834237522055753
+  },
+  {
+    "keyword": "looks",
+    "score": 5.8022435476137435
+  },
+  {
+    "keyword": "cushing",
+    "score": 5.694257759284202
+  }
+]

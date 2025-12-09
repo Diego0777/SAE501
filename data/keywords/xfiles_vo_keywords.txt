@@ -1,0 +1,200 @@
+mulder	11288.832037
+scully	5960.764129
+doggett	1385.453593
+agent mulder	1363.484128
+agent scully	1194.626643
+agent doggett	649.669794
+skinner	144.708207
+areyou	102.991495
+doyou	94.593733
+something	88.756599
+fox mulder	85.004783
+agent	82.208131
+dana scully	80.209180
+mulder mulder	79.086797
+krycek	67.664012
+fiind	65.796853
+scully mulder	62.064671
+mulder scully	49.835750
+ofthe	47.509417
+found	47.340780
+say	47.192783
+find	44.097314
+agent reyes	44.061411
+believe	40.369366
+child made	37.965161
+said	37.347583
+mean	36.412185
+dana	32.838448
+happened	32.641957
+modell	32.422660
+scully agent	31.824203
+scully scully	31.196630
+door	30.310307
+frohike	29.508889
+anything	29.336851
+never	27.034337
+even	26.856794
+kersh	25.655601
+god	25.636596
+byers	24.785127
+looking	24.720966
+reyes	23.678069
+saw	23.589638
+name	23.481561
+told	22.869813
+sir	22.166650
+work	21.538443
+phone	21.518772
+please	21.194047
+langly	21.035206
+years	20.516927
+killed	20.029121
+sighs	19.569182
+kind	19.465734
+dead	18.909096
+nothing	18.072130
+last	17.527967
+spender	17.525534
+john doggett	17.281538
+body	17.172257
+way	16.741857
+still	16.633176
+assistant director	16.401549
+may	16.304249
+ifyou	15.873307
+really	15.783826
+away	15.727384
+chattering	15.283301
+give	15.034946
+indistinct	14.597900
+kill	14.552989
+put	14.509261
+life	14.295093
+much	13.585447
+ringing	13.523810
+call	13.481509
+ever	13.156539
+dales	12.653318
+trying	12.458197
+someone	12.353736
+seen	12.313077
+hell	12.302793
+eladio	12.274946
+skur	12.274946
+talk	12.092047
+somebody	11.983915
+made	11.830293
+ago	11.800357
+understand	11.789990
+around	11.644296
+called	11.599788
+beeping	11.232834
+barnett	11.027376
+three	10.898638
+ofa	10.746134
+else	10.725277
+thought	10.687876
+father	10.655559
+night	10.298837
+talking	10.238800
+ask	10.235124
+thank	9.817428
+gasps	9.746745
+saying	9.586738
+keep	9.528709
+son	9.489769
+knew	9.176662
+first	9.095082
+hear	9.057249
+left	9.028935
+everything	9.005051
+truth	8.886201
+case	8.629663
+little	8.215565
+duane	8.172737
+leave	8.151121
+death	8.150176
+afraid	8.090747
+fox	8.053651
+tyou	8.015021
+another	7.953392
+came	7.864877
+screaming	7.855084
+phone ringing	7.728586
+took	7.702464
+victim	7.624513
+coming	7.451774
+groaning	7.433987
+wanted	7.418041
+heard	7.408860
+wrong	7.332297
+door opens	6.887285
+gasping	6.814340
+wait	6.760827
+looks	6.733766
+karin	6.693201
+home	6.579443
+explain	6.530876
+grunting	6.519302
+blood	6.390282
+murder	6.230107
+better	6.110727
+remember	6.095976
+special agent	6.025747
+used	5.976603
+government	5.948307
+feel	5.933826
+done	5.878309
+whatever	5.805565
+anson	5.796449
+sure	5.738585
+alien	5.605392
+exactly	5.526365
+enough	5.459523
+doctor	5.424476
+continues	5.369033
+without	5.320619
+child	5.303309
+went	5.234879
+already	5.098395
+old	5.097679
+creaking	5.014594
+reason	5.004507
+extraterrestrial	4.966255
+deputy	4.871501
+says	4.810865
+sheriff	4.752812
+listen	4.690651
+looks like	4.672007
+panting	4.648173
+human	4.547609
+inside	4.499070
+mind	4.430283
+groans	4.423592
+head	4.419053
+working	4.412482
+guess	4.395154
+yet	4.386681
+cassandra	4.356394
+morning	4.350720
+knows	4.349398
+roland	4.331474
+knocking	4.316569
+able	4.310348
+gone	4.300955
+mother	4.283702
+files	4.259389
+day	4.207724
+damn	4.188809
+taken	4.185256
+died	4.161673
+report	4.147042
+beeps	4.128699
+federal agent	4.070281
+try	4.050273
+autopsy	4.041861
+betts	4.039166
+rumbling	4.035712
+stay	4.031091
+actually	3.991168

@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "gallagher",
+    "score": 129.29938164518472
+  },
+  {
+    "keyword": "leeza",
+    "score": 97.46931229934073
+  },
+  {
+    "keyword": "conor",
+    "score": 85.69167453231194
+  },
+  {
+    "keyword": "gideon",
+    "score": 53.436818756307474
+  },
+  {
+    "keyword": "liam",
+    "score": 23.219257618516725
+  },
+  {
+    "keyword": "hansen",
+    "score": 19.77621294087302
+  },
+  {
+    "keyword": "really",
+    "score": 16.619939132770735
+  },
+  {
+    "keyword": "sighs",
+    "score": 14.449025534029802
+  },
+  {
+    "keyword": "mimi",
+    "score": 13.203475606898921
+  },
+  {
+    "keyword": "becky",
+    "score": 12.820779694124436
+  },
+  {
+    "keyword": "chuckles",
+    "score": 11.014662334356728
+  },
+  {
+    "keyword": "something",
+    "score": 9.935625040768173
+  },
+  {
+    "keyword": "doctor",
+    "score": 8.358791892356301
+  },
+  {
+    "keyword": "craig",
+    "score": 8.283982874842275
+  },
+  {
+    "keyword": "never",
+    "score": 7.715967558802105
+  },
+  {
+    "keyword": "jack",
+    "score": 7.571393555407443
+  },
+  {
+    "keyword": "say",
+    "score": 7.407696602217209
+  },
+  {
+    "keyword": "even",
+    "score": 7.136989390683675
+  },
+  {
+    "keyword": "trey",
+    "score": 7.135927682578202
+  },
+  {
+    "keyword": "nora",
+    "score": 6.991342604634229
+  },
+  {
+    "keyword": "work",
+    "score": 6.144188132185593
+  },
+  {
+    "keyword": "mean",
+    "score": 5.6974349006376235
+  },
+  {
+    "keyword": "told",
+    "score": 5.6734299908493036
+  },
+  {
+    "keyword": "heather",
+    "score": 5.5824555748849045
+  },
+  {
+    "keyword": "hospital",
+    "score": 5.452552251935807
+  },
+  {
+    "keyword": "wharton",
+    "score": 5.2348423701503775
+  },
+  {
+    "keyword": "door",
+    "score": 4.756335642769839
+  },
+  {
+    "keyword": "thank",
+    "score": 4.64746079518413
+  },
+  {
+    "keyword": "said",
+    "score": 4.561938049493464
+  },
+  {
+    "keyword": "carl",
+    "score": 4.383295385596001
+  },
+  {
+    "keyword": "indistinct",
+    "score": 4.327914799880842
+  },
+  {
+    "keyword": "surgery",
+    "score": 4.241234581992718
+  },
+  {
+    "keyword": "thought",
+    "score": 4.2178212519915785
+  },
+  {
+    "keyword": "actually",
+    "score": 3.852003444654789
+  },
+  {
+    "keyword": "anything",
+    "score": 3.8337191488679947
+  },
+  {
+    "keyword": "exhales",
+    "score": 3.750795540920023
+  },
+  {
+    "keyword": "disorder",
+    "score": 3.6331217820474047
+  },
+  {
+    "keyword": "vincent",
+    "score": 3.589892331408572
+  },
+  {
+    "keyword": "much",
+    "score": 3.544568725585808
+  },
+  {
+    "keyword": "way",
+    "score": 3.50935495348033
+  },
+  {
+    "keyword": "first",
+    "score": 3.4999797197128055
+  },
+  {
+    "keyword": "still",
+    "score": 3.4752757436144597
+  },
+  {
+    "keyword": "give",
+    "score": 3.4752757436144597
+  },
+  {
+    "keyword": "veronica",
+    "score": 3.465232311211525
+  },
+  {
+    "keyword": "find",
+    "score": 3.3998367407125163
+  },
+  {
+    "keyword": "day",
+    "score": 3.3646807548569146
+  },
+  {
+    "keyword": "life",
+    "score": 3.3395444823397904
+  },
+  {
+    "keyword": "years",
+    "score": 3.3358889655458492
+  },
+  {
+    "keyword": "happened",
+    "score": 3.3151620028977975
+  },
+  {
+    "keyword": "please",
+    "score": 3.2807848716194687
+  },
+  {
+    "keyword": "father",
+    "score": 3.248703753645822
+  },
+  {
+    "keyword": "believe",
+    "score": 3.248703753645822
+  },
+  {
+    "keyword": "talk",
+    "score": 3.240247346394425
+  },
+  {
+    "keyword": "laughs",
+    "score": 3.2131825858637195
+  },
+  {
+    "keyword": "dad",
+    "score": 3.20922036544952
+  },
+  {
+    "keyword": "little",
+    "score": 3.1948139110166864
+  },
+  {
+    "keyword": "call",
+    "score": 3.1906785085475278
+  },
+  {
+    "keyword": "ward",
+    "score": 3.1714670211063245
+  },
+  {
+    "keyword": "clears throat",
+    "score": 3.159671023499768
+  },
+  {
+    "keyword": "psychiatric",
+    "score": 3.12819760575163
+  },
+  {
+    "keyword": "ding",
+    "score": 3.052256241439921
+  },
+  {
+    "keyword": "put",
+    "score": 3.0037341999982563
+  },
+  {
+    "keyword": "everything",
+    "score": 2.9818826745244293
+  },
+  {
+    "keyword": "clinic",
+    "score": 2.9666800909174538
+  },
+  {
+    "keyword": "better",
+    "score": 2.888973760322548
+  },
+  {
+    "keyword": "wife",
+    "score": 2.8144230678307887
+  },
+  {
+    "keyword": "home",
+    "score": 2.783187771621419
+  },
+  {
+    "keyword": "mum",
+    "score": 2.7222956235716196
+  },
+  {
+    "keyword": "suarez",
+    "score": 2.6798387961439154
+  },
+  {
+    "keyword": "family",
+    "score": 2.647960687813008
+  },
+  {
+    "keyword": "malcolm",
+    "score": 2.603099254985404
+  },
+  {
+    "keyword": "door closes",
+    "score": 2.5971235334797043
+  },
+  {
+    "keyword": "great",
+    "score": 2.5103876761329054
+  },
+  {
+    "keyword": "bipolar",
+    "score": 2.446146206600511
+  },
+  {
+    "keyword": "months",
+    "score": 2.353027298910544
+  },
+  {
+    "keyword": "ever",
+    "score": 2.3027358705841947
+  },
+  {
+    "keyword": "wait",
+    "score": 2.2717033699659828
+  },
+  {
+    "keyword": "therapy",
+    "score": 2.2368141832893182
+  },
+  {
+    "keyword": "kind",
+    "score": 2.200150727698871
+  },
+  {
+    "keyword": "last",
+    "score": 2.161723586182428
+  },
+  {
+    "keyword": "real",
+    "score": 2.161723586182428
+  },
+  {
+    "keyword": "around",
+    "score": 2.1552247674946914
+  },
+  {
+    "keyword": "knock door",
+    "score": 2.1428702830017454
+  },
+  {
+    "keyword": "remember",
+    "score": 2.1312318608270417
+  },
+  {
+    "keyword": "later",
+    "score": 2.129052360066674
+  },
+  {
+    "keyword": "else",
+    "score": 2.0664563510134175
+  },
+  {
+    "keyword": "care",
+    "score": 2.0664563510134175
+  },
+  {
+    "keyword": "treatment",
+    "score": 2.063752400062388
+  },
+  {
+    "keyword": "door opens",
+    "score": 2.0240623500384345
+  },
+  {
+    "keyword": "sonny",
+    "score": 2.0020473096638707
+  },
+  {
+    "keyword": "patient",
+    "score": 1.9951537378232755
+  },
+  {
+    "keyword": "thinking",
+    "score": 1.994342600059125
+  },
+  {
+    "keyword": "clay",
+    "score": 1.9724506953842635
+  },
+  {
+    "keyword": "mcbride",
+    "score": 1.9708761454114
+  },
+  {
+    "keyword": "today",
+    "score": 1.9696901803893818
+  },
+  {
+    "keyword": "tomorrow",
+    "score": 1.9385522482454856
+  },
+  {
+    "keyword": "intake",
+    "score": 1.9214058265390148
+  },
+  {
+    "keyword": "wrong",
+    "score": 1.9080723982612093
+  },
+  {
+    "keyword": "went",
+    "score": 1.8999287393897644
+  },
+  {
+    "keyword": "called",
+    "score": 1.8929508463527835
+  },
+  {
+    "keyword": "ago",
+    "score": 1.8929508463527835
+  },
+  {
+    "keyword": "talking",
+    "score": 1.8929508463527835
+  },
+  {
+    "keyword": "playing",
+    "score": 1.8533226766810933
+  },
+  {
+    "keyword": "melissa",
+    "score": 1.7895346564389503
+  },
+  {
+    "keyword": "medication",
+    "score": 1.783528470616505
+  },
+  {
+    "keyword": "pretty",
+    "score": 1.7638058611139367
+  },
+  {
+    "keyword": "another",
+    "score": 1.7540294756251007
+  },
+  {
+    "keyword": "someone",
+    "score": 1.7264508765270166
+  },
+  {
+    "keyword": "keep",
+    "score": 1.7264508765270166
+  },
+  {
+    "keyword": "werewolf",
+    "score": 1.7178373722173592
+  },
+  {
+    "keyword": "chloe",
+    "score": 1.687065250546865
+  },
+  {
+    "keyword": "without",
+    "score": 1.6817460697955655
+  },
+  {
+    "keyword": "wanted",
+    "score": 1.6550113432867188
+  },
+  {
+    "keyword": "problem",
+    "score": 1.6292649244198596
+  },
+  {
+    "keyword": "tried",
+    "score": 1.6292649244198596
+  },
+  {
+    "keyword": "hours",
+    "score": 1.61690607709715
+  },
+  {
+    "keyword": "nice",
+    "score": 1.6129819359767616
+  },
+  {
+    "keyword": "whole",
+    "score": 1.6030270621875198
+  },
+  {
+    "keyword": "feel",
+    "score": 1.5959164745104064
+  },
+  {
+    "keyword": "anyone",
+    "score": 1.591128631172838
+  },
+  {
+    "keyword": "hell",
+    "score": 1.5776904885139966
+  },
+  {
+    "keyword": "nothing",
+    "score": 1.5386635928476684
+  },
+  {
+    "keyword": "hand",
+    "score": 1.529719911060775
+  },
+  {
+    "keyword": "name",
+    "score": 1.5285953875509612
+  },
+  {
+    "keyword": "god",
+    "score": 1.5147805803492655
+  },
+  {
+    "keyword": "clears",
+    "score": 1.4817903425868404
+  },
+  {
+    "keyword": "sure",
+    "score": 1.4787283061556191
+  },
+  {
+    "keyword": "already",
+    "score": 1.46873127944839
+  },
+  {
+    "keyword": "grunts",
+    "score": 1.4671536697407215
+  },
+  {
+    "keyword": "ultrasound",
+    "score": 1.4589023261762613
+  },
+  {
+    "keyword": "exactly",
+    "score": 1.4247816686230472
+  },
+  {
+    "keyword": "huh",
+    "score": 1.4085687285185868
+  },
+  {
+    "keyword": "morning",
+    "score": 1.37959492510876
+  },
+  {
+    "keyword": "looking",
+    "score": 1.3788289848877864
+  },
+  {
+    "keyword": "knew",
+    "score": 1.3543509869693195
+  },
+  {
+    "keyword": "thanks",
+    "score": 1.350311669431224
+  },
+  {
+    "keyword": "also",
+    "score": 1.3346326425853055
+  },
+  {
+    "keyword": "done",
+    "score": 1.3327593127071893
+  },
+  {
+    "keyword": "sit",
+    "score": 1.329023517118215
+  },
+  {
+    "keyword": "old",
+    "score": 1.3231665625799025
+  },
+  {
+    "keyword": "cut",
+    "score": 1.3081272851677987
+  },
+  {
+    "keyword": "made",
+    "score": 1.2879839026361048
+  },
+  {
+    "keyword": "sniffles",
+    "score": 1.2858226744374537
+  },
+  {
+    "keyword": "understand",
+    "score": 1.2705607484348054
+  },
+  {
+    "keyword": "fine",
+    "score": 1.2523542576404976
+  },
+  {
+    "keyword": "seen",
+    "score": 1.2299578198150176
+  },
+  {
+    "keyword": "guess",
+    "score": 1.2299578198150176
+  },
+  {
+    "keyword": "least",
+    "score": 1.2265508965729353
+  },
+  {
+    "keyword": "needs",
+    "score": 1.2265508965729353
+  },
+  {
+    "keyword": "took",
+    "score": 1.2102344855413207
+  },
+  {
+    "keyword": "try",
+    "score": 1.1926148666468837
+  },
+  {
+    "keyword": "happen",
+    "score": 1.1871147068084142
+  },
+  {
+    "keyword": "leave",
+    "score": 1.173812861519703
+  },
+  {
+    "keyword": "beep",
+    "score": 1.163852041423365
+  },
+  {
+    "keyword": "heavily",
+    "score": 1.1635338063649705
+  },
+  {
+    "keyword": "stay",
+    "score": 1.1532691065902279
+  },
+  {
+    "keyword": "ask",
+    "score": 1.1307504645036939
+  },
+  {
+    "keyword": "night",
+    "score": 1.1246051868587943
+  },
+  {
+    "keyword": "probably",
+    "score": 1.1243925606102185
+  },
+  {
+    "keyword": "son",
+    "score": 1.115769602788928
+  },
+  {
+    "keyword": "psych",
+    "score": 1.1139242135284542
+  },
+  {
+    "keyword": "symptoms",
+    "score": 1.1139242135284542
+  },
+  {
+    "keyword": "meds",
+    "score": 1.113340031709754
+  },
+  {
+    "keyword": "brain",
+    "score": 1.106197505079467
+  },
+  {
+    "keyword": "ready",
+    "score": 1.106197505079467
+  },
+  {
+    "keyword": "trying",
+    "score": 1.106197505079467
+  },
+  {
+    "keyword": "away",
+    "score": 1.1017566402790766
+  },
+  {
+    "keyword": "getting",
+    "score": 1.0883518049866079
+  },
+  {
+    "keyword": "hear",
+    "score": 1.07752637489203
+  },
+  {
+    "keyword": "new",
+    "score": 1.0659951456150525
+  },
+  {
+    "keyword": "always",
+    "score": 1.0651780992859539
+  },
+  {
+    "keyword": "mind",
+    "score": 1.048518229500998
+  },
+  {
+    "keyword": "brian",
+    "score": 1.0352242544450598
+  },
+  {
+    "keyword": "schizophrenia",
+    "score": 1.0194334062694865
+  },
+  {
+    "keyword": "mental illness",
+    "score": 1.008232349367072
+  },
+  {
+    "keyword": "opens",
+    "score": 0.9969229635584551
+  },
+  {
+    "keyword": "bauer",
+    "score": 0.9763110243950809
+  },
+  {
+    "keyword": "rebecca",
+    "score": 0.9675627154656266
+  },
+  {
+    "keyword": "found",
+    "score": 0.9633743243988806
+  },
+  {
+    "keyword": "past",
+    "score": 0.9480157764264182
+  },
+  {
+    "keyword": "listen",
+    "score": 0.9480157764264182
+  },
+  {
+    "keyword": "since",
+    "score": 0.9366716830649631
+  },
+  {
+    "keyword": "head",
+    "score": 0.929287455408585
+  },
+  {
+    "keyword": "serious",
+    "score": 0.9230488549348347
+  },
+  {
+    "keyword": "soon",
+    "score": 0.9216065386537119
+  },
+  {
+    "keyword": "doctors",
+    "score": 0.9207782980019629
+  },
+  {
+    "keyword": "left",
+    "score": 0.912879018916
+  },
+  {
+    "keyword": "closes",
+    "score": 0.9093089373657965
+  },
+  {
+    "keyword": "yet",
+    "score": 0.908017823535935
+  },
+  {
+    "keyword": "chuckling",
+    "score": 0.9071992704363524
+  },
+  {
+    "keyword": "hmm",
+    "score": 0.9071763233343311
+  },
+  {
+    "keyword": "psychotic",
+    "score": 0.9031783208143725
+  },
+  {
+    "keyword": "marcie",
+    "score": 0.8961200802679984
+  },
+  {
+    "keyword": "came",
+    "score": 0.8940069336967923
+  },
+  {
+    "keyword": "person",
+    "score": 0.8932782781249802
+  },
+  {
+    "keyword": "wants",
+    "score": 0.8932782781249802
+  },
+  {
+    "keyword": "kids",
+    "score": 0.892328855621369
+  },
+  {
+    "keyword": "blood",
+    "score": 0.8704030289053923
+  },
+  {
+    "keyword": "fire",
+    "score": 0.857437702119333
+  },
+  {
+    "keyword": "throat",
+    "score": 0.8524665481860456
+  }
+]

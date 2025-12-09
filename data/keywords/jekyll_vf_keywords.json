@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "jackman",
+    "score": 565.2424022879952
+  },
+  {
+    "keyword": "hyde",
+    "score": 201.92054860103968
+  },
+  {
+    "keyword": "jekyll",
+    "score": 85.46507197850383
+  },
+  {
+    "keyword": "tom",
+    "score": 11.791927018865461
+  },
+  {
+    "keyword": "enfants",
+    "score": 6.495785215066886
+  },
+  {
+    "keyword": "mari",
+    "score": 5.909527364817633
+  },
+  {
+    "keyword": "mme",
+    "score": 5.573084013770394
+  },
+  {
+    "keyword": "passe",
+    "score": 4.35071470179693
+  },
+  {
+    "keyword": "fois",
+    "score": 4.021870753779283
+  },
+  {
+    "keyword": "crois",
+    "score": 3.9573769150439646
+  },
+  {
+    "keyword": "katherine",
+    "score": 3.822168839634377
+  },
+  {
+    "keyword": "fais",
+    "score": 3.766940965343247
+  },
+  {
+    "keyword": "papa",
+    "score": 3.4701014935826175
+  },
+  {
+    "keyword": "personne",
+    "score": 3.3813903976503576
+  },
+  {
+    "keyword": "potion",
+    "score": 3.3152756871844136
+  },
+  {
+    "keyword": "bon",
+    "score": 3.177276488965008
+  },
+  {
+    "keyword": "famille",
+    "score": 3.071189123119988
+  },
+  {
+    "keyword": "claire",
+    "score": 3.0266159574153555
+  },
+  {
+    "keyword": "laisse",
+    "score": 2.8483180481177985
+  },
+  {
+    "keyword": "parce",
+    "score": 2.8483180481177985
+  },
+  {
+    "keyword": "voir",
+    "score": 2.7572952028609707
+  },
+  {
+    "keyword": "seul",
+    "score": 2.557054406015857
+  },
+  {
+    "keyword": "deux",
+    "score": 2.4934566554742332
+  },
+  {
+    "keyword": "peur",
+    "score": 2.475091774643163
+  },
+  {
+    "keyword": "temps",
+    "score": 2.3878952725349936
+  },
+  {
+    "keyword": "tete",
+    "score": 2.3203278369590516
+  },
+  {
+    "keyword": "besoin",
+    "score": 2.3182572463770383
+  },
+  {
+    "keyword": "dieu",
+    "score": 2.2085089931688446
+  },
+  {
+    "keyword": "peu",
+    "score": 2.1311647935819305
+  },
+  {
+    "keyword": "femme",
+    "score": 2.1090237657655786
+  },
+  {
+    "keyword": "savoir",
+    "score": 2.0514561524955184
+  },
+  {
+    "keyword": "homme",
+    "score": 1.985898383747341
+  },
+  {
+    "keyword": "vraiment",
+    "score": 1.985898383747341
+  },
+  {
+    "keyword": "klein",
+    "score": 1.978239229459747
+  },
+  {
+    "keyword": "depuis",
+    "score": 1.9374733933332027
+  },
+  {
+    "keyword": "mort",
+    "score": 1.9050044651286957
+  },
+  {
+    "keyword": "sens",
+    "score": 1.8325579696064094
+  },
+  {
+    "keyword": "dites",
+    "score": 1.824203215776583
+  },
+  {
+    "keyword": "bonne",
+    "score": 1.815618284747982
+  },
+  {
+    "keyword": "faites",
+    "score": 1.7945915435815987
+  },
+  {
+    "keyword": "eddie",
+    "score": 1.7655512475725577
+  },
+  {
+    "keyword": "soir",
+    "score": 1.7370685418006893
+  },
+  {
+    "keyword": "boite",
+    "score": 1.6820733412185425
+  },
+  {
+    "keyword": "maintenant",
+    "score": 1.6817228207585
+  },
+  {
+    "keyword": "quelqu",
+    "score": 1.629787748289233
+  },
+  {
+    "keyword": "maman",
+    "score": 1.5743023986597624
+  },
+  {
+    "keyword": "vois",
+    "score": 1.523527306712384
+  },
+  {
+    "keyword": "vie",
+    "score": 1.500712422129631
+  },
+  {
+    "keyword": "dis",
+    "score": 1.4811709647417874
+  },
+  {
+    "keyword": "parle",
+    "score": 1.4746928717732917
+  },
+  {
+    "keyword": "merci",
+    "score": 1.4296404306395387
+  },
+  {
+    "keyword": "parti",
+    "score": 1.4184600358325274
+  },
+  {
+    "keyword": "tuer",
+    "score": 1.3954346550857464
+  },
+  {
+    "keyword": "benjamin",
+    "score": 1.3553194001889175
+  },
+  {
+    "keyword": "desole",
+    "score": 1.3289816943829134
+  },
+  {
+    "keyword": "faut",
+    "score": 1.3289816943829134
+  },
+  {
+    "keyword": "churchill",
+    "score": 1.274758848404083
+  },
+  {
+    "keyword": "monde",
+    "score": 1.2517762429548402
+  },
+  {
+    "keyword": "parler",
+    "score": 1.2517762429548402
+  },
+  {
+    "keyword": "nom chien",
+    "score": 1.2313243247614136
+  },
+  {
+    "keyword": "loup garou",
+    "score": 1.1492377656008659
+  },
+  {
+    "keyword": "garou",
+    "score": 1.1045775748368714
+  },
+  {
+    "keyword": "hein",
+    "score": 1.0993994514319598
+  },
+  {
+    "keyword": "ami",
+    "score": 1.0330164941828182
+  },
+  {
+    "keyword": "billy",
+    "score": 1.0268095823467682
+  },
+  {
+    "keyword": "lions",
+    "score": 1.0138688582497808
+  },
+  {
+    "keyword": "pris",
+    "score": 1.0081262168938774
+  },
+  {
+    "keyword": "siecle",
+    "score": 1.0063430365966701
+  },
+  {
+    "keyword": "juste",
+    "score": 0.9827306035859621
+  },
+  {
+    "keyword": "regardez",
+    "score": 0.9649601872813285
+  },
+  {
+    "keyword": "nom",
+    "score": 0.9521108766221261
+  },
+  {
+    "keyword": "arrive",
+    "score": 0.9367481854657391
+  },
+  {
+    "keyword": "aucun",
+    "score": 0.9338378677850993
+  },
+  {
+    "keyword": "cas",
+    "score": 0.8866496155323869
+  },
+  {
+    "keyword": "trois",
+    "score": 0.8751052342575872
+  },
+  {
+    "keyword": "histoire",
+    "score": 0.8591276429261968
+  },
+  {
+    "keyword": "combien",
+    "score": 0.8047687738043424
+  },
+  {
+    "keyword": "nuit",
+    "score": 0.8047687738043424
+  },
+  {
+    "keyword": "tue",
+    "score": 0.8047687738043424
+  },
+  {
+    "keyword": "petit",
+    "score": 0.7949868415839066
+  },
+  {
+    "keyword": "probleme",
+    "score": 0.7918251159419033
+  },
+  {
+    "keyword": "fourgon",
+    "score": 0.7813600028376182
+  },
+  {
+    "keyword": "devorer",
+    "score": 0.7793406515249288
+  },
+  {
+    "keyword": "enchaine",
+    "score": 0.7605819307051442
+  },
+  {
+    "keyword": "quelque chose",
+    "score": 0.7343210474570838
+  },
+  {
+    "keyword": "yeux",
+    "score": 0.7343210474570838
+  },
+  {
+    "keyword": "prendre",
+    "score": 0.722438176025926
+  },
+  {
+    "keyword": "ans",
+    "score": 0.7191336201646186
+  },
+  {
+    "keyword": "connais",
+    "score": 0.7107834624998232
+  },
+  {
+    "keyword": "alice",
+    "score": 0.7037217323178707
+  },
+  {
+    "keyword": "accord",
+    "score": 0.689068751107334
+  },
+  {
+    "keyword": "maison",
+    "score": 0.6663391923421726
+  },
+  {
+    "keyword": "croyez",
+    "score": 0.6532225163544583
+  },
+  {
+    "keyword": "rentre",
+    "score": 0.6532225163544583
+  },
+  {
+    "keyword": "winston",
+    "score": 0.6477145771261371
+  },
+  {
+    "keyword": "aime",
+    "score": 0.6453512717850406
+  },
+  {
+    "keyword": "partir",
+    "score": 0.6322200392575933
+  },
+  {
+    "keyword": "viens",
+    "score": 0.6322200392575933
+  },
+  {
+    "keyword": "lennox",
+    "score": 0.6253817150642714
+  },
+  {
+    "keyword": "monsieur",
+    "score": 0.6242288156900188
+  },
+  {
+    "keyword": "reveille",
+    "score": 0.6220207672817664
+  },
+  {
+    "keyword": "cote",
+    "score": 0.6120163731537897
+  },
+  {
+    "keyword": "appelle",
+    "score": 0.6022022126076149
+  },
+  {
+    "keyword": "garcons",
+    "score": 0.6013052253765511
+  },
+  {
+    "keyword": "clone",
+    "score": 0.5806028122757668
+  },
+  {
+    "keyword": "christopher",
+    "score": 0.5768533712470414
+  },
+  {
+    "keyword": "prie",
+    "score": 0.5749362202676118
+  },
+  {
+    "keyword": "devrais",
+    "score": 0.5655738941751136
+  },
+  {
+    "keyword": "gros",
+    "score": 0.5655738941751136
+  },
+  {
+    "keyword": "arrete",
+    "score": 0.5563931249430932
+  },
+  {
+    "keyword": "pere",
+    "score": 0.5473895045351338
+  },
+  {
+    "keyword": "reste",
+    "score": 0.5473895045351338
+  },
+  {
+    "keyword": "voyez",
+    "score": 0.5473895045351338
+  },
+  {
+    "keyword": "vrai",
+    "score": 0.5473895045351338
+  },
+  {
+    "keyword": "descendant",
+    "score": 0.5374346200043009
+  },
+  {
+    "keyword": "lumiere",
+    "score": 0.5340811780580222
+  },
+  {
+    "keyword": "tom tom",
+    "score": 0.5334064236162313
+  },
+  {
+    "keyword": "ordre",
+    "score": 0.5252390783645926
+  },
+  {
+    "keyword": "zoo",
+    "score": 0.505602514959999
+  },
+  {
+    "keyword": "arretez",
+    "score": 0.4997510331567941
+  },
+  {
+    "keyword": "fini",
+    "score": 0.496857317235543
+  },
+  {
+    "keyword": "croyais",
+    "score": 0.48358179774040205
+  },
+  {
+    "keyword": "fuyez",
+    "score": 0.48100443046235747
+  },
+  {
+    "keyword": "helico",
+    "score": 0.48100443046235747
+  },
+  {
+    "keyword": "ecoute",
+    "score": 0.47573197840541426
+  },
+  {
+    "keyword": "tout bien",
+    "score": 0.47573197840541426
+  },
+  {
+    "keyword": "hart",
+    "score": 0.47362316389403747
+  },
+  {
+    "keyword": "dedans",
+    "score": 0.4680336263635409
+  },
+  {
+    "keyword": "peut etre",
+    "score": 0.4680336263635409
+  },
+  {
+    "keyword": "usine",
+    "score": 0.46269231329785193
+  },
+  {
+    "keyword": "mois",
+    "score": 0.4604830870691523
+  },
+  {
+    "keyword": "bon sang",
+    "score": 0.45748409919932
+  },
+  {
+    "keyword": "heure",
+    "score": 0.45307681619424395
+  },
+  {
+    "keyword": "blague",
+    "score": 0.44243573517041795
+  },
+  {
+    "keyword": "gare",
+    "score": 0.44127877527578285
+  },
+  {
+    "keyword": "jour",
+    "score": 0.43776136941288407
+  },
+  {
+    "keyword": "jamais tue",
+    "score": 0.4332827085329341
+  },
+  {
+    "keyword": "jamais alors",
+    "score": 0.4253014525996935
+  },
+  {
+    "keyword": "raison",
+    "score": 0.42482716611181526
+  },
+  {
+    "keyword": "cette fois",
+    "score": 0.42096585129452435
+  },
+  {
+    "keyword": "cinq",
+    "score": 0.4140887451595896
+  },
+  {
+    "keyword": "revenir",
+    "score": 0.4140887451595896
+  },
+  {
+    "keyword": "peter",
+    "score": 0.41273483562218954
+  },
+  {
+    "keyword": "salut",
+    "score": 0.4049960662336489
+  },
+  {
+    "keyword": "confiance",
+    "score": 0.40073337320071295
+  },
+  {
+    "keyword": "sortir",
+    "score": 0.40073337320071295
+  },
+  {
+    "keyword": "jumeaux",
+    "score": 0.39616941576365367
+  },
+  {
+    "keyword": "gens",
+    "score": 0.3942486576006246
+  },
+  {
+    "keyword": "heures",
+    "score": 0.3942486576006246
+  },
+  {
+    "keyword": "hommes",
+    "score": 0.3942486576006246
+  },
+  {
+    "keyword": "idee",
+    "score": 0.3942486576006246
+  },
+  {
+    "keyword": "merde",
+    "score": 0.3942486576006246
+  },
+  {
+    "keyword": "avis",
+    "score": 0.38788845223653123
+  },
+  {
+    "keyword": "demande",
+    "score": 0.38788845223653123
+  },
+  {
+    "keyword": "dix",
+    "score": 0.38788845223653123
+  },
+  {
+    "keyword": "entre",
+    "score": 0.38164977153970625
+  },
+  {
+    "keyword": "mieux",
+    "score": 0.38164977153970625
+  },
+  {
+    "keyword": "pense",
+    "score": 0.38164977153970625
+  },
+  {
+    "keyword": "remede",
+    "score": 0.3723512045419741
+  },
+  {
+    "keyword": "sang",
+    "score": 0.3691456274281131
+  },
+  {
+    "keyword": "miranda",
+    "score": 0.36659094823678806
+  },
+  {
+    "keyword": "laissez",
+    "score": 0.36363434381706655
+  },
+  {
+    "keyword": "ramene",
+    "score": 0.35404655408372493
+  },
+  {
+    "keyword": "tard",
+    "score": 0.3521808246370655
+  },
+  {
+    "keyword": "lion",
+    "score": 0.35167545284290536
+  },
+  {
+    "keyword": "enfant",
+    "score": 0.3482437929287541
+  },
+  {
+    "keyword": "securite",
+    "score": 0.3482437929287541
+  },
+  {
+    "keyword": "donnez",
+    "score": 0.34255471026934453
+  },
+  {
+    "keyword": "siens",
+    "score": 0.3381614632184761
+  },
+  {
+    "keyword": "chercher",
+    "score": 0.3369765108291177
+  },
+  {
+    "keyword": "desolee",
+    "score": 0.3369765108291177
+  },
+  {
+    "keyword": "sauf",
+    "score": 0.3369765108291177
+  },
+  {
+    "keyword": "verite",
+    "score": 0.3369765108291177
+  },
+  {
+    "keyword": "pardon",
+    "score": 0.3369428602297932
+  },
+  {
+    "keyword": "enfin",
+    "score": 0.33150648540114835
+  },
+  {
+    "keyword": "fils",
+    "score": 0.33150648540114835
+  },
+  {
+    "keyword": "laisser",
+    "score": 0.33150648540114835
+  },
+  {
+    "keyword": "regarde",
+    "score": 0.33150648540114835
+  },
+  {
+    "keyword": "tiens",
+    "score": 0.33150648540114835
+  },
+  {
+    "keyword": "trouve",
+    "score": 0.33150648540114835
+  },
+  {
+    "keyword": "vient",
+    "score": 0.33150648540114835
+  },
+  {
+    "keyword": "canards",
+    "score": 0.3305744140991001
+  },
+  {
+    "keyword": "stabilise",
+    "score": 0.330177226418414
+  },
+  {
+    "keyword": "faible",
+    "score": 0.32756914488544886
+  },
+  {
+    "keyword": "droit",
+    "score": 0.3261420076182247
+  },
+  {
+    "keyword": "pourrais",
+    "score": 0.3261420076182247
+  },
+  {
+    "keyword": "tout monde",
+    "score": 0.3261420076182247
+  },
+  {
+    "keyword": "plait",
+    "score": 0.32534997241162067
+  },
+  {
+    "keyword": "tres bien",
+    "score": 0.32088053086663887
+  },
+  {
+    "keyword": "venir",
+    "score": 0.31571958533613376
+  },
+  {
+    "keyword": "femme enfants",
+    "score": 0.31390288900657604
+  },
+  {
+    "keyword": "loup",
+    "score": 0.31180162041017817
+  },
+  {
+    "keyword": "mouchoir",
+    "score": 0.309794739914974
+  },
+  {
+    "keyword": "bonne nuit",
+    "score": 0.30615262003481514
+  },
+  {
+    "keyword": "chien",
+    "score": 0.30615262003481514
+  },
+  {
+    "keyword": "cle",
+    "score": 0.30615262003481514
+  },
+  {
+    "keyword": "evidemment",
+    "score": 0.30615262003481514
+  },
+  {
+    "keyword": "amour",
+    "score": 0.3008163316349766
+  },
+  {
+    "keyword": "etalon",
+    "score": 0.30015111722333987
+  },
+  {
+    "keyword": "morveux",
+    "score": 0.30015111722333987
+  }
+]

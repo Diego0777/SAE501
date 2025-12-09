@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "gibbs",
+    "score": 4118.580658784772
+  },
+  {
+    "keyword": "dinozzo",
+    "score": 3248.9412000888883
+  },
+  {
+    "keyword": "ziva",
+    "score": 2720.4411984848443
+  },
+  {
+    "keyword": "mcgee",
+    "score": 1614.8330632142902
+  },
+  {
+    "keyword": "ncis",
+    "score": 1180.2063249933735
+  },
+  {
+    "keyword": "agent gibbs",
+    "score": 1161.2668512941116
+  },
+  {
+    "keyword": "ducky",
+    "score": 487.7749539283048
+  },
+  {
+    "keyword": "team ncis",
+    "score": 350.45834334388616
+  },
+  {
+    "keyword": "ncis com",
+    "score": 326.05427589877166
+  },
+  {
+    "keyword": "probie",
+    "score": 316.0905130937725
+  },
+  {
+    "keyword": "petty officer",
+    "score": 295.677505688109
+  },
+  {
+    "keyword": "jethro",
+    "score": 252.61047007317262
+  },
+  {
+    "keyword": "abby",
+    "score": 182.66908952660083
+  },
+  {
+    "keyword": "www team",
+    "score": 152.77713236764188
+  },
+  {
+    "keyword": "yeah gibbs",
+    "score": 106.82878084316897
+  },
+  {
+    "keyword": "agent dinozzo",
+    "score": 94.75913914071695
+  },
+  {
+    "keyword": "ncls",
+    "score": 92.6122329062762
+  },
+  {
+    "keyword": "tony",
+    "score": 75.59362476642434
+  },
+  {
+    "keyword": "something",
+    "score": 68.68141363374224
+  },
+  {
+    "keyword": "mallard",
+    "score": 67.04286567309825
+  },
+  {
+    "keyword": "found",
+    "score": 63.739560069787984
+  },
+  {
+    "keyword": "find",
+    "score": 63.59814746519544
+  },
+  {
+    "keyword": "never",
+    "score": 59.0769345611888
+  },
+  {
+    "keyword": "special agent",
+    "score": 56.144440615850925
+  },
+  {
+    "keyword": "really",
+    "score": 54.072680699476614
+  },
+  {
+    "keyword": "rivkin",
+    "score": 48.96020400956041
+  },
+  {
+    "keyword": "ncis season",
+    "score": 47.96330083663143
+  },
+  {
+    "keyword": "director",
+    "score": 46.424316868623556
+  },
+  {
+    "keyword": "say",
+    "score": 44.237725577053546
+  },
+  {
+    "keyword": "fornell",
+    "score": 42.174257261557116
+  },
+  {
+    "keyword": "boss",
+    "score": 41.21949984169685
+  },
+  {
+    "keyword": "abs",
+    "score": 40.81737848228031
+  },
+  {
+    "keyword": "corporal",
+    "score": 37.79185440215766
+  },
+  {
+    "keyword": "said",
+    "score": 37.55837474883622
+  },
+  {
+    "keyword": "palmer",
+    "score": 36.589978527841346
+  },
+  {
+    "keyword": "last",
+    "score": 36.0346491530367
+  },
+  {
+    "keyword": "officer",
+    "score": 34.53771845193321
+  },
+  {
+    "keyword": "dead",
+    "score": 33.555130049530995
+  },
+  {
+    "keyword": "anything",
+    "score": 33.46515223422716
+  },
+  {
+    "keyword": "agent mcgee",
+    "score": 33.2689762193528
+  },
+  {
+    "keyword": "still",
+    "score": 32.20397415239346
+  },
+  {
+    "keyword": "agent",
+    "score": 30.23274881952688
+  },
+  {
+    "keyword": "petty",
+    "score": 29.41182701160168
+  },
+  {
+    "keyword": "work",
+    "score": 29.054180705771245
+  },
+  {
+    "keyword": "ago",
+    "score": 28.377651409598787
+  },
+  {
+    "keyword": "mean",
+    "score": 28.09011467130228
+  },
+  {
+    "keyword": "vance",
+    "score": 27.786170794168168
+  },
+  {
+    "keyword": "kody",
+    "score": 26.827944419519394
+  },
+  {
+    "keyword": "arnett",
+    "score": 26.43226442289226
+  },
+  {
+    "keyword": "someone",
+    "score": 26.287230935178954
+  },
+  {
+    "keyword": "korby",
+    "score": 26.06630364379949
+  },
+  {
+    "keyword": "call",
+    "score": 25.780363020638283
+  },
+  {
+    "keyword": "killed",
+    "score": 25.660155837964673
+  },
+  {
+    "keyword": "mossad",
+    "score": 25.017894105255138
+  },
+  {
+    "keyword": "thought",
+    "score": 24.937905932410008
+  },
+  {
+    "keyword": "name",
+    "score": 24.515378859158385
+  },
+  {
+    "keyword": "lance corporal",
+    "score": 24.424766007760475
+  },
+  {
+    "keyword": "told",
+    "score": 23.874964375652837
+  },
+  {
+    "keyword": "werth",
+    "score": 23.84009764478002
+  },
+  {
+    "keyword": "even",
+    "score": 23.557880532061997
+  },
+  {
+    "keyword": "tony ziva",
+    "score": 23.117709249239887
+  },
+  {
+    "keyword": "left",
+    "score": 23.0844299300339
+  },
+  {
+    "keyword": "years",
+    "score": 23.041176053964822
+  },
+  {
+    "keyword": "three",
+    "score": 22.334873648203974
+  },
+  {
+    "keyword": "way",
+    "score": 22.311229207112152
+  },
+  {
+    "keyword": "norfolk",
+    "score": 21.960696642504594
+  },
+  {
+    "keyword": "first",
+    "score": 21.72637037283166
+  },
+  {
+    "keyword": "phone",
+    "score": 21.639628370723308
+  },
+  {
+    "keyword": "sciuto",
+    "score": 20.63882438711947
+  },
+  {
+    "keyword": "looking",
+    "score": 20.466976999547548
+  },
+  {
+    "keyword": "siravo",
+    "score": 18.992425322546246
+  },
+  {
+    "keyword": "much",
+    "score": 18.44929435557801
+  },
+  {
+    "keyword": "abbs",
+    "score": 18.34005889115543
+  },
+  {
+    "keyword": "nothing",
+    "score": 18.281567809589536
+  },
+  {
+    "keyword": "thank",
+    "score": 18.172839267939935
+  },
+  {
+    "keyword": "little",
+    "score": 18.168438841307555
+  },
+  {
+    "keyword": "talk",
+    "score": 18.06798665118271
+  },
+  {
+    "keyword": "mtac",
+    "score": 17.697846203668842
+  },
+  {
+    "keyword": "bolo",
+    "score": 17.410924231907742
+  },
+  {
+    "keyword": "give",
+    "score": 17.306891569002598
+  },
+  {
+    "keyword": "ari",
+    "score": 16.73901829067149
+  },
+  {
+    "keyword": "trying",
+    "score": 16.61989888675445
+  },
+  {
+    "keyword": "believe",
+    "score": 16.588239774453758
+  },
+  {
+    "keyword": "used",
+    "score": 15.464240633922019
+  },
+  {
+    "keyword": "made",
+    "score": 15.39502478690925
+  },
+  {
+    "keyword": "navy",
+    "score": 15.23885592089776
+  },
+  {
+    "keyword": "turtle www",
+    "score": 15.231353790440345
+  },
+  {
+    "keyword": "sergeant",
+    "score": 14.948062768103657
+  },
+  {
+    "keyword": "kill",
+    "score": 14.852507820790658
+  },
+  {
+    "keyword": "ever",
+    "score": 14.624537743422266
+  },
+  {
+    "keyword": "kind",
+    "score": 14.569281349118738
+  },
+  {
+    "keyword": "yazeed",
+    "score": 14.060126451525319
+  },
+  {
+    "keyword": "azari",
+    "score": 14.060126451525319
+  },
+  {
+    "keyword": "put",
+    "score": 13.992175540045194
+  },
+  {
+    "keyword": "lieutenant",
+    "score": 13.859424238451169
+  },
+  {
+    "keyword": "went",
+    "score": 13.648064585636185
+  },
+  {
+    "keyword": "magic turtle",
+    "score": 13.589890546243845
+  },
+  {
+    "keyword": "secnav",
+    "score": 13.56467338106107
+  },
+  {
+    "keyword": "body",
+    "score": 13.493415202950063
+  },
+  {
+    "keyword": "yet",
+    "score": 13.445355209565175
+  },
+  {
+    "keyword": "actually",
+    "score": 12.957208796659451
+  },
+  {
+    "keyword": "lol synchro",
+    "score": 12.930732623213157
+  },
+  {
+    "keyword": "mayne",
+    "score": 12.930732623213157
+  },
+  {
+    "keyword": "already",
+    "score": 12.77599456083041
+  },
+  {
+    "keyword": "wrong",
+    "score": 12.754457777900312
+  },
+  {
+    "keyword": "duck",
+    "score": 12.494373958999955
+  },
+  {
+    "keyword": "murder",
+    "score": 12.36787317813623
+  },
+  {
+    "keyword": "called",
+    "score": 12.312371737353859
+  },
+  {
+    "keyword": "knew",
+    "score": 11.988225332217944
+  },
+  {
+    "keyword": "working",
+    "score": 11.988225332217944
+  },
+  {
+    "keyword": "guess",
+    "score": 11.955255722356464
+  },
+  {
+    "keyword": "anthony dinozzo",
+    "score": 11.843563511189409
+  },
+  {
+    "keyword": "ask",
+    "score": 11.711569497441479
+  },
+  {
+    "keyword": "death",
+    "score": 11.657201008645355
+  },
+  {
+    "keyword": "kale",
+    "score": 11.598182318761499
+  },
+  {
+    "keyword": "night",
+    "score": 11.563799815661213
+  },
+  {
+    "keyword": "done",
+    "score": 11.542496797028399
+  },
+  {
+    "keyword": "keep",
+    "score": 11.515532385792351
+  },
+  {
+    "keyword": "better",
+    "score": 11.478364987716912
+  },
+  {
+    "keyword": "looks",
+    "score": 11.356531186237138
+  },
+  {
+    "keyword": "sir",
+    "score": 11.336916090709513
+  },
+  {
+    "keyword": "took",
+    "score": 11.29946208379983
+  },
+  {
+    "keyword": "trimble",
+    "score": 11.148718546680131
+  },
+  {
+    "keyword": "cell",
+    "score": 10.911380648322718
+  },
+  {
+    "keyword": "always",
+    "score": 10.76933629971638
+  },
+  {
+    "keyword": "wanted",
+    "score": 10.767599748659665
+  },
+  {
+    "keyword": "synchro gaillots",
+    "score": 10.686376088404042
+  },
+  {
+    "keyword": "gibbs gibbs",
+    "score": 10.683239421351608
+  },
+  {
+    "keyword": "around",
+    "score": 10.496460858799946
+  },
+  {
+    "keyword": "getting",
+    "score": 10.485449649524357
+  },
+  {
+    "keyword": "marine",
+    "score": 10.422066270028228
+  },
+  {
+    "keyword": "wait",
+    "score": 10.114717947729384
+  },
+  {
+    "keyword": "probably",
+    "score": 10.014965240470472
+  },
+  {
+    "keyword": "everything",
+    "score": 9.988098554844631
+  },
+  {
+    "keyword": "callen",
+    "score": 9.94765441712787
+  },
+  {
+    "keyword": "kort",
+    "score": 9.94765441712787
+  },
+  {
+    "keyword": "else",
+    "score": 9.595767732760285
+  },
+  {
+    "keyword": "agent todd",
+    "score": 9.452848230735729
+  },
+  {
+    "keyword": "please",
+    "score": 9.428509217384708
+  },
+  {
+    "keyword": "saw",
+    "score": 9.421070384120728
+  },
+  {
+    "keyword": "another",
+    "score": 9.355201326074011
+  },
+  {
+    "keyword": "wife",
+    "score": 9.31615679079011
+  },
+  {
+    "keyword": "team",
+    "score": 9.212837614380847
+  },
+  {
+    "keyword": "yost",
+    "score": 9.209880947001144
+  },
+  {
+    "keyword": "talking",
+    "score": 9.118509015882623
+  },
+  {
+    "keyword": "enough",
+    "score": 9.058265247596815
+  },
+  {
+    "keyword": "franks",
+    "score": 9.049765245884307
+  },
+  {
+    "keyword": "gunny",
+    "score": 9.020369565383051
+  },
+  {
+    "keyword": "happened",
+    "score": 8.886967803206733
+  },
+  {
+    "keyword": "number",
+    "score": 8.839836052897809
+  },
+  {
+    "keyword": "nice",
+    "score": 8.763830741179301
+  },
+  {
+    "keyword": "heard",
+    "score": 8.747401466887744
+  },
+  {
+    "keyword": "leave",
+    "score": 8.697607864489715
+  },
+  {
+    "keyword": "thanks",
+    "score": 8.532558012095446
+  },
+  {
+    "keyword": "since",
+    "score": 8.467016333035012
+  },
+  {
+    "keyword": "kate",
+    "score": 8.46385193442109
+  },
+  {
+    "keyword": "bad",
+    "score": 8.450618297876428
+  },
+  {
+    "keyword": "blood",
+    "score": 8.385677400051069
+  },
+  {
+    "keyword": "money",
+    "score": 8.344696271044953
+  },
+  {
+    "keyword": "morning",
+    "score": 8.319519067701302
+  },
+  {
+    "keyword": "old",
+    "score": 8.29661520847075
+  },
+  {
+    "keyword": "staff sergeant",
+    "score": 8.233232067134413
+  },
+  {
+    "keyword": "months",
+    "score": 8.178550698474254
+  },
+  {
+    "keyword": "gaillots",
+    "score": 7.916254046095372
+  },
+  {
+    "keyword": "renny",
+    "score": 7.880119634543139
+  },
+  {
+    "keyword": "day",
+    "score": 7.868056264000783
+  },
+  {
+    "keyword": "crime scene",
+    "score": 7.86652135713332
+  },
+  {
+    "keyword": "idea",
+    "score": 7.837075068303455
+  },
+  {
+    "keyword": "danforth",
+    "score": 7.7616116292235455
+  },
+  {
+    "keyword": "case",
+    "score": 7.734832666426222
+  },
+  {
+    "keyword": "problem",
+    "score": 7.609617900876091
+  },
+  {
+    "keyword": "home",
+    "score": 7.560836707684104
+  },
+  {
+    "keyword": "missing",
+    "score": 7.537857626136736
+  },
+  {
+    "keyword": "room",
+    "score": 7.515495317509705
+  },
+  {
+    "keyword": "rankin",
+    "score": 7.446982106943907
+  },
+  {
+    "keyword": "hours",
+    "score": 7.298394257481229
+  },
+  {
+    "keyword": "shot",
+    "score": 7.213775828797992
+  },
+  {
+    "keyword": "computer",
+    "score": 7.033178611552398
+  },
+  {
+    "keyword": "anyone",
+    "score": 7.018713592898982
+  },
+  {
+    "keyword": "away",
+    "score": 6.961950089902123
+  },
+  {
+    "keyword": "sharif",
+    "score": 6.961828951027093
+  },
+  {
+    "keyword": "exactly",
+    "score": 6.916792822035048
+  },
+  {
+    "keyword": "days",
+    "score": 6.891706612936206
+  },
+  {
+    "keyword": "dna",
+    "score": 6.829917407093105
+  },
+  {
+    "keyword": "looks like",
+    "score": 6.812698808274095
+  },
+  {
+    "keyword": "security",
+    "score": 6.797642695383196
+  },
+  {
+    "keyword": "boss got",
+    "score": 6.724284872419805
+  },
+  {
+    "keyword": "prints",
+    "score": 6.6606426662702285
+  },
+  {
+    "keyword": "hell",
+    "score": 6.574916680150993
+  },
+  {
+    "keyword": "seen",
+    "score": 6.53576327459088
+  },
+  {
+    "keyword": "hit",
+    "score": 6.425896079571381
+  },
+  {
+    "keyword": "victim",
+    "score": 6.400580103345909
+  },
+  {
+    "keyword": "means",
+    "score": 6.357755017740721
+  },
+  {
+    "keyword": "next",
+    "score": 6.332560498678382
+  },
+  {
+    "keyword": "doctor",
+    "score": 6.272716411121202
+  },
+  {
+    "keyword": "captain",
+    "score": 6.181799215041223
+  },
+  {
+    "keyword": "sure",
+    "score": 6.154949589389125
+  },
+  {
+    "keyword": "autopsy",
+    "score": 6.152166574984606
+  },
+  {
+    "keyword": "died",
+    "score": 6.1327850047321935
+  },
+  {
+    "keyword": "father",
+    "score": 6.090399345956101
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "serena",
+    "score": 785.2110644172536
+  },
+  {
+    "keyword": "blair",
+    "score": 518.7764428251114
+  },
+  {
+    "keyword": "gossip girl",
+    "score": 326.21063690008395
+  },
+  {
+    "keyword": "woodsen",
+    "score": 189.44900275762808
+  },
+  {
+    "keyword": "humphrey",
+    "score": 177.162463576612
+  },
+  {
+    "keyword": "nate",
+    "score": 158.19113533298776
+  },
+  {
+    "keyword": "blair waldorf",
+    "score": 135.69287657908856
+  },
+  {
+    "keyword": "waldorf",
+    "score": 127.86393401214393
+  },
+  {
+    "keyword": "der woodsen",
+    "score": 126.78103710870346
+  },
+  {
+    "keyword": "chuck bass",
+    "score": 117.79840735057462
+  },
+  {
+    "keyword": "dorota",
+    "score": 110.88180916634032
+  },
+  {
+    "keyword": "vraiment",
+    "score": 95.2371125929832
+  },
+  {
+    "keyword": "van der",
+    "score": 91.8071820485812
+  },
+  {
+    "keyword": "rufus",
+    "score": 83.9237624551918
+  },
+  {
+    "keyword": "juste",
+    "score": 75.81402314571883
+  },
+  {
+    "keyword": "chuck",
+    "score": 74.97559211140262
+  },
+  {
+    "keyword": "dan humphrey",
+    "score": 73.80360820557482
+  },
+  {
+    "keyword": "ouais",
+    "score": 58.23458168207428
+  },
+  {
+    "keyword": "georgina",
+    "score": 57.77833409569951
+  },
+  {
+    "keyword": "pere",
+    "score": 52.87335132790556
+  },
+  {
+    "keyword": "pense",
+    "score": 47.47910426062488
+  },
+  {
+    "keyword": "gossip",
+    "score": 47.11566984360743
+  },
+  {
+    "keyword": "jenny",
+    "score": 46.752923060997375
+  },
+  {
+    "keyword": "vanessa",
+    "score": 46.30593002815782
+  },
+  {
+    "keyword": "lily",
+    "score": 46.16853464611482
+  },
+  {
+    "keyword": "bass",
+    "score": 43.812897616442875
+  },
+  {
+    "keyword": "voir",
+    "score": 42.554963296076835
+  },
+  {
+    "keyword": "dan",
+    "score": 42.28424813083641
+  },
+  {
+    "keyword": "tripp",
+    "score": 42.09843906405703
+  },
+  {
+    "keyword": "passe",
+    "score": 41.872561222955625
+  },
+  {
+    "keyword": "fais",
+    "score": 40.43926287130734
+  },
+  {
+    "keyword": "merci",
+    "score": 39.906152053487915
+  },
+  {
+    "keyword": "peut etre",
+    "score": 38.99130265542995
+  },
+  {
+    "keyword": "archibald",
+    "score": 38.25428382186575
+  },
+  {
+    "keyword": "maintenant",
+    "score": 38.14185616044753
+  },
+  {
+    "keyword": "soir",
+    "score": 36.45503865686797
+  },
+  {
+    "keyword": "nate archibald",
+    "score": 36.408292192896425
+  },
+  {
+    "keyword": "quelque chose",
+    "score": 36.11816155984058
+  },
+  {
+    "keyword": "besoin",
+    "score": 34.22359464160956
+  },
+  {
+    "keyword": "jenny humphrey",
+    "score": 33.926596778727394
+  },
+  {
+    "keyword": "serena van",
+    "score": 32.715023261240816
+  },
+  {
+    "keyword": "parler",
+    "score": 29.741960085936537
+  },
+  {
+    "keyword": "parce",
+    "score": 28.252536473782985
+  },
+  {
+    "keyword": "desolee",
+    "score": 26.554871105781483
+  },
+  {
+    "keyword": "bart",
+    "score": 25.53153287984695
+  },
+  {
+    "keyword": "der",
+    "score": 25.00310621576164
+  },
+  {
+    "keyword": "der bilt",
+    "score": 24.78808701989653
+  },
+  {
+    "keyword": "bilt",
+    "score": 24.78808701989653
+  },
+  {
+    "keyword": "temps",
+    "score": 24.354405976830794
+  },
+  {
+    "keyword": "fois",
+    "score": 23.83838387731199
+  },
+  {
+    "keyword": "peu",
+    "score": 23.42738435889135
+  },
+  {
+    "keyword": "quelqu",
+    "score": 21.321130793082823
+  },
+  {
+    "keyword": "aime",
+    "score": 21.242117500345127
+  },
+  {
+    "keyword": "upper east",
+    "score": 20.403533368524187
+  },
+  {
+    "keyword": "eleanor",
+    "score": 18.996860186088497
+  },
+  {
+    "keyword": "voulais",
+    "score": 18.910774488181747
+  },
+  {
+    "keyword": "mere",
+    "score": 18.112163396762885
+  },
+  {
+    "keyword": "pensais",
+    "score": 17.32753776901207
+  },
+  {
+    "keyword": "fille",
+    "score": 16.49534324343928
+  },
+  {
+    "keyword": "crois",
+    "score": 15.544562690950201
+  },
+  {
+    "keyword": "monde",
+    "score": 15.529397247791023
+  },
+  {
+    "keyword": "parle",
+    "score": 15.364385591855878
+  },
+  {
+    "keyword": "personne",
+    "score": 15.269937516670868
+  },
+  {
+    "keyword": "bon",
+    "score": 14.923177910432237
+  },
+  {
+    "keyword": "arcadya",
+    "score": 14.900721905957962
+  },
+  {
+    "keyword": "famille",
+    "score": 14.40117364452609
+  },
+  {
+    "keyword": "desole",
+    "score": 14.367532244770624
+  },
+  {
+    "keyword": "viens",
+    "score": 14.25158299574125
+  },
+  {
+    "keyword": "depuis",
+    "score": 13.647745903001981
+  },
+  {
+    "keyword": "devrais",
+    "score": 12.880350089937197
+  },
+  {
+    "keyword": "accord",
+    "score": 12.574800193100616
+  },
+  {
+    "keyword": "attends",
+    "score": 12.50782982234565
+  },
+  {
+    "keyword": "deux",
+    "score": 12.248078128281728
+  },
+  {
+    "keyword": "laisse",
+    "score": 11.843433197697689
+  },
+  {
+    "keyword": "seule",
+    "score": 11.727139302255043
+  },
+  {
+    "keyword": "dieu",
+    "score": 11.537289431299952
+  },
+  {
+    "keyword": "dis",
+    "score": 11.28859696528467
+  },
+  {
+    "keyword": "vie",
+    "score": 11.154744243690041
+  },
+  {
+    "keyword": "savoir",
+    "score": 10.56734914660659
+  },
+  {
+    "keyword": "plait",
+    "score": 10.5489855738647
+  },
+  {
+    "keyword": "mieux",
+    "score": 10.514675696707783
+  },
+  {
+    "keyword": "fete",
+    "score": 10.120261854632062
+  },
+  {
+    "keyword": "maman",
+    "score": 9.827171297802485
+  },
+  {
+    "keyword": "yale",
+    "score": 9.48986322198875
+  },
+  {
+    "keyword": "a²s",
+    "score": 9.34805047019374
+  },
+  {
+    "keyword": "demande",
+    "score": 9.273685106928292
+  },
+  {
+    "keyword": "ecoute",
+    "score": 9.091726070272186
+  },
+  {
+    "keyword": "ensemble",
+    "score": 9.044012870938422
+  },
+  {
+    "keyword": "vrai",
+    "score": 8.876783663650922
+  },
+  {
+    "keyword": "seule unique",
+    "score": 8.568376543534436
+  },
+  {
+    "keyword": "bonne",
+    "score": 8.455313705916373
+  },
+  {
+    "keyword": "prendre",
+    "score": 8.34251036792357
+  },
+  {
+    "keyword": "raison",
+    "score": 8.304805955597041
+  },
+  {
+    "keyword": "poppy",
+    "score": 8.268333292262017
+  },
+  {
+    "keyword": "beaucoup",
+    "score": 8.195956585093374
+  },
+  {
+    "keyword": "salut",
+    "score": 8.156230040282697
+  },
+  {
+    "keyword": "petit",
+    "score": 7.917134334025441
+  },
+  {
+    "keyword": "vois",
+    "score": 7.629367714151988
+  },
+  {
+    "keyword": "entre",
+    "score": 7.266044307320835
+  },
+  {
+    "keyword": "gens",
+    "score": 7.194634915252111
+  },
+  {
+    "keyword": "soiree",
+    "score": 7.161725423799225
+  },
+  {
+    "keyword": "ecole",
+    "score": 7.131073832131534
+  },
+  {
+    "keyword": "amie",
+    "score": 6.983773362589158
+  },
+  {
+    "keyword": "tout monde",
+    "score": 6.828861927545455
+  },
+  {
+    "keyword": "nathaniel",
+    "score": 6.527704228191724
+  },
+  {
+    "keyword": "titre a²s",
+    "score": 6.480850955286022
+  },
+  {
+    "keyword": "about subs",
+    "score": 6.480850955286022
+  },
+  {
+    "keyword": "veux dire",
+    "score": 6.458925091556377
+  },
+  {
+    "keyword": "mec",
+    "score": 6.3995846888440155
+  },
+  {
+    "keyword": "savais",
+    "score": 6.385722997006751
+  },
+  {
+    "keyword": "non non",
+    "score": 6.28619850453794
+  },
+  {
+    "keyword": "penses",
+    "score": 6.282065721062944
+  },
+  {
+    "keyword": "partie",
+    "score": 6.282065721062944
+  },
+  {
+    "keyword": "amis",
+    "score": 6.163618579602302
+  },
+  {
+    "keyword": "sortir",
+    "score": 5.934911006025864
+  },
+  {
+    "keyword": "pourrait",
+    "score": 5.671345584101362
+  },
+  {
+    "keyword": "partir",
+    "score": 5.615985683146305
+  },
+  {
+    "keyword": "papa",
+    "score": 5.612367531475342
+  },
+  {
+    "keyword": "tard",
+    "score": 5.572532719047184
+  },
+  {
+    "keyword": "venir",
+    "score": 5.490108094895837
+  },
+  {
+    "keyword": "donne",
+    "score": 5.472718318905151
+  },
+  {
+    "keyword": "derniere",
+    "score": 5.430693886573568
+  },
+  {
+    "keyword": "espere",
+    "score": 5.430693886573568
+  },
+  {
+    "keyword": "trouve",
+    "score": 5.375900212961375
+  },
+  {
+    "keyword": "appelle",
+    "score": 5.349338512481791
+  },
+  {
+    "keyword": "girl",
+    "score": 5.330206387408153
+  },
+  {
+    "keyword": "filles",
+    "score": 5.282794661585453
+  },
+  {
+    "keyword": "nelly",
+    "score": 5.267222568000898
+  },
+  {
+    "keyword": "demain",
+    "score": 5.267054436831193
+  },
+  {
+    "keyword": "global team",
+    "score": 5.211826603181817
+  },
+  {
+    "keyword": "arcadya global",
+    "score": 5.211826603181817
+  },
+  {
+    "keyword": "a²s team",
+    "score": 5.203895578967937
+  },
+  {
+    "keyword": "nouvelle",
+    "score": 5.075712516456483
+  },
+  {
+    "keyword": "passer",
+    "score": 4.986673362830363
+  },
+  {
+    "keyword": "maison",
+    "score": 4.977876949187356
+  },
+  {
+    "keyword": "east side",
+    "score": 4.905816980699624
+  },
+  {
+    "keyword": "aider",
+    "score": 4.86642571970035
+  },
+  {
+    "keyword": "comprends",
+    "score": 4.814716693658734
+  },
+  {
+    "keyword": "argent",
+    "score": 4.811736235717635
+  },
+  {
+    "keyword": "trouver",
+    "score": 4.7895408069031715
+  },
+  {
+    "keyword": "laisser",
+    "score": 4.7895408069031715
+  },
+  {
+    "keyword": "reste",
+    "score": 4.763253316602092
+  },
+  {
+    "keyword": "vient",
+    "score": 4.686172226956808
+  },
+  {
+    "keyword": "ami",
+    "score": 4.634539019601757
+  },
+  {
+    "keyword": "bal",
+    "score": 4.569215831250548
+  },
+  {
+    "keyword": "eric",
+    "score": 4.492760371015199
+  },
+  {
+    "keyword": "faut",
+    "score": 4.463008771964691
+  },
+  {
+    "keyword": "idee",
+    "score": 4.459648268158258
+  },
+  {
+    "keyword": "annee",
+    "score": 4.454404741486908
+  },
+  {
+    "keyword": "constance",
+    "score": 4.427437399196881
+  },
+  {
+    "keyword": "dirait",
+    "score": 4.40378688452282
+  },
+  {
+    "keyword": "jour",
+    "score": 4.2727846302769725
+  },
+  {
+    "keyword": "nuit",
+    "score": 4.241636174065594
+  },
+  {
+    "keyword": "probleme",
+    "score": 4.173414979107304
+  },
+  {
+    "keyword": "devrait",
+    "score": 4.135651118873444
+  },
+  {
+    "keyword": "truc",
+    "score": 4.116719987095658
+  },
+  {
+    "keyword": "ans",
+    "score": 4.097889405304491
+  },
+  {
+    "keyword": "fini",
+    "score": 4.093325496144754
+  },
+  {
+    "keyword": "semble",
+    "score": 4.020985331083216
+  },
+  {
+    "keyword": "all about",
+    "score": 4.011969251961579
+  },
+  {
+    "keyword": "tant",
+    "score": 3.959843362240887
+  },
+  {
+    "keyword": "seul",
+    "score": 3.94307104815693
+  },
+  {
+    "keyword": "pourrais",
+    "score": 3.9262531402589342
+  },
+  {
+    "keyword": "cyrus",
+    "score": 3.9132621398107705
+  },
+  {
+    "keyword": "jusqu",
+    "score": 3.8792637986283682
+  },
+  {
+    "keyword": "histoire",
+    "score": 3.8316843009860335
+  },
+  {
+    "keyword": "arrete",
+    "score": 3.8013202549872984
+  },
+  {
+    "keyword": "importe",
+    "score": 3.8013202549872984
+  },
+  {
+    "keyword": "brooklyn",
+    "score": 3.708128604689077
+  },
+  {
+    "keyword": "carter",
+    "score": 3.689285128230753
+  },
+  {
+    "keyword": "croire",
+    "score": 3.6891952145909976
+  },
+  {
+    "keyword": "agnes",
+    "score": 3.673530267585106
+  },
+  {
+    "keyword": "pris",
+    "score": 3.6342354612171652
+  },
+  {
+    "keyword": "connais",
+    "score": 3.6342354612171652
+  },
+  {
+    "keyword": "audrey",
+    "score": 3.6105650801617193
+  },
+  {
+    "keyword": "hier",
+    "score": 3.6026236683272037
+  },
+  {
+    "keyword": "genial",
+    "score": 3.584836963797712
+  },
+  {
+    "keyword": "aujourd",
+    "score": 3.5000131623193425
+  },
+  {
+    "keyword": "aujourd hui",
+    "score": 3.5000131623193425
+  },
+  {
+    "keyword": "hui",
+    "score": 3.4874957046865465
+  },
+  {
+    "keyword": "bas",
+    "score": 3.462187689452759
+  },
+  {
+    "keyword": "olivia",
+    "score": 3.3176117374290848
+  },
+  {
+    "keyword": "matin",
+    "score": 3.3112773345692745
+  },
+  {
+    "keyword": "bonjour",
+    "score": 3.2983420892267175
+  },
+  {
+    "keyword": "meilleure",
+    "score": 3.231659280033341
+  },
+  {
+    "keyword": "assez",
+    "score": 3.213899359415911
+  },
+  {
+    "keyword": "appele",
+    "score": 3.1955980913283426
+  },
+  {
+    "keyword": "pendant",
+    "score": 3.1659445659638776
+  },
+  {
+    "keyword": "arrive",
+    "score": 3.1458035776759385
+  },
+  {
+    "keyword": "facon",
+    "score": 3.127430386508194
+  },
+  {
+    "keyword": "petite",
+    "score": 3.0763696234502405
+  },
+  {
+    "keyword": "plus tard",
+    "score": 3.0346741453465773
+  },
+  {
+    "keyword": "peur",
+    "score": 3.02718518902234
+  },
+  {
+    "keyword": "rester",
+    "score": 3.006447449385674
+  },
+  {
+    "keyword": "doyen",
+    "score": 2.9732808929106236
+  },
+  {
+    "keyword": "verite",
+    "score": 2.9639706618739
+  },
+  {
+    "keyword": "homme",
+    "score": 2.9376959742047317
+  },
+  {
+    "keyword": "seulement",
+    "score": 2.9217627155771666
+  },
+  {
+    "keyword": "enfin",
+    "score": 2.9158575312336845
+  },
+  {
+    "keyword": "heure",
+    "score": 2.8971454044021816
+  }
+]

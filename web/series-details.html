@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Détails - TV Series</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <a href="index.html" class="logo">📺 TV Series</a>
+            <ul class="nav-links">
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="search.html">Recherche</a></li>
+                <li><a href="recommendations.html">Recommandations</a></li>
+                <li><a href="series.html">Séries</a></li>
+                <li><a href="profile.html" id="profileLink">Profil</a></li>
+                <li><button id="languageToggle" class="language-toggle all" onclick="toggleLanguage()">🌍 Tous</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container">
+        <div id="serieDetails" style="margin-top: 2rem;"></div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 TV Series - SAE501 Project</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+    <script>
+        async function loadSerieDetails() {
+            const params = getUrlParams();
+            const serieTitle = params.title;
+            
+            if (!serieTitle) {
+                window.location.href = 'series.html';
+                return;
+            }
+            
+            const div = document.getElementById('serieDetails');
+            div.innerHTML = showLoading();
+            
+            try {
+                const serie = await apiRequest(`/api/series/${encodeURIComponent(serieTitle)}`, { requireAuth: false });
+                
+                const keywordsHtml = serie.keywords ? `
+                    <div class="search-section" style="margin-top: 30px;">
+                        <h3>🏷️ Mots-clés principaux</h3>
+                        <div class="series-keywords">
+                            ${serie.keywords.slice(0, 20).map(kw => 
+                                `<span class="keyword-tag">${kw.keyword} (${kw.score.toFixed(2)})</span>`
+                            ).join('')}
+                        </div>
+                    </div>
+                ` : '';
+                
+                const statsHtml = `
+                    <div class="series-stats" style="justify-content: flex-start; gap: 30px;">
+                        ${serie.average_rating !== undefined ? `
+                            <div class="stat">
+                                <span class="stat-label">Note moyenne</span>
+                                <span class="stat-value" style="font-size: 24px;">${serie.average_rating.toFixed(2)} ⭐</span>
+                            </div>
+                        ` : ''}
+                        ${serie.num_ratings !== undefined ? `
+                            <div class="stat">
+                                <span class="stat-label">Nombre d'évaluations</span>
+                                <span class="stat-value" style="font-size: 24px;">${serie.num_ratings}</span>
+                            </div>
+                        ` : ''}
+                        ${serie.popularity_score !== undefined ? `
+                            <div class="stat">
+                                <span class="stat-label">Score de popularité</span>
+                                <span class="stat-value" style="font-size: 24px;">${serie.popularity_score.toFixed(2)}</span>
+                            </div>
+                        ` : ''}
+                    </div>
+                `;
+                
+                // Générer l'URL du poster
+                let posterUrl;
+                if (serie.poster_url && serie.poster_url.startsWith('blob:')) {
+                    posterUrl = `posters/${serie.title}.jpg`;
+                } else if (serie.poster_url) {
+                    posterUrl = serie.poster_url;
+                } else {
+                    posterUrl = `covers/${serie.title}.svg`;
+                }
+                
+                div.innerHTML = `
+                    <button class="btn btn-secondary" onclick="window.history.back()" style="margin-bottom: 20px;">
+                        ← Retour
+                    </button>
+                    
+                    <div style="display: grid; grid-template-columns: 300px 1fr; gap: 2rem; margin-bottom: 2rem;">
+                        <!-- Poster -->
+                        <div>
+                            <div class="series-poster" style="border-radius: 12px; overflow: hidden; box-shadow: 0 8px 24px rgba(0,0,0,0.3);">
+                                <img src="${posterUrl}" 
+                                     alt="${formatSeriesTitle(serie.title)}"
+                                     onerror="this.src='covers/${serie.title}.svg'"
+                                     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                                <span class="language-badge ${serie.language}" style="position: absolute; top: 10px; right: 10px; font-size: 14px;">
+                                    ${serie.language.toUpperCase()}
+                                </span>
+                            </div>
+                        </div>
+                        
+                        <!-- Informations -->
+                        <div>
+                            <h1 style="margin-bottom: 20px; font-size: 2.5rem; background: linear-gradient(135deg, var(--primary-color), var(--secondary-color)); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+                                ${formatSeriesTitle(serie.title)}
+                            </h1>
+                            
+                            ${statsHtml}
+                            
+                            <!-- Notation -->
+                            <div style="margin-top: 30px; padding: 25px; background: var(--surface); border-radius: 12px;">
+                                <h3 style="margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
+                                    <span style="font-size: 24px;">⭐</span>
+                                    Noter cette série
+                                </h3>
+                                <div style="display: flex; gap: 10px; margin-bottom: 10px;">
+                                    ${[1,2,3,4,5].map(i => `
+                                        <button class="star-btn" data-rating="${i}" onclick="rateSerie(${i})" 
+                                                style="font-size: 2rem; background: none; border: none; cursor: pointer; color: var(--text-secondary); transition: all 0.2s;">
+                                            ☆
+                                        </button>
+                                    `).join('')}
+                                </div>
+                                <p style="color: var(--text-secondary); font-size: 0.9rem;">
+                                    Cliquez sur une étoile pour noter
+                                </p>
+                                <div id="ratingMessage" style="margin-top: 10px; font-weight: 500;"></div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    ${keywordsHtml}
+                `;
+                
+            } catch (error) {
+                div.innerHTML = showError('Erreur lors du chargement des détails de la série.');
+            }
+        }
+
+        async function rateSerie(rating) {
+            const params = getUrlParams();
+            const serieTitle = params.title;
+            
+            // Récupérer l'utilisateur connecté
+            let userId;
+            try {
+                const profile = await apiRequest('/profile');
+                userId = profile.id;
+            } catch {
+                alert('Vous devez être connecté pour noter une série');
+                window.location.href = 'profile.html';
+                return;
+            }
+            
+            try {
+                await apiRequest('/rate', {
+                    method: 'POST',
+                    requireAuth: false,
+                    body: JSON.stringify({
+                        user_id: userId,
+                        series_title: serieTitle,
+                        rating: rating
+                    })
+                });
+                
+                // Mettre à jour l'affichage
+                const stars = document.querySelectorAll('.star-btn');
+                stars.forEach((star, index) => {
+                    if (index < rating) {
+                        star.textContent = '★';
+                        star.style.color = '#fbbf24';
+                        star.style.transform = 'scale(1.2)';
+                    } else {
+                        star.textContent = '☆';
+                        star.style.color = 'var(--text-secondary)';
+                        star.style.transform = 'scale(1)';
+                    }
+                });
+                
+                document.getElementById('ratingMessage').innerHTML = 
+                    `<span style="color: var(--success); display: flex; align-items: center; gap: 8px;">
+                        <span style="font-size: 1.2rem;">✓</span> Note enregistrée : ${rating}/5
+                    </span>`;
+                
+                // Recharger les détails après 1 seconde pour voir les stats mises à jour
+                setTimeout(loadSerieDetails, 1000);
+                
+            } catch (error) {
+                document.getElementById('ratingMessage').innerHTML = 
+                    `<span style="color: var(--primary-color);">Erreur lors de l'enregistrement de la note.</span>`;
+            }
+        }
+
+        // Initialisation
+        document.addEventListener('DOMContentLoaded', () => {
+            updateLanguageToggle();
+            loadSerieDetails();
+        });
+    </script>
+</body>
+</html>

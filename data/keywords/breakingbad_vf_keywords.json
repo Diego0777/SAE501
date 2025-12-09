@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "tuco",
+    "score": 207.5645633590507
+  },
+  {
+    "keyword": "pinkman",
+    "score": 155.8861588139519
+  },
+  {
+    "keyword": "amphets",
+    "score": 108.13479015779231
+  },
+  {
+    "keyword": "tyno",
+    "score": 93.77027624648146
+  },
+  {
+    "keyword": "walt",
+    "score": 65.76239577771037
+  },
+  {
+    "keyword": "skyler",
+    "score": 60.14075502881611
+  },
+  {
+    "keyword": "vraiment",
+    "score": 34.50264437350719
+  },
+  {
+    "keyword": "faut",
+    "score": 29.53876608943099
+  },
+  {
+    "keyword": "bon",
+    "score": 29.107552054893258
+  },
+  {
+    "keyword": "heisenberg",
+    "score": 28.44269284138531
+  },
+  {
+    "keyword": "juste",
+    "score": 19.87770286007922
+  },
+  {
+    "keyword": "schrader",
+    "score": 18.282390890360382
+  },
+  {
+    "keyword": "deux",
+    "score": 17.77377471278788
+  },
+  {
+    "keyword": "hank",
+    "score": 17.427975532384643
+  },
+  {
+    "keyword": "mec",
+    "score": 17.41198273577335
+  },
+  {
+    "keyword": "fais",
+    "score": 17.361989350867653
+  },
+  {
+    "keyword": "jesse",
+    "score": 14.817284391135924
+  },
+  {
+    "keyword": "camping car",
+    "score": 13.575677377857529
+  },
+  {
+    "keyword": "peut etre",
+    "score": 12.993295408192456
+  },
+  {
+    "keyword": "accord",
+    "score": 12.104052890529097
+  },
+  {
+    "keyword": "peu",
+    "score": 10.912903854217056
+  },
+  {
+    "keyword": "voir",
+    "score": 10.912903854217056
+  },
+  {
+    "keyword": "crois",
+    "score": 10.882577813345478
+  },
+  {
+    "keyword": "merci",
+    "score": 10.720373974532174
+  },
+  {
+    "keyword": "dis",
+    "score": 10.078676068444373
+  },
+  {
+    "keyword": "argent",
+    "score": 10.04915713706519
+  },
+  {
+    "keyword": "besoin",
+    "score": 9.506545611324912
+  },
+  {
+    "keyword": "parle",
+    "score": 9.367878100811675
+  },
+  {
+    "keyword": "stups",
+    "score": 9.28660799613098
+  },
+  {
+    "keyword": "michvanilly",
+    "score": 9.040858788812903
+  },
+  {
+    "keyword": "badger",
+    "score": 9.026544455978943
+  },
+  {
+    "keyword": "truc",
+    "score": 8.96694532211717
+  },
+  {
+    "keyword": "temps",
+    "score": 8.459616656155509
+  },
+  {
+    "keyword": "saul",
+    "score": 8.429733399077762
+  },
+  {
+    "keyword": "fois",
+    "score": 8.417363308590172
+  },
+  {
+    "keyword": "vrai",
+    "score": 8.29465079012751
+  },
+  {
+    "keyword": "passe",
+    "score": 8.28238431373046
+  },
+  {
+    "keyword": "elliott",
+    "score": 8.251160916819538
+  },
+  {
+    "keyword": "albuquerque",
+    "score": 7.499967854208379
+  },
+  {
+    "keyword": "vois",
+    "score": 7.3872523627111875
+  },
+  {
+    "keyword": "parler",
+    "score": 7.020433224659385
+  },
+  {
+    "keyword": "enfin",
+    "score": 6.644855598023292
+  },
+  {
+    "keyword": "ecoute",
+    "score": 6.405179705826758
+  },
+  {
+    "keyword": "parce",
+    "score": 6.185077245147183
+  },
+  {
+    "keyword": "trouve",
+    "score": 6.1694249687823755
+  },
+  {
+    "keyword": "beau frere",
+    "score": 6.101708526064375
+  },
+  {
+    "keyword": "mieux",
+    "score": 6.100154204464434
+  },
+  {
+    "keyword": "maintenant",
+    "score": 6.002333467397335
+  },
+  {
+    "keyword": "quelqu",
+    "score": 5.617349098493151
+  },
+  {
+    "keyword": "ouais",
+    "score": 5.55455052676819
+  },
+  {
+    "keyword": "famille",
+    "score": 5.375402725200261
+  },
+  {
+    "keyword": "pense",
+    "score": 5.330748690471183
+  },
+  {
+    "keyword": "probleme",
+    "score": 5.119416947035904
+  },
+  {
+    "keyword": "laisse",
+    "score": 5.07404273500058
+  },
+  {
+    "keyword": "bon sang",
+    "score": 4.938931171008714
+  },
+  {
+    "keyword": "desole",
+    "score": 4.911893073729541
+  },
+  {
+    "keyword": "arrete",
+    "score": 4.630365048577061
+  },
+  {
+    "keyword": "tres bien",
+    "score": 4.582035714260104
+  },
+  {
+    "keyword": "quelque chose",
+    "score": 4.426606950562718
+  },
+  {
+    "keyword": "personne",
+    "score": 4.354975064956334
+  },
+  {
+    "keyword": "monde",
+    "score": 4.354975064956334
+  },
+  {
+    "keyword": "putain",
+    "score": 4.240617207827798
+  },
+  {
+    "keyword": "petit",
+    "score": 4.208558532218873
+  },
+  {
+    "keyword": "bonne",
+    "score": 4.148200716711462
+  },
+  {
+    "keyword": "regarde",
+    "score": 3.7457664103637502
+  },
+  {
+    "keyword": "beaucoup",
+    "score": 3.734613639448133
+  },
+  {
+    "keyword": "grammes",
+    "score": 3.7127812838588703
+  },
+  {
+    "keyword": "genre",
+    "score": 3.6193865287596356
+  },
+  {
+    "keyword": "prendre",
+    "score": 3.5029454997276184
+  },
+  {
+    "keyword": "maison",
+    "score": 3.4844378868937684
+  },
+  {
+    "keyword": "reste",
+    "score": 3.4133849691507745
+  },
+  {
+    "keyword": "tio",
+    "score": 3.2567841050924193
+  },
+  {
+    "keyword": "depuis",
+    "score": 3.202737030996116
+  },
+  {
+    "keyword": "walter",
+    "score": 3.198338991653568
+  },
+  {
+    "keyword": "vie",
+    "score": 3.1979258796393326
+  },
+  {
+    "keyword": "chimie",
+    "score": 3.1608893466649035
+  },
+  {
+    "keyword": "dollars",
+    "score": 3.134889369529775
+  },
+  {
+    "keyword": "puis",
+    "score": 3.0654973876623144
+  },
+  {
+    "keyword": "connard",
+    "score": 2.982726549078807
+  },
+  {
+    "keyword": "demande",
+    "score": 2.933036643509109
+  },
+  {
+    "keyword": "emilio",
+    "score": 2.898800091097591
+  },
+  {
+    "keyword": "homme",
+    "score": 2.885862568113375
+  },
+  {
+    "keyword": "donne",
+    "score": 2.8732613021465814
+  },
+  {
+    "keyword": "sang",
+    "score": 2.8438669169222024
+  },
+  {
+    "keyword": "attends",
+    "score": 2.8146958653901106
+  },
+  {
+    "keyword": "serieux",
+    "score": 2.6978291814811994
+  },
+  {
+    "keyword": "jusqu",
+    "score": 2.654172585476248
+  },
+  {
+    "keyword": "nom",
+    "score": 2.6415740306412596
+  },
+  {
+    "keyword": "trois",
+    "score": 2.6045020337437217
+  },
+  {
+    "keyword": "fric",
+    "score": 2.580586452272806
+  },
+  {
+    "keyword": "plait",
+    "score": 2.5297726987168545
+  },
+  {
+    "keyword": "pourrait",
+    "score": 2.4970503348349906
+  },
+  {
+    "keyword": "paso",
+    "score": 2.4529807794073903
+  },
+  {
+    "keyword": "tete",
+    "score": 2.448069988039379
+  },
+  {
+    "keyword": "gros",
+    "score": 2.422078674710492
+  },
+  {
+    "keyword": "merde",
+    "score": 2.420090732748036
+  },
+  {
+    "keyword": "semaine",
+    "score": 2.420090732748036
+  },
+  {
+    "keyword": "drogue",
+    "score": 2.4032416088441075
+  },
+  {
+    "keyword": "combien",
+    "score": 2.3810486871677337
+  },
+  {
+    "keyword": "bordel",
+    "score": 2.380502859932153
+  },
+  {
+    "keyword": "gretchen",
+    "score": 2.3678574468555693
+  },
+  {
+    "keyword": "comprends",
+    "score": 2.3442037536555524
+  },
+  {
+    "keyword": "pere",
+    "score": 2.3442037536555524
+  },
+  {
+    "keyword": "nouveau mexique",
+    "score": 2.307578329155094
+  },
+  {
+    "keyword": "appelle",
+    "score": 2.305184751314489
+  },
+  {
+    "keyword": "savoir",
+    "score": 2.26939320151947
+  },
+  {
+    "keyword": "titres www",
+    "score": 2.232308391862885
+  },
+  {
+    "keyword": "voulais",
+    "score": 2.231777860232126
+  },
+  {
+    "keyword": "hein",
+    "score": 2.196870883885277
+  },
+  {
+    "keyword": "viens",
+    "score": 2.1230170093474516
+  },
+  {
+    "keyword": "mois",
+    "score": 2.0887674972423493
+  },
+  {
+    "keyword": "marche",
+    "score": 2.0468033272812676
+  },
+  {
+    "keyword": "aime",
+    "score": 2.0272403056512287
+  },
+  {
+    "keyword": "nouveau",
+    "score": 2.0251646905996252
+  },
+  {
+    "keyword": "aucun",
+    "score": 2.0135782629622936
+  },
+  {
+    "keyword": "assez",
+    "score": 2.0135782629622936
+  },
+  {
+    "keyword": "ans",
+    "score": 1.9951927262163007
+  },
+  {
+    "keyword": "labo",
+    "score": 1.9907616856276025
+  },
+  {
+    "keyword": "tout monde",
+    "score": 1.9809942975452421
+  },
+  {
+    "keyword": "femme",
+    "score": 1.9652696667466307
+  },
+  {
+    "keyword": "flynn",
+    "score": 1.9432244180196585
+  },
+  {
+    "keyword": "seul",
+    "score": 1.943068919704666
+  },
+  {
+    "keyword": "boulot",
+    "score": 1.9361234979498807
+  },
+  {
+    "keyword": "aider",
+    "score": 1.9116259449531106
+  },
+  {
+    "keyword": "sais quoi",
+    "score": 1.850536688192832
+  },
+  {
+    "keyword": "beau",
+    "score": 1.8184302503491714
+  },
+  {
+    "keyword": "camping",
+    "score": 1.7786449815198386
+  },
+  {
+    "keyword": "idee",
+    "score": 1.7761970142575405
+  },
+  {
+    "keyword": "aucune",
+    "score": 1.7669568404668015
+  },
+  {
+    "keyword": "bonjour",
+    "score": 1.7640686764512152
+  },
+  {
+    "keyword": "passer",
+    "score": 1.7558359708068276
+  },
+  {
+    "keyword": "aujourd",
+    "score": 1.7475425659544819
+  },
+  {
+    "keyword": "pris",
+    "score": 1.7475425659544819
+  },
+  {
+    "keyword": "aujourd hui",
+    "score": 1.7475425659544819
+  },
+  {
+    "keyword": "bref",
+    "score": 1.7341091040609287
+  },
+  {
+    "keyword": "maman",
+    "score": 1.7280018727773827
+  },
+  {
+    "keyword": "hui",
+    "score": 1.7194356192015212
+  },
+  {
+    "keyword": "goodman",
+    "score": 1.6854850456156962
+  },
+  {
+    "keyword": "kilos",
+    "score": 1.6791465008459554
+  },
+  {
+    "keyword": "faites",
+    "score": 1.6722695979296733
+  },
+  {
+    "keyword": "compris",
+    "score": 1.6722695979296733
+  },
+  {
+    "keyword": "salope",
+    "score": 1.6716444790054596
+  },
+  {
+    "keyword": "bas",
+    "score": 1.6648124270450935
+  },
+  {
+    "keyword": "dieu",
+    "score": 1.6648124270450935
+  },
+  {
+    "keyword": "histoire",
+    "score": 1.6609732438965625
+  },
+  {
+    "keyword": "cote",
+    "score": 1.65549485810279
+  },
+  {
+    "keyword": "voiture",
+    "score": 1.6486381966582768
+  },
+  {
+    "keyword": "salut",
+    "score": 1.595084154599239
+  },
+  {
+    "keyword": "surement",
+    "score": 1.5691505558281411
+  },
+  {
+    "keyword": "frere",
+    "score": 1.567094169900227
+  },
+  {
+    "keyword": "tiens",
+    "score": 1.5436790669710299
+  },
+  {
+    "keyword": "ecoutez",
+    "score": 1.5436790669710299
+  },
+  {
+    "keyword": "vite",
+    "score": 1.5369682072191655
+  },
+  {
+    "keyword": "entre",
+    "score": 1.5308555629117115
+  },
+  {
+    "keyword": "mettre",
+    "score": 1.530464751964228
+  },
+  {
+    "keyword": "white",
+    "score": 1.5301617955017972
+  },
+  {
+    "keyword": "payer",
+    "score": 1.505542491762402
+  },
+  {
+    "keyword": "rester",
+    "score": 1.505542491762402
+  },
+  {
+    "keyword": "connais",
+    "score": 1.4941986968912129
+  },
+  {
+    "keyword": "arrive",
+    "score": 1.465052756042663
+  },
+  {
+    "keyword": "mexique",
+    "score": 1.4536126190916498
+  },
+  {
+    "keyword": "seulement",
+    "score": 1.4431069558964604
+  },
+  {
+    "keyword": "pote",
+    "score": 1.4423821402933308
+  },
+  {
+    "keyword": "soir",
+    "score": 1.4336289280530405
+  },
+  {
+    "keyword": "fille",
+    "score": 1.4336289280530405
+  },
+  {
+    "keyword": "devrait",
+    "score": 1.4196814900543144
+  },
+  {
+    "keyword": "sens",
+    "score": 1.4126511130123778
+  },
+  {
+    "keyword": "sais rien",
+    "score": 1.3887322604397212
+  },
+  {
+    "keyword": "marie",
+    "score": 1.3864967206385332
+  },
+  {
+    "keyword": "tant",
+    "score": 1.3818494798834415
+  },
+  {
+    "keyword": "vendre",
+    "score": 1.3803550196218792
+  },
+  {
+    "keyword": "jours",
+    "score": 1.3594183858763533
+  },
+  {
+    "keyword": "compte",
+    "score": 1.3594183858763533
+  },
+  {
+    "keyword": "heure",
+    "score": 1.3520738540211372
+  },
+  {
+    "keyword": "travail",
+    "score": 1.3520738540211372
+  },
+  {
+    "keyword": "porte",
+    "score": 1.3303922937627577
+  },
+  {
+    "keyword": "combo",
+    "score": 1.3277474840037549
+  },
+  {
+    "keyword": "bebe",
+    "score": 1.3226208124973553
+  },
+  {
+    "keyword": "appeler",
+    "score": 1.3051181974776938
+  },
+  {
+    "keyword": "affaires",
+    "score": 1.3051181974776938
+  },
+  {
+    "keyword": "produit",
+    "score": 1.2924010721067745
+  },
+  {
+    "keyword": "papa",
+    "score": 1.2824045748196082
+  },
+  {
+    "keyword": "tomas",
+    "score": 1.2716862931265183
+  },
+  {
+    "keyword": "raison",
+    "score": 1.2677711223507473
+  },
+  {
+    "keyword": "plutot",
+    "score": 1.2628916446921326
+  },
+  {
+    "keyword": "mort",
+    "score": 1.2608803506675836
+  },
+  {
+    "keyword": "tout bien",
+    "score": 1.2423915528838367
+  },
+  {
+    "keyword": "fils",
+    "score": 1.2423915528838367
+  },
+  {
+    "keyword": "traitement",
+    "score": 1.2376116560846713
+  },
+  {
+    "keyword": "gens",
+    "score": 1.2222870234805208
+  },
+  {
+    "keyword": "pourrais",
+    "score": 1.2222870234805208
+  },
+  {
+    "keyword": "exactement",
+    "score": 1.2222870234805208
+  },
+  {
+    "keyword": "cas",
+    "score": 1.208591065717139
+  },
+  {
+    "keyword": "pendant",
+    "score": 1.1882407222823963
+  },
+  {
+    "keyword": "appele",
+    "score": 1.1871255598462558
+  },
+  {
+    "keyword": "dessus",
+    "score": 1.1856395317791424
+  },
+  {
+    "keyword": "plein",
+    "score": 1.1856395317791424
+  },
+  {
+    "keyword": "prends",
+    "score": 1.1856395317791424
+  },
+  {
+    "keyword": "vient",
+    "score": 1.1856395317791424
+  },
+  {
+    "keyword": "laisser",
+    "score": 1.1856395317791424
+  }
+]

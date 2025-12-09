@@ -1,0 +1,5 @@
+{
+  "alice": {"Lost":5, "Breaking Bad":4, "Friends":3},
+  "bob": {"Lost":4, "The Office":5, "Breaking Bad":5},
+  "charlie": {"Friends":4, "How I Met Your Mother":5, "Lost":2}
+}

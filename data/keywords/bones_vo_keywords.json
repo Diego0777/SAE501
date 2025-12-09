@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "hodgins",
+    "score": 2676.0752749999006
+  },
+  {
+    "keyword": "brennan",
+    "score": 2004.5783751338274
+  },
+  {
+    "keyword": "agent booth",
+    "score": 891.3162452317143
+  },
+  {
+    "keyword": "booth",
+    "score": 654.5225449375893
+  },
+  {
+    "keyword": "epps",
+    "score": 303.67895438728044
+  },
+  {
+    "keyword": "bones",
+    "score": 293.6501043289598
+  },
+  {
+    "keyword": "zack",
+    "score": 229.24778407408584
+  },
+  {
+    "keyword": "jeffersonian",
+    "score": 209.76900182789714
+  },
+  {
+    "keyword": "saroyan",
+    "score": 175.43526881709573
+  },
+  {
+    "keyword": "seeley",
+    "score": 118.88674014868032
+  },
+  {
+    "keyword": "victim",
+    "score": 117.85132212635871
+  },
+  {
+    "keyword": "particulates",
+    "score": 116.46130160174394
+  },
+  {
+    "keyword": "found",
+    "score": 114.95725753611497
+  },
+  {
+    "keyword": "mean",
+    "score": 102.90398548663403
+  },
+  {
+    "keyword": "temperance",
+    "score": 98.71131411132511
+  },
+  {
+    "keyword": "sweets",
+    "score": 85.80838126284598
+  },
+  {
+    "keyword": "really",
+    "score": 78.9301392473641
+  },
+  {
+    "keyword": "angela",
+    "score": 74.79662035027856
+  },
+  {
+    "keyword": "something",
+    "score": 72.51172315648896
+  },
+  {
+    "keyword": "said",
+    "score": 66.6309190310107
+  },
+  {
+    "keyword": "carlie",
+    "score": 65.18221983102379
+  },
+  {
+    "keyword": "find",
+    "score": 64.3447434992838
+  },
+  {
+    "keyword": "say",
+    "score": 59.6963707468432
+  },
+  {
+    "keyword": "killed",
+    "score": 55.98770469934596
+  },
+  {
+    "keyword": "marni",
+    "score": 53.86869682394374
+  },
+  {
+    "keyword": "gormogon",
+    "score": 53.4095039951315
+  },
+  {
+    "keyword": "russ",
+    "score": 49.602672757132986
+  },
+  {
+    "keyword": "warren lynch",
+    "score": 49.38839640794928
+  },
+  {
+    "keyword": "never",
+    "score": 48.106993436263664
+  },
+  {
+    "keyword": "work",
+    "score": 47.026986896674934
+  },
+  {
+    "keyword": "anything",
+    "score": 45.254844801385104
+  },
+  {
+    "keyword": "grave digger",
+    "score": 42.23960722136707
+  },
+  {
+    "keyword": "temperance brennan",
+    "score": 40.85652657782893
+  },
+  {
+    "keyword": "murder",
+    "score": 39.67932840403726
+  },
+  {
+    "keyword": "bone",
+    "score": 39.46310687333222
+  },
+  {
+    "keyword": "seeley booth",
+    "score": 37.29681218608931
+  },
+  {
+    "keyword": "subtitle a²s",
+    "score": 37.06714855007362
+  },
+  {
+    "keyword": "team subs",
+    "score": 35.03186414976904
+  },
+  {
+    "keyword": "bones season",
+    "score": 33.882040442572276
+  },
+  {
+    "keyword": "someone",
+    "score": 30.473484203248688
+  },
+  {
+    "keyword": "years",
+    "score": 30.265648202986355
+  },
+  {
+    "keyword": "still",
+    "score": 29.698381190924984
+  },
+  {
+    "keyword": "kind",
+    "score": 28.21911522505608
+  },
+  {
+    "keyword": "body",
+    "score": 28.16946774188481
+  },
+  {
+    "keyword": "father",
+    "score": 28.158133173054424
+  },
+  {
+    "keyword": "cam",
+    "score": 28.00554089094514
+  },
+  {
+    "keyword": "told",
+    "score": 27.941764094511843
+  },
+  {
+    "keyword": "thought",
+    "score": 27.7983400265566
+  },
+  {
+    "keyword": "mccourt",
+    "score": 27.493653199576332
+  },
+  {
+    "keyword": "booth yeah",
+    "score": 27.263876554044465
+  },
+  {
+    "keyword": "a²s",
+    "score": 27.09400181345267
+  },
+  {
+    "keyword": "a²s team",
+    "score": 27.09400181345267
+  },
+  {
+    "keyword": "dead",
+    "score": 27.072714385110586
+  },
+  {
+    "keyword": "remains",
+    "score": 26.86340475716204
+  },
+  {
+    "keyword": "skull",
+    "score": 26.854678456257336
+  },
+  {
+    "keyword": "dani",
+    "score": 26.419742390686704
+  },
+  {
+    "keyword": "way",
+    "score": 26.13687416337061
+  },
+  {
+    "keyword": "addy",
+    "score": 25.121658173120768
+  },
+  {
+    "keyword": "even",
+    "score": 24.792809147602945
+  },
+  {
+    "keyword": "much",
+    "score": 24.108435085384368
+  },
+  {
+    "keyword": "used",
+    "score": 24.089288703283355
+  },
+  {
+    "keyword": "left",
+    "score": 23.699167003198376
+  },
+  {
+    "keyword": "wait",
+    "score": 23.54007602422179
+  },
+  {
+    "keyword": "thank",
+    "score": 23.458410007384742
+  },
+  {
+    "keyword": "montenegro",
+    "score": 23.279697738739596
+  },
+  {
+    "keyword": "lynch",
+    "score": 22.8908244118917
+  },
+  {
+    "keyword": "little",
+    "score": 22.568204994851264
+  },
+  {
+    "keyword": "god",
+    "score": 22.2424221580046
+  },
+  {
+    "keyword": "bones know",
+    "score": 20.78909578803575
+  },
+  {
+    "keyword": "give",
+    "score": 20.016430680784076
+  },
+  {
+    "keyword": "looking",
+    "score": 19.494569447557804
+  },
+  {
+    "keyword": "last",
+    "score": 19.466171218488434
+  },
+  {
+    "keyword": "ask",
+    "score": 18.831735038022767
+  },
+  {
+    "keyword": "please",
+    "score": 18.507541940397676
+  },
+  {
+    "keyword": "talk",
+    "score": 18.463539324665994
+  },
+  {
+    "keyword": "great",
+    "score": 17.474325476165895
+  },
+  {
+    "keyword": "sully",
+    "score": 17.402489493372162
+  },
+  {
+    "keyword": "anthropologist",
+    "score": 17.316122499906733
+  },
+  {
+    "keyword": "wanted",
+    "score": 17.172365338918127
+  },
+  {
+    "keyword": "nothing",
+    "score": 17.157903789113806
+  },
+  {
+    "keyword": "enough",
+    "score": 17.104428022085283
+  },
+  {
+    "keyword": "ago",
+    "score": 17.048680988531114
+  },
+  {
+    "keyword": "fbi",
+    "score": 16.741076158062665
+  },
+  {
+    "keyword": "death",
+    "score": 16.69457106256564
+  },
+  {
+    "keyword": "together",
+    "score": 16.684170214355028
+  },
+  {
+    "keyword": "brianna",
+    "score": 16.07194871168773
+  },
+  {
+    "keyword": "howard epps",
+    "score": 15.93025161941491
+  },
+  {
+    "keyword": "believe",
+    "score": 15.671997562228482
+  },
+  {
+    "keyword": "first",
+    "score": 15.603231915090417
+  },
+  {
+    "keyword": "probably",
+    "score": 15.396634607811242
+  },
+  {
+    "keyword": "made",
+    "score": 15.203907578282083
+  },
+  {
+    "keyword": "three",
+    "score": 15.004731395623427
+  },
+  {
+    "keyword": "name",
+    "score": 14.895300534563502
+  },
+  {
+    "keyword": "call",
+    "score": 14.724450388521841
+  },
+  {
+    "keyword": "ever",
+    "score": 14.382615139090772
+  },
+  {
+    "keyword": "thanks",
+    "score": 14.314892404674477
+  },
+  {
+    "keyword": "richardson",
+    "score": 14.217553054132205
+  },
+  {
+    "keyword": "booth brennan",
+    "score": 14.183092427438202
+  },
+  {
+    "keyword": "around",
+    "score": 14.058017613417324
+  },
+  {
+    "keyword": "murder weapon",
+    "score": 13.994477511032187
+  },
+  {
+    "keyword": "old",
+    "score": 13.788666172794303
+  },
+  {
+    "keyword": "trying",
+    "score": 13.76648186670032
+  },
+  {
+    "keyword": "welton",
+    "score": 13.620819128876592
+  },
+  {
+    "keyword": "bancroft",
+    "score": 13.537697099670115
+  },
+  {
+    "keyword": "kill",
+    "score": 13.415054400201713
+  },
+  {
+    "keyword": "better",
+    "score": 13.04585587157451
+  },
+  {
+    "keyword": "saw",
+    "score": 12.956025190679247
+  },
+  {
+    "keyword": "carly",
+    "score": 12.91589831165731
+  },
+  {
+    "keyword": "head",
+    "score": 12.827440649673209
+  },
+  {
+    "keyword": "always",
+    "score": 12.797631283184995
+  },
+  {
+    "keyword": "happened",
+    "score": 12.606466982907964
+  },
+  {
+    "keyword": "away",
+    "score": 12.56484922803192
+  },
+  {
+    "keyword": "else",
+    "score": 12.451933548931462
+  },
+  {
+    "keyword": "weapon",
+    "score": 12.35080917830639
+  },
+  {
+    "keyword": "keep",
+    "score": 12.30689283431328
+  },
+  {
+    "keyword": "put",
+    "score": 12.259225035342387
+  },
+  {
+    "keyword": "went",
+    "score": 12.070933700537529
+  },
+  {
+    "keyword": "knew",
+    "score": 11.917635411690586
+  },
+  {
+    "keyword": "forensic",
+    "score": 11.340698584299915
+  },
+  {
+    "keyword": "taffet",
+    "score": 11.270783263164718
+  },
+  {
+    "keyword": "looks",
+    "score": 10.95123100152277
+  },
+  {
+    "keyword": "fractures",
+    "score": 10.927046924794514
+  },
+  {
+    "keyword": "also",
+    "score": 10.850607624904718
+  },
+  {
+    "keyword": "took",
+    "score": 10.84759777895722
+  },
+  {
+    "keyword": "means",
+    "score": 10.60085710549923
+  },
+  {
+    "keyword": "another",
+    "score": 10.58270978926178
+  },
+  {
+    "keyword": "actually",
+    "score": 10.5734964371237
+  },
+  {
+    "keyword": "says",
+    "score": 10.553549013925908
+  },
+  {
+    "keyword": "life",
+    "score": 10.450299729001193
+  },
+  {
+    "keyword": "understand",
+    "score": 10.127008783996434
+  },
+  {
+    "keyword": "agent",
+    "score": 9.931508099243295
+  },
+  {
+    "keyword": "digger",
+    "score": 9.840001048464227
+  },
+  {
+    "keyword": "evidence",
+    "score": 9.799064015148868
+  },
+  {
+    "keyword": "everything",
+    "score": 9.765064068016867
+  },
+  {
+    "keyword": "anyone",
+    "score": 9.614290720865117
+  },
+  {
+    "keyword": "dad",
+    "score": 9.613949765117248
+  },
+  {
+    "keyword": "warren",
+    "score": 9.560853753123647
+  },
+  {
+    "keyword": "exactly",
+    "score": 9.528337270501128
+  },
+  {
+    "keyword": "human",
+    "score": 9.460178040270092
+  },
+  {
+    "keyword": "kirk",
+    "score": 9.43586639699125
+  },
+  {
+    "keyword": "love",
+    "score": 9.427377724576438
+  },
+  {
+    "keyword": "son",
+    "score": 9.395585123438604
+  },
+  {
+    "keyword": "mother",
+    "score": 9.227915754315818
+  },
+  {
+    "keyword": "saying",
+    "score": 9.110437777070857
+  },
+  {
+    "keyword": "blood",
+    "score": 9.086407186221825
+  },
+  {
+    "keyword": "working",
+    "score": 9.081503395639302
+  },
+  {
+    "keyword": "kid",
+    "score": 8.983709669334715
+  },
+  {
+    "keyword": "person",
+    "score": 8.937639930608276
+  },
+  {
+    "keyword": "sure",
+    "score": 8.901237646319608
+  },
+  {
+    "keyword": "shalimarfox",
+    "score": 8.842946203946887
+  },
+  {
+    "keyword": "year",
+    "score": 8.76785498442665
+  },
+  {
+    "keyword": "pretty",
+    "score": 8.763414054827466
+  },
+  {
+    "keyword": "idea",
+    "score": 8.742167991521764
+  },
+  {
+    "keyword": "talking",
+    "score": 8.742167991521764
+  },
+  {
+    "keyword": "whole",
+    "score": 8.731365499117123
+  },
+  {
+    "keyword": "wrong",
+    "score": 8.709137223574615
+  },
+  {
+    "keyword": "tissue",
+    "score": 8.692347147548041
+  },
+  {
+    "keyword": "wife",
+    "score": 8.609295333791025
+  },
+  {
+    "keyword": "vertebrae",
+    "score": 8.6078945171686
+  },
+  {
+    "keyword": "case",
+    "score": 8.596996803716143
+  },
+  {
+    "keyword": "decker",
+    "score": 8.502745503173868
+  },
+  {
+    "keyword": "lori",
+    "score": 8.387781601834066
+  },
+  {
+    "keyword": "feel",
+    "score": 8.364117489905217
+  },
+  {
+    "keyword": "cause death",
+    "score": 8.346416054201146
+  },
+  {
+    "keyword": "missing",
+    "score": 8.289970657612592
+  },
+  {
+    "keyword": "ice pick",
+    "score": 8.255362780677617
+  },
+  {
+    "keyword": "called",
+    "score": 8.114003027293546
+  },
+  {
+    "keyword": "died",
+    "score": 8.054596522931794
+  },
+  {
+    "keyword": "done",
+    "score": 8.025289394958268
+  },
+  {
+    "keyword": "husband",
+    "score": 7.923012654568267
+  },
+  {
+    "keyword": "murdered",
+    "score": 7.690338610202859
+  },
+  {
+    "keyword": "nice",
+    "score": 7.644646771413048
+  },
+  {
+    "keyword": "getting",
+    "score": 7.635100141001816
+  },
+  {
+    "keyword": "listen",
+    "score": 7.606646059059189
+  },
+  {
+    "keyword": "goodman",
+    "score": 7.530484789969251
+  },
+  {
+    "keyword": "real",
+    "score": 7.36321131123157
+  },
+  {
+    "keyword": "without",
+    "score": 7.360255149018536
+  },
+  {
+    "keyword": "lab",
+    "score": 7.325828924920788
+  },
+  {
+    "keyword": "nestor",
+    "score": 7.306279024147039
+  },
+  {
+    "keyword": "synchro shalimarfox",
+    "score": 7.21430185456541
+  },
+  {
+    "keyword": "subtitle",
+    "score": 7.205795456553301
+  },
+  {
+    "keyword": "bad",
+    "score": 7.110995272622908
+  },
+  {
+    "keyword": "day",
+    "score": 7.0111960402565625
+  },
+  {
+    "keyword": "kent",
+    "score": 6.953789793947205
+  },
+  {
+    "keyword": "roxie",
+    "score": 6.9492093008158955
+  },
+  {
+    "keyword": "night",
+    "score": 6.913632353413262
+  },
+  {
+    "keyword": "somebody",
+    "score": 6.730621289408399
+  },
+  {
+    "keyword": "yet",
+    "score": 6.716104337903386
+  },
+  {
+    "keyword": "suggests",
+    "score": 6.605859418896677
+  },
+  {
+    "keyword": "wexler",
+    "score": 6.5526954907505175
+  },
+  {
+    "keyword": "subs",
+    "score": 6.481934033631958
+  },
+  {
+    "keyword": "since",
+    "score": 6.474912579658832
+  },
+  {
+    "keyword": "jared",
+    "score": 6.389629097179741
+  },
+  {
+    "keyword": "stuff",
+    "score": 6.339675210543414
+  },
+  {
+    "keyword": "schilling",
+    "score": 6.327618466584627
+  },
+  {
+    "keyword": "fine",
+    "score": 6.320136370522128
+  },
+  {
+    "keyword": "makes",
+    "score": 6.175759100088096
+  },
+  {
+    "keyword": "next",
+    "score": 6.13470024416526
+  },
+  {
+    "keyword": "money",
+    "score": 6.13470024416526
+  },
+  {
+    "keyword": "looks like",
+    "score": 6.1029465859232515
+  }
+]

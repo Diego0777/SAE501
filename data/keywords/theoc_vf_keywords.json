@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "marissa",
+    "score": 1046.797624415936
+  },
+  {
+    "keyword": "cohen",
+    "score": 485.90278938203045
+  },
+  {
+    "keyword": "kirsten",
+    "score": 415.86530763006255
+  },
+  {
+    "keyword": "seth",
+    "score": 396.76448088322957
+  },
+  {
+    "keyword": "ryan",
+    "score": 274.8767165313814
+  },
+  {
+    "keyword": "vraiment",
+    "score": 209.63460704066833
+  },
+  {
+    "keyword": "kaitlin",
+    "score": 200.5626954768835
+  },
+  {
+    "keyword": "juste",
+    "score": 199.98017238881638
+  },
+  {
+    "keyword": "atwood",
+    "score": 176.21034927324123
+  },
+  {
+    "keyword": "caleb",
+    "score": 156.05102608139617
+  },
+  {
+    "keyword": "ouais",
+    "score": 153.74604059068338
+  },
+  {
+    "keyword": "julie cooper",
+    "score": 150.77850352623582
+  },
+  {
+    "keyword": "newport",
+    "score": 140.82937801766195
+  },
+  {
+    "keyword": "ouai",
+    "score": 138.52054262529992
+  },
+  {
+    "keyword": "sandy",
+    "score": 127.25851841668809
+  },
+  {
+    "keyword": "summer",
+    "score": 117.78428623564463
+  },
+  {
+    "keyword": "nichol",
+    "score": 111.16308688929848
+  },
+  {
+    "keyword": "fais",
+    "score": 109.78499448883089
+  },
+  {
+    "keyword": "peut etre",
+    "score": 104.5321750051329
+  },
+  {
+    "keyword": "merci",
+    "score": 103.88083804465606
+  },
+  {
+    "keyword": "passe",
+    "score": 102.36225344624945
+  },
+  {
+    "keyword": "voir",
+    "score": 100.7407065616445
+  },
+  {
+    "keyword": "sandy cohen",
+    "score": 98.4063821275529
+  },
+  {
+    "keyword": "parler",
+    "score": 90.63238119106208
+  },
+  {
+    "keyword": "crois",
+    "score": 89.4808924480638
+  },
+  {
+    "keyword": "pense",
+    "score": 86.15368522789022
+  },
+  {
+    "keyword": "pere",
+    "score": 82.38204515180111
+  },
+  {
+    "keyword": "peu",
+    "score": 80.66538962016483
+  },
+  {
+    "keyword": "maintenant",
+    "score": 79.97527340773316
+  },
+  {
+    "keyword": "besoin",
+    "score": 79.40962917118142
+  },
+  {
+    "keyword": "parce",
+    "score": 78.85077889757899
+  },
+  {
+    "keyword": "julie",
+    "score": 78.79133903470225
+  },
+  {
+    "keyword": "salut",
+    "score": 76.44843215183981
+  },
+  {
+    "keyword": "trey",
+    "score": 64.85158155811946
+  },
+  {
+    "keyword": "seth cohen",
+    "score": 60.29952432404376
+  },
+  {
+    "keyword": "temps",
+    "score": 56.11996705239723
+  },
+  {
+    "keyword": "ecoute",
+    "score": 54.073652296314805
+  },
+  {
+    "keyword": "soir",
+    "score": 53.53574130355002
+  },
+  {
+    "keyword": "bon",
+    "score": 51.371785264225714
+  },
+  {
+    "keyword": "aime",
+    "score": 46.98356696591105
+  },
+  {
+    "keyword": "desole",
+    "score": 46.91259790773584
+  },
+  {
+    "keyword": "quelque chose",
+    "score": 46.3505531545967
+  },
+  {
+    "keyword": "ryan atwood",
+    "score": 45.27768359624184
+  },
+  {
+    "keyword": "deux",
+    "score": 42.627389200557275
+  },
+  {
+    "keyword": "hailey",
+    "score": 42.59823379936854
+  },
+  {
+    "keyword": "maison",
+    "score": 40.2186001164356
+  },
+  {
+    "keyword": "voulais",
+    "score": 40.15494704651923
+  },
+  {
+    "keyword": "bullit",
+    "score": 39.134887195865794
+  },
+  {
+    "keyword": "viens",
+    "score": 36.31198828788631
+  },
+  {
+    "keyword": "parle",
+    "score": 34.65801717864466
+  },
+  {
+    "keyword": "hey",
+    "score": 33.45647109342869
+  },
+  {
+    "keyword": "marissa cooper",
+    "score": 31.242404960581997
+  },
+  {
+    "keyword": "accord",
+    "score": 30.62060174336642
+  },
+  {
+    "keyword": "fois",
+    "score": 30.236778817399568
+  },
+  {
+    "keyword": "bonne",
+    "score": 30.01206487944218
+  },
+  {
+    "keyword": "euh",
+    "score": 29.4015581666068
+  },
+  {
+    "keyword": "mere",
+    "score": 28.616612407432715
+  },
+  {
+    "keyword": "dieu",
+    "score": 28.45107353587625
+  },
+  {
+    "keyword": "mec",
+    "score": 27.272725556959607
+  },
+  {
+    "keyword": "fete",
+    "score": 27.238182133199665
+  },
+  {
+    "keyword": "vie",
+    "score": 26.890880745983566
+  },
+  {
+    "keyword": "zach",
+    "score": 26.636655514290982
+  },
+  {
+    "keyword": "quelqu",
+    "score": 26.437217575257424
+  },
+  {
+    "keyword": "devrais",
+    "score": 26.278258887140705
+  },
+  {
+    "keyword": "fille",
+    "score": 26.01071990737142
+  },
+  {
+    "keyword": "dis",
+    "score": 24.887645631250756
+  },
+  {
+    "keyword": "newport group",
+    "score": 24.79619478760961
+  },
+  {
+    "keyword": "chino",
+    "score": 24.734212174293013
+  },
+  {
+    "keyword": "ensemble",
+    "score": 24.220281727349438
+  },
+  {
+    "keyword": "vois",
+    "score": 23.98597534517796
+  },
+  {
+    "keyword": "caleb nichol",
+    "score": 23.586794256696642
+  },
+  {
+    "keyword": "volchok",
+    "score": 23.586794256696642
+  },
+  {
+    "keyword": "mieux",
+    "score": 23.135756085749343
+  },
+  {
+    "keyword": "laisse",
+    "score": 22.880772288715935
+  },
+  {
+    "keyword": "monde",
+    "score": 22.762219248264806
+  },
+  {
+    "keyword": "vrai",
+    "score": 22.290746621179817
+  },
+  {
+    "keyword": "desolee",
+    "score": 22.07060069652498
+  },
+  {
+    "keyword": "personne",
+    "score": 21.418578489985528
+  },
+  {
+    "keyword": "beaucoup",
+    "score": 21.217945718255198
+  },
+  {
+    "keyword": "cooper",
+    "score": 20.851491633384338
+  },
+  {
+    "keyword": "famille",
+    "score": 20.842636161001113
+  },
+  {
+    "keyword": "pensais",
+    "score": 20.65494568420654
+  },
+  {
+    "keyword": "luke",
+    "score": 20.63009505705526
+  },
+  {
+    "keyword": "faut",
+    "score": 20.234733999633256
+  },
+  {
+    "keyword": "jimmy cooper",
+    "score": 19.98985792301794
+  },
+  {
+    "keyword": "depuis",
+    "score": 19.819907649763888
+  },
+  {
+    "keyword": "taylor",
+    "score": 18.99860830417996
+  },
+  {
+    "keyword": "pourrait",
+    "score": 18.94993232785603
+  },
+  {
+    "keyword": "theresa",
+    "score": 18.86063546700024
+  },
+  {
+    "keyword": "valentin",
+    "score": 18.167452736014827
+  },
+  {
+    "keyword": "prendre",
+    "score": 17.978906593406073
+  },
+  {
+    "keyword": "entre",
+    "score": 17.456005028985867
+  },
+  {
+    "keyword": "captain oats",
+    "score": 17.421122788685903
+  },
+  {
+    "keyword": "demain",
+    "score": 17.363710725454577
+  },
+  {
+    "keyword": "petit",
+    "score": 16.682081060993
+  },
+  {
+    "keyword": "amis",
+    "score": 16.516629543390533
+  },
+  {
+    "keyword": "idee",
+    "score": 16.257922107425493
+  },
+  {
+    "keyword": "coop",
+    "score": 15.823797164251106
+  },
+  {
+    "keyword": "aider",
+    "score": 15.351762995393557
+  },
+  {
+    "keyword": "precedemment the",
+    "score": 15.02283445570546
+  },
+  {
+    "keyword": "lindsay",
+    "score": 14.921080172468542
+  },
+  {
+    "keyword": "devrait",
+    "score": 14.706760407425445
+  },
+  {
+    "keyword": "pourrais",
+    "score": 14.517218367286134
+  },
+  {
+    "keyword": "veux dire",
+    "score": 14.461651689572138
+  },
+  {
+    "keyword": "ryan marissa",
+    "score": 14.411615237562254
+  },
+  {
+    "keyword": "passer",
+    "score": 14.246321039666814
+  },
+  {
+    "keyword": "rester",
+    "score": 14.158701520150672
+  },
+  {
+    "keyword": "venir",
+    "score": 13.912815858687955
+  },
+  {
+    "keyword": "ecole",
+    "score": 13.874842468393718
+  },
+  {
+    "keyword": "cabanon",
+    "score": 13.825541324406899
+  },
+  {
+    "keyword": "argent",
+    "score": 13.726485441957742
+  },
+  {
+    "keyword": "non non",
+    "score": 13.275434087779107
+  },
+  {
+    "keyword": "attends",
+    "score": 13.27290151155348
+  },
+  {
+    "keyword": "probleme",
+    "score": 13.265551838736036
+  },
+  {
+    "keyword": "maman",
+    "score": 13.17614408371026
+  },
+  {
+    "keyword": "sandy kirsten",
+    "score": 13.00260016626981
+  },
+  {
+    "keyword": "nuit",
+    "score": 12.702369447898883
+  },
+  {
+    "keyword": "savoir",
+    "score": 12.273553442818
+  },
+  {
+    "keyword": "bal",
+    "score": 12.20870311932738
+  },
+  {
+    "keyword": "demande",
+    "score": 12.208681597326496
+  },
+  {
+    "keyword": "tres bien",
+    "score": 12.16423254784772
+  },
+  {
+    "keyword": "reste",
+    "score": 12.138899386644955
+  },
+  {
+    "keyword": "raison",
+    "score": 12.012814916399286
+  },
+  {
+    "keyword": "seule",
+    "score": 11.976864834274481
+  },
+  {
+    "keyword": "gars",
+    "score": 11.887188100466268
+  },
+  {
+    "keyword": "annee",
+    "score": 11.811692130020885
+  },
+  {
+    "keyword": "genial",
+    "score": 11.811328310042827
+  },
+  {
+    "keyword": "hey summer",
+    "score": 11.516162359461722
+  },
+  {
+    "keyword": "the",
+    "score": 11.336449034351457
+  },
+  {
+    "keyword": "partir",
+    "score": 11.171674723580567
+  },
+  {
+    "keyword": "regarde",
+    "score": 11.137060701496514
+  },
+  {
+    "keyword": "trouve",
+    "score": 10.96372367347415
+  },
+  {
+    "keyword": "arrive",
+    "score": 10.885522543016283
+  },
+  {
+    "keyword": "summer roberts",
+    "score": 10.798613270735082
+  },
+  {
+    "keyword": "ans",
+    "score": 10.554407669354207
+  },
+  {
+    "keyword": "seul",
+    "score": 10.535677364180808
+  },
+  {
+    "keyword": "tout monde",
+    "score": 10.490740803467144
+  },
+  {
+    "keyword": "oliver",
+    "score": 10.265494718011034
+  },
+  {
+    "keyword": "plait",
+    "score": 10.128633787406617
+  },
+  {
+    "keyword": "tard",
+    "score": 10.018195442410821
+  },
+  {
+    "keyword": "hein",
+    "score": 9.913060617920527
+  },
+  {
+    "keyword": "you",
+    "score": 9.910330074527495
+  },
+  {
+    "keyword": "seth summer",
+    "score": 9.564166128124524
+  },
+  {
+    "keyword": "bonjour",
+    "score": 9.55009515265681
+  },
+  {
+    "keyword": "truc",
+    "score": 9.4650672993216
+  },
+  {
+    "keyword": "ami",
+    "score": 9.434084909695581
+  },
+  {
+    "keyword": "partie",
+    "score": 9.377653082590825
+  },
+  {
+    "keyword": "penses",
+    "score": 9.13732377305343
+  },
+  {
+    "keyword": "gens",
+    "score": 9.107341617187476
+  },
+  {
+    "keyword": "nouveau",
+    "score": 9.028103228987128
+  },
+  {
+    "keyword": "newport beach",
+    "score": 8.852787717949733
+  },
+  {
+    "keyword": "arrete",
+    "score": 8.742950189020357
+  },
+  {
+    "keyword": "assez",
+    "score": 8.703938557270522
+  },
+  {
+    "keyword": "jour",
+    "score": 8.694156115598151
+  },
+  {
+    "keyword": "derniere",
+    "score": 8.510044542213743
+  },
+  {
+    "keyword": "filles",
+    "score": 8.479911444541237
+  },
+  {
+    "keyword": "anna",
+    "score": 8.257876581768953
+  },
+  {
+    "keyword": "appeler",
+    "score": 8.223389370338609
+  },
+  {
+    "keyword": "donne",
+    "score": 8.0261024875748
+  },
+  {
+    "keyword": "cherie",
+    "score": 7.925561805406042
+  },
+  {
+    "keyword": "femme",
+    "score": 7.9014895130623
+  },
+  {
+    "keyword": "nouvelle",
+    "score": 7.885329325085264
+  },
+  {
+    "keyword": "pris",
+    "score": 7.867558782754335
+  },
+  {
+    "keyword": "trouver",
+    "score": 7.865374302871013
+  },
+  {
+    "keyword": "essaye",
+    "score": 7.828156491518109
+  },
+  {
+    "keyword": "croire",
+    "score": 7.784305519949179
+  },
+  {
+    "keyword": "kiki",
+    "score": 7.702065791508721
+  },
+  {
+    "keyword": "berkeley",
+    "score": 7.654861366855326
+  },
+  {
+    "keyword": "appelle",
+    "score": 7.61688605269501
+  },
+  {
+    "keyword": "vient",
+    "score": 7.460301513142683
+  },
+  {
+    "keyword": "sortir",
+    "score": 7.423949254590643
+  },
+  {
+    "keyword": "oats",
+    "score": 7.418125488097678
+  },
+  {
+    "keyword": "propos",
+    "score": 7.290032836394409
+  },
+  {
+    "keyword": "voiture",
+    "score": 7.244355322899542
+  },
+  {
+    "keyword": "plutot",
+    "score": 7.181347940164478
+  },
+  {
+    "keyword": "amie",
+    "score": 7.009213929920615
+  },
+  {
+    "keyword": "chercher",
+    "score": 7.001820787960384
+  },
+  {
+    "keyword": "croyais",
+    "score": 7.001820787960384
+  },
+  {
+    "keyword": "laisser",
+    "score": 6.993891931853436
+  },
+  {
+    "keyword": "jimmy",
+    "score": 6.988950326553275
+  },
+  {
+    "keyword": "hier",
+    "score": 6.91554515163963
+  },
+  {
+    "keyword": "dois aller",
+    "score": 6.83000791071789
+  },
+  {
+    "keyword": "savais",
+    "score": 6.718787293508001
+  },
+  {
+    "keyword": "aujourd",
+    "score": 6.7014090999414035
+  },
+  {
+    "keyword": "aujourd hui",
+    "score": 6.7014090999414035
+  },
+  {
+    "keyword": "sais quoi",
+    "score": 6.627190446786533
+  },
+  {
+    "keyword": "hui",
+    "score": 6.593625660263652
+  },
+  {
+    "keyword": "enfin",
+    "score": 6.404251487377226
+  },
+  {
+    "keyword": "papa",
+    "score": 6.35963041590026
+  },
+  {
+    "keyword": "travail",
+    "score": 6.327838601894395
+  },
+  {
+    "keyword": "espere",
+    "score": 6.302598189247296
+  },
+  {
+    "keyword": "bas",
+    "score": 6.287103576240536
+  },
+  {
+    "keyword": "cela",
+    "score": 6.270460723293093
+  },
+  {
+    "keyword": "tellement",
+    "score": 6.270460723293093
+  },
+  {
+    "keyword": "mettre",
+    "score": 6.167916925961092
+  },
+  {
+    "keyword": "petite",
+    "score": 6.117824329828863
+  },
+  {
+    "keyword": "connais",
+    "score": 6.100577641362134
+  },
+  {
+    "keyword": "comprends",
+    "score": 6.002728818597712
+  },
+  {
+    "keyword": "townsend",
+    "score": 5.9594926331884945
+  },
+  {
+    "keyword": "venu",
+    "score": 5.936069414599426
+  }
+]

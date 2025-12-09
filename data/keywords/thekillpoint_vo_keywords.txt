@@ -1,0 +1,200 @@
+tonray	265.939218
+sabian	233.841057
+wolf	70.685423
+sarge	61.913607
+hawke	34.985915
+beck	32.273853
+move	23.914639
+cali	22.567716
+platoon	21.292160
+bank	19.069805
+shelton	17.727065
+hostages	17.612474
+mendez	17.255171
+shit	16.797049
+robby	15.432940
+please	11.860835
+talk	9.856413
+hostage	9.518508
+son	9.396856
+ashley	9.054948
+say	8.707641
+sergeant	7.476627
+bullshit	7.258929
+goddamn	7.056633
+abe	6.897144
+give	6.740413
+negotiator	6.480874
+really	6.383768
+something	6.173703
+find	5.901838
+leon	5.896107
+cap	5.786479
+keep	5.625225
+connie	5.568997
+corporal	4.826024
+talking	4.191204
+captain	4.131500
+bank robbery	3.966506
+rabbit	3.872253
+nothing	3.621137
+daughter	3.599418
+put	3.493767
+kill	3.455519
+done	3.227992
+inside	3.227992
+thank	3.208591
+negotiations	2.972389
+never	2.949087
+swat	2.899984
+addie	2.885262
+bernard	2.778328
+hell	2.771259
+leroy	2.754538
+alan	2.692455
+grimes	2.677932
+fallujah	2.674532
+gun	2.670835
+said	2.664042
+wait	2.588752
+sniper	2.579205
+hear	2.547599
+ahead	2.502670
+life	2.469300
+breach	2.375550
+home	2.356316
+take gun	2.337331
+else	2.277832
+frequency	2.259390
+somebody	2.218324
+hold	2.217997
+ready	2.182427
+anything	2.172068
+way	2.157842
+getting	2.147219
+mean	2.012957
+coming	1.982981
+hold fire	1.957438
+marco	1.953821
+god damn	1.892016
+someone	1.858792
+away	1.858546
+everybody	1.806248
+stay	1.806248
+piggy	1.781168
+safe sound	1.770989
+teddy	1.759581
+little	1.678394
+listen	1.665217
+ever	1.612767
+control	1.591414
+shot	1.589878
+military	1.566202
+move move	1.555543
+unarmed	1.553833
+ass	1.551558
+damn	1.509019
+thought	1.502410
+fall back	1.474659
+happen	1.460500
+speak	1.460500
+boy	1.447422
+fbi	1.405681
+come come	1.388438
+kerry	1.385911
+yet	1.343516
+gonna get	1.332668
+looking	1.321707
+calm	1.288832
+demands	1.279269
+electricity	1.279269
+made	1.275325
+everything	1.263792
+follow	1.258765
+ask	1.238580
+bring	1.199346
+call	1.192529
+bad	1.174948
+walk	1.168000
+marcos	1.163815
+lives	1.161570
+work	1.161570
+robbery	1.148943
+trying	1.148461
+soldiers	1.130833
+hands	1.125185
+better	1.090126
+pittsburgh	1.088998
+send	1.073150
+secondary	1.061673
+baghdad	1.049143
+kid	1.039899
+come man	1.012587
+schematics	1.011914
+war	1.009698
+much	1.007906
+told	1.005041
+another	0.993779
+trust	0.992337
+brother	0.985345
+even	0.978154
+wrong	0.978154
+three	0.977046
+dad	0.972923
+fellas	0.954244
+back move	0.943460
+shoot	0.932775
+boys	0.929298
+god	0.904197
+let get	0.899094
+huh	0.890068
+line	0.877277
+understand	0.870186
+cause	0.864723
+saying	0.856148
+stan	0.848096
+clear	0.828869
+making	0.828869
+still	0.816462
+perimeter	0.816107
+brothers	0.815617
+went	0.815617
+last	0.811262
+anybody	0.807693
+move come	0.804750
+sir	0.800933
+lot	0.789912
+henry	0.786286
+bitch	0.781476
+see man	0.781218
+going home	0.779554
+mike	0.779368
+son bitch	0.765822
+heard	0.756272
+wants	0.756272
+soldier	0.752391
+ash	0.730242
+door	0.729523
+scared	0.720257
+easy	0.718113
+took	0.708707
+gotta get	0.701501
+everyone	0.697376
+gone	0.674500
+asshole	0.673577
+frequencies	0.673577
+casualty	0.669228
+get boy	0.669228
+know know	0.669210
+dead	0.667800
+cake	0.664081
+may	0.656241
+cops	0.654791
+leave	0.643823
+sit	0.643823
+great	0.633922
+exit	0.630626
+happened	0.626738
+problem	0.626738
+worry	0.626738
+phone	0.623763

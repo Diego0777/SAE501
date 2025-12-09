@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "majeste",
+    "score": 2443.9570561224828
+  },
+  {
+    "keyword": "roi",
+    "score": 479.2032973082683
+  },
+  {
+    "keyword": "wolsey",
+    "score": 426.44918643110765
+  },
+  {
+    "keyword": "cromwell",
+    "score": 186.00845052465382
+  },
+  {
+    "keyword": "lady mary",
+    "score": 140.52282227748137
+  },
+  {
+    "keyword": "sir thomas",
+    "score": 133.49662947885687
+  },
+  {
+    "keyword": "boleyn",
+    "score": 130.79103610541551
+  },
+  {
+    "keyword": "empereur",
+    "score": 125.69415559690718
+  },
+  {
+    "keyword": "eminence",
+    "score": 99.53449014386327
+  },
+  {
+    "keyword": "lady anne",
+    "score": 92.79168832294779
+  },
+  {
+    "keyword": "oui majeste",
+    "score": 88.29097158090792
+  },
+  {
+    "keyword": "dieu",
+    "score": 59.26733635547305
+  },
+  {
+    "keyword": "reine",
+    "score": 57.40150929745383
+  },
+  {
+    "keyword": "duc",
+    "score": 54.12500136645189
+  },
+  {
+    "keyword": "roi angleterre",
+    "score": 48.19143913813735
+  },
+  {
+    "keyword": "aske",
+    "score": 47.53442509962116
+  },
+  {
+    "keyword": "angleterre",
+    "score": 46.89149887352565
+  },
+  {
+    "keyword": "cela",
+    "score": 45.99243053993902
+  },
+  {
+    "keyword": "suffolk",
+    "score": 40.912247743994094
+  },
+  {
+    "keyword": "hertford",
+    "score": 40.78000736718721
+  },
+  {
+    "keyword": "dereham",
+    "score": 36.998262331085634
+  },
+  {
+    "keyword": "pape",
+    "score": 29.00733496034627
+  },
+  {
+    "keyword": "eveque",
+    "score": 28.094626276273527
+  },
+  {
+    "keyword": "cardinal",
+    "score": 26.76541946267608
+  },
+  {
+    "keyword": "anne boleyn",
+    "score": 25.81133393123624
+  },
+  {
+    "keyword": "tudors",
+    "score": 21.184519003499297
+  },
+  {
+    "keyword": "cour",
+    "score": 21.021754436889875
+  },
+  {
+    "keyword": "anne",
+    "score": 18.82094398213474
+  },
+  {
+    "keyword": "altesse",
+    "score": 18.654729261437108
+  },
+  {
+    "keyword": "lady",
+    "score": 18.61365199439396
+  },
+  {
+    "keyword": "francois",
+    "score": 18.18660829876241
+  },
+  {
+    "keyword": "surrey",
+    "score": 17.63044754098987
+  },
+  {
+    "keyword": "parlement",
+    "score": 16.438700785911188
+  },
+  {
+    "keyword": "saintete",
+    "score": 16.11328852342459
+  },
+  {
+    "keyword": "voir",
+    "score": 14.674828654241226
+  },
+  {
+    "keyword": "henri",
+    "score": 14.623494310654035
+  },
+  {
+    "keyword": "culpepper",
+    "score": 14.523552516975395
+  },
+  {
+    "keyword": "grace",
+    "score": 14.172020182947898
+  },
+  {
+    "keyword": "ambassadeur",
+    "score": 12.939588429080285
+  },
+  {
+    "keyword": "pere",
+    "score": 12.517496986386426
+  },
+  {
+    "keyword": "contre",
+    "score": 12.197305433014481
+  },
+  {
+    "keyword": "sir",
+    "score": 11.862097571513512
+  },
+  {
+    "keyword": "dites",
+    "score": 11.09532339604124
+  },
+  {
+    "keyword": "francais",
+    "score": 11.030820189210296
+  },
+  {
+    "keyword": "royaume",
+    "score": 11.017489991090745
+  },
+  {
+    "keyword": "fils",
+    "score": 10.375531268907828
+  },
+  {
+    "keyword": "more",
+    "score": 10.228626866335917
+  },
+  {
+    "keyword": "norfolk",
+    "score": 9.938445948827761
+  },
+  {
+    "keyword": "milady",
+    "score": 9.704446836879251
+  },
+  {
+    "keyword": "mariage",
+    "score": 9.643556400127892
+  },
+  {
+    "keyword": "fille",
+    "score": 9.633546389088249
+  },
+  {
+    "keyword": "lord",
+    "score": 9.318801649386367
+  },
+  {
+    "keyword": "catherine",
+    "score": 8.922238389754478
+  },
+  {
+    "keyword": "amour",
+    "score": 8.747983290099368
+  },
+  {
+    "keyword": "excellence",
+    "score": 8.705350571600716
+  },
+  {
+    "keyword": "france",
+    "score": 8.636625091596947
+  },
+  {
+    "keyword": "thomas",
+    "score": 8.540118275378777
+  },
+  {
+    "keyword": "homme",
+    "score": 8.409444706288912
+  },
+  {
+    "keyword": "maintenant",
+    "score": 8.089346027168823
+  },
+  {
+    "keyword": "eglise",
+    "score": 8.017300628698464
+  },
+  {
+    "keyword": "merci",
+    "score": 7.594852055712605
+  },
+  {
+    "keyword": "puis",
+    "score": 7.458092571508405
+  },
+  {
+    "keyword": "seymour",
+    "score": 7.164096426963498
+  },
+  {
+    "keyword": "buckingham",
+    "score": 6.989474782578163
+  },
+  {
+    "keyword": "femme",
+    "score": 6.719360415189095
+  },
+  {
+    "keyword": "deux",
+    "score": 6.6922848130774835
+  },
+  {
+    "keyword": "aime",
+    "score": 6.500016422069471
+  },
+  {
+    "keyword": "demande",
+    "score": 6.46383430580353
+  },
+  {
+    "keyword": "tant",
+    "score": 6.348666767085357
+  },
+  {
+    "keyword": "peut etre",
+    "score": 6.313136857103436
+  },
+  {
+    "keyword": "pense",
+    "score": 6.193728066033822
+  },
+  {
+    "keyword": "monde",
+    "score": 6.06100858630897
+  },
+  {
+    "keyword": "katherine",
+    "score": 5.989853516139429
+  },
+  {
+    "keyword": "mort",
+    "score": 5.987213129665298
+  },
+  {
+    "keyword": "entre",
+    "score": 5.948184442321325
+  },
+  {
+    "keyword": "faites",
+    "score": 5.66213056065495
+  },
+  {
+    "keyword": "lords",
+    "score": 5.230818034001678
+  },
+  {
+    "keyword": "epouse",
+    "score": 5.1401703295578525
+  },
+  {
+    "keyword": "temps",
+    "score": 5.011657636832421
+  },
+  {
+    "keyword": "hommes",
+    "score": 4.945282641610555
+  },
+  {
+    "keyword": "maitre",
+    "score": 4.724298616419425
+  },
+  {
+    "keyword": "prie",
+    "score": 4.422527787026535
+  },
+  {
+    "keyword": "ainsi",
+    "score": 4.342803801790762
+  },
+  {
+    "keyword": "enfant",
+    "score": 4.2716260063454445
+  },
+  {
+    "keyword": "vie",
+    "score": 4.260227454027151
+  },
+  {
+    "keyword": "trahison",
+    "score": 4.194702409724419
+  },
+  {
+    "keyword": "vrai",
+    "score": 4.140064664901609
+  },
+  {
+    "keyword": "traite",
+    "score": 4.094977023946105
+  },
+  {
+    "keyword": "beaucoup",
+    "score": 3.9565084124417202
+  },
+  {
+    "keyword": "rebelles",
+    "score": 3.9144072724551053
+  },
+  {
+    "keyword": "maitresse",
+    "score": 3.858059190210665
+  },
+  {
+    "keyword": "crois",
+    "score": 3.810576346034648
+  },
+  {
+    "keyword": "serment",
+    "score": 3.7959220988714497
+  },
+  {
+    "keyword": "serviteur",
+    "score": 3.6694770470673452
+  },
+  {
+    "keyword": "princesse",
+    "score": 3.6088222485727193
+  },
+  {
+    "keyword": "bonne",
+    "score": 3.5508363452350427
+  },
+  {
+    "keyword": "leurs",
+    "score": 3.5119792840854203
+  },
+  {
+    "keyword": "parler",
+    "score": 3.4637360248430777
+  },
+  {
+    "keyword": "nouveau",
+    "score": 3.438359143866496
+  },
+  {
+    "keyword": "guerre",
+    "score": 3.3897837421152417
+  },
+  {
+    "keyword": "lucille",
+    "score": 3.388748925103915
+  },
+  {
+    "keyword": "cas",
+    "score": 3.2257470994040904
+  },
+  {
+    "keyword": "madame",
+    "score": 3.1880777925462263
+  },
+  {
+    "keyword": "frere",
+    "score": 3.116018044297714
+  },
+  {
+    "keyword": "monsieur",
+    "score": 2.94812707603522
+  },
+  {
+    "keyword": "ecosse",
+    "score": 2.885573608497183
+  },
+  {
+    "keyword": "honneur",
+    "score": 2.8426868156300666
+  },
+  {
+    "keyword": "personne",
+    "score": 2.841540035187803
+  },
+  {
+    "keyword": "aucun",
+    "score": 2.8281075566356932
+  },
+  {
+    "keyword": "palais",
+    "score": 2.789863481827402
+  },
+  {
+    "keyword": "bryan",
+    "score": 2.7558686919683626
+  },
+  {
+    "keyword": "peu",
+    "score": 2.75073379285651
+  },
+  {
+    "keyword": "laissez",
+    "score": 2.731618514037001
+  },
+  {
+    "keyword": "mary",
+    "score": 2.675061969793069
+  },
+  {
+    "keyword": "depuis",
+    "score": 2.6509820691046486
+  },
+  {
+    "keyword": "rome",
+    "score": 2.621901578377452
+  },
+  {
+    "keyword": "jour",
+    "score": 2.616175309346148
+  },
+  {
+    "keyword": "francis",
+    "score": 2.5580106876333635
+  },
+  {
+    "keyword": "pensez",
+    "score": 2.535734809696384
+  },
+  {
+    "keyword": "confiance",
+    "score": 2.47896628526585
+  },
+  {
+    "keyword": "savoir",
+    "score": 2.438851354947568
+  },
+  {
+    "keyword": "londres",
+    "score": 2.4122778167651306
+  },
+  {
+    "keyword": "foi",
+    "score": 2.410857957554382
+  },
+  {
+    "keyword": "heritier",
+    "score": 2.3998646251307174
+  },
+  {
+    "keyword": "nom",
+    "score": 2.283421447724941
+  },
+  {
+    "keyword": "lettre",
+    "score": 2.2438048505018204
+  },
+  {
+    "keyword": "fisher",
+    "score": 2.237048460162479
+  },
+  {
+    "keyword": "effet",
+    "score": 2.2220862840552336
+  },
+  {
+    "keyword": "donne",
+    "score": 2.182800505644859
+  },
+  {
+    "keyword": "epoux",
+    "score": 2.1286430221607495
+  },
+  {
+    "keyword": "seigneur",
+    "score": 2.103763871344546
+  },
+  {
+    "keyword": "nouvelles",
+    "score": 2.0750977616471276
+  },
+  {
+    "keyword": "wyatt",
+    "score": 2.072510106237053
+  },
+  {
+    "keyword": "prince",
+    "score": 2.0705395865986462
+  },
+  {
+    "keyword": "mieux",
+    "score": 2.0480120084508773
+  },
+  {
+    "keyword": "grande",
+    "score": 2.03425998569401
+  },
+  {
+    "keyword": "ceci",
+    "score": 2.0212788954960463
+  },
+  {
+    "keyword": "traitre",
+    "score": 2.0134439156470263
+  },
+  {
+    "keyword": "comte",
+    "score": 2.01324947203403
+  },
+  {
+    "keyword": "annulation",
+    "score": 2.0011546992455274
+  },
+  {
+    "keyword": "famille",
+    "score": 1.9939686596197692
+  },
+  {
+    "keyword": "ordre",
+    "score": 1.9802299518426787
+  },
+  {
+    "keyword": "tres bien",
+    "score": 1.9799682311215985
+  },
+  {
+    "keyword": "charles",
+    "score": 1.9671349849499804
+  },
+  {
+    "keyword": "venez",
+    "score": 1.9429884513570284
+  },
+  {
+    "keyword": "pardonnez",
+    "score": 1.9368034347404908
+  },
+  {
+    "keyword": "paix",
+    "score": 1.9265513232944382
+  },
+  {
+    "keyword": "ceux",
+    "score": 1.9238247110737836
+  },
+  {
+    "keyword": "pourrait",
+    "score": 1.9115467787539442
+  },
+  {
+    "keyword": "seriessub com",
+    "score": 1.893366877916032
+  },
+  {
+    "keyword": "raison",
+    "score": 1.8732264637382092
+  },
+  {
+    "keyword": "epouser",
+    "score": 1.8589225388393553
+  },
+  {
+    "keyword": "parle",
+    "score": 1.8319315285947584
+  },
+  {
+    "keyword": "seriessub",
+    "score": 1.8252675568771661
+  },
+  {
+    "keyword": "trone",
+    "score": 1.8240828205699033
+  },
+  {
+    "keyword": "precedemment the",
+    "score": 1.8199318803699445
+  },
+  {
+    "keyword": "pretres",
+    "score": 1.81573401563342
+  },
+  {
+    "keyword": "vraiment",
+    "score": 1.8024672952579532
+  },
+  {
+    "keyword": "autorite",
+    "score": 1.7878713592281794
+  },
+  {
+    "keyword": "besoin",
+    "score": 1.7837247531775677
+  },
+  {
+    "keyword": "nuit",
+    "score": 1.7837247531775677
+  },
+  {
+    "keyword": "conseil",
+    "score": 1.7768716191681444
+  },
+  {
+    "keyword": "dieu benisse",
+    "score": 1.770145443078519
+  },
+  {
+    "keyword": "longtemps",
+    "score": 1.764556834347509
+  },
+  {
+    "keyword": "quelqu",
+    "score": 1.764556834347509
+  },
+  {
+    "keyword": "reforme",
+    "score": 1.7594676357316528
+  },
+  {
+    "keyword": "fois",
+    "score": 1.7550358630548164
+  },
+  {
+    "keyword": "serviteurs",
+    "score": 1.7330885644151568
+  },
+  {
+    "keyword": "edit",
+    "score": 1.7309135779626033
+  },
+  {
+    "keyword": "secretaire",
+    "score": 1.7232986829808297
+  },
+  {
+    "keyword": "gens",
+    "score": 1.7167245152902908
+  },
+  {
+    "keyword": "edward",
+    "score": 1.7069315209971676
+  },
+  {
+    "keyword": "espagne",
+    "score": 1.7053413556651351
+  },
+  {
+    "keyword": "pauvre",
+    "score": 1.6900706715806697
+  },
+  {
+    "keyword": "peuple",
+    "score": 1.6869696862216261
+  },
+  {
+    "keyword": "seulement",
+    "score": 1.6767273368188917
+  },
+  {
+    "keyword": "christ",
+    "score": 1.657964474896938
+  },
+  {
+    "keyword": "espere",
+    "score": 1.6495095905563883
+  },
+  {
+    "keyword": "seul",
+    "score": 1.6495095905563883
+  },
+  {
+    "keyword": "jure",
+    "score": 1.6350344746699115
+  },
+  {
+    "keyword": "benisse",
+    "score": 1.6234987324887369
+  },
+  {
+    "keyword": "www seriessub",
+    "score": 1.5889333483871726
+  },
+  {
+    "keyword": "couronne",
+    "score": 1.5844273479770665
+  },
+  {
+    "keyword": "aucune",
+    "score": 1.5821336188820654
+  },
+  {
+    "keyword": "elizabeth",
+    "score": 1.5491809606729496
+  },
+  {
+    "keyword": "ordonne",
+    "score": 1.5144841844320724
+  },
+  {
+    "keyword": "implore",
+    "score": 1.5140058549283577
+  },
+  {
+    "keyword": "conseillers",
+    "score": 1.513072791721301
+  },
+  {
+    "keyword": "certains",
+    "score": 1.510824805316878
+  },
+  {
+    "keyword": "henry",
+    "score": 1.4979235678001177
+  },
+  {
+    "keyword": "messieurs",
+    "score": 1.493150553448824
+  },
+  {
+    "keyword": "sujets",
+    "score": 1.457434257011811
+  },
+  {
+    "keyword": "anglais",
+    "score": 1.4434837410316554
+  },
+  {
+    "keyword": "nouvelle",
+    "score": 1.4420827703238595
+  },
+  {
+    "keyword": "romain",
+    "score": 1.4412794689205193
+  },
+  {
+    "keyword": "comprenez",
+    "score": 1.4251108521362212
+  },
+  {
+    "keyword": "trouve",
+    "score": 1.4213866900130714
+  },
+  {
+    "keyword": "enfants",
+    "score": 1.4213866900130714
+  },
+  {
+    "keyword": "visite",
+    "score": 1.4003100191657651
+  },
+  {
+    "keyword": "semble",
+    "score": 1.3983856397914087
+  }
+]

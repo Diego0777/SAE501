@@ -1,0 +1,200 @@
+garza	588.149217
+hopper	587.186438
+dominguez	154.307502
+brett hopper	119.385066
+brett	61.137823
+detweiler	52.672439
+alberto	50.687689
+rita	49.940505
+shelton	35.781258
+chad	33.874776
+inspecteur	18.453037
+affaires internes	17.081185
+meurtre	15.314463
+damien	13.858277
+andrea	13.356237
+passe	12.165220
+booth	12.075422
+journee	9.998493
+accord	9.442637
+crois	8.537793
+fais	8.371476
+faut	8.340359
+juste	7.306834
+aujourd	7.168941
+aujourd hui	7.168941
+quelqu	7.127324
+hui	7.053638
+voir	6.899558
+disciples	6.849866
+baxter	6.770080
+pere	6.659226
+quelque chose	6.613358
+ouais	6.517588
+parler	6.355035
+procureur	5.970445
+trouve	5.860535
+tue	5.815288
+deux	5.495463
+besoin	5.254343
+maintenant	5.220403
+vraiment	5.035751
+parle	4.718828
+flic	4.568174
+parce	4.533843
+peut etre	4.533843
+fois	4.515150
+miguel	4.265491
+jen	4.220987
+isabella	4.209090
+arrete meurtre	4.209090
+igs	4.062115
+savoir	4.028905
+temps	4.020909
+affaires	3.916233
+dodgers	3.752748
+laisse	3.435281
+ecoute	3.376256
+internes	3.362865
+affaire	3.316289
+dis	3.310312
+merci	3.156249
+depuis	3.040078
+arrete	3.040078
+jour	3.028093
+desole	3.000368
+arme	2.884074
+eddie	2.778994
+personne	2.778994
+margo	2.756295
+tobias	2.756295
+appelle	2.747138
+flics	2.713145
+soeur	2.622629
+demain	2.616392
+matin	2.556400
+nuit	2.434292
+homme	2.395139
+bon	2.375312
+aider	2.279800
+soir	2.243021
+appele	2.234298
+attends	2.210199
+hier	2.185255
+frere	2.171555
+empreintes	2.164065
+dossier	2.157965
+gars	2.126913
+faites	2.126913
+femme	2.074258
+trouver	2.034449
+vois	2.034449
+gens	2.001527
+comprends	1.912360
+paquet	1.909822
+voiture	1.888296
+cette journee	1.874373
+nom	1.832015
+arrive	1.802454
+hop	1.782196
+reste	1.739468
+pense	1.683881
+famille	1.682997
+accuse meurtre	1.678265
+arme crime	1.654650
+contre	1.569057
+battle	1.528477
+randall	1.405555
+demande	1.392885
+fille	1.392885
+salut	1.361914
+adjoint	1.339364
+ans	1.313381
+indic	1.310608
+peu	1.296636
+partenaire	1.289415
+jours	1.285848
+appeler	1.273352
+truc	1.265041
+mec	1.217933
+aide	1.194309
+consequence	1.182519
+dites	1.159212
+petit	1.159037
+entendu	1.140395
+sortir	1.140395
+passer	1.135915
+devrais	1.088255
+essaye	1.070590
+voulais	1.070590
+prendre	1.053266
+monde	1.053266
+vrai	1.053266
+jared	1.024729
+oublie	1.019298
+dessus	1.002752
+dieu	0.987216
+pourrait	0.986525
+mme	0.984197
+pensais	0.968119
+probleme	0.954999
+mieux	0.954999
+encore encore	0.945695
+tuer	0.936895
+rapport	0.924361
+parles	0.921734
+balle	0.910676
+tete	0.909919
+pris	0.906864
+histoire	0.902129
+vie	0.883318
+vieux	0.873033
+tomber	0.873033
+tout bien	0.873033
+enfants	0.873033
+occupe	0.873033
+seul	0.873033
+titres www	0.868410
+recherche	0.866338
+envoye	0.852139
+laissez	0.850159
+aime	0.823381
+non classees	0.823101
+trucs	0.815865
+alma	0.808903
+tout changer	0.791914
+enquete	0.791353
+connais	0.785182
+venir	0.772553
+hier soir	0.765763
+plait	0.760652
+ortiz	0.757299
+tout monde	0.739203
+idee	0.739203
+coup	0.721112
+aimerais	0.716700
+entre	0.715580
+tard	0.712901
+sang	0.710296
+chercher	0.705029
+prends	0.693585
+laisser	0.693585
+regarde	0.693585
+importe	0.693585
+confiance	0.693585
+aucun	0.693585
+derniere	0.693585
+donne	0.692848
+com http	0.690695
+mort	0.690570
+pelican	0.690510
+grand jury	0.690510
+partir	0.682361
+pourrais	0.682361
+hommes	0.682361
+conseiller	0.681220
+billy	0.675823
+tres bien	0.671353
+bebe	0.670963
+petite	0.665572
+temoin	0.661897

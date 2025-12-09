@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "ctu",
+    "score": 1019.4465835600093
+  },
+  {
+    "keyword": "dubaku",
+    "score": 873.5671460750093
+  },
+  {
+    "keyword": "bauer",
+    "score": 510.4957371552425
+  },
+  {
+    "keyword": "hassan",
+    "score": 505.16671248481094
+  },
+  {
+    "keyword": "juma",
+    "score": 481.1322363893296
+  },
+  {
+    "keyword": "almeida",
+    "score": 432.89385748932153
+  },
+  {
+    "keyword": "madam president",
+    "score": 389.0906836166875
+  },
+  {
+    "keyword": "starkwood",
+    "score": 286.66503870789984
+  },
+  {
+    "keyword": "jack bauer",
+    "score": 246.81360635403317
+  },
+  {
+    "keyword": "matobo",
+    "score": 228.18606061400777
+  },
+  {
+    "keyword": "president hassan",
+    "score": 224.49908861463828
+  },
+  {
+    "keyword": "president taylor",
+    "score": 175.70979354034975
+  },
+  {
+    "keyword": "sangala",
+    "score": 141.14380310165075
+  },
+  {
+    "keyword": "agent walker",
+    "score": 117.21777327133204
+  },
+  {
+    "keyword": "renee",
+    "score": 80.76520547219272
+  },
+  {
+    "keyword": "cip",
+    "score": 77.81374318848678
+  },
+  {
+    "keyword": "agent moss",
+    "score": 77.678611144789
+  },
+  {
+    "keyword": "farhad",
+    "score": 66.52342717752715
+  },
+  {
+    "keyword": "hodges",
+    "score": 64.98529153110812
+  },
+  {
+    "keyword": "tony almeida",
+    "score": 64.47043344749214
+  },
+  {
+    "keyword": "tarin",
+    "score": 63.278837883251505
+  },
+  {
+    "keyword": "rods",
+    "score": 59.02797428866367
+  },
+  {
+    "keyword": "president",
+    "score": 52.85012299188564
+  },
+  {
+    "keyword": "kanin",
+    "score": 49.84385649661049
+  },
+  {
+    "keyword": "jack",
+    "score": 48.31551413249177
+  },
+  {
+    "keyword": "madam",
+    "score": 46.68457119805029
+  },
+  {
+    "keyword": "burnett",
+    "score": 43.88716140913849
+  },
+  {
+    "keyword": "dana walsh",
+    "score": 41.39529377234864
+  },
+  {
+    "keyword": "renee walker",
+    "score": 41.39529377234864
+  },
+  {
+    "keyword": "jonas hodges",
+    "score": 41.39529377234864
+  },
+  {
+    "keyword": "madame president",
+    "score": 29.484217812928332
+  },
+  {
+    "keyword": "hastings",
+    "score": 29.11581255636912
+  },
+  {
+    "keyword": "chloe",
+    "score": 28.813418112577644
+  },
+  {
+    "keyword": "find",
+    "score": 27.58636474730961
+  },
+  {
+    "keyword": "white house",
+    "score": 26.557750370796427
+  },
+  {
+    "keyword": "sir",
+    "score": 25.554793413080468
+  },
+  {
+    "keyword": "thank",
+    "score": 24.32053787631909
+  },
+  {
+    "keyword": "janis",
+    "score": 23.891433816816477
+  },
+  {
+    "keyword": "marika",
+    "score": 23.81690081495626
+  },
+  {
+    "keyword": "still",
+    "score": 20.647677820769267
+  },
+  {
+    "keyword": "call",
+    "score": 20.070808787792156
+  },
+  {
+    "keyword": "please",
+    "score": 19.772866119843805
+  },
+  {
+    "keyword": "moss",
+    "score": 18.975050568187832
+  },
+  {
+    "keyword": "give",
+    "score": 16.51908595015295
+  },
+  {
+    "keyword": "said",
+    "score": 16.45134622298392
+  },
+  {
+    "keyword": "told",
+    "score": 16.104395519999983
+  },
+  {
+    "keyword": "talk",
+    "score": 15.785691858469244
+  },
+  {
+    "keyword": "arlo",
+    "score": 15.519707760905925
+  },
+  {
+    "keyword": "put",
+    "score": 15.311373804034114
+  },
+  {
+    "keyword": "taylor",
+    "score": 15.293960553260474
+  },
+  {
+    "keyword": "move",
+    "score": 15.258585978071508
+  },
+  {
+    "keyword": "canister",
+    "score": 15.256641021659352
+  },
+  {
+    "keyword": "something",
+    "score": 15.101863758537371
+  },
+  {
+    "keyword": "say",
+    "score": 15.04017067485754
+  },
+  {
+    "keyword": "understand",
+    "score": 13.993167521760874
+  },
+  {
+    "keyword": "tony",
+    "score": 13.632623555496886
+  },
+  {
+    "keyword": "everything",
+    "score": 13.15225408418156
+  },
+  {
+    "keyword": "walker",
+    "score": 12.990489715243527
+  },
+  {
+    "keyword": "mayer",
+    "score": 12.880874528436099
+  },
+  {
+    "keyword": "way",
+    "score": 12.325135089608144
+  },
+  {
+    "keyword": "dana",
+    "score": 11.584748179053088
+  },
+  {
+    "keyword": "keep",
+    "score": 11.55390205829941
+  },
+  {
+    "keyword": "walsh",
+    "score": 11.22220183836958
+  },
+  {
+    "keyword": "done",
+    "score": 10.896962262213208
+  },
+  {
+    "keyword": "larry",
+    "score": 10.606194474545072
+  },
+  {
+    "keyword": "working",
+    "score": 10.518366160908963
+  },
+  {
+    "keyword": "soon",
+    "score": 10.488542487341741
+  },
+  {
+    "keyword": "nypd",
+    "score": 10.485679513739017
+  },
+  {
+    "keyword": "believe",
+    "score": 10.453397003328876
+  },
+  {
+    "keyword": "trying",
+    "score": 10.265183025981267
+  },
+  {
+    "keyword": "fbi",
+    "score": 10.190856756732499
+  },
+  {
+    "keyword": "vladimir",
+    "score": 10.136714873201807
+  },
+  {
+    "keyword": "anything",
+    "score": 10.072644627668774
+  },
+  {
+    "keyword": "government",
+    "score": 9.668530939295076
+  },
+  {
+    "keyword": "kill",
+    "score": 9.634804479193493
+  },
+  {
+    "keyword": "security",
+    "score": 9.59302194237227
+  },
+  {
+    "keyword": "nothing",
+    "score": 9.210075465235462
+  },
+  {
+    "keyword": "phone",
+    "score": 9.16407395694343
+  },
+  {
+    "keyword": "agent",
+    "score": 9.1204590380486
+  },
+  {
+    "keyword": "jonas",
+    "score": 8.818184582354686
+  },
+  {
+    "keyword": "ethan",
+    "score": 8.784969116148648
+  },
+  {
+    "keyword": "stay",
+    "score": 8.647567517020285
+  },
+  {
+    "keyword": "russians",
+    "score": 8.581078326485096
+  },
+  {
+    "keyword": "killed",
+    "score": 8.482210107072117
+  },
+  {
+    "keyword": "weapons",
+    "score": 8.366406758486313
+  },
+  {
+    "keyword": "meier",
+    "score": 8.319621563247681
+  },
+  {
+    "keyword": "ready",
+    "score": 8.294610128434647
+  },
+  {
+    "keyword": "happened",
+    "score": 8.040419246739692
+  },
+  {
+    "keyword": "senator",
+    "score": 8.024442695816793
+  },
+  {
+    "keyword": "ortiz",
+    "score": 7.952140781938682
+  },
+  {
+    "keyword": "attack",
+    "score": 7.947141037070077
+  },
+  {
+    "keyword": "comm",
+    "score": 7.3279702113089185
+  },
+  {
+    "keyword": "work",
+    "score": 7.257816078424915
+  },
+  {
+    "keyword": "yet",
+    "score": 7.211659325787265
+  },
+  {
+    "keyword": "listen",
+    "score": 7.184858657401334
+  },
+  {
+    "keyword": "looking",
+    "score": 7.1751130429394445
+  },
+  {
+    "keyword": "someone",
+    "score": 7.137422062371023
+  },
+  {
+    "keyword": "already",
+    "score": 7.014480874893954
+  },
+  {
+    "keyword": "nuclear",
+    "score": 6.915754820933229
+  },
+  {
+    "keyword": "kayla",
+    "score": 6.766592630354126
+  },
+  {
+    "keyword": "really",
+    "score": 6.5595446559726724
+  },
+  {
+    "keyword": "name",
+    "score": 6.392105468251477
+  },
+  {
+    "keyword": "prime minister",
+    "score": 6.341714220404103
+  },
+  {
+    "keyword": "olivia",
+    "score": 6.319389456370185
+  },
+  {
+    "keyword": "country",
+    "score": 6.214003465105812
+  },
+  {
+    "keyword": "never",
+    "score": 6.19844236892794
+  },
+  {
+    "keyword": "damn",
+    "score": 5.661702164213126
+  },
+  {
+    "keyword": "talking",
+    "score": 5.531698739480284
+  },
+  {
+    "keyword": "dead",
+    "score": 5.511359520143842
+  },
+  {
+    "keyword": "secret service",
+    "score": 5.426549558145924
+  },
+  {
+    "keyword": "ago",
+    "score": 5.391265971599955
+  },
+  {
+    "keyword": "much",
+    "score": 5.349092989075777
+  },
+  {
+    "keyword": "treaty",
+    "score": 5.308389745994316
+  },
+  {
+    "keyword": "device",
+    "score": 5.2716044087852945
+  },
+  {
+    "keyword": "fabrique www",
+    "score": 5.16075858416238
+  },
+  {
+    "keyword": "copy",
+    "score": 5.153417266649768
+  },
+  {
+    "keyword": "pavel",
+    "score": 5.150259762181667
+  },
+  {
+    "keyword": "hell",
+    "score": 5.0475834915324524
+  },
+  {
+    "keyword": "enough",
+    "score": 5.018473261759336
+  },
+  {
+    "keyword": "peace",
+    "score": 4.940184644898787
+  },
+  {
+    "keyword": "clear",
+    "score": 4.886413515152769
+  },
+  {
+    "keyword": "even",
+    "score": 4.8499537463965225
+  },
+  {
+    "keyword": "wait",
+    "score": 4.7953790761809
+  },
+  {
+    "keyword": "hamid",
+    "score": 4.766075739118552
+  },
+  {
+    "keyword": "reed",
+    "score": 4.752766069035934
+  },
+  {
+    "keyword": "terrorists",
+    "score": 4.735641514943082
+  },
+  {
+    "keyword": "son",
+    "score": 4.703583051672674
+  },
+  {
+    "keyword": "mean",
+    "score": 4.6682608408956465
+  },
+  {
+    "keyword": "omar",
+    "score": 4.654327809891489
+  },
+  {
+    "keyword": "leave",
+    "score": 4.498855267381637
+  },
+  {
+    "keyword": "russian",
+    "score": 4.40836581631032
+  },
+  {
+    "keyword": "inside",
+    "score": 4.3571258689967225
+  },
+  {
+    "keyword": "sure",
+    "score": 4.262005353049443
+  },
+  {
+    "keyword": "cole",
+    "score": 4.248441591861143
+  },
+  {
+    "keyword": "today",
+    "score": 4.213456293058039
+  },
+  {
+    "keyword": "emerson",
+    "score": 4.211245364509583
+  },
+  {
+    "keyword": "getting",
+    "score": 4.200275565282031
+  },
+  {
+    "keyword": "behind",
+    "score": 4.200275565282031
+  },
+  {
+    "keyword": "away",
+    "score": 4.188965031626193
+  },
+  {
+    "keyword": "terrorist",
+    "score": 4.129361514184673
+  },
+  {
+    "keyword": "thought",
+    "score": 4.1151075861736315
+  },
+  {
+    "keyword": "else",
+    "score": 4.094956485315495
+  },
+  {
+    "keyword": "care",
+    "score": 4.094956485315495
+  },
+  {
+    "keyword": "perimeter",
+    "score": 4.063594135913836
+  },
+  {
+    "keyword": "another",
+    "score": 4.030398013854413
+  },
+  {
+    "keyword": "speak",
+    "score": 4.018482128361163
+  },
+  {
+    "keyword": "knows",
+    "score": 4.001430977606023
+  },
+  {
+    "keyword": "hear",
+    "score": 3.991093613944151
+  },
+  {
+    "keyword": "team fabrique",
+    "score": 3.9182400819674017
+  },
+  {
+    "keyword": "target",
+    "score": 3.879921247884404
+  },
+  {
+    "keyword": "yes sir",
+    "score": 3.879921247884404
+  },
+  {
+    "keyword": "first",
+    "score": 3.8214888256264894
+  },
+  {
+    "keyword": "access",
+    "score": 3.701184392900825
+  },
+  {
+    "keyword": "found",
+    "score": 3.6513862518789173
+  },
+  {
+    "keyword": "father",
+    "score": 3.647516499886329
+  },
+  {
+    "keyword": "nsa",
+    "score": 3.6291480904866344
+  },
+  {
+    "keyword": "made",
+    "score": 3.6237715539015385
+  },
+  {
+    "keyword": "happen",
+    "score": 3.5961212250048726
+  },
+  {
+    "keyword": "buchanan",
+    "score": 3.564286788656741
+  },
+  {
+    "keyword": "minutes",
+    "score": 3.488846685368586
+  },
+  {
+    "keyword": "says",
+    "score": 3.481632609238284
+  },
+  {
+    "keyword": "house",
+    "score": 3.479648806690238
+  },
+  {
+    "keyword": "daughter",
+    "score": 3.4646741395264455
+  },
+  {
+    "keyword": "chief staff",
+    "score": 3.4508669639533096
+  },
+  {
+    "keyword": "teams",
+    "score": 3.4281992045950584
+  },
+  {
+    "keyword": "wanted",
+    "score": 3.426130588466837
+  },
+  {
+    "keyword": "may",
+    "score": 3.4206609447398875
+  },
+  {
+    "keyword": "coming",
+    "score": 3.4023649167114325
+  },
+  {
+    "keyword": "servers",
+    "score": 3.3934268904696303
+  },
+  {
+    "keyword": "whatever",
+    "score": 3.3072591631034123
+  },
+  {
+    "keyword": "wants",
+    "score": 3.3042491706759427
+  },
+  {
+    "keyword": "line",
+    "score": 3.277270737659657
+  },
+  {
+    "keyword": "wrong",
+    "score": 3.2662341053347266
+  },
+  {
+    "keyword": "problem",
+    "score": 3.2507794135341315
+  },
+  {
+    "keyword": "make sure",
+    "score": 3.2294195636046252
+  },
+  {
+    "keyword": "tanner",
+    "score": 3.2082945958036553
+  },
+  {
+    "keyword": "operatives",
+    "score": 3.1628097993016278
+  },
+  {
+    "keyword": "three",
+    "score": 3.1602302929792168
+  },
+  {
+    "keyword": "brother",
+    "score": 3.0979989576353146
+  },
+  {
+    "keyword": "debrief",
+    "score": 3.084759204145746
+  },
+  {
+    "keyword": "room",
+    "score": 3.084732541750991
+  },
+  {
+    "keyword": "agreement",
+    "score": 3.0635276209950693
+  },
+  {
+    "keyword": "without",
+    "score": 3.050442892887061
+  },
+  {
+    "keyword": "ahead",
+    "score": 3.011894914062628
+  },
+  {
+    "keyword": "immunity",
+    "score": 3.003906375597567
+  },
+  {
+    "keyword": "ask",
+    "score": 2.9900736700433357
+  },
+  {
+    "keyword": "better",
+    "score": 2.965664239076639
+  },
+  {
+    "keyword": "firewall",
+    "score": 2.950493227489411
+  },
+  {
+    "keyword": "bring",
+    "score": 2.946654147509595
+  },
+  {
+    "keyword": "cover",
+    "score": 2.8905476712297737
+  },
+  {
+    "keyword": "weapon",
+    "score": 2.8310825299000038
+  },
+  {
+    "keyword": "heard",
+    "score": 2.8074709326001477
+  },
+  {
+    "keyword": "bomb",
+    "score": 2.8048318021573015
+  },
+  {
+    "keyword": "left",
+    "score": 2.776250172436781
+  },
+  {
+    "keyword": "secure",
+    "score": 2.746198322374094
+  },
+  {
+    "keyword": "fine",
+    "score": 2.741147730045381
+  },
+  {
+    "keyword": "husband",
+    "score": 2.7382228021932327
+  },
+  {
+    "keyword": "americans",
+    "score": 2.7370778063470134
+  },
+  {
+    "keyword": "pillar",
+    "score": 2.721279652942827
+  },
+  {
+    "keyword": "meredith",
+    "score": 2.6714954306151353
+  }
+]

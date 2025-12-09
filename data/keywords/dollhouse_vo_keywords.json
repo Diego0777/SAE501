@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "rossum",
+    "score": 680.2557699889279
+  },
+  {
+    "keyword": "dollhouse",
+    "score": 247.56460368677995
+  },
+  {
+    "keyword": "topher",
+    "score": 159.5726123993183
+  },
+  {
+    "keyword": "perrin",
+    "score": 99.39543227225943
+  },
+  {
+    "keyword": "dewitt",
+    "score": 84.5726658424735
+  },
+  {
+    "keyword": "rayna",
+    "score": 80.40663482103385
+  },
+  {
+    "keyword": "adelle",
+    "score": 75.68929233659094
+  },
+  {
+    "keyword": "echo",
+    "score": 72.36618675829878
+  },
+  {
+    "keyword": "ballard",
+    "score": 45.8787302151827
+  },
+  {
+    "keyword": "imprint",
+    "score": 33.084030034306
+  },
+  {
+    "keyword": "something",
+    "score": 22.139987757985526
+  },
+  {
+    "keyword": "saunders",
+    "score": 21.85581417195564
+  },
+  {
+    "keyword": "caroline",
+    "score": 18.457198371667598
+  },
+  {
+    "keyword": "sierra",
+    "score": 18.141612110294698
+  },
+  {
+    "keyword": "actives",
+    "score": 18.106586261703974
+  },
+  {
+    "keyword": "find",
+    "score": 14.059369000441503
+  },
+  {
+    "keyword": "really",
+    "score": 13.885621512615735
+  },
+  {
+    "keyword": "mean",
+    "score": 13.763300456837843
+  },
+  {
+    "keyword": "boyd",
+    "score": 13.312337326652411
+  },
+  {
+    "keyword": "attic",
+    "score": 13.016675943574436
+  },
+  {
+    "keyword": "dominic",
+    "score": 12.91135223058223
+  },
+  {
+    "keyword": "even",
+    "score": 12.562954493485904
+  },
+  {
+    "keyword": "never",
+    "score": 12.296078609357885
+  },
+  {
+    "keyword": "someone",
+    "score": 11.560212507437285
+  },
+  {
+    "keyword": "say",
+    "score": 10.529046932378403
+  },
+  {
+    "keyword": "everything",
+    "score": 10.355229940866204
+  },
+  {
+    "keyword": "remember",
+    "score": 10.220553415867277
+  },
+  {
+    "keyword": "said",
+    "score": 9.188755417464883
+  },
+  {
+    "keyword": "way",
+    "score": 8.745563540577118
+  },
+  {
+    "keyword": "please",
+    "score": 8.65290052727784
+  },
+  {
+    "keyword": "god",
+    "score": 8.46152606004514
+  },
+  {
+    "keyword": "handler",
+    "score": 8.373494506288075
+  },
+  {
+    "keyword": "thought",
+    "score": 8.200358986162867
+  },
+  {
+    "keyword": "still",
+    "score": 8.13567724901471
+  },
+  {
+    "keyword": "madeline",
+    "score": 8.05345476328568
+  },
+  {
+    "keyword": "doll",
+    "score": 7.270874516334868
+  },
+  {
+    "keyword": "anything",
+    "score": 7.225810198924078
+  },
+  {
+    "keyword": "put",
+    "score": 6.897356869520522
+  },
+  {
+    "keyword": "wait",
+    "score": 6.7489941553591155
+  },
+  {
+    "keyword": "away",
+    "score": 6.377712728434906
+  },
+  {
+    "keyword": "ever",
+    "score": 6.3140225752433174
+  },
+  {
+    "keyword": "work",
+    "score": 6.20410922449096
+  },
+  {
+    "keyword": "give",
+    "score": 6.149594614810597
+  },
+  {
+    "keyword": "little",
+    "score": 6.1187780512837895
+  },
+  {
+    "keyword": "victor",
+    "score": 5.969754190908891
+  },
+  {
+    "keyword": "keep",
+    "score": 5.8112987541964625
+  },
+  {
+    "keyword": "alpha",
+    "score": 5.727700568576517
+  },
+  {
+    "keyword": "real",
+    "score": 5.71254572486754
+  },
+  {
+    "keyword": "nolan",
+    "score": 5.6607592947175185
+  },
+  {
+    "keyword": "kill",
+    "score": 5.584106654777991
+  },
+  {
+    "keyword": "brain",
+    "score": 5.433825093753847
+  },
+  {
+    "keyword": "senator",
+    "score": 5.336158642977201
+  },
+  {
+    "keyword": "always",
+    "score": 5.3188722416166145
+  },
+  {
+    "keyword": "much",
+    "score": 5.28873756350126
+  },
+  {
+    "keyword": "treatment",
+    "score": 5.07202678181663
+  },
+  {
+    "keyword": "first",
+    "score": 4.953898009304166
+  },
+  {
+    "keyword": "harding",
+    "score": 4.80995740758053
+  },
+  {
+    "keyword": "made",
+    "score": 4.734218819370909
+  },
+  {
+    "keyword": "thank",
+    "score": 4.714990658145634
+  },
+  {
+    "keyword": "name",
+    "score": 4.648008933287385
+  },
+  {
+    "keyword": "nothing",
+    "score": 4.61277955826107
+  },
+  {
+    "keyword": "else",
+    "score": 4.585781956334083
+  },
+  {
+    "keyword": "security",
+    "score": 4.468411822109062
+  },
+  {
+    "keyword": "feel",
+    "score": 4.452717765645539
+  },
+  {
+    "keyword": "love",
+    "score": 4.368419282929199
+  },
+  {
+    "keyword": "wrong",
+    "score": 4.3510286419177024
+  },
+  {
+    "keyword": "looking",
+    "score": 4.2557120718111205
+  },
+  {
+    "keyword": "life",
+    "score": 4.250560812185438
+  },
+  {
+    "keyword": "last",
+    "score": 4.23524427405749
+  },
+  {
+    "keyword": "better",
+    "score": 4.193575857567025
+  },
+  {
+    "keyword": "trying",
+    "score": 4.1868456276686326
+  },
+  {
+    "keyword": "leave",
+    "score": 3.9687196862116907
+  },
+  {
+    "keyword": "person",
+    "score": 3.961922969981105
+  },
+  {
+    "keyword": "years",
+    "score": 3.9587939026546137
+  },
+  {
+    "keyword": "wedge",
+    "score": 3.9170007153811595
+  },
+  {
+    "keyword": "getting",
+    "score": 3.8349293357621406
+  },
+  {
+    "keyword": "girl",
+    "score": 3.7400843861963846
+  },
+  {
+    "keyword": "happened",
+    "score": 3.7102411400044915
+  },
+  {
+    "keyword": "hell",
+    "score": 3.5455274840370365
+  },
+  {
+    "keyword": "house",
+    "score": 3.4501134693741147
+  },
+  {
+    "keyword": "call",
+    "score": 3.4026812000147184
+  },
+  {
+    "keyword": "everyone",
+    "score": 3.391117547331823
+  },
+  {
+    "keyword": "understand",
+    "score": 3.347493065051037
+  },
+  {
+    "keyword": "care",
+    "score": 3.2619495511350802
+  },
+  {
+    "keyword": "brink",
+    "score": 3.1607402620977973
+  },
+  {
+    "keyword": "day",
+    "score": 3.1141664421432096
+  },
+  {
+    "keyword": "done",
+    "score": 3.006304442201796
+  },
+  {
+    "keyword": "head",
+    "score": 3.003705616156439
+  },
+  {
+    "keyword": "kind",
+    "score": 2.990302808616752
+  },
+  {
+    "keyword": "mind",
+    "score": 2.9857209934128206
+  },
+  {
+    "keyword": "best",
+    "score": 2.9691699331538377
+  },
+  {
+    "keyword": "around",
+    "score": 2.96717461486538
+  },
+  {
+    "keyword": "told",
+    "score": 2.917538744395236
+  },
+  {
+    "keyword": "mag",
+    "score": 2.8852657310750547
+  },
+  {
+    "keyword": "took",
+    "score": 2.8589179124413597
+  },
+  {
+    "keyword": "knew",
+    "score": 2.813207519602645
+  },
+  {
+    "keyword": "idea",
+    "score": 2.7889794317032006
+  },
+  {
+    "keyword": "inside",
+    "score": 2.768358096536207
+  },
+  {
+    "keyword": "bad",
+    "score": 2.750298777844358
+  },
+  {
+    "keyword": "try",
+    "score": 2.7134560294925274
+  },
+  {
+    "keyword": "believe",
+    "score": 2.648206553945592
+  },
+  {
+    "keyword": "left",
+    "score": 2.6179616360986575
+  },
+  {
+    "keyword": "esther",
+    "score": 2.6028133514031904
+  },
+  {
+    "keyword": "dead",
+    "score": 2.589903025720313
+  },
+  {
+    "keyword": "three",
+    "score": 2.582242384261887
+  },
+  {
+    "keyword": "bennett",
+    "score": 2.5243981672301423
+  },
+  {
+    "keyword": "body",
+    "score": 2.503161858467851
+  },
+  {
+    "keyword": "hurt",
+    "score": 2.4988061724395307
+  },
+  {
+    "keyword": "tucson",
+    "score": 2.450091637982426
+  },
+  {
+    "keyword": "nice",
+    "score": 2.4459266337138126
+  },
+  {
+    "keyword": "guess",
+    "score": 2.4337099349703273
+  },
+  {
+    "keyword": "used",
+    "score": 2.3989841608464326
+  },
+  {
+    "keyword": "coming",
+    "score": 2.367670641049565
+  },
+  {
+    "keyword": "trust",
+    "score": 2.3553584427457666
+  },
+  {
+    "keyword": "many",
+    "score": 2.3220882395153124
+  },
+  {
+    "keyword": "personalities",
+    "score": 2.3166526142016224
+  },
+  {
+    "keyword": "ready",
+    "score": 2.284843635159953
+  },
+  {
+    "keyword": "wanted",
+    "score": 2.2819664521707863
+  },
+  {
+    "keyword": "move",
+    "score": 2.211827572653646
+  },
+  {
+    "keyword": "without",
+    "score": 2.1768913933704193
+  },
+  {
+    "keyword": "probably",
+    "score": 2.1726286252591915
+  },
+  {
+    "keyword": "bring",
+    "score": 2.107420278999763
+  },
+  {
+    "keyword": "stay",
+    "score": 2.073918607249101
+  },
+  {
+    "keyword": "killed",
+    "score": 2.060738329361165
+  },
+  {
+    "keyword": "pretty",
+    "score": 2.0411940003124003
+  },
+  {
+    "keyword": "means",
+    "score": 2.0321056758402563
+  },
+  {
+    "keyword": "talking",
+    "score": 2.0321056758402563
+  },
+  {
+    "keyword": "talk",
+    "score": 1.9942994095008608
+  },
+  {
+    "keyword": "anyone",
+    "score": 1.9714913639313927
+  },
+  {
+    "keyword": "wipe",
+    "score": 1.97082284209517
+  },
+  {
+    "keyword": "seen",
+    "score": 1.9307442208104348
+  },
+  {
+    "keyword": "another",
+    "score": 1.91287309666363
+  },
+  {
+    "keyword": "active",
+    "score": 1.8895143188504686
+  },
+  {
+    "keyword": "engagements",
+    "score": 1.889385797209446
+  },
+  {
+    "keyword": "anymore",
+    "score": 1.8476970238193127
+  },
+  {
+    "keyword": "fall asleep",
+    "score": 1.7715913551808302
+  },
+  {
+    "keyword": "tech",
+    "score": 1.7395253435884896
+  },
+  {
+    "keyword": "knows",
+    "score": 1.7395253435884896
+  },
+  {
+    "keyword": "friend",
+    "score": 1.7315556573703645
+  },
+  {
+    "keyword": "actually",
+    "score": 1.721788438875645
+  },
+  {
+    "keyword": "joel",
+    "score": 1.7039360807797488
+  },
+  {
+    "keyword": "hear",
+    "score": 1.6845806625602264
+  },
+  {
+    "keyword": "found",
+    "score": 1.6761467669517651
+  },
+  {
+    "keyword": "working",
+    "score": 1.6761467669517651
+  },
+  {
+    "keyword": "sure",
+    "score": 1.6043803286206708
+  },
+  {
+    "keyword": "gone",
+    "score": 1.600956614554945
+  },
+  {
+    "keyword": "paul",
+    "score": 1.592087921766259
+  },
+  {
+    "keyword": "programmed",
+    "score": 1.588920378944152
+  },
+  {
+    "keyword": "enough",
+    "score": 1.5777632264851411
+  },
+  {
+    "keyword": "exactly",
+    "score": 1.5408844289393284
+  },
+  {
+    "keyword": "engagement",
+    "score": 1.4983563361596484
+  },
+  {
+    "keyword": "ambrose",
+    "score": 1.4970060104056278
+  },
+  {
+    "keyword": "world",
+    "score": 1.4925696394859487
+  },
+  {
+    "keyword": "went",
+    "score": 1.4923144395695203
+  },
+  {
+    "keyword": "may",
+    "score": 1.4814420328866904
+  },
+  {
+    "keyword": "money",
+    "score": 1.475593070111571
+  },
+  {
+    "keyword": "whatever",
+    "score": 1.4670565783982084
+  },
+  {
+    "keyword": "mainframe",
+    "score": 1.4652758501612646
+  },
+  {
+    "keyword": "addy",
+    "score": 1.45954951887833
+  },
+  {
+    "keyword": "safe",
+    "score": 1.4331532540438168
+  },
+  {
+    "keyword": "fine",
+    "score": 1.416547467158282
+  },
+  {
+    "keyword": "saw",
+    "score": 1.375058061290862
+  },
+  {
+    "keyword": "problem",
+    "score": 1.3465255088523118
+  },
+  {
+    "keyword": "run",
+    "score": 1.3412638936195784
+  },
+  {
+    "keyword": "new",
+    "score": 1.3106103923521761
+  },
+  {
+    "keyword": "bree",
+    "score": 1.2954452643894492
+  },
+  {
+    "keyword": "stuff",
+    "score": 1.287987438592576
+  },
+  {
+    "keyword": "happen",
+    "score": 1.287987438592576
+  },
+  {
+    "keyword": "ask",
+    "score": 1.2825924368288961
+  },
+  {
+    "keyword": "door",
+    "score": 1.2818737516150682
+  },
+  {
+    "keyword": "hello",
+    "score": 1.2726751003058248
+  },
+  {
+    "keyword": "terry",
+    "score": 1.2715371899368724
+  },
+  {
+    "keyword": "yet",
+    "score": 1.271489636233824
+  },
+  {
+    "keyword": "wants",
+    "score": 1.2508499761445022
+  },
+  {
+    "keyword": "supposed",
+    "score": 1.2508499761445022
+  },
+  {
+    "keyword": "whole",
+    "score": 1.2363102478639998
+  },
+  {
+    "keyword": "wiped",
+    "score": 1.2326541666384283
+  },
+  {
+    "keyword": "together",
+    "score": 1.2268337559215516
+  },
+  {
+    "keyword": "stop",
+    "score": 1.211522710541112
+  },
+  {
+    "keyword": "year",
+    "score": 1.2072182738935693
+  },
+  {
+    "keyword": "jonas",
+    "score": 1.2071456380083208
+  },
+  {
+    "keyword": "send",
+    "score": 1.1952077223701607
+  },
+  {
+    "keyword": "already",
+    "score": 1.193711577158948
+  },
+  {
+    "keyword": "use",
+    "score": 1.185394829894489
+  },
+  {
+    "keyword": "thinking",
+    "score": 1.1554489020536338
+  },
+  {
+    "keyword": "nobody",
+    "score": 1.153437612071627
+  },
+  {
+    "keyword": "head security",
+    "score": 1.139695728834
+  },
+  {
+    "keyword": "makes",
+    "score": 1.1368650109379115
+  },
+  {
+    "keyword": "groans",
+    "score": 1.1358960076210005
+  },
+  {
+    "keyword": "five",
+    "score": 1.1246848687681377
+  },
+  {
+    "keyword": "start",
+    "score": 1.1195827187167071
+  },
+  {
+    "keyword": "able",
+    "score": 1.119352172270761
+  },
+  {
+    "keyword": "asleep",
+    "score": 1.1073668679915307
+  },
+  {
+    "keyword": "sparrow",
+    "score": 1.1060846895659302
+  },
+  {
+    "keyword": "system",
+    "score": 1.1008826654986976
+  },
+  {
+    "keyword": "neural",
+    "score": 1.097858400837196
+  },
+  {
+    "keyword": "place",
+    "score": 1.0836177120124273
+  },
+  {
+    "keyword": "fall",
+    "score": 1.0601360531824626
+  },
+  {
+    "keyword": "underground",
+    "score": 1.0562143294685093
+  },
+  {
+    "keyword": "matter",
+    "score": 1.0490823967688006
+  }
+]

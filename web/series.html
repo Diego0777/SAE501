@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catalogue - TV Series</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <a href="index.html" class="logo">📺 TV Series</a>
+            <ul class="nav-links">
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="search.html">Recherche</a></li>
+                <li><a href="recommendations.html">Recommandations</a></li>
+                <li><a href="series.html" class="active">Séries</a></li>
+                <li><a href="profile.html" id="profileLink">Profil</a></li>
+                <li><button id="languageToggle" class="language-toggle all" onclick="toggleLanguage()">🌍 Tous</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container">
+        <section class="search-section">
+            <h2>📚 Catalogue de séries</h2>
+            <div class="search-form">
+                <div class="form-group">
+                    <label for="filterLanguage">Filtrer par langue</label>
+                    <select id="filterLanguage" onchange="loadSeries()">
+                        <option value="">Toutes les langues</option>
+                        <option value="vf">VF (Version Française)</option>
+                        <option value="vo">VO (Version Originale)</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="sortBy">Trier par</label>
+                    <select id="sortBy" onchange="applySorting()">
+                        <option value="title">Titre</option>
+                        <option value="rating">Note moyenne</option>
+                        <option value="popularity">Popularité</option>
+                    </select>
+                </div>
+            </div>
+            <div style="margin-top: 15px; color: var(--text-secondary);">
+                <span id="seriesCount">Chargement...</span>
+            </div>
+        </section>
+
+        <section>
+            <div id="seriesList" class="series-grid"></div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 TV Series - SAE501 Project</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+    <script>
+        let allSeries = [];
+
+        async function loadSeries() {
+            const language = document.getElementById('filterLanguage').value;
+            const div = document.getElementById('seriesList');
+            
+            div.innerHTML = showLoading();
+            
+            try {
+                const pref = getLanguagePreference();
+                let url = '/api/series';
+                if (language) {
+                    url += `?language=${language}`;
+                } else if (pref !== 'all') {
+                    url += `?language=${pref}`;
+                }
+                
+                let series = await apiRequest(url, { requireAuth: false });
+                
+                // Filtrer côté client aussi
+                const finalPref = language || pref;
+                if (finalPref !== 'all') {
+                    series = series.filter(s => shouldShowSeries(s.title));
+                }
+                
+                allSeries = series;
+                
+                if (series.length === 0) {
+                    div.innerHTML = showNoResults('Aucune série disponible.');
+                    document.getElementById('seriesCount').textContent = '0 série';
+                    return;
+                }
+                
+                document.getElementById('seriesCount').textContent = 
+                    `${series.length} série${series.length > 1 ? 's' : ''} trouvée${series.length > 1 ? 's' : ''}`;
+                
+                applySorting();
+            } catch (error) {
+                div.innerHTML = showError('Erreur lors du chargement du catalogue.');
+            }
+        }
+
+        function applySorting() {
+            const sortBy = document.getElementById('sortBy').value;
+            const div = document.getElementById('seriesList');
+            
+            let sorted = [...allSeries];
+            
+            switch(sortBy) {
+                case 'title':
+                    sorted.sort((a, b) => a.title.localeCompare(b.title));
+                    break;
+                case 'rating':
+                    sorted.sort((a, b) => (b.average_rating || 0) - (a.average_rating || 0));
+                    break;
+                case 'popularity':
+                    sorted.sort((a, b) => {
+                        const popA = (a.average_rating || 0) * Math.log1p(a.num_ratings || 0);
+                        const popB = (b.average_rating || 0) * Math.log1p(b.num_ratings || 0);
+                        return popB - popA;
+                    });
+                    break;
+            }
+            
+            div.innerHTML = sorted.map(s => createSeriesCard(s, { showKeywords: true })).join('');
+        }
+
+        // Initialisation
+        document.addEventListener('DOMContentLoaded', () => {
+            updateLanguageToggle();
+            loadSeries();
+        });
+    </script>
+</body>
+</html>

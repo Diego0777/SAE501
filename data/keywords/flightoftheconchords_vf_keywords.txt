@@ -1,0 +1,200 @@
+jemaine	4093.103544
+bret	3126.338184
+conchords	144.853428
+murray	125.872085
+ouais	122.496612
+ouaf	71.109397
+nouvelle zelande	68.069446
+zelande	68.069446
+vraiment	30.077359
+mel	25.346983
+bowie	24.807242
+salut	23.476707
+bon	22.344860
+accord	22.068715
+merci	21.158756
+fais	20.285791
+groupe	19.745691
+deux	19.593479
+peu	19.194975
+vrai	13.929358
+stefan	13.765391
+parce	13.439211
+aime	9.821769
+crois	9.539122
+faut	9.184425
+subtitle	9.069217
+gars	8.813488
+nouvelle	8.471797
+soir	8.141292
+passe	7.788805
+juste	7.677057
+temps	7.522806
+neo	7.409605
+vois	7.347134
+peut etre	7.136228
+voir	7.086831
+birdyben	7.085296
+desole	6.819612
+bonne	6.710254
+pense	6.644007
+besoin	6.488787
+premier ministre	6.427499
+the	6.124546
+saut	6.035000
+chien	5.902941
+maintenant	5.227885
+beaucoup	5.163290
+non non	5.033489
+hein	4.924446
+dis	4.757218
+jambes	4.662469
+truc	4.623226
+amour	4.475835
+hewitt	4.163667
+boum	4.098233
+femme	4.068237
+gens	4.035697
+demetri	3.897729
+petit	3.806298
+fete	3.800578
+parle	3.694722
+reste	3.483922
+mec	3.427630
+personne	3.417492
+monde	3.351632
+belles	3.311227
+super	3.306363
+quelque chose	3.209413
+trois	3.192496
+sally	3.109970
+ministre	3.077453
+chanson	3.050875
+coco	2.954215
+euh	2.924679
+todd	2.893364
+nuit	2.799481
+flight	2.744038
+prendre	2.665086
+greg	2.632890
+mettre	2.555317
+probleme	2.522871
+donne	2.442724
+plait	2.398683
+fois	2.355138
+concert	2.313035
+combien	2.282891
+akazab	2.272195
+pourrais	2.264933
+trouve	2.246491
+musique	2.235013
+raciste	2.170742
+aimerais	2.152474
+pris	2.068426
+parler	2.049343
+argent	2.035158
+regarde	2.029794
+appelle	2.002522
+boulot	1.936157
+salut gars	1.866347
+heure	1.833444
+viens	1.793421
+tard	1.783865
+pourrait	1.744063
+sirene	1.715969
+fille	1.715927
+gars salut	1.683535
+seul	1.674282
+cool	1.670173
+oui oui	1.647426
+homme	1.641141
+bas	1.634694
+amis	1.620662
+doug	1.616446
+devrais	1.604366
+bonjour	1.589547
+ouh	1.589206
+mieux	1.548555
+filles	1.536974
+arrete	1.531289
+gel	1.527645
+ensemble	1.503520
+voulais	1.484889
+devrait	1.484889
+tres bien	1.482206
+tete	1.475457
+anneau	1.464277
+bizarre	1.462151
+joue	1.439124
+quelqu	1.371440
+laisse	1.371440
+idee	1.371440
+guitare	1.370073
+ouah	1.364467
+savais	1.327211
+ecoute	1.305667
+felicia	1.268258
+tournee	1.254580
+chansons	1.242171
+genial	1.234351
+font	1.199961
+carte	1.183066
+rancard	1.182171
+ecoutez	1.178012
+ouais ouais	1.143400
+copine	1.133605
+femmes	1.118367
+dirait	1.114254
+papier	1.100325
+assez	1.096166
+faites	1.096166
+raison	1.089380
+venir	1.082627
+puis	1.078428
+ecrit	1.073561
+faut aille	1.070151
+super cool	1.068952
+faire fete	1.052866
+pensais	1.050842
+aille	1.031000
+quincy	1.030648
+chiens	1.001855
+plus tard	1.000494
+ami	0.990432
+bonne nuit	0.989207
+perruque	0.987892
+jouer	0.987865
+dave	0.984896
+dieu	0.973972
+nom	0.971609
+premier	0.967197
+donner	0.963356
+nouveau	0.958445
+porte	0.952990
+sortir	0.940386
+enfin	0.940386
+tout monde	0.925168
+revoir	0.921454
+air	0.914555
+partie	0.903105
+veux dire	0.903105
+travail	0.895603
+fans	0.882173
+concerts	0.872022
+jour	0.862446
+regardez	0.858243
+water polo	0.855057
+voiture	0.849382
+pendant	0.840329
+groupes	0.835383
+depuis	0.830562
+genre	0.814720
+marche	0.808429
+fou	0.806470
+pomme	0.800061
+gigolo	0.799162
+non plus	0.795306
+bandeau	0.776778
+banane	0.769896
+bon alors	0.766380
+secs	0.755312

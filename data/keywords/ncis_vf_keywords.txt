@@ -1,0 +1,200 @@
+gibbs	3691.111125
+dinozzo	2875.142610
+ziva	2511.212815
+ncis	1574.147245
+mcgee	1396.928476
+agent gibbs	613.816473
+ducky	450.744987
+team ncis	390.442305
+ncis com	361.000179
+quartier maitre	336.396749
+jethro	232.288435
+www team	180.523438
+abby	168.861244
+bizut	159.707378
+ouais	139.215264
+special gibbs	110.963606
+deux	96.567078
+juste	94.019034
+trouve	92.677605
+peut etre	83.331824
+quelque chose	75.580082
+mort	71.890201
+ncis saison	71.567105
+vraiment	67.972025
+pense	67.746038
+tony	66.607614
+mallard	64.655438
+patron	63.851456
+besoin	54.142741
+agent dinozzo	53.930786
+quelqu	52.232785
+voir	48.500648
+maintenant	48.010581
+rivkin	46.918192
+fois	43.929371
+agent special	42.829469
+fornell	40.343037
+temps	37.963451
+passe	37.365570
+peu	36.675102
+depuis	36.546142
+tue	34.525744
+palmer	33.361325
+directeur	33.306194
+abs	32.300019
+fais	29.759718
+parler	29.552442
+agent	29.187961
+gaillots	28.632944
+voiture	28.383374
+caporal	28.236478
+vance	27.611391
+crois	27.023425
+kody	26.243370
+personne	26.221658
+mossad	25.124376
+merci	24.850895
+ans	24.464096
+parce	23.426399
+cela	23.266138
+femme	22.940221
+homme	22.539114
+bon	22.463103
+arnett	21.699327
+werth	21.229759
+korby	20.552254
+turtle www	20.552254
+savoir	20.365936
+tony ziva	19.884532
+norfolk	19.303019
+marine	19.184365
+nom	18.629369
+siravo	18.578585
+parle	18.029108
+sciuto	17.519906
+sergent	17.068066
+magic turtle	16.985048
+ari	16.877216
+abbs	16.693967
+trois	16.427348
+capitaine	15.674964
+desole	15.269216
+beaucoup	15.201256
+laisse	15.058803
+entre	15.037086
+trouver	14.949001
+lol synchro	14.899466
+agent mcgee	14.899466
+pourrait	14.359085
+corps	14.185730
+mois	14.184251
+demande	14.070727
+fille	14.014117
+nuit	13.844896
+vrai	13.787317
+mtac	13.753760
+yazeed	13.753760
+gars	13.443440
+jusqu	13.393234
+pris	13.342724
+monsieur	13.257099
+quartier	13.218230
+azari	13.196229
+maitre	13.062652
+gibbs gibbs	12.833123
+probleme	12.695752
+donne	12.658398
+derniere	12.497609
+raison	12.463160
+bonne	12.439431
+affaire	12.317022
+tuer	12.225271
+euh	12.182655
+vie	12.088953
+prendre	11.921003
+celui	11.814987
+callen	11.811118
+pere	11.656752
+aime	11.518190
+regarde	11.319335
+jours	11.214796
+anthony dinozzo	11.069370
+mayne	11.069370
+lieutenant	10.887390
+dis	10.563095
+dessus	10.545824
+arme	10.525453
+seul	10.495123
+travail	10.482839
+synchro gaillots	10.453523
+mieux	10.384512
+meurtre	10.313250
+kort	10.132593
+empreintes	9.955375
+argent	9.947145
+assez	9.845916
+vois	9.845916
+gens	9.638210
+trimble	9.574628
+accord	9.570261
+secnav	9.556862
+kale	9.556862
+tueur	9.515234
+reste	9.019103
+yost	9.009200
+aucun	8.977567
+franks	8.852573
+equipe	8.843580
+duck	8.780170
+combien	8.735593
+heure	8.505092
+securite	8.226397
+enquete	8.212737
+appelle	8.149128
+seulement	8.050864
+aucune	8.050864
+arrive	7.917982
+kate	7.780349
+recherche	7.664653
+pendant	7.609197
+petit	7.602527
+danforth	7.592488
+appele	7.539030
+travaille	7.469952
+heures	7.443806
+essaye	7.435376
+porte	7.422047
+bas	7.386005
+rankin	7.284714
+tete	7.268254
+officier	7.262654
+fini	7.192869
+idee	7.144944
+monde	7.102694
+puis	7.102694
+aider	6.976613
+utilise	6.838122
+maison	6.826091
+sharif	6.810132
+truc	6.810068
+marche	6.781654
+cas	6.780630
+pensais	6.723701
+arrete	6.630217
+kujathemas	6.567984
+veux dire	6.547855
+adn	6.501886
+seule	6.343954
+vient	6.303518
+renny	6.295607
+penses	6.222992
+viens	6.161846
+leurs	6.123085
+avis recherche	6.112436
+shepard	6.111514
+victime	6.094383
+dieu	6.037928
+cote	5.964933
+jour	5.953002
+sang	5.918707

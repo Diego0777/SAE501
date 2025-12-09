@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "tonray",
+    "score": 265.93921769831053
+  },
+  {
+    "keyword": "sabian",
+    "score": 233.8410573815191
+  },
+  {
+    "keyword": "wolf",
+    "score": 70.68542307047996
+  },
+  {
+    "keyword": "sarge",
+    "score": 61.913607145392916
+  },
+  {
+    "keyword": "hawke",
+    "score": 34.9859152370643
+  },
+  {
+    "keyword": "beck",
+    "score": 32.273853368011316
+  },
+  {
+    "keyword": "move",
+    "score": 23.914638510870102
+  },
+  {
+    "keyword": "cali",
+    "score": 22.567715756065333
+  },
+  {
+    "keyword": "platoon",
+    "score": 21.292159695049456
+  },
+  {
+    "keyword": "bank",
+    "score": 19.06980456365529
+  },
+  {
+    "keyword": "shelton",
+    "score": 17.727064722059772
+  },
+  {
+    "keyword": "hostages",
+    "score": 17.612473687272633
+  },
+  {
+    "keyword": "mendez",
+    "score": 17.255170761831938
+  },
+  {
+    "keyword": "shit",
+    "score": 16.797049371792152
+  },
+  {
+    "keyword": "robby",
+    "score": 15.432940492491651
+  },
+  {
+    "keyword": "please",
+    "score": 11.86083507807925
+  },
+  {
+    "keyword": "talk",
+    "score": 9.856412811485509
+  },
+  {
+    "keyword": "hostage",
+    "score": 9.518507857558582
+  },
+  {
+    "keyword": "son",
+    "score": 9.396856252349217
+  },
+  {
+    "keyword": "ashley",
+    "score": 9.054948183862715
+  },
+  {
+    "keyword": "say",
+    "score": 8.707640888393064
+  },
+  {
+    "keyword": "sergeant",
+    "score": 7.476627031316893
+  },
+  {
+    "keyword": "bullshit",
+    "score": 7.258929122429937
+  },
+  {
+    "keyword": "goddamn",
+    "score": 7.056633074072229
+  },
+  {
+    "keyword": "abe",
+    "score": 6.897144480588332
+  },
+  {
+    "keyword": "give",
+    "score": 6.740412871923821
+  },
+  {
+    "keyword": "negotiator",
+    "score": 6.480874491258228
+  },
+  {
+    "keyword": "really",
+    "score": 6.383768474961202
+  },
+  {
+    "keyword": "something",
+    "score": 6.173703398441418
+  },
+  {
+    "keyword": "find",
+    "score": 5.901838110711265
+  },
+  {
+    "keyword": "leon",
+    "score": 5.896107223556855
+  },
+  {
+    "keyword": "cap",
+    "score": 5.786478671496328
+  },
+  {
+    "keyword": "keep",
+    "score": 5.625225306809987
+  },
+  {
+    "keyword": "connie",
+    "score": 5.568996632662142
+  },
+  {
+    "keyword": "corporal",
+    "score": 4.826023814477999
+  },
+  {
+    "keyword": "talking",
+    "score": 4.191203568324822
+  },
+  {
+    "keyword": "captain",
+    "score": 4.131499814001604
+  },
+  {
+    "keyword": "bank robbery",
+    "score": 3.9665063614069362
+  },
+  {
+    "keyword": "rabbit",
+    "score": 3.872252579056567
+  },
+  {
+    "keyword": "nothing",
+    "score": 3.621137020014807
+  },
+  {
+    "keyword": "daughter",
+    "score": 3.5994184844617654
+  },
+  {
+    "keyword": "put",
+    "score": 3.493766550607099
+  },
+  {
+    "keyword": "kill",
+    "score": 3.45551922397075
+  },
+  {
+    "keyword": "done",
+    "score": 3.22799184377057
+  },
+  {
+    "keyword": "inside",
+    "score": 3.22799184377057
+  },
+  {
+    "keyword": "thank",
+    "score": 3.2085911004750463
+  },
+  {
+    "keyword": "negotiations",
+    "score": 2.9723893768247485
+  },
+  {
+    "keyword": "never",
+    "score": 2.949086603463293
+  },
+  {
+    "keyword": "swat",
+    "score": 2.8999839039174082
+  },
+  {
+    "keyword": "addie",
+    "score": 2.885261995058517
+  },
+  {
+    "keyword": "bernard",
+    "score": 2.778327940388431
+  },
+  {
+    "keyword": "hell",
+    "score": 2.7712592397576756
+  },
+  {
+    "keyword": "leroy",
+    "score": 2.7545381557578246
+  },
+  {
+    "keyword": "alan",
+    "score": 2.692455364949913
+  },
+  {
+    "keyword": "grimes",
+    "score": 2.677931936602235
+  },
+  {
+    "keyword": "fallujah",
+    "score": 2.674531793986736
+  },
+  {
+    "keyword": "gun",
+    "score": 2.67083513801164
+  },
+  {
+    "keyword": "said",
+    "score": 2.6640420168093764
+  },
+  {
+    "keyword": "wait",
+    "score": 2.58875235627536
+  },
+  {
+    "keyword": "sniper",
+    "score": 2.579205177656935
+  },
+  {
+    "keyword": "hear",
+    "score": 2.5475989458484407
+  },
+  {
+    "keyword": "ahead",
+    "score": 2.502670449340133
+  },
+  {
+    "keyword": "life",
+    "score": 2.4693002647072313
+  },
+  {
+    "keyword": "breach",
+    "score": 2.3755495682575387
+  },
+  {
+    "keyword": "home",
+    "score": 2.3563163032836187
+  },
+  {
+    "keyword": "take gun",
+    "score": 2.337330875023535
+  },
+  {
+    "keyword": "else",
+    "score": 2.2778318465770018
+  },
+  {
+    "keyword": "frequency",
+    "score": 2.2593897599465573
+  },
+  {
+    "keyword": "somebody",
+    "score": 2.218324178532231
+  },
+  {
+    "keyword": "hold",
+    "score": 2.2179971023939062
+  },
+  {
+    "keyword": "ready",
+    "score": 2.1824269901057103
+  },
+  {
+    "keyword": "anything",
+    "score": 2.1720676689904743
+  },
+  {
+    "keyword": "way",
+    "score": 2.1578420849038507
+  },
+  {
+    "keyword": "getting",
+    "score": 2.147219048159403
+  },
+  {
+    "keyword": "mean",
+    "score": 2.0129565216672747
+  },
+  {
+    "keyword": "coming",
+    "score": 1.9829811460120315
+  },
+  {
+    "keyword": "hold fire",
+    "score": 1.957437785623343
+  },
+  {
+    "keyword": "marco",
+    "score": 1.9538207943523556
+  },
+  {
+    "keyword": "god damn",
+    "score": 1.89201574268272
+  },
+  {
+    "keyword": "someone",
+    "score": 1.858792068965687
+  },
+  {
+    "keyword": "away",
+    "score": 1.858546007724616
+  },
+  {
+    "keyword": "everybody",
+    "score": 1.806248241943946
+  },
+  {
+    "keyword": "stay",
+    "score": 1.806248241943946
+  },
+  {
+    "keyword": "piggy",
+    "score": 1.781167711259805
+  },
+  {
+    "keyword": "safe sound",
+    "score": 1.7709894522073104
+  },
+  {
+    "keyword": "teddy",
+    "score": 1.7595807733591644
+  },
+  {
+    "keyword": "little",
+    "score": 1.6783941136150338
+  },
+  {
+    "keyword": "listen",
+    "score": 1.665217290073338
+  },
+  {
+    "keyword": "ever",
+    "score": 1.6127673537705138
+  },
+  {
+    "keyword": "control",
+    "score": 1.591414026651337
+  },
+  {
+    "keyword": "shot",
+    "score": 1.589877689011958
+  },
+  {
+    "keyword": "military",
+    "score": 1.5662018101505715
+  },
+  {
+    "keyword": "move move",
+    "score": 1.5555429534074472
+  },
+  {
+    "keyword": "unarmed",
+    "score": 1.553832547310114
+  },
+  {
+    "keyword": "ass",
+    "score": 1.5515575168300806
+  },
+  {
+    "keyword": "damn",
+    "score": 1.509018588002205
+  },
+  {
+    "keyword": "thought",
+    "score": 1.5024099836046858
+  },
+  {
+    "keyword": "fall back",
+    "score": 1.4746592526051399
+  },
+  {
+    "keyword": "happen",
+    "score": 1.460500468158243
+  },
+  {
+    "keyword": "speak",
+    "score": 1.460500468158243
+  },
+  {
+    "keyword": "boy",
+    "score": 1.4474221020802105
+  },
+  {
+    "keyword": "fbi",
+    "score": 1.4056813986353036
+  },
+  {
+    "keyword": "come come",
+    "score": 1.38843848215529
+  },
+  {
+    "keyword": "kerry",
+    "score": 1.3859114042168486
+  },
+  {
+    "keyword": "yet",
+    "score": 1.3435161364477957
+  },
+  {
+    "keyword": "gonna get",
+    "score": 1.3326680214938484
+  },
+  {
+    "keyword": "looking",
+    "score": 1.321707294605453
+  },
+  {
+    "keyword": "calm",
+    "score": 1.2888315831297281
+  },
+  {
+    "keyword": "demands",
+    "score": 1.2792693609810155
+  },
+  {
+    "keyword": "electricity",
+    "score": 1.2792693609810155
+  },
+  {
+    "keyword": "made",
+    "score": 1.275325153140686
+  },
+  {
+    "keyword": "everything",
+    "score": 1.2637915547483571
+  },
+  {
+    "keyword": "follow",
+    "score": 1.2587653556268292
+  },
+  {
+    "keyword": "ask",
+    "score": 1.2385800700168637
+  },
+  {
+    "keyword": "bring",
+    "score": 1.199346490543875
+  },
+  {
+    "keyword": "call",
+    "score": 1.1925294775818283
+  },
+  {
+    "keyword": "bad",
+    "score": 1.1749482654037218
+  },
+  {
+    "keyword": "walk",
+    "score": 1.167999531726635
+  },
+  {
+    "keyword": "marcos",
+    "score": 1.1638153193387373
+  },
+  {
+    "keyword": "lives",
+    "score": 1.1615702511251316
+  },
+  {
+    "keyword": "work",
+    "score": 1.1615702511251316
+  },
+  {
+    "keyword": "robbery",
+    "score": 1.1489432916708864
+  },
+  {
+    "keyword": "trying",
+    "score": 1.1484608523460809
+  },
+  {
+    "keyword": "soldiers",
+    "score": 1.1308333658132919
+  },
+  {
+    "keyword": "hands",
+    "score": 1.1251845142336874
+  },
+  {
+    "keyword": "better",
+    "score": 1.0901262363251187
+  },
+  {
+    "keyword": "pittsburgh",
+    "score": 1.0889975176867492
+  },
+  {
+    "keyword": "send",
+    "score": 1.0731499507754685
+  },
+  {
+    "keyword": "secondary",
+    "score": 1.061673135138859
+  },
+  {
+    "keyword": "baghdad",
+    "score": 1.049143180624556
+  },
+  {
+    "keyword": "kid",
+    "score": 1.0398985345274687
+  },
+  {
+    "keyword": "come man",
+    "score": 1.0125874971229507
+  },
+  {
+    "keyword": "schematics",
+    "score": 1.0119141249162051
+  },
+  {
+    "keyword": "war",
+    "score": 1.009697542678311
+  },
+  {
+    "keyword": "much",
+    "score": 1.007905695272314
+  },
+  {
+    "keyword": "told",
+    "score": 1.005040969941754
+  },
+  {
+    "keyword": "another",
+    "score": 0.9937792953838468
+  },
+  {
+    "keyword": "trust",
+    "score": 0.9923373120589577
+  },
+  {
+    "keyword": "brother",
+    "score": 0.9853454070006157
+  },
+  {
+    "keyword": "even",
+    "score": 0.9781541071186381
+  },
+  {
+    "keyword": "wrong",
+    "score": 0.9781541071186381
+  },
+  {
+    "keyword": "three",
+    "score": 0.9770459680136021
+  },
+  {
+    "keyword": "dad",
+    "score": 0.972923177216945
+  },
+  {
+    "keyword": "fellas",
+    "score": 0.9542439194598695
+  },
+  {
+    "keyword": "back move",
+    "score": 0.9434604543929991
+  },
+  {
+    "keyword": "shoot",
+    "score": 0.9327746982116678
+  },
+  {
+    "keyword": "boys",
+    "score": 0.9292982991733626
+  },
+  {
+    "keyword": "god",
+    "score": 0.9041973191272684
+  },
+  {
+    "keyword": "let get",
+    "score": 0.8990935115612346
+  },
+  {
+    "keyword": "huh",
+    "score": 0.8900680037429878
+  },
+  {
+    "keyword": "line",
+    "score": 0.877277102353436
+  },
+  {
+    "keyword": "understand",
+    "score": 0.8701857651015914
+  },
+  {
+    "keyword": "cause",
+    "score": 0.8647232251853126
+  },
+  {
+    "keyword": "saying",
+    "score": 0.8561475177562744
+  },
+  {
+    "keyword": "stan",
+    "score": 0.848095856822324
+  },
+  {
+    "keyword": "clear",
+    "score": 0.828869318566977
+  },
+  {
+    "keyword": "making",
+    "score": 0.828869318566977
+  },
+  {
+    "keyword": "still",
+    "score": 0.8164616883529603
+  },
+  {
+    "keyword": "perimeter",
+    "score": 0.8161070212972575
+  },
+  {
+    "keyword": "brothers",
+    "score": 0.8156167722106179
+  },
+  {
+    "keyword": "went",
+    "score": 0.8156167722106179
+  },
+  {
+    "keyword": "last",
+    "score": 0.8112615265061374
+  },
+  {
+    "keyword": "anybody",
+    "score": 0.80769277226517
+  },
+  {
+    "keyword": "move come",
+    "score": 0.8047504271660372
+  },
+  {
+    "keyword": "sir",
+    "score": 0.800932834723141
+  },
+  {
+    "keyword": "lot",
+    "score": 0.7899120452966897
+  },
+  {
+    "keyword": "henry",
+    "score": 0.7862863222749696
+  },
+  {
+    "keyword": "bitch",
+    "score": 0.7814762222611831
+  },
+  {
+    "keyword": "see man",
+    "score": 0.7812184526693248
+  },
+  {
+    "keyword": "going home",
+    "score": 0.7795539120336764
+  },
+  {
+    "keyword": "mike",
+    "score": 0.7793683038980258
+  },
+  {
+    "keyword": "son bitch",
+    "score": 0.7658221704635366
+  },
+  {
+    "keyword": "heard",
+    "score": 0.7562717081387492
+  },
+  {
+    "keyword": "wants",
+    "score": 0.7562717081387492
+  },
+  {
+    "keyword": "soldier",
+    "score": 0.7523905823552368
+  },
+  {
+    "keyword": "ash",
+    "score": 0.7302423194114843
+  },
+  {
+    "keyword": "door",
+    "score": 0.7295226304121638
+  },
+  {
+    "keyword": "scared",
+    "score": 0.7202567690526042
+  },
+  {
+    "keyword": "easy",
+    "score": 0.7181125647752601
+  },
+  {
+    "keyword": "took",
+    "score": 0.7087068892192828
+  },
+  {
+    "keyword": "gotta get",
+    "score": 0.7015014089693858
+  },
+  {
+    "keyword": "everyone",
+    "score": 0.6973755844019112
+  },
+  {
+    "keyword": "gone",
+    "score": 0.6744998785655928
+  },
+  {
+    "keyword": "asshole",
+    "score": 0.6735774893595082
+  },
+  {
+    "keyword": "frequencies",
+    "score": 0.6735774893595082
+  },
+  {
+    "keyword": "casualty",
+    "score": 0.6692283134620426
+  },
+  {
+    "keyword": "get boy",
+    "score": 0.6692283134620426
+  },
+  {
+    "keyword": "know know",
+    "score": 0.6692099288631074
+  },
+  {
+    "keyword": "dead",
+    "score": 0.6678001777123224
+  },
+  {
+    "keyword": "cake",
+    "score": 0.6640813715206115
+  },
+  {
+    "keyword": "may",
+    "score": 0.6562413540180827
+  },
+  {
+    "keyword": "cops",
+    "score": 0.6547906265243489
+  },
+  {
+    "keyword": "leave",
+    "score": 0.6438227420124798
+  },
+  {
+    "keyword": "sit",
+    "score": 0.6438227420124798
+  },
+  {
+    "keyword": "great",
+    "score": 0.6339222065631658
+  },
+  {
+    "keyword": "exit",
+    "score": 0.6306256263014822
+  },
+  {
+    "keyword": "happened",
+    "score": 0.62673757335889
+  },
+  {
+    "keyword": "problem",
+    "score": 0.62673757335889
+  },
+  {
+    "keyword": "worry",
+    "score": 0.62673757335889
+  },
+  {
+    "keyword": "phone",
+    "score": 0.6237626395779005
+  }
+]

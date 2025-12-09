@@ -1,0 +1,200 @@
+ctu	1019.446584
+dubaku	873.567146
+bauer	510.495737
+hassan	505.166712
+juma	481.132236
+almeida	432.893857
+madam president	389.090684
+starkwood	286.665039
+jack bauer	246.813606
+matobo	228.186061
+president hassan	224.499089
+president taylor	175.709794
+sangala	141.143803
+agent walker	117.217773
+renee	80.765205
+cip	77.813743
+agent moss	77.678611
+farhad	66.523427
+hodges	64.985292
+tony almeida	64.470433
+tarin	63.278838
+rods	59.027974
+president	52.850123
+kanin	49.843856
+jack	48.315514
+madam	46.684571
+burnett	43.887161
+dana walsh	41.395294
+renee walker	41.395294
+jonas hodges	41.395294
+madame president	29.484218
+hastings	29.115813
+chloe	28.813418
+find	27.586365
+white house	26.557750
+sir	25.554793
+thank	24.320538
+janis	23.891434
+marika	23.816901
+still	20.647678
+call	20.070809
+please	19.772866
+moss	18.975051
+give	16.519086
+said	16.451346
+told	16.104396
+talk	15.785692
+arlo	15.519708
+put	15.311374
+taylor	15.293961
+move	15.258586
+canister	15.256641
+something	15.101864
+say	15.040171
+understand	13.993168
+tony	13.632624
+everything	13.152254
+walker	12.990490
+mayer	12.880875
+way	12.325135
+dana	11.584748
+keep	11.553902
+walsh	11.222202
+done	10.896962
+larry	10.606194
+working	10.518366
+soon	10.488542
+nypd	10.485680
+believe	10.453397
+trying	10.265183
+fbi	10.190857
+vladimir	10.136715
+anything	10.072645
+government	9.668531
+kill	9.634804
+security	9.593022
+nothing	9.210075
+phone	9.164074
+agent	9.120459
+jonas	8.818185
+ethan	8.784969
+stay	8.647568
+russians	8.581078
+killed	8.482210
+weapons	8.366407
+meier	8.319622
+ready	8.294610
+happened	8.040419
+senator	8.024443
+ortiz	7.952141
+attack	7.947141
+comm	7.327970
+work	7.257816
+yet	7.211659
+listen	7.184859
+looking	7.175113
+someone	7.137422
+already	7.014481
+nuclear	6.915755
+kayla	6.766593
+really	6.559545
+name	6.392105
+prime minister	6.341714
+olivia	6.319389
+country	6.214003
+never	6.198442
+damn	5.661702
+talking	5.531699
+dead	5.511360
+secret service	5.426550
+ago	5.391266
+much	5.349093
+treaty	5.308390
+device	5.271604
+fabrique www	5.160759
+copy	5.153417
+pavel	5.150260
+hell	5.047583
+enough	5.018473
+peace	4.940185
+clear	4.886414
+even	4.849954
+wait	4.795379
+hamid	4.766076
+reed	4.752766
+terrorists	4.735642
+son	4.703583
+mean	4.668261
+omar	4.654328
+leave	4.498855
+russian	4.408366
+inside	4.357126
+sure	4.262005
+cole	4.248442
+today	4.213456
+emerson	4.211245
+getting	4.200276
+behind	4.200276
+away	4.188965
+terrorist	4.129362
+thought	4.115108
+else	4.094956
+care	4.094956
+perimeter	4.063594
+another	4.030398
+speak	4.018482
+knows	4.001431
+hear	3.991094
+team fabrique	3.918240
+target	3.879921
+yes sir	3.879921
+first	3.821489
+access	3.701184
+found	3.651386
+father	3.647516
+nsa	3.629148
+made	3.623772
+happen	3.596121
+buchanan	3.564287
+minutes	3.488847
+says	3.481633
+house	3.479649
+daughter	3.464674
+chief staff	3.450867
+teams	3.428199
+wanted	3.426131
+may	3.420661
+coming	3.402365
+servers	3.393427
+whatever	3.307259
+wants	3.304249
+line	3.277271
+wrong	3.266234
+problem	3.250779
+make sure	3.229420
+tanner	3.208295
+operatives	3.162810
+three	3.160230
+brother	3.097999
+debrief	3.084759
+room	3.084733
+agreement	3.063528
+without	3.050443
+ahead	3.011895
+immunity	3.003906
+ask	2.990074
+better	2.965664
+firewall	2.950493
+bring	2.946654
+cover	2.890548
+weapon	2.831083
+heard	2.807471
+bomb	2.804832
+left	2.776250
+secure	2.746198
+fine	2.741148
+husband	2.738223
+americans	2.737078
+pillar	2.721280
+meredith	2.671495

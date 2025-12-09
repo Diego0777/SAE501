@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "serena",
+    "score": 884.0465285554461
+  },
+  {
+    "keyword": "blair",
+    "score": 593.689705781223
+  },
+  {
+    "keyword": "gossip girl",
+    "score": 297.3613281364793
+  },
+  {
+    "keyword": "aßiae",
+    "score": 235.1874768373895
+  },
+  {
+    "keyword": "nate",
+    "score": 174.0906336572299
+  },
+  {
+    "keyword": "der woodsen",
+    "score": 156.8804817332217
+  },
+  {
+    "keyword": "woodsen",
+    "score": 156.8804817332217
+  },
+  {
+    "keyword": "dorota",
+    "score": 143.44881356141474
+  },
+  {
+    "keyword": "humphrey",
+    "score": 142.09411041030032
+  },
+  {
+    "keyword": "blair waldorf",
+    "score": 141.9476773759311
+  },
+  {
+    "keyword": "van der",
+    "score": 132.41891864484606
+  },
+  {
+    "keyword": "aai",
+    "score": 124.83037319922157
+  },
+  {
+    "keyword": "eae",
+    "score": 120.80245822939993
+  },
+  {
+    "keyword": "waldorf",
+    "score": 117.57331623603213
+  },
+  {
+    "keyword": "chuck bass",
+    "score": 109.20080717737734
+  },
+  {
+    "keyword": "rufus",
+    "score": 107.37625394033459
+  },
+  {
+    "keyword": "iio",
+    "score": 105.41188132001764
+  },
+  {
+    "keyword": "oio",
+    "score": 102.02391924120435
+  },
+  {
+    "keyword": "really",
+    "score": 88.98389060510765
+  },
+  {
+    "keyword": "chuck",
+    "score": 76.319999841801
+  },
+  {
+    "keyword": "georgina",
+    "score": 66.38132904050623
+  },
+  {
+    "keyword": "tripp",
+    "score": 63.585527553148026
+  },
+  {
+    "keyword": "dan humphrey",
+    "score": 54.99112361082822
+  },
+  {
+    "keyword": "lily",
+    "score": 53.027068119673075
+  },
+  {
+    "keyword": "vanessa",
+    "score": 51.85117864533084
+  },
+  {
+    "keyword": "serena van",
+    "score": 48.77058229261209
+  },
+  {
+    "keyword": "jenny",
+    "score": 47.50319651627834
+  },
+  {
+    "keyword": "gossip",
+    "score": 47.17809864369957
+  },
+  {
+    "keyword": "aoou",
+    "score": 45.785293345263405
+  },
+  {
+    "keyword": "dan",
+    "score": 45.46750673168209
+  },
+  {
+    "keyword": "oci",
+    "score": 45.446444958135636
+  },
+  {
+    "keyword": "mean",
+    "score": 45.18268893404312
+  },
+  {
+    "keyword": "aea",
+    "score": 42.841742430786404
+  },
+  {
+    "keyword": "bass",
+    "score": 42.23662124482423
+  },
+  {
+    "keyword": "say",
+    "score": 41.82109262937556
+  },
+  {
+    "keyword": "dad",
+    "score": 41.67831696963482
+  },
+  {
+    "keyword": "ðio",
+    "score": 40.06762227792908
+  },
+  {
+    "keyword": "oii",
+    "score": 40.04349763270624
+  },
+  {
+    "keyword": "archibald",
+    "score": 38.82696885173875
+  },
+  {
+    "keyword": "something",
+    "score": 38.32030124215776
+  },
+  {
+    "keyword": "nate archibald",
+    "score": 36.0031497193052
+  },
+  {
+    "keyword": "der",
+    "score": 36.002688371650464
+  },
+  {
+    "keyword": "mom",
+    "score": 35.147608475357295
+  },
+  {
+    "keyword": "thank",
+    "score": 33.213914628010436
+  },
+  {
+    "keyword": "bilt",
+    "score": 32.13302777778402
+  },
+  {
+    "keyword": "der bilt",
+    "score": 32.13302777778402
+  },
+  {
+    "keyword": "thought",
+    "score": 31.256446125107026
+  },
+  {
+    "keyword": "jenny humphrey",
+    "score": 30.886598113751102
+  },
+  {
+    "keyword": "never",
+    "score": 28.64885416371079
+  },
+  {
+    "keyword": "even",
+    "score": 28.53257160839874
+  },
+  {
+    "keyword": "told",
+    "score": 26.28507665762314
+  },
+  {
+    "keyword": "wait",
+    "score": 25.867860248959968
+  },
+  {
+    "keyword": "talk",
+    "score": 22.862228193685706
+  },
+  {
+    "keyword": "actually",
+    "score": 22.48348223089455
+  },
+  {
+    "keyword": "aaþ",
+    "score": 21.71454110187348
+  },
+  {
+    "keyword": "please",
+    "score": 21.122713818179378
+  },
+  {
+    "keyword": "said",
+    "score": 19.389001050476644
+  },
+  {
+    "keyword": "love",
+    "score": 19.030770289839417
+  },
+  {
+    "keyword": "bart",
+    "score": 18.981100921957854
+  },
+  {
+    "keyword": "upper east",
+    "score": 18.44736223804651
+  },
+  {
+    "keyword": "much",
+    "score": 18.017363808356077
+  },
+  {
+    "keyword": "still",
+    "score": 16.298068267738383
+  },
+  {
+    "keyword": "last",
+    "score": 15.958427641878039
+  },
+  {
+    "keyword": "find",
+    "score": 15.37966695703186
+  },
+  {
+    "keyword": "anything",
+    "score": 15.30304050516875
+  },
+  {
+    "keyword": "eleanor",
+    "score": 15.274879904025495
+  },
+  {
+    "keyword": "girl",
+    "score": 14.876661697917744
+  },
+  {
+    "keyword": "everything",
+    "score": 13.891519155471006
+  },
+  {
+    "keyword": "believe",
+    "score": 13.657171904152886
+  },
+  {
+    "keyword": "wanted",
+    "score": 13.331149456591875
+  },
+  {
+    "keyword": "tonight",
+    "score": 13.14871049740907
+  },
+  {
+    "keyword": "way",
+    "score": 12.673752666880796
+  },
+  {
+    "keyword": "little",
+    "score": 12.223885310195532
+  },
+  {
+    "keyword": "someone",
+    "score": 11.53755978093814
+  },
+  {
+    "keyword": "night",
+    "score": 11.491203750482757
+  },
+  {
+    "keyword": "family",
+    "score": 11.467893503906662
+  },
+  {
+    "keyword": "nothing",
+    "score": 11.4613927345712
+  },
+  {
+    "keyword": "great",
+    "score": 11.292003270839846
+  },
+  {
+    "keyword": "party",
+    "score": 11.216393297025581
+  },
+  {
+    "keyword": "call",
+    "score": 11.074970145881215
+  },
+  {
+    "keyword": "nathaniel",
+    "score": 11.019168083022187
+  },
+  {
+    "keyword": "god",
+    "score": 10.938095899657485
+  },
+  {
+    "keyword": "father",
+    "score": 10.92408549871904
+  },
+  {
+    "keyword": "mother",
+    "score": 10.82601132738503
+  },
+  {
+    "keyword": "ever",
+    "score": 10.677998233175362
+  },
+  {
+    "keyword": "first",
+    "score": 9.905573019682125
+  },
+  {
+    "keyword": "give",
+    "score": 9.710607640629155
+  },
+  {
+    "keyword": "away",
+    "score": 9.594126237299625
+  },
+  {
+    "keyword": "yale",
+    "score": 9.580714645885765
+  },
+  {
+    "keyword": "talking",
+    "score": 9.465258170244402
+  },
+  {
+    "keyword": "school",
+    "score": 8.98832518628806
+  },
+  {
+    "keyword": "always",
+    "score": 8.889730668457496
+  },
+  {
+    "keyword": "better",
+    "score": 8.825052146936835
+  },
+  {
+    "keyword": "friend",
+    "score": 8.568439730139215
+  },
+  {
+    "keyword": "thanks",
+    "score": 8.393112699879644
+  },
+  {
+    "keyword": "together",
+    "score": 8.13356215279371
+  },
+  {
+    "keyword": "poppy",
+    "score": 8.101389916226301
+  },
+  {
+    "keyword": "guess",
+    "score": 7.929519455957679
+  },
+  {
+    "keyword": "since",
+    "score": 7.7900214097622005
+  },
+  {
+    "keyword": "feel",
+    "score": 7.632669625948925
+  },
+  {
+    "keyword": "meet",
+    "score": 7.569082211455632
+  },
+  {
+    "keyword": "friends",
+    "score": 7.5010589219611346
+  },
+  {
+    "keyword": "year",
+    "score": 7.421235226299633
+  },
+  {
+    "keyword": "work",
+    "score": 7.3789064459723415
+  },
+  {
+    "keyword": "looks",
+    "score": 7.199408626631246
+  },
+  {
+    "keyword": "getting",
+    "score": 7.199408626631246
+  },
+  {
+    "keyword": "happened",
+    "score": 7.122043730542956
+  },
+  {
+    "keyword": "left",
+    "score": 7.046723829034707
+  },
+  {
+    "keyword": "scandalous",
+    "score": 6.935953756418944
+  },
+  {
+    "keyword": "trying",
+    "score": 6.801590009806309
+  },
+  {
+    "keyword": "kind",
+    "score": 6.304374204715905
+  },
+  {
+    "keyword": "nelly",
+    "score": 6.0535859593489985
+  },
+  {
+    "keyword": "exactly",
+    "score": 5.928149450521093
+  },
+  {
+    "keyword": "done",
+    "score": 5.926753378019482
+  },
+  {
+    "keyword": "already",
+    "score": 5.916221996779109
+  },
+  {
+    "keyword": "keep",
+    "score": 5.901476482757633
+  },
+  {
+    "keyword": "care",
+    "score": 5.868707410307031
+  },
+  {
+    "keyword": "best",
+    "score": 5.794169669567975
+  },
+  {
+    "keyword": "everyone",
+    "score": 5.73601086411395
+  },
+  {
+    "keyword": "life",
+    "score": 5.685627682719838
+  },
+  {
+    "keyword": "made",
+    "score": 5.641055822970988
+  },
+  {
+    "keyword": "enough",
+    "score": 5.600636509157421
+  },
+  {
+    "keyword": "looking",
+    "score": 5.560138133046217
+  },
+  {
+    "keyword": "home",
+    "score": 5.529095425346021
+  },
+  {
+    "keyword": "sure",
+    "score": 5.468714751257648
+  },
+  {
+    "keyword": "wrong",
+    "score": 5.4202794772362735
+  },
+  {
+    "keyword": "leave",
+    "score": 5.3480197618712255
+  },
+  {
+    "keyword": "cyrus",
+    "score": 5.342990527854727
+  },
+  {
+    "keyword": "knew",
+    "score": 5.290175912860099
+  },
+  {
+    "keyword": "nice",
+    "score": 5.0799042013137745
+  },
+  {
+    "keyword": "eric",
+    "score": 5.007170339724575
+  },
+  {
+    "keyword": "idea",
+    "score": 4.991865177728498
+  },
+  {
+    "keyword": "else",
+    "score": 4.809228316752297
+  },
+  {
+    "keyword": "coming",
+    "score": 4.7458488672708805
+  },
+  {
+    "keyword": "constance",
+    "score": 4.71413069678213
+  },
+  {
+    "keyword": "around",
+    "score": 4.702234307883336
+  },
+  {
+    "keyword": "remember",
+    "score": 4.683700328495622
+  },
+  {
+    "keyword": "agnes",
+    "score": 4.619652578675582
+  },
+  {
+    "keyword": "ready",
+    "score": 4.5835750867187866
+  },
+  {
+    "keyword": "carter",
+    "score": 4.532540940489099
+  },
+  {
+    "keyword": "called",
+    "score": 4.405431940546671
+  },
+  {
+    "keyword": "hear",
+    "score": 4.405127533311482
+  },
+  {
+    "keyword": "morning",
+    "score": 4.374629329749634
+  },
+  {
+    "keyword": "looks like",
+    "score": 4.286831599650063
+  },
+  {
+    "keyword": "boyfriend",
+    "score": 4.217795631805173
+  },
+  {
+    "keyword": "next",
+    "score": 4.175731707802674
+  },
+  {
+    "keyword": "day",
+    "score": 4.13230057725244
+  },
+  {
+    "keyword": "new",
+    "score": 4.098326724612269
+  },
+  {
+    "keyword": "laughs",
+    "score": 4.080882587126096
+  },
+  {
+    "keyword": "least",
+    "score": 4.045006299584331
+  },
+  {
+    "keyword": "olivia",
+    "score": 4.0408395554855785
+  },
+  {
+    "keyword": "asked",
+    "score": 4.0083068520238365
+  },
+  {
+    "keyword": "east side",
+    "score": 3.962452710835792
+  },
+  {
+    "keyword": "seen",
+    "score": 3.8864632264220935
+  },
+  {
+    "keyword": "probably",
+    "score": 3.8790291801241548
+  },
+  {
+    "keyword": "understand",
+    "score": 3.8654645639422256
+  },
+  {
+    "keyword": "tomorrow",
+    "score": 3.829124614288504
+  },
+  {
+    "keyword": "stay",
+    "score": 3.828367362751676
+  },
+  {
+    "keyword": "whole",
+    "score": 3.7081174768862084
+  },
+  {
+    "keyword": "went",
+    "score": 3.6694458798948757
+  },
+  {
+    "keyword": "today",
+    "score": 3.6656020806844114
+  },
+  {
+    "keyword": "dress",
+    "score": 3.6111963065577273
+  },
+  {
+    "keyword": "another",
+    "score": 3.5613625071931905
+  },
+  {
+    "keyword": "later",
+    "score": 3.5564673749955182
+  },
+  {
+    "keyword": "late",
+    "score": 3.5064860226330423
+  },
+  {
+    "keyword": "phone",
+    "score": 3.49305392361078
+  },
+  {
+    "keyword": "money",
+    "score": 3.470270390792037
+  },
+  {
+    "keyword": "name",
+    "score": 3.4503982742776946
+  },
+  {
+    "keyword": "wants",
+    "score": 3.4417626282283273
+  },
+  {
+    "keyword": "heard",
+    "score": 3.4417626282283273
+  },
+  {
+    "keyword": "pretty",
+    "score": 3.361163167219681
+  },
+  {
+    "keyword": "try",
+    "score": 3.3551571072823325
+  },
+  {
+    "keyword": "saw",
+    "score": 3.350288835823638
+  },
+  {
+    "keyword": "fine",
+    "score": 3.3102761860612975
+  },
+  {
+    "keyword": "without",
+    "score": 3.253048971371327
+  },
+  {
+    "keyword": "happy",
+    "score": 3.246808151065212
+  },
+  {
+    "keyword": "mind",
+    "score": 3.2307761216990527
+  },
+  {
+    "keyword": "ask",
+    "score": 3.2252970188266965
+  },
+  {
+    "keyword": "brooklyn",
+    "score": 3.1697607560663026
+  },
+  {
+    "keyword": "bad",
+    "score": 3.165500002345988
+  },
+  {
+    "keyword": "person",
+    "score": 3.163228798005369
+  },
+  {
+    "keyword": "totally",
+    "score": 3.156730124587043
+  },
+  {
+    "keyword": "real",
+    "score": 3.1258665723862387
+  },
+  {
+    "keyword": "whatever",
+    "score": 3.1120410494801165
+  },
+  {
+    "keyword": "perfect",
+    "score": 3.1083916241067424
+  },
+  {
+    "keyword": "thinking",
+    "score": 3.1060675895890353
+  },
+  {
+    "keyword": "dinner",
+    "score": 3.0803495244290042
+  },
+  {
+    "keyword": "anyone",
+    "score": 3.037829832294959
+  },
+  {
+    "keyword": "gabriel",
+    "score": 3.011587595749229
+  },
+  {
+    "keyword": "asher",
+    "score": 3.0017448402332914
+  },
+  {
+    "keyword": "anymore",
+    "score": 2.98762734177238
+  },
+  {
+    "keyword": "hope",
+    "score": 2.977801149859742
+  },
+  {
+    "keyword": "alone",
+    "score": 2.9739291456860424
+  },
+  {
+    "keyword": "may",
+    "score": 2.9631200738052716
+  },
+  {
+    "keyword": "last night",
+    "score": 2.9429623962107696
+  },
+  {
+    "keyword": "holland",
+    "score": 2.9222699944887873
+  },
+  {
+    "keyword": "found",
+    "score": 2.875017550260209
+  },
+  {
+    "keyword": "old",
+    "score": 2.824934391754127
+  },
+  {
+    "keyword": "true",
+    "score": 2.7767894438285703
+  },
+  {
+    "keyword": "yet",
+    "score": 2.767300331125534
+  }
+]

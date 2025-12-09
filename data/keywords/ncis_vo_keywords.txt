@@ -1,0 +1,200 @@
+gibbs	4118.580659
+dinozzo	3248.941200
+ziva	2720.441198
+mcgee	1614.833063
+ncis	1180.206325
+agent gibbs	1161.266851
+ducky	487.774954
+team ncis	350.458343
+ncis com	326.054276
+probie	316.090513
+petty officer	295.677506
+jethro	252.610470
+abby	182.669090
+www team	152.777132
+yeah gibbs	106.828781
+agent dinozzo	94.759139
+ncls	92.612233
+tony	75.593625
+something	68.681414
+mallard	67.042866
+found	63.739560
+find	63.598147
+never	59.076935
+special agent	56.144441
+really	54.072681
+rivkin	48.960204
+ncis season	47.963301
+director	46.424317
+say	44.237726
+fornell	42.174257
+boss	41.219500
+abs	40.817378
+corporal	37.791854
+said	37.558375
+palmer	36.589979
+last	36.034649
+officer	34.537718
+dead	33.555130
+anything	33.465152
+agent mcgee	33.268976
+still	32.203974
+agent	30.232749
+petty	29.411827
+work	29.054181
+ago	28.377651
+mean	28.090115
+vance	27.786171
+kody	26.827944
+arnett	26.432264
+someone	26.287231
+korby	26.066304
+call	25.780363
+killed	25.660156
+mossad	25.017894
+thought	24.937906
+name	24.515379
+lance corporal	24.424766
+told	23.874964
+werth	23.840098
+even	23.557881
+tony ziva	23.117709
+left	23.084430
+years	23.041176
+three	22.334874
+way	22.311229
+norfolk	21.960697
+first	21.726370
+phone	21.639628
+sciuto	20.638824
+looking	20.466977
+siravo	18.992425
+much	18.449294
+abbs	18.340059
+nothing	18.281568
+thank	18.172839
+little	18.168439
+talk	18.067987
+mtac	17.697846
+bolo	17.410924
+give	17.306892
+ari	16.739018
+trying	16.619899
+believe	16.588240
+used	15.464241
+made	15.395025
+navy	15.238856
+turtle www	15.231354
+sergeant	14.948063
+kill	14.852508
+ever	14.624538
+kind	14.569281
+yazeed	14.060126
+azari	14.060126
+put	13.992176
+lieutenant	13.859424
+went	13.648065
+magic turtle	13.589891
+secnav	13.564673
+body	13.493415
+yet	13.445355
+actually	12.957209
+lol synchro	12.930733
+mayne	12.930733
+already	12.775995
+wrong	12.754458
+duck	12.494374
+murder	12.367873
+called	12.312372
+knew	11.988225
+working	11.988225
+guess	11.955256
+anthony dinozzo	11.843564
+ask	11.711569
+death	11.657201
+kale	11.598182
+night	11.563800
+done	11.542497
+keep	11.515532
+better	11.478365
+looks	11.356531
+sir	11.336916
+took	11.299462
+trimble	11.148719
+cell	10.911381
+always	10.769336
+wanted	10.767600
+synchro gaillots	10.686376
+gibbs gibbs	10.683239
+around	10.496461
+getting	10.485450
+marine	10.422066
+wait	10.114718
+probably	10.014965
+everything	9.988099
+callen	9.947654
+kort	9.947654
+else	9.595768
+agent todd	9.452848
+please	9.428509
+saw	9.421070
+another	9.355201
+wife	9.316157
+team	9.212838
+yost	9.209881
+talking	9.118509
+enough	9.058265
+franks	9.049765
+gunny	9.020370
+happened	8.886968
+number	8.839836
+nice	8.763831
+heard	8.747401
+leave	8.697608
+thanks	8.532558
+since	8.467016
+kate	8.463852
+bad	8.450618
+blood	8.385677
+money	8.344696
+morning	8.319519
+old	8.296615
+staff sergeant	8.233232
+months	8.178551
+gaillots	7.916254
+renny	7.880120
+day	7.868056
+crime scene	7.866521
+idea	7.837075
+danforth	7.761612
+case	7.734833
+problem	7.609618
+home	7.560837
+missing	7.537858
+room	7.515495
+rankin	7.446982
+hours	7.298394
+shot	7.213776
+computer	7.033179
+anyone	7.018714
+away	6.961950
+sharif	6.961829
+exactly	6.916793
+days	6.891707
+dna	6.829917
+looks like	6.812699
+security	6.797643
+boss got	6.724285
+prints	6.660643
+hell	6.574917
+seen	6.535763
+hit	6.425896
+victim	6.400580
+means	6.357755
+next	6.332560
+doctor	6.272716
+captain	6.181799
+sure	6.154950
+autopsy	6.152167
+died	6.132785
+father	6.090399

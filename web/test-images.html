@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Images</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background: #1a1a1a;
+            color: white;
+        }
+        .test-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .test-card {
+            border: 1px solid #333;
+            border-radius: 8px;
+            padding: 10px;
+            background: #2a2a2a;
+        }
+        .test-card img {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+            border-radius: 4px;
+        }
+        .test-card h3 {
+            margin: 10px 0 5px 0;
+            font-size: 14px;
+        }
+        .status {
+            padding: 5px 10px;
+            border-radius: 4px;
+            display: inline-block;
+            font-size: 12px;
+            margin-top: 5px;
+        }
+        .success { background: #4caf50; }
+        .error { background: #f44336; }
+    </style>
+</head>
+<body>
+    <h1>🧪 Test des Images</h1>
+    <p>Vérification que les posters s'affichent correctement depuis la base de données</p>
+    
+    <div id="results"></div>
+
+    <script>
+        async function testImages() {
+            const results = document.getElementById('results');
+            results.innerHTML = '<p>Chargement...</p>';
+            
+            try {
+                // Récupérer quelques séries
+                const response = await fetch('/api/series?limit=12');
+                const series = await response.json();
+                
+                let html = `<p>✅ ${series.length} séries récupérées</p><div class="test-grid">`;
+                
+                for (const s of series) {
+                    const posterUrl = s.poster_url && s.poster_url.startsWith('blob:') 
+                        ? `posters/${s.title}.jpg`
+                        : (s.poster_url || `covers/${s.title}.svg`);
+                    
+                    html += `
+                        <div class="test-card">
+                            <img src="${posterUrl}" 
+                                 alt="${s.title}"
+                                 onerror="this.parentElement.querySelector('.status').textContent='❌ Erreur'; this.parentElement.querySelector('.status').className='status error';"
+                                 onload="this.parentElement.querySelector('.status').textContent='✅ OK'; this.parentElement.querySelector('.status').className='status success';">
+                            <h3>${s.title}</h3>
+                            <div class="status">⏳ Chargement...</div>
+                        </div>
+                    `;
+                }
+                
+                html += '</div>';
+                results.innerHTML = html;
+                
+            } catch (error) {
+                results.innerHTML = `<p style="color: red;">❌ Erreur: ${error.message}</p>`;
+            }
+        }
+        
+        testImages();
+    </script>
+</body>
+</html>

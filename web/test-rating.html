@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Notation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container" style="margin-top: 2rem;">
+        <h1>🧪 Test de Notation</h1>
+        
+        <div class="search-section">
+            <h2>1. Connexion</h2>
+            <button onclick="testLogin()" class="btn btn-primary">Se connecter (testuser2)</button>
+            <div id="loginResult" style="margin-top: 10px;"></div>
+        </div>
+        
+        <div class="search-section">
+            <h2>2. Vérifier le profil</h2>
+            <button onclick="testProfile()" class="btn btn-primary">Vérifier le profil</button>
+            <div id="profileResult" style="margin-top: 10px;"></div>
+        </div>
+        
+        <div class="search-section">
+            <h2>3. Noter Breaking Bad</h2>
+            <button onclick="testRating()" class="btn btn-primary">Noter Breaking Bad (5/5)</button>
+            <div id="ratingResult" style="margin-top: 10px;"></div>
+        </div>
+        
+        <div class="search-section">
+            <h2>4. Infos de débogage</h2>
+            <div id="debugInfo" style="font-family: monospace; background: #2a2a2a; padding: 15px; border-radius: 8px; white-space: pre-wrap;"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+    <script>
+        function updateDebug() {
+            const token = getToken();
+            document.getElementById('debugInfo').textContent = `
+Token stocké: ${token ? token.substring(0, 30) + '...' : 'AUCUN'}
+LocalStorage: ${JSON.stringify(localStorage, null, 2)}
+            `;
+        }
+        
+        async function testLogin() {
+            const result = document.getElementById('loginResult');
+            result.innerHTML = '⏳ Connexion...';
+            
+            try {
+                const response = await apiRequest('/login', {
+                    method: 'POST',
+                    requireAuth: false,
+                    body: JSON.stringify({
+                        username: 'testuser2',
+                        password: 'test123'
+                    })
+                });
+                
+                setToken(response.token);
+                result.innerHTML = `✅ Connecté ! Token: ${response.token.substring(0, 30)}...`;
+                updateDebug();
+            } catch (error) {
+                result.innerHTML = `❌ Erreur: ${error.message}`;
+            }
+        }
+        
+        async function testProfile() {
+            const result = document.getElementById('profileResult');
+            result.innerHTML = '⏳ Chargement du profil...';
+            
+            try {
+                const profile = await apiRequest('/profile');
+                result.innerHTML = `✅ Profil récupéré !
+User ID: ${profile.id}
+Username: ${profile.username}
+Email: ${profile.email}`;
+                updateDebug();
+            } catch (error) {
+                result.innerHTML = `❌ Erreur: ${error.message}`;
+            }
+        }
+        
+        async function testRating() {
+            const result = document.getElementById('ratingResult');
+            result.innerHTML = '⏳ Récupération du profil...';
+            
+            try {
+                const profile = await apiRequest('/profile');
+                result.innerHTML = `⏳ User ID: ${profile.id}, notation en cours...`;
+                
+                const ratingResponse = await apiRequest('/rate', {
+                    method: 'POST',
+                    requireAuth: false,
+                    body: JSON.stringify({
+                        user_id: profile.id,
+                        series_title: 'breakingbad_vf',
+                        rating: 5
+                    })
+                });
+                
+                result.innerHTML = `✅ Note enregistrée !
+Rating ID: ${ratingResponse.rating_id}
+Message: ${ratingResponse.message}`;
+            } catch (error) {
+                result.innerHTML = `❌ Erreur: ${error.message}
+Stack: ${error.stack}`;
+            }
+        }
+        
+        updateDebug();
+        setInterval(updateDebug, 2000);
+    </script>
+</body>
+</html>

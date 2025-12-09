@@ -1,0 +1,200 @@
+bauer	695.995173
+dubaku	622.641504
+ctu	575.768860
+juma	400.892633
+jack bauer	374.125562
+almeida	372.021583
+hassan	348.998361
+drazen	279.091995
+starkwood	247.559852
+matobo	181.854611
+presidente	141.750056
+president hassan	138.564381
+teri	94.200392
+madame presidente	93.580093
+sangala	84.724690
+agent walker	84.215832
+jack	81.009127
+jamey	74.523586
+agent moss	62.282658
+palmer	60.210080
+renee	59.722770
+cip	55.398707
+passe	47.767594
+farhad	45.958228
+hodges	45.839526
+senateur	42.728681
+tony almeida	41.362774
+tarin	39.791608
+parler	39.590408
+burnett	38.855997
+faut	37.123462
+jonas hodges	32.347778
+temps	31.763480
+gaines	29.596728
+renee walker	29.563089
+besoin	27.789141
+combustible	27.430387
+dana walsh	26.890360
+kanin	26.733251
+maintenant	26.520617
+accord	25.754676
+onu	25.529590
+peut etre	25.226924
+merci	24.784916
+nina	24.774395
+voir	22.475404
+fais	21.763966
+maison blanche	20.577088
+faites	20.559470
+marika	20.277342
+hastings	19.138805
+parle	18.774239
+madame president	18.530961
+juste	18.313341
+fille	17.569184
+chloe	17.331393
+mort	17.302357
+securite	17.122464
+janis	16.676526
+deux	15.654188
+savoir	15.516651
+personne	14.501274
+walsh	14.349634
+tony	14.134183
+kim	13.386890
+hommes	13.323308
+quelque chose	13.250179
+moss	13.173958
+trouve	12.202834
+quelqu	12.005366
+monsieur	11.841516
+pense	11.093074
+arme	11.012849
+vladimir	10.723129
+agent	10.662059
+mayer	10.567017
+tuer	10.484683
+tue	10.403735
+homme	9.985385
+alexis	9.912457
+donne	9.911214
+dites	9.871719
+fbi	9.823591
+desole	9.737138
+peu	9.573185
+bon	9.571546
+services secrets	9.164489
+depuis	9.128355
+walker	8.958693
+madame	8.932073
+attaque	8.758754
+crois	8.631380
+armes	8.505743
+taylor	8.499145
+arrive	8.465598
+vraiment	8.460329
+aider	8.422799
+voiture	8.308428
+vie	8.256994
+appelle	8.248753
+larry	8.221689
+module	8.221423
+probleme	8.153634
+ecoute	8.088229
+equipe	7.853538
+pere	7.729036
+terroristes	7.708601
+dana	7.696667
+demande	7.678900
+femme	7.665006
+reste	7.653590
+viens	7.653590
+fois	7.555395
+famille	7.476081
+president	7.258604
+entre	7.191816
+jonas	7.070414
+heure	7.048619
+confiance	7.031072
+entendu	7.031072
+gens	6.989432
+russes	6.895200
+compris	6.813129
+laisse	6.702878
+contre	6.671870
+president taylor	6.631955
+trouver	6.598241
+gouvernement	6.451305
+aide	6.306957
+dis	6.277180
+ortiz	6.226496
+fils	6.177676
+prendre	5.942485
+vient	5.904157
+arlo	5.759193
+seule	5.702639
+lino	5.685366
+mieux	5.622991
+courant	5.552796
+maison	5.543243
+jusqu	5.415166
+raison	5.393905
+comprends	5.350785
+femme fille	5.333081
+ligne	5.186573
+tant	5.136871
+laissez	5.114374
+aujourd hui	5.076461
+aujourd	5.076461
+hui	5.056140
+monde	5.034028
+sortir	4.927851
+fini	4.915266
+nom	4.869669
+seul	4.865561
+blanche	4.758045
+arrete	4.742040
+recu	4.691816
+vite	4.685819
+frere	4.676621
+meier	4.556273
+combien	4.530772
+ethan	4.508883
+appel	4.477321
+fabrique www	4.393790
+heures	4.367590
+tres bien	4.355025
+desolee	4.273111
+travaille	4.273111
+plait	4.205997
+vois	4.203747
+minutes	4.124145
+bonne	4.104500
+keith	4.064040
+immunite	3.948939
+paix	3.898709
+milo	3.794416
+olivia	3.729421
+pays	3.720883
+fichier	3.604971
+premier ministre	3.604509
+team fabrique	3.601529
+tard	3.542382
+arreter	3.534929
+sherry	3.512523
+ouais	3.429298
+perdu	3.426907
+devrait	3.424230
+mari	3.421274
+beaucoup	3.371770
+kayla	3.343442
+affaire	3.320377
+passer	3.309139
+presidence	3.290500
+bien recu	3.263032
+cible	3.237565
+verite	3.215344
+proteger	3.162952
+acces	3.140801
+perimetre	3.139848

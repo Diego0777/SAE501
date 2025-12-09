@@ -1,0 +1,10 @@
+numpy
+scikit-learn
+nltk
+flask
+flask-cors
+tqdm
+joblib
+langdetect
+requests
+mysql-connector-python

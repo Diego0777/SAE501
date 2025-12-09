@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "hood",
+    "score": 103.33431005447302
+  },
+  {
+    "keyword": "agent young",
+    "score": 102.94104030185062
+  },
+  {
+    "keyword": "geppetto",
+    "score": 88.61354076884184
+  },
+  {
+    "keyword": "stem cells",
+    "score": 31.282925414162158
+  },
+  {
+    "keyword": "rachel",
+    "score": 27.400322546534728
+  },
+  {
+    "keyword": "sofia",
+    "score": 25.74229806227714
+  },
+  {
+    "keyword": "sacha",
+    "score": 17.159446033539417
+  },
+  {
+    "keyword": "something",
+    "score": 16.11411581870831
+  },
+  {
+    "keyword": "really",
+    "score": 13.568789235411302
+  },
+  {
+    "keyword": "jacob",
+    "score": 13.464868934796524
+  },
+  {
+    "keyword": "find",
+    "score": 13.144893751091653
+  },
+  {
+    "keyword": "stem",
+    "score": 10.301328786308321
+  },
+  {
+    "keyword": "felix",
+    "score": 10.023951114115054
+  },
+  {
+    "keyword": "mean",
+    "score": 9.935139670354774
+  },
+  {
+    "keyword": "kind",
+    "score": 9.789387428252953
+  },
+  {
+    "keyword": "please",
+    "score": 9.494256046740775
+  },
+  {
+    "keyword": "thank",
+    "score": 9.004475324432883
+  },
+  {
+    "keyword": "victims",
+    "score": 8.75449607089392
+  },
+  {
+    "keyword": "say",
+    "score": 8.432926582176774
+  },
+  {
+    "keyword": "agent lee",
+    "score": 7.215533182929911
+  },
+  {
+    "keyword": "cells",
+    "score": 7.180557006600818
+  },
+  {
+    "keyword": "fbi",
+    "score": 7.090289694832438
+  },
+  {
+    "keyword": "renny",
+    "score": 6.862906072488551
+  },
+  {
+    "keyword": "work",
+    "score": 6.692198967426969
+  },
+  {
+    "keyword": "anything",
+    "score": 6.148211578133406
+  },
+  {
+    "keyword": "water",
+    "score": 5.86543865422612
+  },
+  {
+    "keyword": "even",
+    "score": 5.850371117356053
+  },
+  {
+    "keyword": "much",
+    "score": 5.806885504024944
+  },
+  {
+    "keyword": "mercury",
+    "score": 5.743972537233287
+  },
+  {
+    "keyword": "keep",
+    "score": 5.592926946314538
+  },
+  {
+    "keyword": "way",
+    "score": 5.297310371003127
+  },
+  {
+    "keyword": "special agent",
+    "score": 5.174471963153062
+  },
+  {
+    "keyword": "found",
+    "score": 5.0787694268443815
+  },
+  {
+    "keyword": "hailey",
+    "score": 5.004783040912602
+  },
+  {
+    "keyword": "cloning",
+    "score": 4.972482981202698
+  },
+  {
+    "keyword": "blood",
+    "score": 4.916825790667678
+  },
+  {
+    "keyword": "young",
+    "score": 4.811716710903698
+  },
+  {
+    "keyword": "last",
+    "score": 4.744887900318148
+  },
+  {
+    "keyword": "fungus",
+    "score": 4.6539662519979785
+  },
+  {
+    "keyword": "nicky",
+    "score": 4.537684880002666
+  },
+  {
+    "keyword": "said",
+    "score": 4.525043538578499
+  },
+  {
+    "keyword": "name",
+    "score": 4.428152423898248
+  },
+  {
+    "keyword": "bacteria",
+    "score": 4.398379319412912
+  },
+  {
+    "keyword": "someone",
+    "score": 4.383679007884241
+  },
+  {
+    "keyword": "exactly",
+    "score": 4.203535791396907
+  },
+  {
+    "keyword": "give",
+    "score": 4.181188080718013
+  },
+  {
+    "keyword": "lowell",
+    "score": 4.1417916578412255
+  },
+  {
+    "keyword": "happened",
+    "score": 4.122996807811924
+  },
+  {
+    "keyword": "son",
+    "score": 4.087363999787078
+  },
+  {
+    "keyword": "still",
+    "score": 3.96557333100261
+  },
+  {
+    "keyword": "nothing",
+    "score": 3.9038660577015327
+  },
+  {
+    "keyword": "never",
+    "score": 3.6392371447999685
+  },
+  {
+    "keyword": "teresa",
+    "score": 3.6126151289240687
+  },
+  {
+    "keyword": "three",
+    "score": 3.4731883556228844
+  },
+  {
+    "keyword": "agent",
+    "score": 3.367831584107236
+  },
+  {
+    "keyword": "looking",
+    "score": 3.3652191535098823
+  },
+  {
+    "keyword": "lyons",
+    "score": 3.2977007847151913
+  },
+  {
+    "keyword": "put",
+    "score": 3.2534330018649493
+  },
+  {
+    "keyword": "years",
+    "score": 3.2049617202079466
+  },
+  {
+    "keyword": "god",
+    "score": 3.150928622757957
+  },
+  {
+    "keyword": "call",
+    "score": 3.1126467986506468
+  },
+  {
+    "keyword": "thanks",
+    "score": 3.0084807708005252
+  },
+  {
+    "keyword": "everything",
+    "score": 2.961050982308408
+  },
+  {
+    "keyword": "first",
+    "score": 2.941682974031437
+  },
+  {
+    "keyword": "perfume",
+    "score": 2.9010850012250926
+  },
+  {
+    "keyword": "autism",
+    "score": 2.899953569273711
+  },
+  {
+    "keyword": "actually",
+    "score": 2.882473367503313
+  },
+  {
+    "keyword": "dna",
+    "score": 2.8792321246883406
+  },
+  {
+    "keyword": "stay",
+    "score": 2.8077635902691203
+  },
+  {
+    "keyword": "hospital",
+    "score": 2.8077635902691203
+  },
+  {
+    "keyword": "away",
+    "score": 2.7853493610799474
+  },
+  {
+    "keyword": "believe",
+    "score": 2.7113203671174926
+  },
+  {
+    "keyword": "heart",
+    "score": 2.602116412498238
+  },
+  {
+    "keyword": "made",
+    "score": 2.577737681619188
+  },
+  {
+    "keyword": "little",
+    "score": 2.57044029777817
+  },
+  {
+    "keyword": "virus",
+    "score": 2.5600994066544525
+  },
+  {
+    "keyword": "else",
+    "score": 2.5341971997202513
+  },
+  {
+    "keyword": "wanted",
+    "score": 2.522943143859991
+  },
+  {
+    "keyword": "used",
+    "score": 2.5215563703996446
+  },
+  {
+    "keyword": "year",
+    "score": 2.51031196532737
+  },
+  {
+    "keyword": "enough",
+    "score": 2.4562328154715303
+  },
+  {
+    "keyword": "lightning",
+    "score": 2.394796875006382
+  },
+  {
+    "keyword": "getting",
+    "score": 2.3460563949728614
+  },
+  {
+    "keyword": "around",
+    "score": 2.3051875825168073
+  },
+  {
+    "keyword": "better",
+    "score": 2.2453307122868296
+  },
+  {
+    "keyword": "wait",
+    "score": 2.199360854454031
+  },
+  {
+    "keyword": "trying",
+    "score": 2.1971642073222064
+  },
+  {
+    "keyword": "old",
+    "score": 2.1858295908392247
+  },
+  {
+    "keyword": "doctor",
+    "score": 2.181263853972944
+  },
+  {
+    "keyword": "mom",
+    "score": 2.1760101016689
+  },
+  {
+    "keyword": "ago",
+    "score": 2.161718517634251
+  },
+  {
+    "keyword": "skin",
+    "score": 2.1533116086776225
+  },
+  {
+    "keyword": "thought",
+    "score": 2.1121695815572417
+  },
+  {
+    "keyword": "ask",
+    "score": 2.092842784081045
+  },
+  {
+    "keyword": "baby",
+    "score": 2.0912400810900826
+  },
+  {
+    "keyword": "bad",
+    "score": 2.0904122272134424
+  },
+  {
+    "keyword": "talking",
+    "score": 2.0720710617980305
+  },
+  {
+    "keyword": "dead",
+    "score": 2.0553608430775276
+  },
+  {
+    "keyword": "tara",
+    "score": 2.0318133886511207
+  },
+  {
+    "keyword": "wrong",
+    "score": 2.030920424285492
+  },
+  {
+    "keyword": "number",
+    "score": 2.016648639091255
+  },
+  {
+    "keyword": "victim",
+    "score": 1.975903316505304
+  },
+  {
+    "keyword": "died",
+    "score": 1.9679417176803684
+  },
+  {
+    "keyword": "mind",
+    "score": 1.9678064118162484
+  },
+  {
+    "keyword": "ned",
+    "score": 1.9434404784241421
+  },
+  {
+    "keyword": "without",
+    "score": 1.9425074310791683
+  },
+  {
+    "keyword": "done",
+    "score": 1.9425074310791683
+  },
+  {
+    "keyword": "phone",
+    "score": 1.91982174840838
+  },
+  {
+    "keyword": "tabitha",
+    "score": 1.9169897328456842
+  },
+  {
+    "keyword": "tested",
+    "score": 1.8858622403126701
+  },
+  {
+    "keyword": "sick",
+    "score": 1.8813187025718017
+  },
+  {
+    "keyword": "lab",
+    "score": 1.8460807181782155
+  },
+  {
+    "keyword": "understand",
+    "score": 1.84304351064555
+  },
+  {
+    "keyword": "family",
+    "score": 1.835354831680094
+  },
+  {
+    "keyword": "use",
+    "score": 1.8308042575574621
+  },
+  {
+    "keyword": "hear",
+    "score": 1.8304819955883507
+  },
+  {
+    "keyword": "called",
+    "score": 1.813310663122351
+  },
+  {
+    "keyword": "kids",
+    "score": 1.8080126021590153
+  },
+  {
+    "keyword": "fisher",
+    "score": 1.8064332106566696
+  },
+  {
+    "keyword": "body",
+    "score": 1.73973153550981
+  },
+  {
+    "keyword": "left",
+    "score": 1.7379951862547758
+  },
+  {
+    "keyword": "person",
+    "score": 1.7039925345469575
+  },
+  {
+    "keyword": "dad",
+    "score": 1.7026467468057933
+  },
+  {
+    "keyword": "home",
+    "score": 1.7020631964249355
+  },
+  {
+    "keyword": "anyone",
+    "score": 1.699926948892255
+  },
+  {
+    "keyword": "care",
+    "score": 1.6959083686998657
+  },
+  {
+    "keyword": "hell",
+    "score": 1.6942237290185118
+  },
+  {
+    "keyword": "problem",
+    "score": 1.676418322589132
+  },
+  {
+    "keyword": "told",
+    "score": 1.676418322589132
+  },
+  {
+    "keyword": "ever",
+    "score": 1.646383750223614
+  },
+  {
+    "keyword": "gretchen",
+    "score": 1.6442277813587758
+  },
+  {
+    "keyword": "scientist",
+    "score": 1.6220045514873165
+  },
+  {
+    "keyword": "human",
+    "score": 1.6219934115001253
+  },
+  {
+    "keyword": "venom",
+    "score": 1.6147784822228843
+  },
+  {
+    "keyword": "isaac",
+    "score": 1.6126766917354374
+  },
+  {
+    "keyword": "symptoms",
+    "score": 1.5840095982801978
+  },
+  {
+    "keyword": "cameron",
+    "score": 1.5502642339010646
+  },
+  {
+    "keyword": "treatment",
+    "score": 1.5443162021455545
+  },
+  {
+    "keyword": "pretty",
+    "score": 1.5187080641954875
+  },
+  {
+    "keyword": "brain",
+    "score": 1.516846994431363
+  },
+  {
+    "keyword": "looks",
+    "score": 1.4923765030181388
+  },
+  {
+    "keyword": "tumor",
+    "score": 1.4890619657742057
+  },
+  {
+    "keyword": "spring",
+    "score": 1.488193787751565
+  },
+  {
+    "keyword": "yet",
+    "score": 1.4875591207547194
+  },
+  {
+    "keyword": "greg",
+    "score": 1.4765748787023258
+  },
+  {
+    "keyword": "listen",
+    "score": 1.4718327678963672
+  },
+  {
+    "keyword": "chemical",
+    "score": 1.4378492534227434
+  },
+  {
+    "keyword": "www com",
+    "score": 1.4306940816545015
+  },
+  {
+    "keyword": "death",
+    "score": 1.4052424831188801
+  },
+  {
+    "keyword": "life",
+    "score": 1.3995341933297953
+  },
+  {
+    "keyword": "move",
+    "score": 1.3937219173292053
+  },
+  {
+    "keyword": "wires",
+    "score": 1.3836513230327372
+  },
+  {
+    "keyword": "another",
+    "score": 1.3808215149132612
+  },
+  {
+    "keyword": "took",
+    "score": 1.3713724978473278
+  },
+  {
+    "keyword": "next",
+    "score": 1.3635536651786808
+  },
+  {
+    "keyword": "scientific",
+    "score": 1.3597084433011946
+  },
+  {
+    "keyword": "thinking",
+    "score": 1.3423971286665253
+  },
+  {
+    "keyword": "also",
+    "score": 1.3423971286665253
+  },
+  {
+    "keyword": "least",
+    "score": 1.3337736873297397
+  },
+  {
+    "keyword": "try",
+    "score": 1.333573260044222
+  },
+  {
+    "keyword": "guess",
+    "score": 1.3208064187451627
+  },
+  {
+    "keyword": "seen",
+    "score": 1.3208064187451627
+  },
+  {
+    "keyword": "samples",
+    "score": 1.2989347561993687
+  },
+  {
+    "keyword": "start",
+    "score": 1.2793569184360332
+  },
+  {
+    "keyword": "hours",
+    "score": 1.278846916448668
+  },
+  {
+    "keyword": "working",
+    "score": 1.278846916448668
+  },
+  {
+    "keyword": "many",
+    "score": 1.2700648119160827
+  },
+  {
+    "keyword": "whole",
+    "score": 1.2657748128126587
+  },
+  {
+    "keyword": "check",
+    "score": 1.2587458492430583
+  },
+  {
+    "keyword": "director",
+    "score": 1.255547202729056
+  },
+  {
+    "keyword": "sample",
+    "score": 1.2468682331314787
+  },
+  {
+    "keyword": "toad",
+    "score": 1.2460896265531745
+  },
+  {
+    "keyword": "probably",
+    "score": 1.239240599900857
+  },
+  {
+    "keyword": "went",
+    "score": 1.2099388725765996
+  },
+  {
+    "keyword": "nice",
+    "score": 1.2070024182269703
+  },
+  {
+    "keyword": "saying",
+    "score": 1.199518558698766
+  },
+  {
+    "keyword": "missing",
+    "score": 1.1802258645376258
+  },
+  {
+    "keyword": "vaughn",
+    "score": 1.1734702459392432
+  },
+  {
+    "keyword": "talk",
+    "score": 1.16867171707297
+  },
+  {
+    "keyword": "somebody",
+    "score": 1.1682151736980155
+  },
+  {
+    "keyword": "flu",
+    "score": 1.1573700514637635
+  },
+  {
+    "keyword": "dobbs",
+    "score": 1.1559658236953816
+  },
+  {
+    "keyword": "wife",
+    "score": 1.149310975376242
+  },
+  {
+    "keyword": "reeves",
+    "score": 1.1462962152167362
+  },
+  {
+    "keyword": "bubbles",
+    "score": 1.1455081896508146
+  },
+  {
+    "keyword": "sure",
+    "score": 1.1322061310447231
+  },
+  {
+    "keyword": "means",
+    "score": 1.1307697484381807
+  },
+  {
+    "keyword": "five",
+    "score": 1.1272194693776247
+  },
+  {
+    "keyword": "leave",
+    "score": 1.1170252874250466
+  },
+  {
+    "keyword": "testing",
+    "score": 1.1118945608373596
+  },
+  {
+    "keyword": "far",
+    "score": 1.0575825795130458
+  },
+  {
+    "keyword": "may",
+    "score": 1.0531324306523309
+  },
+  {
+    "keyword": "makes",
+    "score": 1.046719886243012
+  },
+  {
+    "keyword": "mrs",
+    "score": 1.0412468737472593
+  },
+  {
+    "keyword": "already",
+    "score": 1.0317845984265095
+  },
+  {
+    "keyword": "com presents",
+    "score": 1.030827029189236
+  },
+  {
+    "keyword": "nash",
+    "score": 1.030827029189236
+  },
+  {
+    "keyword": "ray",
+    "score": 1.022177635020941
+  },
+  {
+    "keyword": "always",
+    "score": 1.0221088258989095
+  },
+  {
+    "keyword": "stuff",
+    "score": 1.0150881360682418
+  }
+]

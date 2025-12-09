@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "millman",
+    "score": 119.89353022897016
+  },
+  {
+    "keyword": "fais",
+    "score": 22.72431190368561
+  },
+  {
+    "keyword": "kemp",
+    "score": 22.564041088693433
+  },
+  {
+    "keyword": "merci",
+    "score": 22.362186737574245
+  },
+  {
+    "keyword": "bbc",
+    "score": 20.76168785427443
+  },
+  {
+    "keyword": "salut",
+    "score": 17.766770387827044
+  },
+  {
+    "keyword": "peu",
+    "score": 16.873848694235303
+  },
+  {
+    "keyword": "vraiment",
+    "score": 13.650218716956285
+  },
+  {
+    "keyword": "andy",
+    "score": 13.19959740892885
+  },
+  {
+    "keyword": "voir",
+    "score": 12.99914731821899
+  },
+  {
+    "keyword": "acteur",
+    "score": 11.092813716547804
+  },
+  {
+    "keyword": "replique",
+    "score": 10.251296346823674
+  },
+  {
+    "keyword": "vrai",
+    "score": 9.703466078686098
+  },
+  {
+    "keyword": "bon",
+    "score": 8.429935273192136
+  },
+  {
+    "keyword": "faut",
+    "score": 8.308090824054023
+  },
+  {
+    "keyword": "parce",
+    "score": 8.044838315496117
+  },
+  {
+    "keyword": "gens",
+    "score": 6.687587561332495
+  },
+  {
+    "keyword": "regarde",
+    "score": 6.6331347952463355
+  },
+  {
+    "keyword": "maggie",
+    "score": 6.473110859249734
+  },
+  {
+    "keyword": "crois",
+    "score": 6.21595158978069
+  },
+  {
+    "keyword": "juste",
+    "score": 5.928385116369808
+  },
+  {
+    "keyword": "deux",
+    "score": 5.653836053329828
+  },
+  {
+    "keyword": "niro",
+    "score": 5.550041038239955
+  },
+  {
+    "keyword": "ans",
+    "score": 5.049443673784372
+  },
+  {
+    "keyword": "maintenant",
+    "score": 4.905128944316095
+  },
+  {
+    "keyword": "vois",
+    "score": 4.800996371144366
+  },
+  {
+    "keyword": "bonne",
+    "score": 4.768035324849675
+  },
+  {
+    "keyword": "sas",
+    "score": 4.744837455368361
+  },
+  {
+    "keyword": "monde",
+    "score": 4.5848447726092045
+  },
+  {
+    "keyword": "petit",
+    "score": 4.5821592224485155
+  },
+  {
+    "keyword": "vinnie",
+    "score": 4.57281825615359
+  },
+  {
+    "keyword": "fois",
+    "score": 4.306067072844366
+  },
+  {
+    "keyword": "temps",
+    "score": 3.9597966403359273
+  },
+  {
+    "keyword": "desole",
+    "score": 3.919995946379356
+  },
+  {
+    "keyword": "barry",
+    "score": 3.774784319270391
+  },
+  {
+    "keyword": "dis",
+    "score": 3.74801559924453
+  },
+  {
+    "keyword": "joue",
+    "score": 3.727642374281404
+  },
+  {
+    "keyword": "gros",
+    "score": 3.6614347013562805
+  },
+  {
+    "keyword": "parle",
+    "score": 3.6081582611965746
+  },
+  {
+    "keyword": "personne",
+    "score": 3.5437118786861967
+  },
+  {
+    "keyword": "relec",
+    "score": 3.5053817892087435
+  },
+  {
+    "keyword": "soir",
+    "score": 3.486543046617647
+  },
+  {
+    "keyword": "repliques",
+    "score": 3.468496011492108
+  },
+  {
+    "keyword": "culte",
+    "score": 3.4673312694413125
+  },
+  {
+    "keyword": "parler",
+    "score": 3.4219897377318556
+  },
+  {
+    "keyword": "rire",
+    "score": 3.4056648325847894
+  },
+  {
+    "keyword": "ross",
+    "score": 3.308367332687809
+  },
+  {
+    "keyword": "hein",
+    "score": 3.196635933853587
+  },
+  {
+    "keyword": "drole",
+    "score": 3.154315820704342
+  },
+  {
+    "keyword": "corbett",
+    "score": 3.1252218705132204
+  },
+  {
+    "keyword": "accord",
+    "score": 3.037156686858416
+  },
+  {
+    "keyword": "connais",
+    "score": 3.018722837494315
+  },
+  {
+    "keyword": "quelqu",
+    "score": 2.9541227017272673
+  },
+  {
+    "keyword": "dieu",
+    "score": 2.875813952446102
+  },
+  {
+    "keyword": "femme",
+    "score": 2.8688345119299035
+  },
+  {
+    "keyword": "aime",
+    "score": 2.8444664299821243
+  },
+  {
+    "keyword": "vie",
+    "score": 2.79000783868421
+  },
+  {
+    "keyword": "trouve",
+    "score": 2.77664398766336
+  },
+  {
+    "keyword": "probleme",
+    "score": 2.751130973082203
+  },
+  {
+    "keyword": "viens",
+    "score": 2.731712000993826
+  },
+  {
+    "keyword": "bonjour",
+    "score": 2.685531099606723
+  },
+  {
+    "keyword": "tard",
+    "score": 2.6389065609128823
+  },
+  {
+    "keyword": "demande",
+    "score": 2.581094056267604
+  },
+  {
+    "keyword": "assez",
+    "score": 2.558473333322889
+  },
+  {
+    "keyword": "fait rire",
+    "score": 2.548000251568592
+  },
+  {
+    "keyword": "ouais",
+    "score": 2.5341032851900214
+  },
+  {
+    "keyword": "shaun",
+    "score": 2.5246959492708374
+  },
+  {
+    "keyword": "plus tard",
+    "score": 2.517071810398819
+  },
+  {
+    "keyword": "beaucoup",
+    "score": 2.4765968950006476
+  },
+  {
+    "keyword": "voulais",
+    "score": 2.452372273778735
+  },
+  {
+    "keyword": "peut etre",
+    "score": 2.412687690950062
+  },
+  {
+    "keyword": "passe",
+    "score": 2.397561164455321
+  },
+  {
+    "keyword": "besoin",
+    "score": 2.373765074733047
+  },
+  {
+    "keyword": "sitcom",
+    "score": 2.2934470709151387
+  },
+  {
+    "keyword": "serie",
+    "score": 2.1557525573800373
+  },
+  {
+    "keyword": "super",
+    "score": 2.155289797420828
+  },
+  {
+    "keyword": "perruque",
+    "score": 2.100860630690379
+  },
+  {
+    "keyword": "pense",
+    "score": 2.0439179699648897
+  },
+  {
+    "keyword": "damon",
+    "score": 2.020207065336458
+  },
+  {
+    "keyword": "aimerais",
+    "score": 2.0171523128278546
+  },
+  {
+    "keyword": "darren",
+    "score": 1.9663939632444676
+  },
+  {
+    "keyword": "quelque chose",
+    "score": 1.952094231075013
+  },
+  {
+    "keyword": "venir",
+    "score": 1.8591321989561502
+  },
+  {
+    "keyword": "mieux",
+    "score": 1.8591321989561502
+  },
+  {
+    "keyword": "comedie",
+    "score": 1.8588868751405456
+  },
+  {
+    "keyword": "tout monde",
+    "score": 1.8280871132975334
+  },
+  {
+    "keyword": "attends",
+    "score": 1.7999413019063708
+  },
+  {
+    "keyword": "clive",
+    "score": 1.7770552365295438
+  },
+  {
+    "keyword": "entre",
+    "score": 1.7696674819155536
+  },
+  {
+    "keyword": "homme",
+    "score": 1.7696674819155536
+  },
+  {
+    "keyword": "faites",
+    "score": 1.7662824531050203
+  },
+  {
+    "keyword": "dennis",
+    "score": 1.7488237058605396
+  },
+  {
+    "keyword": "plait",
+    "score": 1.74240548463294
+  },
+  {
+    "keyword": "stokes",
+    "score": 1.7347250709312347
+  },
+  {
+    "keyword": "genial",
+    "score": 1.7251706972049161
+  },
+  {
+    "keyword": "film",
+    "score": 1.6890855457915905
+  },
+  {
+    "keyword": "amis",
+    "score": 1.6884592843579844
+  },
+  {
+    "keyword": "rires",
+    "score": 1.6824032986273416
+  },
+  {
+    "keyword": "tele",
+    "score": 1.659595776273546
+  },
+  {
+    "keyword": "truc",
+    "score": 1.6493561208437393
+  },
+  {
+    "keyword": "bas",
+    "score": 1.6287297867910855
+  },
+  {
+    "keyword": "fille",
+    "score": 1.537850452718267
+  },
+  {
+    "keyword": "raciste",
+    "score": 1.5325046864495215
+  },
+  {
+    "keyword": "appelle",
+    "score": 1.4888521316315704
+  },
+  {
+    "keyword": "boulot",
+    "score": 1.466988259373331
+  },
+  {
+    "keyword": "tete",
+    "score": 1.441690870245296
+  },
+  {
+    "keyword": "coupez",
+    "score": 1.4284125284937268
+  },
+  {
+    "keyword": "depuis",
+    "score": 1.4196743101480631
+  },
+  {
+    "keyword": "arrete",
+    "score": 1.4196743101480631
+  },
+  {
+    "keyword": "nom",
+    "score": 1.3827422419669813
+  },
+  {
+    "keyword": "trucs",
+    "score": 1.3671726986636596
+  },
+  {
+    "keyword": "dur",
+    "score": 1.3603903206576164
+  },
+  {
+    "keyword": "fous",
+    "score": 1.3603903206576164
+  },
+  {
+    "keyword": "rigole",
+    "score": 1.3593337305906266
+  },
+  {
+    "keyword": "mec",
+    "score": 1.3446907381011428
+  },
+  {
+    "keyword": "acteurs",
+    "score": 1.3230655641729854
+  },
+  {
+    "keyword": "argent",
+    "score": 1.2745750939035476
+  },
+  {
+    "keyword": "pedes",
+    "score": 1.2654008072341008
+  },
+  {
+    "keyword": "importe",
+    "score": 1.2590821613644896
+  },
+  {
+    "keyword": "personnage",
+    "score": 1.2587580817657227
+  },
+  {
+    "keyword": "revoir",
+    "score": 1.24652681336938
+  },
+  {
+    "keyword": "jouer",
+    "score": 1.2416908657307737
+  },
+  {
+    "keyword": "merde",
+    "score": 1.2387075425290779
+  },
+  {
+    "keyword": "puis",
+    "score": 1.2387075425290779
+  },
+  {
+    "keyword": "rigolez",
+    "score": 1.2180693201130803
+  },
+  {
+    "keyword": "plaisir",
+    "score": 1.2015164777048757
+  },
+  {
+    "keyword": "plein",
+    "score": 1.1820126681693122
+  },
+  {
+    "keyword": "ecoute",
+    "score": 1.1820126681693122
+  },
+  {
+    "keyword": "the",
+    "score": 1.1630109544748295
+  },
+  {
+    "keyword": "catholique",
+    "score": 1.152341733675777
+  },
+  {
+    "keyword": "feuilleton",
+    "score": 1.1447164846558653
+  },
+  {
+    "keyword": "adore",
+    "score": 1.1260119183230695
+  },
+  {
+    "keyword": "oscar",
+    "score": 1.1190552695694056
+  },
+  {
+    "keyword": "jour",
+    "score": 1.116977443231836
+  },
+  {
+    "keyword": "bowie",
+    "score": 1.1034956110184195
+  },
+  {
+    "keyword": "actrice",
+    "score": 1.097819788889424
+  },
+  {
+    "keyword": "pere",
+    "score": 1.0891988178293521
+  },
+  {
+    "keyword": "celui",
+    "score": 1.0891988178293521
+  },
+  {
+    "keyword": "ami",
+    "score": 1.0865537007007358
+  },
+  {
+    "keyword": "seul",
+    "score": 1.0344028323416798
+  },
+  {
+    "keyword": "prends",
+    "score": 1.0344028323416798
+  },
+  {
+    "keyword": "amie",
+    "score": 0.9960189581062021
+  },
+  {
+    "keyword": "pensais",
+    "score": 0.9960189581062021
+  },
+  {
+    "keyword": "celle",
+    "score": 0.979799673337954
+  },
+  {
+    "keyword": "surement",
+    "score": 0.979799673337954
+  },
+  {
+    "keyword": "gay",
+    "score": 0.9696976398023563
+  },
+  {
+    "keyword": "enfin",
+    "score": 0.9638949175011515
+  },
+  {
+    "keyword": "celebre",
+    "score": 0.954179945631556
+  },
+  {
+    "keyword": "reste",
+    "score": 0.948297054117722
+  },
+  {
+    "keyword": "pourrais",
+    "score": 0.948297054117722
+  },
+  {
+    "keyword": "laisse",
+    "score": 0.948297054117722
+  },
+  {
+    "keyword": "coup",
+    "score": 0.9355217441041028
+  },
+  {
+    "keyword": "dirait",
+    "score": 0.9103858727948344
+  },
+  {
+    "keyword": "fran",
+    "score": 0.9058600108378065
+  },
+  {
+    "keyword": "can",
+    "score": 0.9058600108378065
+  },
+  {
+    "keyword": "rigoles",
+    "score": 0.887339320714667
+  },
+  {
+    "keyword": "oui bien",
+    "score": 0.8859640957470862
+  },
+  {
+    "keyword": "savoir",
+    "score": 0.8811150531828728
+  },
+  {
+    "keyword": "you",
+    "score": 0.8769503635399987
+  },
+  {
+    "keyword": "tres bien",
+    "score": 0.8669004894054255
+  },
+  {
+    "keyword": "combien",
+    "score": 0.8669004894054255
+  },
+  {
+    "keyword": "depp",
+    "score": 0.8643156058305336
+  },
+  {
+    "keyword": "nichons",
+    "score": 0.8586069433535065
+  },
+  {
+    "keyword": "perdu",
+    "score": 0.843248115992471
+  },
+  {
+    "keyword": "veux faire",
+    "score": 0.8315106318294153
+  },
+  {
+    "keyword": "absolument",
+    "score": 0.8295599552799723
+  },
+  {
+    "keyword": "vient",
+    "score": 0.8295599552799723
+  },
+  {
+    "keyword": "celebrite",
+    "score": 0.8263570955901562
+  },
+  {
+    "keyword": "script",
+    "score": 0.8181008627933279
+  },
+  {
+    "keyword": "pourrait",
+    "score": 0.8161359163978442
+  },
+  {
+    "keyword": "byron",
+    "score": 0.8009685182701134
+  },
+  {
+    "keyword": "premier",
+    "score": 0.793471170955968
+  },
+  {
+    "keyword": "trouves drole",
+    "score": 0.7917009472051307
+  },
+  {
+    "keyword": "celebrites",
+    "score": 0.7493722473368313
+  },
+  {
+    "keyword": "homo",
+    "score": 0.7485354891513816
+  },
+  {
+    "keyword": "lunettes",
+    "score": 0.7381156268213931
+  },
+  {
+    "keyword": "petite",
+    "score": 0.7348419777037476
+  },
+  {
+    "keyword": "desolee",
+    "score": 0.7158796304613738
+  },
+  {
+    "keyword": "devant",
+    "score": 0.7158796304613738
+  },
+  {
+    "keyword": "devrais",
+    "score": 0.7158796304613738
+  },
+  {
+    "keyword": "numero",
+    "score": 0.7046502154242229
+  },
+  {
+    "keyword": "sortir",
+    "score": 0.7042589991824928
+  },
+  {
+    "keyword": "voit",
+    "score": 0.7042589991824928
+  },
+  {
+    "keyword": "jours",
+    "score": 0.7042589991824928
+  },
+  {
+    "keyword": "phrases",
+    "score": 0.7020171672203688
+  },
+  {
+    "keyword": "parles",
+    "score": 0.6928625954289828
+  },
+  {
+    "keyword": "dedans",
+    "score": 0.6928625954289828
+  },
+  {
+    "keyword": "ridley",
+    "score": 0.6905539963614652
+  },
+  {
+    "keyword": "enchante",
+    "score": 0.6828353602860967
+  },
+  {
+    "keyword": "entrer",
+    "score": 0.6665451633450211
+  },
+  {
+    "keyword": "honte",
+    "score": 0.663014612341184
+  },
+  {
+    "keyword": "keith",
+    "score": 0.662397590405605
+  },
+  {
+    "keyword": "pendant",
+    "score": 0.6620604116467934
+  },
+  {
+    "keyword": "trouves",
+    "score": 0.6602966348785022
+  },
+  {
+    "keyword": "travaille",
+    "score": 0.6556910669172312
+  },
+  {
+    "keyword": "acheter",
+    "score": 0.6493649471263502
+  },
+  {
+    "keyword": "critiques",
+    "score": 0.6462002207715368
+  },
+  {
+    "keyword": "foutre",
+    "score": 0.640865279495642
+  },
+  {
+    "keyword": "boire",
+    "score": 0.6386508033214838
+  },
+  {
+    "keyword": "roles",
+    "score": 0.6385461065227171
+  }
+]

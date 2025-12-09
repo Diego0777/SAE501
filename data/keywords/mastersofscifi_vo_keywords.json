@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "jerry",
+    "score": 45.801717657447554
+  },
+  {
+    "keyword": "deanna",
+    "score": 15.049942529677411
+  },
+  {
+    "keyword": "pegasus",
+    "score": 8.88564740739563
+  },
+  {
+    "keyword": "sir",
+    "score": 7.01189510142436
+  },
+  {
+    "keyword": "brownie",
+    "score": 6.766832244818095
+  },
+  {
+    "keyword": "work",
+    "score": 4.901404291703826
+  },
+  {
+    "keyword": "candy",
+    "score": 4.682519591469907
+  },
+  {
+    "keyword": "martha",
+    "score": 4.047969310950464
+  },
+  {
+    "keyword": "joe",
+    "score": 3.4367996315111218
+  },
+  {
+    "keyword": "hear",
+    "score": 3.0871100686471937
+  },
+  {
+    "keyword": "even",
+    "score": 2.673983344048101
+  },
+  {
+    "keyword": "earth",
+    "score": 2.5190388593790263
+  },
+  {
+    "keyword": "world",
+    "score": 2.512588451576058
+  },
+  {
+    "keyword": "god",
+    "score": 2.471807411003398
+  },
+  {
+    "keyword": "little",
+    "score": 2.4427644662982098
+  },
+  {
+    "keyword": "genetics",
+    "score": 2.3719690678140917
+  },
+  {
+    "keyword": "ever",
+    "score": 2.362415374924466
+  },
+  {
+    "keyword": "really",
+    "score": 2.325069188497955
+  },
+  {
+    "keyword": "walk",
+    "score": 2.309098632600658
+  },
+  {
+    "keyword": "never",
+    "score": 2.273256989398858
+  },
+  {
+    "keyword": "home",
+    "score": 2.262798833938886
+  },
+  {
+    "keyword": "much",
+    "score": 2.2380584119211875
+  },
+  {
+    "keyword": "say",
+    "score": 2.1824350540621986
+  },
+  {
+    "keyword": "said",
+    "score": 2.120012250474001
+  },
+  {
+    "keyword": "please",
+    "score": 2.053782050852876
+  },
+  {
+    "keyword": "something",
+    "score": 1.9589137379753614
+  },
+  {
+    "keyword": "saying",
+    "score": 1.9420100414145998
+  },
+  {
+    "keyword": "mccoy",
+    "score": 1.7553378648064968
+  },
+  {
+    "keyword": "vogel",
+    "score": 1.7553378648064968
+  },
+  {
+    "keyword": "bert",
+    "score": 1.7083733120715854
+  },
+  {
+    "keyword": "harmony",
+    "score": 1.6979156175753947
+  },
+  {
+    "keyword": "mean",
+    "score": 1.6323655655790053
+  },
+  {
+    "keyword": "briggs",
+    "score": 1.543007614459159
+  },
+  {
+    "keyword": "company",
+    "score": 1.5314277153759843
+  },
+  {
+    "keyword": "first",
+    "score": 1.4316930370510546
+  },
+  {
+    "keyword": "believe",
+    "score": 1.4302312918342526
+  },
+  {
+    "keyword": "years",
+    "score": 1.34719987281294
+  },
+  {
+    "keyword": "benj",
+    "score": 1.3191470608163574
+  },
+  {
+    "keyword": "hours",
+    "score": 1.3044019007900327
+  },
+  {
+    "keyword": "horse",
+    "score": 1.2871292838974673
+  },
+  {
+    "keyword": "listen",
+    "score": 1.283606537387385
+  },
+  {
+    "keyword": "asking",
+    "score": 1.2791692857447103
+  },
+  {
+    "keyword": "vessel",
+    "score": 1.2545735907670001
+  },
+  {
+    "keyword": "lease",
+    "score": 1.2477288971069205
+  },
+  {
+    "keyword": "old",
+    "score": 1.2315744742734551
+  },
+  {
+    "keyword": "understand",
+    "score": 1.2178809002752315
+  },
+  {
+    "keyword": "evans",
+    "score": 1.2118067960111785
+  },
+  {
+    "keyword": "honor",
+    "score": 1.1989305600299849
+  },
+  {
+    "keyword": "always",
+    "score": 1.1667130179285234
+  },
+  {
+    "keyword": "president",
+    "score": 1.134568649092477
+  },
+  {
+    "keyword": "give",
+    "score": 1.1305487508809544
+  },
+  {
+    "keyword": "may",
+    "score": 1.127878303955131
+  },
+  {
+    "keyword": "made",
+    "score": 1.1130527222071283
+  },
+  {
+    "keyword": "ship",
+    "score": 1.1005322194711047
+  },
+  {
+    "keyword": "sickness",
+    "score": 1.0947983719489502
+  },
+  {
+    "keyword": "put",
+    "score": 1.0901063121056487
+  },
+  {
+    "keyword": "way",
+    "score": 1.0775986454161535
+  },
+  {
+    "keyword": "major",
+    "score": 1.0315405191917273
+  },
+  {
+    "keyword": "move",
+    "score": 1.0207697978330617
+  },
+  {
+    "keyword": "elephant",
+    "score": 0.9757188759845956
+  },
+  {
+    "keyword": "napoleon",
+    "score": 0.975174350146791
+  },
+  {
+    "keyword": "nothing",
+    "score": 0.9739704657637663
+  },
+  {
+    "keyword": "thought",
+    "score": 0.9725852949572311
+  },
+  {
+    "keyword": "call",
+    "score": 0.9670571789251299
+  },
+  {
+    "keyword": "send",
+    "score": 0.9626984283655217
+  },
+  {
+    "keyword": "niles",
+    "score": 0.9318941729048087
+  },
+  {
+    "keyword": "day",
+    "score": 0.9171767168062441
+  },
+  {
+    "keyword": "remember",
+    "score": 0.9124451701701507
+  },
+  {
+    "keyword": "poop",
+    "score": 0.8852926110677722
+  },
+  {
+    "keyword": "www swsub",
+    "score": 0.8827113320016231
+  },
+  {
+    "keyword": "life",
+    "score": 0.859292387674589
+  },
+  {
+    "keyword": "captain",
+    "score": 0.8566138129656804
+  },
+  {
+    "keyword": "weapons",
+    "score": 0.8516225864023443
+  },
+  {
+    "keyword": "yes sir",
+    "score": 0.8500600403876984
+  },
+  {
+    "keyword": "except",
+    "score": 0.8382264884841323
+  },
+  {
+    "keyword": "democracy",
+    "score": 0.8346567688070048
+  },
+  {
+    "keyword": "blood",
+    "score": 0.8343144755191376
+  },
+  {
+    "keyword": "feel",
+    "score": 0.830194873802243
+  },
+  {
+    "keyword": "annie",
+    "score": 0.7920137433342941
+  },
+  {
+    "keyword": "another",
+    "score": 0.7801666241578874
+  },
+  {
+    "keyword": "money",
+    "score": 0.7801348431484136
+  },
+  {
+    "keyword": "wanna home",
+    "score": 0.7664556527373411
+  },
+  {
+    "keyword": "controlled",
+    "score": 0.7627349514155521
+  },
+  {
+    "keyword": "told",
+    "score": 0.759463288469598
+  },
+  {
+    "keyword": "wife",
+    "score": 0.759463288469598
+  },
+  {
+    "keyword": "still",
+    "score": 0.7324292226170998
+  },
+  {
+    "keyword": "doctor",
+    "score": 0.7234039484855737
+  },
+  {
+    "keyword": "boom",
+    "score": 0.7223671491292823
+  },
+  {
+    "keyword": "morning",
+    "score": 0.7210320786378451
+  },
+  {
+    "keyword": "garbage",
+    "score": 0.7077853056041805
+  },
+  {
+    "keyword": "talk",
+    "score": 0.7006413952910585
+  },
+  {
+    "keyword": "done",
+    "score": 0.7004892197643244
+  },
+  {
+    "keyword": "nuclear",
+    "score": 0.6963447811526738
+  },
+  {
+    "keyword": "spark",
+    "score": 0.6963447811526738
+  },
+  {
+    "keyword": "likes",
+    "score": 0.6934224493160493
+  },
+  {
+    "keyword": "com sync",
+    "score": 0.6876331101848328
+  },
+  {
+    "keyword": "matter",
+    "score": 0.6784256637488596
+  },
+  {
+    "keyword": "care",
+    "score": 0.6677007880204732
+  },
+  {
+    "keyword": "hell",
+    "score": 0.6670375238586049
+  },
+  {
+    "keyword": "great",
+    "score": 0.6568067534476456
+  },
+  {
+    "keyword": "last",
+    "score": 0.6368810151141286
+  },
+  {
+    "keyword": "real",
+    "score": 0.6368810151141286
+  },
+  {
+    "keyword": "field",
+    "score": 0.6366981374846209
+  },
+  {
+    "keyword": "actually",
+    "score": 0.6282656309377405
+  },
+  {
+    "keyword": "happened",
+    "score": 0.6282656309377405
+  },
+  {
+    "keyword": "lost",
+    "score": 0.62717844296093
+  },
+  {
+    "keyword": "idea",
+    "score": 0.6181301533427513
+  },
+  {
+    "keyword": "many",
+    "score": 0.6181301533427513
+  },
+  {
+    "keyword": "alone",
+    "score": 0.6073621916839741
+  },
+  {
+    "keyword": "dorothy",
+    "score": 0.5898376328201073
+  },
+  {
+    "keyword": "anyone",
+    "score": 0.5794793616781071
+  },
+  {
+    "keyword": "wait",
+    "score": 0.5794793616781071
+  },
+  {
+    "keyword": "sad",
+    "score": 0.5703595741678463
+  },
+  {
+    "keyword": "universe",
+    "score": 0.5672941677614306
+  },
+  {
+    "keyword": "infinite",
+    "score": 0.5616525829486264
+  },
+  {
+    "keyword": "kind",
+    "score": 0.5612272958426152
+  },
+  {
+    "keyword": "even know",
+    "score": 0.5609489730487695
+  },
+  {
+    "keyword": "missy",
+    "score": 0.5608727671036726
+  },
+  {
+    "keyword": "come sam",
+    "score": 0.553044435459562
+  },
+  {
+    "keyword": "expedition",
+    "score": 0.549347819439893
+  },
+  {
+    "keyword": "hope",
+    "score": 0.547035412759562
+  },
+  {
+    "keyword": "everything",
+    "score": 0.5436470688154111
+  },
+  {
+    "keyword": "keep",
+    "score": 0.5350993079196797
+  },
+  {
+    "keyword": "friend",
+    "score": 0.5267082203140258
+  },
+  {
+    "keyword": "name",
+    "score": 0.5267082203140258
+  },
+  {
+    "keyword": "sharon",
+    "score": 0.5166103257811242
+  },
+  {
+    "keyword": "wants",
+    "score": 0.5165995825485604
+  },
+  {
+    "keyword": "targeting",
+    "score": 0.5120504193824895
+  },
+  {
+    "keyword": "around",
+    "score": 0.5024400736143496
+  },
+  {
+    "keyword": "freaks",
+    "score": 0.4962088276418062
+  },
+  {
+    "keyword": "passenger",
+    "score": 0.48764855889509306
+  },
+  {
+    "keyword": "began",
+    "score": 0.48640539421629575
+  },
+  {
+    "keyword": "buy",
+    "score": 0.484108659863818
+  },
+  {
+    "keyword": "kill",
+    "score": 0.47946026998463714
+  },
+  {
+    "keyword": "foolish",
+    "score": 0.46600041306479995
+  },
+  {
+    "keyword": "children",
+    "score": 0.46132180856176375
+  },
+  {
+    "keyword": "prove",
+    "score": 0.45605106460767797
+  },
+  {
+    "keyword": "biological",
+    "score": 0.4556713733219467
+  },
+  {
+    "keyword": "terrifying",
+    "score": 0.4556713733219467
+  },
+  {
+    "keyword": "save",
+    "score": 0.4540087728056288
+  },
+  {
+    "keyword": "whole",
+    "score": 0.4468315860803635
+  },
+  {
+    "keyword": "ambassador",
+    "score": 0.44420971761565253
+  },
+  {
+    "keyword": "graft",
+    "score": 0.44311257711928376
+  },
+  {
+    "keyword": "less",
+    "score": 0.43384729000019223
+  },
+  {
+    "keyword": "rember",
+    "score": 0.43224875024980897
+  },
+  {
+    "keyword": "worldwide",
+    "score": 0.43224875024980897
+  },
+  {
+    "keyword": "comin",
+    "score": 0.426504664495642
+  },
+  {
+    "keyword": "anything",
+    "score": 0.4260843235936742
+  },
+  {
+    "keyword": "truth",
+    "score": 0.4260843235936742
+  },
+  {
+    "keyword": "sightings",
+    "score": 0.4254557874098132
+  },
+  {
+    "keyword": "dog",
+    "score": 0.42511126743059846
+  },
+  {
+    "keyword": "baby",
+    "score": 0.41443546611840293
+  },
+  {
+    "keyword": "yet",
+    "score": 0.4129297244405907
+  },
+  {
+    "keyword": "already",
+    "score": 0.40622677625260895
+  },
+  {
+    "keyword": "nation",
+    "score": 0.40622677625260895
+  },
+  {
+    "keyword": "somebody",
+    "score": 0.40622677625260895
+  },
+  {
+    "keyword": "launch",
+    "score": 0.3998210499198374
+  },
+  {
+    "keyword": "gone",
+    "score": 0.39394778522533974
+  },
+  {
+    "keyword": "called",
+    "score": 0.3932057723047157
+  },
+  {
+    "keyword": "talking",
+    "score": 0.3932057723047157
+  },
+  {
+    "keyword": "thank",
+    "score": 0.3932057723047157
+  },
+  {
+    "keyword": "united states",
+    "score": 0.3832718581791706
+  },
+  {
+    "keyword": "three",
+    "score": 0.38188602065425753
+  },
+  {
+    "keyword": "ask",
+    "score": 0.38067762130636984
+  },
+  {
+    "keyword": "making",
+    "score": 0.38067762130636984
+  },
+  {
+    "keyword": "took",
+    "score": 0.38067762130636984
+  },
+  {
+    "keyword": "enzymes",
+    "score": 0.3788255146897308
+  },
+  {
+    "keyword": "course",
+    "score": 0.37619996237539055
+  },
+  {
+    "keyword": "family",
+    "score": 0.3760152067209773
+  },
+  {
+    "keyword": "food",
+    "score": 0.37419996668127686
+  },
+  {
+    "keyword": "disarm",
+    "score": 0.3650915854894118
+  },
+  {
+    "keyword": "mutation",
+    "score": 0.3602816549841941
+  },
+  {
+    "keyword": "demands",
+    "score": 0.36012603510913804
+  },
+  {
+    "keyword": "sam",
+    "score": 0.3580929597251462
+  },
+  {
+    "keyword": "lieutenant",
+    "score": 0.357008651182751
+  },
+  {
+    "keyword": "objection",
+    "score": 0.3523705644746203
+  },
+  {
+    "keyword": "russia",
+    "score": 0.3514331717048548
+  },
+  {
+    "keyword": "war",
+    "score": 0.35136488853860787
+  },
+  {
+    "keyword": "turn",
+    "score": 0.34582549386848394
+  },
+  {
+    "keyword": "cost",
+    "score": 0.34554869133792615
+  },
+  {
+    "keyword": "join",
+    "score": 0.34554869133792615
+  },
+  {
+    "keyword": "good lord",
+    "score": 0.34289086464258556
+  },
+  {
+    "keyword": "find",
+    "score": 0.3403880808798015
+  },
+  {
+    "keyword": "protect",
+    "score": 0.33982788314758
+  },
+  {
+    "keyword": "imagined",
+    "score": 0.3388032675462343
+  },
+  {
+    "keyword": "puppy",
+    "score": 0.3388032675462343
+  },
+  {
+    "keyword": "better",
+    "score": 0.33505033111203025
+  },
+  {
+    "keyword": "spend",
+    "score": 0.33422092079912114
+  },
+  {
+    "keyword": "workers",
+    "score": 0.3320675689774198
+  },
+  {
+    "keyword": "left",
+    "score": 0.32980999159371444
+  },
+  {
+    "keyword": "wonderful",
+    "score": 0.3287249497576291
+  },
+  {
+    "keyword": "cities",
+    "score": 0.3266673119902367
+  },
+  {
+    "keyword": "always said",
+    "score": 0.325507020023238
+  },
+  {
+    "keyword": "swsub",
+    "score": 0.325507020023238
+  },
+  {
+    "keyword": "swsub com",
+    "score": 0.325507020023238
+  },
+  {
+    "keyword": "cannot",
+    "score": 0.32333720527283966
+  },
+  {
+    "keyword": "gave",
+    "score": 0.32265751079238353
+  },
+  {
+    "keyword": "divine",
+    "score": 0.3180550089350689
+  },
+  {
+    "keyword": "exactly",
+    "score": 0.3180550089350689
+  },
+  {
+    "keyword": "stupid",
+    "score": 0.3180550089350689
+  }
+]

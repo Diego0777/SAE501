@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "jerry",
+    "score": 39.891101666074334
+  },
+  {
+    "keyword": "deanna",
+    "score": 20.88134185184107
+  },
+  {
+    "keyword": "cela",
+    "score": 14.184586036212606
+  },
+  {
+    "keyword": "vaisseau",
+    "score": 11.086171608745518
+  },
+  {
+    "keyword": "pegase",
+    "score": 8.572526292180852
+  },
+  {
+    "keyword": "monsieur",
+    "score": 7.471607365622854
+  },
+  {
+    "keyword": "bonbon",
+    "score": 6.793784479221981
+  },
+  {
+    "keyword": "maintenant",
+    "score": 6.611883377401462
+  },
+  {
+    "keyword": "brownie",
+    "score": 5.593958575955594
+  },
+  {
+    "keyword": "monde",
+    "score": 5.3847520856469835
+  },
+  {
+    "keyword": "tagne",
+    "score": 5.357931694153437
+  },
+  {
+    "keyword": "pense",
+    "score": 5.2126731788823015
+  },
+  {
+    "keyword": "vraiment",
+    "score": 5.2126731788823015
+  },
+  {
+    "keyword": "deux",
+    "score": 3.743168960146184
+  },
+  {
+    "keyword": "juste",
+    "score": 3.4665608354967263
+  },
+  {
+    "keyword": "maison",
+    "score": 3.4609081013122194
+  },
+  {
+    "keyword": "terre",
+    "score": 3.393809267061254
+  },
+  {
+    "keyword": "euh",
+    "score": 3.287142414202442
+  },
+  {
+    "keyword": "martha",
+    "score": 3.0512201008153195
+  },
+  {
+    "keyword": "peut etre",
+    "score": 3.035434433902941
+  },
+  {
+    "keyword": "non non",
+    "score": 2.7267935978317426
+  },
+  {
+    "keyword": "peu",
+    "score": 2.7217329417386282
+  },
+  {
+    "keyword": "joe",
+    "score": 2.6924713462057475
+  },
+  {
+    "keyword": "temps",
+    "score": 2.5447648093921704
+  },
+  {
+    "keyword": "aime",
+    "score": 2.511575332526174
+  },
+  {
+    "keyword": "dieu",
+    "score": 2.4326275459236157
+  },
+  {
+    "keyword": "quelque chose",
+    "score": 2.4261667177088646
+  },
+  {
+    "keyword": "ouais",
+    "score": 2.093728219079434
+  },
+  {
+    "keyword": "dites",
+    "score": 2.0596337132106552
+  },
+  {
+    "keyword": "genetics",
+    "score": 1.960843158031727
+  },
+  {
+    "keyword": "voir",
+    "score": 1.9297092853125972
+  },
+  {
+    "keyword": "seulement",
+    "score": 1.868633022578385
+  },
+  {
+    "keyword": "depuis",
+    "score": 1.838300136396207
+  },
+  {
+    "keyword": "combien",
+    "score": 1.779376119731823
+  },
+  {
+    "keyword": "ans",
+    "score": 1.7525572203672617
+  },
+  {
+    "keyword": "pensez",
+    "score": 1.6585706227334942
+  },
+  {
+    "keyword": "gens",
+    "score": 1.6317314336108524
+  },
+  {
+    "keyword": "heures",
+    "score": 1.6317314336108524
+  },
+  {
+    "keyword": "quelqu",
+    "score": 1.6317314336108524
+  },
+  {
+    "keyword": "chien",
+    "score": 1.511508759284581
+  },
+  {
+    "keyword": "faites",
+    "score": 1.4871058395700514
+  },
+  {
+    "keyword": "mccoy",
+    "score": 1.4510906946235145
+  },
+  {
+    "keyword": "vogel",
+    "score": 1.4510906946235145
+  },
+  {
+    "keyword": "bert",
+    "score": 1.4122663595384293
+  },
+  {
+    "keyword": "evans",
+    "score": 1.390892170946827
+  },
+  {
+    "keyword": "contre",
+    "score": 1.3681322837784233
+  },
+  {
+    "keyword": "beaucoup",
+    "score": 1.3679665369325205
+  },
+  {
+    "keyword": "plait",
+    "score": 1.3465709183117938
+  },
+  {
+    "keyword": "personnes",
+    "score": 1.345853463751315
+  },
+  {
+    "keyword": "capitaine",
+    "score": 1.3106621892364392
+  },
+  {
+    "keyword": "parce",
+    "score": 1.3025814456556692
+  },
+  {
+    "keyword": "vie",
+    "score": 1.2846821768392527
+  },
+  {
+    "keyword": "briggs",
+    "score": 1.2755629762032954
+  },
+  {
+    "keyword": "petit",
+    "score": 1.2659901844683397
+  },
+  {
+    "keyword": "fais",
+    "score": 1.2407348390864035
+  },
+  {
+    "keyword": "cheval",
+    "score": 1.2212852416123499
+  },
+  {
+    "keyword": "parler",
+    "score": 1.1504588401888685
+  },
+  {
+    "keyword": "pourrait",
+    "score": 1.1504588401888685
+  },
+  {
+    "keyword": "terrestre",
+    "score": 1.1487666877700824
+  },
+  {
+    "keyword": "besoin",
+    "score": 1.1318990953540489
+  },
+  {
+    "keyword": "homme",
+    "score": 1.1136939722156238
+  },
+  {
+    "keyword": "bonne",
+    "score": 1.0958350195436426
+  },
+  {
+    "keyword": "passe",
+    "score": 1.0958350195436426
+  },
+  {
+    "keyword": "harmony",
+    "score": 1.0635201375967038
+  },
+  {
+    "keyword": "bon",
+    "score": 1.0616323159703838
+  },
+  {
+    "keyword": "peuple",
+    "score": 1.030179805667464
+  },
+  {
+    "keyword": "jusqu",
+    "score": 1.0067894489041367
+  },
+  {
+    "keyword": "personne",
+    "score": 1.0067894489041367
+  },
+  {
+    "keyword": "puis",
+    "score": 1.0067894489041367
+  },
+  {
+    "keyword": "maladie",
+    "score": 0.991123711303895
+  },
+  {
+    "keyword": "demande",
+    "score": 0.9905474464775378
+  },
+  {
+    "keyword": "peur",
+    "score": 0.9905474464775378
+  },
+  {
+    "keyword": "travail",
+    "score": 0.9746157805617388
+  },
+  {
+    "keyword": "caca",
+    "score": 0.9737091230852161
+  },
+  {
+    "keyword": "societe",
+    "score": 0.9412991351830535
+  },
+  {
+    "keyword": "president",
+    "score": 0.9379174471868154
+  },
+  {
+    "keyword": "envoye",
+    "score": 0.9307724248234397
+  },
+  {
+    "keyword": "choix",
+    "score": 0.9155668666212783
+  },
+  {
+    "keyword": "arreter",
+    "score": 0.9006576727618179
+  },
+  {
+    "keyword": "regarde",
+    "score": 0.8860376021824735
+  },
+  {
+    "keyword": "laisse",
+    "score": 0.8716996352314161
+  },
+  {
+    "keyword": "raceman synchro",
+    "score": 0.8550797033891168
+  },
+  {
+    "keyword": "femme",
+    "score": 0.8440447045809933
+  },
+  {
+    "keyword": "argent",
+    "score": 0.8438429915323271
+  },
+  {
+    "keyword": "crois",
+    "score": 0.8303113100970958
+  },
+  {
+    "keyword": "donne",
+    "score": 0.8170357081647007
+  },
+  {
+    "keyword": "annie",
+    "score": 0.8093588017857201
+  },
+  {
+    "keyword": "elephant",
+    "score": 0.8066006037338239
+  },
+  {
+    "keyword": "napoleon",
+    "score": 0.8061504588403179
+  },
+  {
+    "keyword": "nourriture",
+    "score": 0.792904397339807
+  },
+  {
+    "keyword": "bebe",
+    "score": 0.7912288025399729
+  },
+  {
+    "keyword": "niles",
+    "score": 0.7703718980762224
+  },
+  {
+    "keyword": "rentrer",
+    "score": 0.7700879779433274
+  },
+  {
+    "keyword": "honneur",
+    "score": 0.7663545923473456
+  },
+  {
+    "keyword": "ecoute",
+    "score": 0.7575874009423991
+  },
+  {
+    "keyword": "facon",
+    "score": 0.7575874009423991
+  },
+  {
+    "keyword": "oui monsieur",
+    "score": 0.7536995231288843
+  },
+  {
+    "keyword": "rentrer maison",
+    "score": 0.7516727154654599
+  },
+  {
+    "keyword": "parcours",
+    "score": 0.7476885931098745
+  },
+  {
+    "keyword": "savoir",
+    "score": 0.7453280305832927
+  },
+  {
+    "keyword": "croyances",
+    "score": 0.7286254512560318
+  },
+  {
+    "keyword": "fois",
+    "score": 0.7215098063375172
+  },
+  {
+    "keyword": "accord",
+    "score": 0.6980281039351417
+  },
+  {
+    "keyword": "docteur",
+    "score": 0.6815445556671113
+  },
+  {
+    "keyword": "veux rentrer",
+    "score": 0.6680582424182286
+  },
+  {
+    "keyword": "etincelle",
+    "score": 0.6612979238373663
+  },
+  {
+    "keyword": "huit heures",
+    "score": 0.6516152139627944
+  },
+  {
+    "keyword": "matin",
+    "score": 0.6486844842697539
+  },
+  {
+    "keyword": "mines",
+    "score": 0.643100773036932
+  },
+  {
+    "keyword": "dessus",
+    "score": 0.6381546090124124
+  },
+  {
+    "keyword": "exclus",
+    "score": 0.6336083142895985
+  },
+  {
+    "keyword": "centrale",
+    "score": 0.6305325103809779
+  },
+  {
+    "keyword": "controlled",
+    "score": 0.6305325103809779
+  },
+  {
+    "keyword": "idee",
+    "score": 0.6278279144442055
+  },
+  {
+    "keyword": "exigences",
+    "score": 0.6163276005307808
+  },
+  {
+    "keyword": "infini",
+    "score": 0.6163276005307808
+  },
+  {
+    "keyword": "major",
+    "score": 0.614177475382433
+  },
+  {
+    "keyword": "armes",
+    "score": 0.6128924529679521
+  },
+  {
+    "keyword": "cette grande",
+    "score": 0.599732118657519
+  },
+  {
+    "keyword": "infirmerie",
+    "score": 0.599732118657519
+  },
+  {
+    "keyword": "trois",
+    "score": 0.5980186260136551
+  },
+  {
+    "keyword": "sang",
+    "score": 0.5878521712790804
+  },
+  {
+    "keyword": "cette chose",
+    "score": 0.5638570109106003
+  },
+  {
+    "keyword": "proteines",
+    "score": 0.553691130923971
+  },
+  {
+    "keyword": "stupide",
+    "score": 0.545507017424784
+  },
+  {
+    "keyword": "ceux",
+    "score": 0.536623919782232
+  },
+  {
+    "keyword": "leurs",
+    "score": 0.536623919782232
+  },
+  {
+    "keyword": "verite",
+    "score": 0.536623919782232
+  },
+  {
+    "keyword": "travis www",
+    "score": 0.5320586758489421
+  },
+  {
+    "keyword": "ecoutez",
+    "score": 0.5279130856672869
+  },
+  {
+    "keyword": "venez",
+    "score": 0.5279130856672869
+  },
+  {
+    "keyword": "maison maison",
+    "score": 0.5277440343533886
+  },
+  {
+    "keyword": "comprends",
+    "score": 0.5193703326772514
+  },
+  {
+    "keyword": "pourrais",
+    "score": 0.5193703326772514
+  },
+  {
+    "keyword": "viens",
+    "score": 0.5193703326772514
+  },
+  {
+    "keyword": "ordures",
+    "score": 0.515550426300011
+  },
+  {
+    "keyword": "champ",
+    "score": 0.5132363108639998
+  },
+  {
+    "keyword": "boom",
+    "score": 0.5105901281359131
+  },
+  {
+    "keyword": "entre",
+    "score": 0.502772970787308
+  },
+  {
+    "keyword": "probleme",
+    "score": 0.502772970787308
+  },
+  {
+    "keyword": "mort separe",
+    "score": 0.49333785091446075
+  },
+  {
+    "keyword": "dorothy",
+    "score": 0.48760293814910194
+  },
+  {
+    "keyword": "bas",
+    "score": 0.48680083185539097
+  },
+  {
+    "keyword": "laissez",
+    "score": 0.4790400334411808
+  },
+  {
+    "keyword": "tete",
+    "score": 0.4790400334411808
+  },
+  {
+    "keyword": "nucleaires",
+    "score": 0.47798070154831435
+  },
+  {
+    "keyword": "transcript raceman",
+    "score": 0.47575074445341853
+  },
+  {
+    "keyword": "rentre maison",
+    "score": 0.4602167824277304
+  },
+  {
+    "keyword": "retourner",
+    "score": 0.45609596432561694
+  },
+  {
+    "keyword": "demandons",
+    "score": 0.45413109628830517
+  },
+  {
+    "keyword": "expedition",
+    "score": 0.45413109628830517
+  },
+  {
+    "keyword": "merci",
+    "score": 0.45221949175718357
+  },
+  {
+    "keyword": "arretez",
+    "score": 0.44862063116900114
+  },
+  {
+    "keyword": "autour",
+    "score": 0.44862063116900114
+  },
+  {
+    "keyword": "triste",
+    "score": 0.44862063116900114
+  },
+  {
+    "keyword": "quelle annee",
+    "score": 0.4360446371233539
+  },
+  {
+    "keyword": "nom",
+    "score": 0.4354155474015534
+  },
+  {
+    "keyword": "chercher",
+    "score": 0.43410569849902486
+  },
+  {
+    "keyword": "marche",
+    "score": 0.43410569849902486
+  },
+  {
+    "keyword": "perdu",
+    "score": 0.43410569849902486
+  },
+  {
+    "keyword": "sauf",
+    "score": 0.43410569849902486
+  },
+  {
+    "keyword": "ami",
+    "score": 0.4286054502667007
+  },
+  {
+    "keyword": "sharon",
+    "score": 0.42706788904713255
+  },
+  {
+    "keyword": "aucun",
+    "score": 0.4270590079051507
+  },
+  {
+    "keyword": "enfants",
+    "score": 0.4270590079051507
+  },
+  {
+    "keyword": "famille",
+    "score": 0.4270590079051507
+  },
+  {
+    "keyword": "mourir",
+    "score": 0.4270590079051507
+  },
+  {
+    "keyword": "yeux",
+    "score": 0.4270590079051507
+  },
+  {
+    "keyword": "ouvriers",
+    "score": 0.4221952274827109
+  },
+  {
+    "keyword": "etat",
+    "score": 0.4201482877208007
+  },
+  {
+    "keyword": "semble",
+    "score": 0.4201482877208007
+  },
+  {
+    "keyword": "voyez",
+    "score": 0.4201482877208007
+  },
+  {
+    "keyword": "passager",
+    "score": 0.4125074256738755
+  },
+  {
+    "keyword": "aleatoire",
+    "score": 0.41110430983721385
+  },
+  {
+    "keyword": "bonbons",
+    "score": 0.4102025181690272
+  },
+  {
+    "keyword": "venir",
+    "score": 0.40672173495103436
+  },
+  {
+    "keyword": "univers",
+    "score": 0.4044452143799847
+  },
+  {
+    "keyword": "ambassadeur",
+    "score": 0.3994288871862187
+  },
+  {
+    "keyword": "commence",
+    "score": 0.39259404734200026
+  },
+  {
+    "keyword": "radiations",
+    "score": 0.3882410830234771
+  },
+  {
+    "keyword": "raceman",
+    "score": 0.3852300327171422
+  },
+  {
+    "keyword": "retourner chez",
+    "score": 0.3775123307150389
+  },
+  {
+    "keyword": "donner",
+    "score": 0.3753168656042832
+  },
+  {
+    "keyword": "attaque",
+    "score": 0.3707635804426003
+  },
+  {
+    "keyword": "dis",
+    "score": 0.3696503584990487
+  },
+  {
+    "keyword": "quel but",
+    "score": 0.36841030397048274
+  },
+  {
+    "keyword": "comment vie",
+    "score": 0.36721624971296907
+  },
+  {
+    "keyword": "connaissez",
+    "score": 0.3646461970882196
+  },
+  {
+    "keyword": "ecouter",
+    "score": 0.3646461970882196
+  },
+  {
+    "keyword": "mort",
+    "score": 0.3635602105852937
+  },
+  {
+    "keyword": "democratie",
+    "score": 0.35732843905767714
+  },
+  {
+    "keyword": "proteger",
+    "score": 0.35277169962301186
+  },
+  {
+    "keyword": "petite",
+    "score": 0.35039986839666193
+  },
+  {
+    "keyword": "ensuite",
+    "score": 0.3470086468427249
+  },
+  {
+    "keyword": "maman",
+    "score": 0.3470086468427249
+  },
+  {
+    "keyword": "sauver",
+    "score": 0.3470086468427249
+  },
+  {
+    "keyword": "battus",
+    "score": 0.3450111469405336
+  },
+  {
+    "keyword": "regarder",
+    "score": 0.34135791899825907
+  },
+  {
+    "keyword": "rentre",
+    "score": 0.34135791899825907
+  },
+  {
+    "keyword": "travaille",
+    "score": 0.34135791899825907
+  }
+]

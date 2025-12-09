@@ -1,0 +1,200 @@
+objects	72.254494
+object	37.174807
+key	25.049641
+joe	17.523169
+room	13.319112
+motel room	13.226927
+comb	11.308346
+anna	8.884335
+arlene	8.876789
+occupant	8.233926
+wally	8.050217
+daughter	7.499158
+legion	6.951299
+vault	6.617831
+find	5.786940
+miller	5.644579
+cabal	5.545120
+bring	5.465780
+god	5.349398
+motel	4.873990
+harold	4.054428
+lou	3.965182
+something	3.940588
+please	3.915283
+never	3.424238
+give key	3.356992
+ignacio	3.190692
+give	2.778328
+order	2.591357
+karl	2.511620
+door	2.509145
+happened	2.400253
+saw	2.249734
+scissors	2.113381
+really	2.110242
+anything	2.012259
+mabel	2.005870
+hell	1.917184
+mean	1.879474
+previously lost	1.846636
+trying	1.701780
+jennifer	1.660899
+found	1.595062
+inside	1.569633
+name	1.564688
+joe joe	1.558550
+believe	1.544681
+weasel	1.523232
+detective	1.474674
+looking	1.415925
+used	1.415925
+isaac	1.415647
+everything	1.336015
+bring back	1.306044
+wait	1.284842
+understand	1.249001
+whatever	1.249001
+ever	1.244373
+thank	1.228852
+seen	1.209087
+say	1.149570
+watch	1.133700
+still	1.131637
+pen	1.085940
+wrong	1.063785
+listen	1.025666
+clock	1.014267
+together	0.935517
+picture	0.933036
+nobody	0.920559
+new mexico	0.897214
+prime	0.895531
+pawn	0.863648
+else	0.863480
+gone	0.861948
+kill	0.848634
+getting	0.845632
+even	0.836505
+keep	0.836505
+years	0.832032
+first	0.817364
+son	0.807843
+sadgeezer	0.772527
+killed	0.768893
+steadman	0.767525
+box	0.760737
+way	0.760496
+dead	0.738880
+collector	0.730638
+martin	0.715486
+loky	0.706166
+went	0.697505
+last	0.693781
+lee	0.683211
+stay	0.675474
+work	0.664766
+said	0.654257
+try	0.654257
+little	0.647979
+leave	0.643942
+open	0.604956
+barbara	0.579519
+wanted	0.577549
+much	0.576824
+thanks	0.559408
+damn	0.553783
+daddy	0.541932
+away	0.533826
+friend	0.533434
+put	0.529409
+easy	0.525091
+guess	0.518850
+sure	0.516032
+ask	0.510530
+suzie	0.497681
+thought	0.494358
+almost	0.473435
+another	0.463789
+remember	0.463789
+shot	0.463530
+elephant	0.460815
+back please	0.458134
+least	0.458117
+ready	0.443388
+mind	0.442311
+called	0.436235
+make statement	0.434934
+kid	0.428635
+feel	0.421982
+reset	0.421642
+coming	0.416396
+knows	0.415583
+artifacts	0.409787
+three	0.402728
+eye	0.390455
+map	0.385596
+shoot	0.384480
+someone	0.377637
+exactly	0.376732
+always	0.371715
+get back	0.370597
+left	0.365901
+somebody	0.364581
+okay okay	0.362633
+stuff	0.358681
+partner	0.356208
+talk	0.356131
+ago	0.352895
+idea	0.352895
+talking	0.352895
+use	0.350883
+somehow	0.350182
+makes	0.347219
+bad	0.342557
+come come	0.342284
+took	0.341651
+trust	0.338371
+pencil	0.336391
+knew	0.336189
+lose	0.336189
+safe	0.336189
+without	0.330829
+experiment	0.329964
+great	0.323004
+anywhere	0.316522
+promise	0.315571
+care	0.315344
+milton	0.313493
+abbot	0.312719
+sit	0.310372
+people think	0.310128
+life	0.308938
+may	0.306263
+burn	0.306180
+think trust	0.305052
+close	0.304441
+time space	0.300258
+want see	0.296242
+price	0.295998
+shop	0.295998
+clark	0.294227
+disappeared	0.294227
+around	0.286847
+wife	0.282048
+leukemia	0.277642
+many	0.277498
+gonna find	0.274560
+people coming	0.274407
+pittsburgh	0.267445
+money	0.265366
+tell happened	0.262691
+stop	0.261142
+rid	0.260861
+anyone	0.260147
+done	0.260147
+personal effects	0.257657
+alive	0.256011
+deal get	0.254263
+reality	0.252189
+hello	0.248447

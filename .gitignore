@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Base de données
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Environnement
+.env
+.env.local
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.cache
+
+# Node modules (si jamais utilisé)
+node_modules/
+
+# Couverture de tests
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Fichiers spécifiques au projet
+data/*.db
+data/*.sqlite
+*.pyc

@@ -1,0 +1,802 @@
+[
+  {
+    "keyword": "rahl",
+    "score": 7116.072269839195
+  },
+  {
+    "keyword": "zedd",
+    "score": 2123.492968946417
+  },
+  {
+    "keyword": "kahlan",
+    "score": 1919.405347878169
+  },
+  {
+    "keyword": "seeker",
+    "score": 1855.1523453384298
+  },
+  {
+    "keyword": "theme playing",
+    "score": 1053.4028983910357
+  },
+  {
+    "keyword": "darken rahl",
+    "score": 854.2658329811622
+  },
+  {
+    "keyword": "confessor",
+    "score": 781.344557504969
+  },
+  {
+    "keyword": "lord rahl",
+    "score": 651.2759773466138
+  },
+  {
+    "keyword": "mord sith",
+    "score": 425.5718016013628
+  },
+  {
+    "keyword": "harans",
+    "score": 389.1536593491669
+  },
+  {
+    "keyword": "mother confessor",
+    "score": 341.8807846977515
+  },
+  {
+    "keyword": "darken",
+    "score": 311.0358843314592
+  },
+  {
+    "keyword": "sith",
+    "score": 211.8142145354571
+  },
+  {
+    "keyword": "dramatic theme",
+    "score": 191.35776221842468
+  },
+  {
+    "keyword": "stone tears",
+    "score": 187.63009590597025
+  },
+  {
+    "keyword": "midlands",
+    "score": 183.93505705284093
+  },
+  {
+    "keyword": "orden",
+    "score": 166.6129218387895
+  },
+  {
+    "keyword": "zeddicus",
+    "score": 102.94660250706528
+  },
+  {
+    "keyword": "haran",
+    "score": 97.71969459653695
+  },
+  {
+    "keyword": "cara",
+    "score": 92.15628567608202
+  },
+  {
+    "keyword": "agiel",
+    "score": 90.92393363706081
+  },
+  {
+    "keyword": "keeper",
+    "score": 74.22402693106494
+  },
+  {
+    "keyword": "wizard",
+    "score": 72.1614654111374
+  },
+  {
+    "keyword": "jennsen",
+    "score": 66.83983440267438
+  },
+  {
+    "keyword": "denna",
+    "score": 60.84714322438073
+  },
+  {
+    "keyword": "richard cypher",
+    "score": 55.105926621829795
+  },
+  {
+    "keyword": "shota",
+    "score": 53.248547148551914
+  },
+  {
+    "keyword": "richard",
+    "score": 52.550428326279096
+  },
+  {
+    "keyword": "underworld",
+    "score": 43.41211096369055
+  },
+  {
+    "keyword": "prophecy",
+    "score": 38.05529937420641
+  },
+  {
+    "keyword": "find",
+    "score": 37.77312860078823
+  },
+  {
+    "keyword": "creator",
+    "score": 31.63156745002191
+  },
+  {
+    "keyword": "mord",
+    "score": 30.03204812532
+  },
+  {
+    "keyword": "kill",
+    "score": 29.78595102317546
+  },
+  {
+    "keyword": "cypher",
+    "score": 28.634227324066025
+  },
+  {
+    "keyword": "boundary",
+    "score": 24.178715917245547
+  },
+  {
+    "keyword": "magic",
+    "score": 23.22597948945095
+  },
+  {
+    "keyword": "fane",
+    "score": 23.083289177993233
+  },
+  {
+    "keyword": "lord",
+    "score": 21.640034679696612
+  },
+  {
+    "keyword": "scroll",
+    "score": 20.111625997480388
+  },
+  {
+    "keyword": "playing",
+    "score": 17.83587171999311
+  },
+  {
+    "keyword": "sword",
+    "score": 17.643023851720127
+  },
+  {
+    "keyword": "never",
+    "score": 16.410340044724308
+  },
+  {
+    "keyword": "mother",
+    "score": 15.236648560622179
+  },
+  {
+    "keyword": "theme",
+    "score": 14.162964378472992
+  },
+  {
+    "keyword": "kieran",
+    "score": 13.717755499192736
+  },
+  {
+    "keyword": "father",
+    "score": 13.355915030235352
+  },
+  {
+    "keyword": "way",
+    "score": 12.847273961717145
+  },
+  {
+    "keyword": "suspenseful",
+    "score": 11.825929571101561
+  },
+  {
+    "keyword": "even",
+    "score": 10.066048190404416
+  },
+  {
+    "keyword": "use magic",
+    "score": 9.846961967318132
+  },
+  {
+    "keyword": "killed",
+    "score": 9.252446571752344
+  },
+  {
+    "keyword": "something",
+    "score": 8.992703661911289
+  },
+  {
+    "keyword": "give",
+    "score": 8.843380716323647
+  },
+  {
+    "keyword": "life",
+    "score": 7.765729675404036
+  },
+  {
+    "keyword": "spell",
+    "score": 7.5388713426807845
+  },
+  {
+    "keyword": "ominous",
+    "score": 7.231674693648073
+  },
+  {
+    "keyword": "mistress",
+    "score": 6.996857943881124
+  },
+  {
+    "keyword": "say",
+    "score": 6.912118062296408
+  },
+  {
+    "keyword": "hara",
+    "score": 6.673923192705321
+  },
+  {
+    "keyword": "rift",
+    "score": 6.432751261002252
+  },
+  {
+    "keyword": "enough",
+    "score": 6.4226536288741105
+  },
+  {
+    "keyword": "truth",
+    "score": 6.288353191328905
+  },
+  {
+    "keyword": "stone",
+    "score": 6.221139360041003
+  },
+  {
+    "keyword": "conor",
+    "score": 6.180588559409319
+  },
+  {
+    "keyword": "told",
+    "score": 6.1623415050965855
+  },
+  {
+    "keyword": "away",
+    "score": 6.125804553121387
+  },
+  {
+    "keyword": "spirits",
+    "score": 5.91247860590734
+  },
+  {
+    "keyword": "grunts",
+    "score": 5.818824098933612
+  },
+  {
+    "keyword": "believe",
+    "score": 5.78857324679553
+  },
+  {
+    "keyword": "grunting",
+    "score": 5.7686270792025685
+  },
+  {
+    "keyword": "first",
+    "score": 5.696463920655586
+  },
+  {
+    "keyword": "years",
+    "score": 5.692915362960669
+  },
+  {
+    "keyword": "world",
+    "score": 5.543248443349054
+  },
+  {
+    "keyword": "sisters",
+    "score": 5.520519434174723
+  },
+  {
+    "keyword": "sister",
+    "score": 5.404193091895717
+  },
+  {
+    "keyword": "may",
+    "score": 5.310431515753331
+  },
+  {
+    "keyword": "still",
+    "score": 5.298587456774756
+  },
+  {
+    "keyword": "dead",
+    "score": 5.244688578202632
+  },
+  {
+    "keyword": "quest",
+    "score": 5.148357960520303
+  },
+  {
+    "keyword": "sorcerer",
+    "score": 5.080345629945516
+  },
+  {
+    "keyword": "ever",
+    "score": 5.068182573611524
+  },
+  {
+    "keyword": "confessed",
+    "score": 4.992047262002738
+  },
+  {
+    "keyword": "han",
+    "score": 4.991735665860259
+  },
+  {
+    "keyword": "compass",
+    "score": 4.978780100604921
+  },
+  {
+    "keyword": "palace",
+    "score": 4.839309816434853
+  },
+  {
+    "keyword": "please",
+    "score": 4.832232871849887
+  },
+  {
+    "keyword": "anything",
+    "score": 4.756456863997718
+  },
+  {
+    "keyword": "dramatic",
+    "score": 4.726201753781951
+  },
+  {
+    "keyword": "maia",
+    "score": 4.695407975696332
+  },
+  {
+    "keyword": "power",
+    "score": 4.67032950916539
+  },
+  {
+    "keyword": "much",
+    "score": 4.666902030254314
+  },
+  {
+    "keyword": "keep",
+    "score": 4.65851729990115
+  },
+  {
+    "keyword": "fight",
+    "score": 4.559134549359612
+  },
+  {
+    "keyword": "thank",
+    "score": 4.549787009163174
+  },
+  {
+    "keyword": "protect",
+    "score": 4.508485321259046
+  },
+  {
+    "keyword": "amulet",
+    "score": 4.343840297747162
+  },
+  {
+    "keyword": "dahlia",
+    "score": 4.327209762996033
+  },
+  {
+    "keyword": "livia",
+    "score": 4.327209762996033
+  },
+  {
+    "keyword": "stay",
+    "score": 4.311788924215731
+  },
+  {
+    "keyword": "said",
+    "score": 4.232204296885649
+  },
+  {
+    "keyword": "son",
+    "score": 4.171587522626048
+  },
+  {
+    "keyword": "leave",
+    "score": 4.165482063988243
+  },
+  {
+    "keyword": "many",
+    "score": 4.069079134761605
+  },
+  {
+    "keyword": "book",
+    "score": 4.033821522725695
+  },
+  {
+    "keyword": "thought",
+    "score": 3.981017634532443
+  },
+  {
+    "keyword": "boxes",
+    "score": 3.9326738516757973
+  },
+  {
+    "keyword": "ancient",
+    "score": 3.732989634915732
+  },
+  {
+    "keyword": "without",
+    "score": 3.7054875343046776
+  },
+  {
+    "keyword": "die",
+    "score": 3.7041176539043708
+  },
+  {
+    "keyword": "tears",
+    "score": 3.662225455619649
+  },
+  {
+    "keyword": "anyone",
+    "score": 3.6514373300950917
+  },
+  {
+    "keyword": "brother",
+    "score": 3.5996540740585456
+  },
+  {
+    "keyword": "save",
+    "score": 3.588774486521809
+  },
+  {
+    "keyword": "done",
+    "score": 3.544397314918798
+  },
+  {
+    "keyword": "child",
+    "score": 3.540547097456869
+  },
+  {
+    "keyword": "knew",
+    "score": 3.494485734172848
+  },
+  {
+    "keyword": "bring",
+    "score": 3.4914086737632886
+  },
+  {
+    "keyword": "true",
+    "score": 3.4461167206666197
+  },
+  {
+    "keyword": "powers",
+    "score": 3.408517487684575
+  },
+  {
+    "keyword": "love",
+    "score": 3.350308261172447
+  },
+  {
+    "keyword": "powerful",
+    "score": 3.229767085192898
+  },
+  {
+    "keyword": "nothing",
+    "score": 3.2128589085926644
+  },
+  {
+    "keyword": "found",
+    "score": 3.1811789461025786
+  },
+  {
+    "keyword": "always",
+    "score": 3.173458401730498
+  },
+  {
+    "keyword": "use",
+    "score": 3.1444751758240868
+  },
+  {
+    "keyword": "veil",
+    "score": 3.073520195822581
+  },
+  {
+    "keyword": "defeat",
+    "score": 2.976069688727892
+  },
+  {
+    "keyword": "last",
+    "score": 2.963692567364805
+  },
+  {
+    "keyword": "happened",
+    "score": 2.9189623266838205
+  },
+  {
+    "keyword": "someone",
+    "score": 2.890713249409608
+  },
+  {
+    "keyword": "another",
+    "score": 2.8898586145090728
+  },
+  {
+    "keyword": "already",
+    "score": 2.8640806756653476
+  },
+  {
+    "keyword": "left",
+    "score": 2.8460546465748933
+  },
+  {
+    "keyword": "friend",
+    "score": 2.8453829195818194
+  },
+  {
+    "keyword": "everything",
+    "score": 2.7968097826182348
+  },
+  {
+    "keyword": "work",
+    "score": 2.7925937903784406
+  },
+  {
+    "keyword": "better",
+    "score": 2.7545782414813984
+  },
+  {
+    "keyword": "confess",
+    "score": 2.7412343630397484
+  },
+  {
+    "keyword": "old",
+    "score": 2.709910232993698
+  },
+  {
+    "keyword": "gasps",
+    "score": 2.640180461676186
+  },
+  {
+    "keyword": "chanting",
+    "score": 2.633313219594039
+  },
+  {
+    "keyword": "try",
+    "score": 2.566277363658086
+  },
+  {
+    "keyword": "niles",
+    "score": 2.5347513459472126
+  },
+  {
+    "keyword": "used",
+    "score": 2.5167316497469523
+  },
+  {
+    "keyword": "safe",
+    "score": 2.3653649014353624
+  },
+  {
+    "keyword": "air date",
+    "score": 2.3614430920609046
+  },
+  {
+    "keyword": "day",
+    "score": 2.3566230815579305
+  },
+  {
+    "keyword": "death",
+    "score": 2.354578491889368
+  },
+  {
+    "keyword": "able",
+    "score": 2.3355866895419926
+  },
+  {
+    "keyword": "alive",
+    "score": 2.334236892510526
+  },
+  {
+    "keyword": "together",
+    "score": 2.3134753806958486
+  },
+  {
+    "keyword": "took",
+    "score": 2.2688911653492814
+  },
+  {
+    "keyword": "name",
+    "score": 2.2374596683250463
+  },
+  {
+    "keyword": "wrong",
+    "score": 2.231524677549303
+  },
+  {
+    "keyword": "magical",
+    "score": 2.2089497924528803
+  },
+  {
+    "keyword": "put",
+    "score": 2.192419712052171
+  },
+  {
+    "keyword": "original air",
+    "score": 2.180104396646799
+  },
+  {
+    "keyword": "else",
+    "score": 2.176841083082704
+  },
+  {
+    "keyword": "great",
+    "score": 2.163742059153289
+  },
+  {
+    "keyword": "soon",
+    "score": 2.1285559914587067
+  },
+  {
+    "keyword": "ago",
+    "score": 2.1193016064150796
+  },
+  {
+    "keyword": "trying",
+    "score": 2.1096902589183193
+  },
+  {
+    "keyword": "wait",
+    "score": 2.0697513186551055
+  },
+  {
+    "keyword": "send",
+    "score": 2.0224191246324748
+  },
+  {
+    "keyword": "order",
+    "score": 1.9790740835659852
+  },
+  {
+    "keyword": "saw",
+    "score": 1.9773924469360353
+  },
+  {
+    "keyword": "looking",
+    "score": 1.9682112440789776
+  },
+  {
+    "keyword": "hurt",
+    "score": 1.9552007899354817
+  },
+  {
+    "keyword": "really",
+    "score": 1.9331493091627299
+  },
+  {
+    "keyword": "dungeon",
+    "score": 1.9216864761307781
+  },
+  {
+    "keyword": "wanted",
+    "score": 1.875041030501566
+  },
+  {
+    "keyword": "family",
+    "score": 1.8318430821648441
+  },
+  {
+    "keyword": "remember",
+    "score": 1.825544592750495
+  },
+  {
+    "keyword": "master",
+    "score": 1.8178117143014965
+  },
+  {
+    "keyword": "made",
+    "score": 1.8165794178318413
+  },
+  {
+    "keyword": "princess",
+    "score": 1.8155537377721862
+  },
+  {
+    "keyword": "treasure",
+    "score": 1.8130391575771054
+  },
+  {
+    "keyword": "understand",
+    "score": 1.8107156270077223
+  },
+  {
+    "keyword": "addic com",
+    "score": 1.808464346836128
+  },
+  {
+    "keyword": "friends",
+    "score": 1.803746962633036
+  },
+  {
+    "keyword": "dunn",
+    "score": 1.7817700823019784
+  },
+  {
+    "keyword": "addic",
+    "score": 1.7555999662761816
+  },
+  {
+    "keyword": "three",
+    "score": 1.7549348175691803
+  },
+  {
+    "keyword": "afraid",
+    "score": 1.7449333387944594
+  },
+  {
+    "keyword": "little",
+    "score": 1.735734390582918
+  },
+  {
+    "keyword": "heard",
+    "score": 1.6761660823484186
+  },
+  {
+    "keyword": "seen",
+    "score": 1.6737846248688497
+  },
+  {
+    "keyword": "kind",
+    "score": 1.6545463761639667
+  },
+  {
+    "keyword": "command",
+    "score": 1.6403602338663574
+  },
+  {
+    "keyword": "killing",
+    "score": 1.6361528371083984
+  },
+  {
+    "keyword": "tavern",
+    "score": 1.6270324201883348
+  },
+  {
+    "keyword": "night",
+    "score": 1.6239134373411335
+  },
+  {
+    "keyword": "came",
+    "score": 1.5770741149609613
+  },
+  {
+    "keyword": "brought",
+    "score": 1.5693135205131736
+  },
+  {
+    "keyword": "hands",
+    "score": 1.5668376473367172
+  },
+  {
+    "keyword": "box",
+    "score": 1.5663225640203022
+  },
+  {
+    "keyword": "talking",
+    "score": 1.5453941389963914
+  },
+  {
+    "keyword": "wants",
+    "score": 1.518699332053475
+  },
+  {
+    "keyword": "panting",
+    "score": 1.5176267868785525
+  }
+]
