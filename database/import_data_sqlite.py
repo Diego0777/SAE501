@@ -195,6 +195,18 @@ def main():
     total_ratings = import_ratings()
     print()
     
+    # Téléchargement des posters
+    print("🖼️  Téléchargement des posters...")
+    try:
+        import sys
+        sys.path.append(os.path.dirname(os.path.dirname(__file__)))
+        from fetch_posters import fetch_all_posters
+        fetch_all_posters()
+        print("✅ Posters téléchargés")
+    except Exception as e:
+        print(f"⚠️  Erreur téléchargement posters: {e}")
+    print()
+    
     # Statistiques finales
     print("=" * 60)
     print("📊 STATISTIQUES DE LA BASE DE DONNÉES")
