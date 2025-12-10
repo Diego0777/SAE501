@@ -205,13 +205,16 @@ def api_doc():
     }
 
 if __name__ == '__main__':
+    import os
+    port = int(os.environ.get('PORT', 5000))
+    
     print("=" * 60)
     print("🚀 Serveur API TV Series - Version SQLite")
     print("=" * 60)
     print("📊 Base de données : SQLite (data/tvseries.db)")
-    print("🌐 URL : http://127.0.0.1:5000")
+    print(f"🌐 URL : http://0.0.0.0:{port}")
     print("📖 Documentation : http://127.0.0.1:5000/api")
     print("=" * 60)
     print()
     
-    app.run(debug=True, port=5000)
+    app.run(debug=True, host='0.0.0.0', port=port)
