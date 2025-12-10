@@ -1,10 +1,20 @@
-numpy
-scikit-learn
-nltk
-flask
-flask-cors
-tqdm
-joblib
-langdetect
-requests
-mysql-connector-python
+﻿# Core dependencies for SAE501 TV Series Recommendation System
+Flask==3.1.2
+flask-cors==6.0.1
+scikit-learn==1.7.2
+joblib==1.5.2
+requests==2.32.5
+tqdm==4.67.1
+
+# NLP & Text Processing
+nltk==3.9.2
+langdetect==1.0.9
+
+# Data manipulation
+numpy==2.3.5
+pandas==2.3.3
+
+# Visualization (optional)
+matplotlib==3.10.7
+seaborn==0.13.2
+

@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Recherche - TV Series</title>
+    <title>Recherche - S5C.01</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <nav class="navbar">
         <div class="container">
-            <a href="index.html" class="logo">📺 TV Series</a>
+            <a href="index.html" class="logo">📺 S5C.01</a>
             <ul class="nav-links">
                 <li><a href="index.html">Accueil</a></li>
                 <li><a href="search.html" class="active">Recherche</a></li>
@@ -22,42 +22,42 @@
     </nav>
 
     <main class="container">
-        <section class="search-section">
-            <h2>🔍 Rechercher des séries</h2>
-            <form class="search-form" onsubmit="performSearch(event)">
-                <div class="form-group">
-                    <label for="searchType">Type de recherche</label>
-                    <select id="searchType" onchange="updateSearchPlaceholder()">
-                        <option value="keywords">Par mots-clés (TF-IDF)</option>
-                        <option value="title">Par nom de série</option>
-                    </select>
-                </div>
+        <section class="hero-search">
+            <div class="search-hero-content">
+                <h1>🔍 Rechercher une série</h1>
+                <p class="subtitle">Recherchez par titre ou par mots-clés (crash avion île → Lost)</p>
                 
-                <div class="form-group">
-                    <label for="searchQuery">Recherche</label>
-                    <input type="text" id="searchQuery" placeholder="Ex: crash avion ile" required>
-                </div>
+                <form class="search-form-modern" onsubmit="performSearch(event)">
+                    <div class="search-input-wrapper">
+                        <input type="text" id="searchQuery" placeholder="Rechercher une série... (ex: lost, crash avion, breaking bad)" required>
+                        <button type="submit" class="btn btn-primary">🔍 Rechercher</button>
+                    </div>
+                    
+                    <div class="search-filters">
+                        <div class="filter-item">
+                            <label for="searchLanguage">🌍 Langue</label>
+                            <select id="searchLanguage">
+                                <option value="">Toutes</option>
+                                <option value="vf">VF</option>
+                                <option value="vo">VO</option>
+                            </select>
+                        </div>
+                        
+                        <div class="filter-item">
+                            <label for="searchTop">📊 Résultats</label>
+                            <select id="searchTop">
+                                <option value="10">10</option>
+                                <option value="20" selected>20</option>
+                                <option value="50">50</option>
+                            </select>
+                        </div>
+                    </div>
+                </form>
                 
-                <div class="form-group">
-                    <label for="searchLanguage">Langue</label>
-                    <select id="searchLanguage">
-                        <option value="">Toutes</option>
-                        <option value="vf">VF (Version Française)</option>
-                        <option value="vo">VO (Version Originale)</option>
-                    </select>
+                <div class="search-tips">
+                    <p><strong>💡 Astuce :</strong> La recherche est intelligente et cherche dans les titres ET les mots-clés</p>
                 </div>
-                
-                <div class="form-group">
-                    <label for="searchTop">Nombre de résultats</label>
-                    <select id="searchTop">
-                        <option value="10">10</option>
-                        <option value="20">20</option>
-                        <option value="50">50</option>
-                    </select>
-                </div>
-                
-                <button type="submit" class="btn btn-primary">Rechercher</button>
-            </form>
+            </div>
         </section>
 
         <section id="resultsSection" style="display: none;">
@@ -74,26 +74,12 @@
 
     <script src="app.js"></script>
     <script>
-        function updateSearchPlaceholder() {
-            const type = document.getElementById('searchType').value;
-            const input = document.getElementById('searchQuery');
-            if (type === 'title') {
-                input.placeholder = 'Ex: lost, breaking bad, friends';
-            } else {
-                input.placeholder = 'Ex: crash avion ile';
-            }
-        }
-        
         // Charger la recherche depuis l'URL si présente
         document.addEventListener('DOMContentLoaded', () => {
             updateLanguageToggle();
             const params = getUrlParams();
             if (params.q) {
                 document.getElementById('searchQuery').value = params.q;
-                if (params.type) {
-                    document.getElementById('searchType').value = params.type;
-                    updateSearchPlaceholder();
-                }
                 if (params.language) {
                     document.getElementById('searchLanguage').value = params.language;
                 }
@@ -108,7 +94,6 @@
             if (event) event.preventDefault();
             
             const query = queryOverride || document.getElementById('searchQuery').value;
-            const searchType = document.getElementById('searchType').value;
             const language = document.getElementById('searchLanguage').value;
             const top = document.getElementById('searchTop').value;
             
@@ -119,34 +104,76 @@
             resultsDiv.innerHTML = showLoading();
             
             try {
-                let url, data, results;
+                // RECHERCHE FUSIONNÉE INTELLIGENTE : Titre en priorité + TF-IDF
+                let resultsMap = new Map(); // Utiliser Map pour éviter doublons et scorer
+                const queryLower = query.toLowerCase().trim();
                 
-                if (searchType === 'title') {
-                    // Recherche par nom de série
-                    url = `/api/series/search?query=${encodeURIComponent(query)}`;
-                    if (language) url += `&language=${language}`;
-                    if (top) url += `&limit=${top}`;
+                // 1. Recherche par titre (PRIORITÉ)
+                let titleUrl = `/api/series/search?query=${encodeURIComponent(query)}`;
+                if (language) titleUrl += `&language=${language}`;
+                titleUrl += `&limit=${top}`;
+                
+                try {
+                    const titleResponse = await apiRequest(titleUrl, { requireAuth: false });
+                    const titleResults = titleResponse.series || titleResponse || [];
                     
-                    const response = await apiRequest(url, { requireAuth: false });
-                    results = response.series || response || [];
-                } else {
-                    // Recherche TF-IDF par mots-clés
-                    url = `/api/search?q=${encodeURIComponent(query)}&limit=${top}`;
-                    if (language) url += `&language=${language}`;
-                    
-                    data = await apiRequest(url, { requireAuth: false });
-                    results = data.results || [];
+                    titleResults.forEach(series => {
+                        const titleLower = series.title.toLowerCase();
+                        const baseName = titleLower.replace(/_vf$|_vo$/, '');
+                        
+                        // Score basé sur la correspondance du titre
+                        let score = 0;
+                        if (baseName === queryLower) {
+                            score = 1000; // Correspondance exacte
+                        } else if (baseName.startsWith(queryLower)) {
+                            score = 900; // Commence par la requête
+                        } else if (baseName.includes(queryLower)) {
+                            score = 800; // Contient la requête
+                        } else {
+                            score = 700; // Correspondance partielle
+                        }
+                        
+                        resultsMap.set(series.title, { ...series, searchScore: score });
+                    });
+                } catch (e) {
+                    console.log('Recherche par titre échouée:', e);
                 }
                 
-                if (results.length === 0) {
+                // 2. Recherche TF-IDF par mots-clés (COMPLÉMENT)
+                let tfidfUrl = `/api/search?q=${encodeURIComponent(query)}&limit=${top}`;
+                if (language) tfidfUrl += `&language=${language}`;
+                
+                try {
+                    const tfidfData = await apiRequest(tfidfUrl, { requireAuth: false });
+                    const tfidfResults = tfidfData.results || [];
+                    
+                    tfidfResults.forEach(series => {
+                        if (!resultsMap.has(series.title)) {
+                            // Ajouter avec score TF-IDF (score < 10 généralement)
+                            const tfidfScore = series.score || 0;
+                            resultsMap.set(series.title, { ...series, searchScore: tfidfScore });
+                        }
+                    });
+                } catch (e) {
+                    console.log('Recherche TF-IDF échouée:', e);
+                }
+                
+                // 3. Convertir en array et trier par score décroissant
+                let allResults = Array.from(resultsMap.values());
+                allResults.sort((a, b) => b.searchScore - a.searchScore);
+                
+                // 4. Limiter au nombre de résultats demandés
+                allResults = allResults.slice(0, parseInt(top));
+                
+                if (allResults.length === 0) {
                     resultsDiv.innerHTML = showNoResults('Aucune série trouvée pour ces critères.');
                     return;
                 }
                 
-                resultsDiv.innerHTML = results.map(s => createSeriesCard(s, { showRating: false })).join('');
+                resultsDiv.innerHTML = allResults.map(s => createSeriesCard(s, { showRating: false })).join('');
                 
                 // Mettre à jour l'URL sans recharger la page
-                const newUrl = `search.html?q=${encodeURIComponent(query)}&type=${searchType}${language ? '&language=' + language : ''}&top=${top}`;
+                const newUrl = `search.html?q=${encodeURIComponent(query)}${language ? '&language=' + language : ''}&top=${top}`;
                 window.history.pushState({}, '', newUrl);
                 
             } catch (error) {
