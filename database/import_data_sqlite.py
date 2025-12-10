@@ -121,7 +121,7 @@ def import_ratings():
         print("❌ Fichier ratings.json introuvable")
         return 0
     
-    with open(ratings_file, 'r', encoding='utf-8') as f:
+    with open(ratings_file, 'r', encoding='utf-8-sig') as f:
         ratings_data = json.load(f)
     
     with get_connection() as conn:
