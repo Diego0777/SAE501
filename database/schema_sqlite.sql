@@ -21,7 +21,9 @@ CREATE TABLE IF NOT EXISTS series (
     language TEXT NOT NULL CHECK(language IN ('vf', 'vo')),
     average_rating REAL DEFAULT 0.0,
     num_ratings INTEGER DEFAULT 0,
-    popularity_score REAL DEFAULT 0.0
+    popularity_score REAL DEFAULT 0.0,
+    poster_url TEXT,
+    poster_data BLOB
 );
 
 CREATE INDEX idx_series_title ON series(title);
