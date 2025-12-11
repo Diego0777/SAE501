@@ -26,10 +26,27 @@
                 <h1>Découvrez vos Séries Préférées</h1>
                 <p class="subtitle">Plus de 250 séries TV avec recherche intelligente et recommandations personnalisées</p>
                 
-                <div class="quick-search">
-                    <input type="text" id="quickSearch" placeholder="Rechercher une série (ex: crash avion ile)...">
-                    <button onclick="quickSearch()" class="btn btn-primary">Rechercher</button>
-                </div>
+                <form class="search-form-modern" onsubmit="quickSearch(); return false;">
+                    <div class="search-input-wrapper-enhanced">
+                        <input type="text" id="quickSearch" placeholder="Rechercher une série (ex: crash avion ile)..." required>
+                        
+                        <div class="search-filters-inline">
+                            <select id="quickSearchLanguage" class="language-filter-prominent">
+                                <option value="vf" selected>VF</option>
+                                <option value="vo">VO</option>
+                                <option value="">Tous</option>
+                            </select>
+                            
+                            <select id="quickSearchTop" class="results-filter">
+                                <option value="10">10</option>
+                                <option value="20" selected>20</option>
+                                <option value="50">50</option>
+                            </select>
+                        </div>
+                        
+                        <button type="submit" class="btn-search">Rechercher</button>
+                    </div>
+                </form>
             </div>
         </section>
 
@@ -50,28 +67,24 @@
             <h2>Pourquoi S5C.01 ?</h2>
             <div class="feature-grid">
                 <div class="feature-card">
-                    <div class="feature-icon"></div>
                     <h3>Recherche intelligente</h3>
                     <p>Trouvez des séries par titre ou par mots-clés avec notre moteur de recherche avancé TF-IDF</p>
                     <a href="search.html" class="btn btn-secondary">Rechercher</a>
                 </div>
 
                 <div class="feature-card">
-                    <div class="feature-icon"></div>
                     <h3>Recommandations personnalisées</h3>
                     <p>Découvrez de nouvelles séries basées sur vos préférences et celles d'utilisateurs similaires</p>
                     <a href="recommendations.html" class="btn btn-secondary">Voir les recommandations</a>
                 </div>
 
                 <div class="feature-card">
-                    <div class="feature-icon"></div>
                     <h3>Catalogue complet</h3>
                     <p>Parcourez notre collection de 250+ séries VF et VO avec images de couverture</p>
                     <a href="series.html" class="btn btn-secondary">Explorer</a>
                 </div>
 
                 <div class="feature-card">
-                    <div class="feature-icon">👤</div>
                     <h3>Gestion de profil</h3>
                     <p>Notez vos séries favorites et gérez vos préférences pour de meilleures recommandations</p>
                     <a href="profile.html" class="btn btn-secondary">Mon profil</a>
@@ -126,14 +139,23 @@
 
         function quickSearch() {
             const query = document.getElementById('quickSearch').value;
+            const language = document.getElementById('quickSearchLanguage').value;
+            const top = document.getElementById('quickSearchTop').value;
+            
             if (query.trim()) {
-                window.location.href = `search.html?q=${encodeURIComponent(query)}`;
+                let url = `search.html?q=${encodeURIComponent(query)}`;
+                if (language) url += `&language=${language}`;
+                if (top) url += `&top=${top}`;
+                window.location.href = url;
             }
         }
 
         // Permettre la recherche avec Enter
         document.getElementById('quickSearch')?.addEventListener('keypress', (e) => {
-            if (e.key === 'Enter') quickSearch();
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                quickSearch();
+            }
         });
     </script>
 </body>

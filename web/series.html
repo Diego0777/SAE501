@@ -22,7 +22,7 @@
 
     <main class="container">
         <section class="search-section">
-            <h2>📚 Catalogue de séries</h2>
+            <h2>Catalogue de séries</h2>
             <div class="search-form">
                 <div class="form-group">
                     <label for="filterLanguage">Filtrer par langue</label>
@@ -68,22 +68,14 @@
             div.innerHTML = showLoading();
             
             try {
-                const pref = getLanguagePreference();
                 let url = '/api/series';
+                // Si une langue est sélectionnée explicitement dans le dropdown, l'utiliser
                 if (language) {
                     url += `?language=${language}`;
-                } else if (pref !== 'all') {
-                    url += `?language=${pref}`;
                 }
+                // Sinon, ne pas appliquer de filtre (afficher toutes les séries)
                 
                 let series = await apiRequest(url, { requireAuth: false });
-                
-                // Filtrer côté client aussi
-                const finalPref = language || pref;
-                if (finalPref !== 'all') {
-                    series = series.filter(s => shouldShowSeries(s.title));
-                }
-                
                 allSeries = series;
                 
                 if (series.length === 0) {

@@ -44,7 +44,7 @@
 
         <!-- Formulaire d'inscription -->
         <div id="registerSection" class="auth-form" style="display: none;">
-            <h2>📝 Inscription</h2>
+            <h2>Inscription</h2>
             <form onsubmit="register(event)">
                 <div class="form-group">
                     <label for="registerUsername">Nom d'utilisateur</label>
@@ -70,9 +70,9 @@
         <!-- Section profil connecté -->
         <div id="profileSection" style="display: none;">
             <div class="search-section">
-                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-                    <h2>Mon Profil</h2>
-                    <button class="btn btn-secondary" onclick="logout()">Se déconnecter</button>
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; flex-wrap: nowrap; gap: 1rem;">
+                    <h2 style="margin: 0; white-space: nowrap;">Mon Profil</h2>
+                    <button onclick="logout()" style="padding: 0.75rem 1.5rem; background: #ef4444; color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: 600; transition: all 0.3s ease; white-space: nowrap;" onmouseover="this.style.background='#dc2626'" onmouseout="this.style.background='#ef4444'">Se déconnecter</button>
                 </div>
                 
                 <div id="profileInfo"></div>
@@ -205,21 +205,19 @@
                     ratingsDiv.innerHTML = showNoResults('Vous n\'avez pas encore noté de séries.');
                 } else {
                     ratingsDiv.innerHTML = `
-                        <p style="color: var(--text-secondary); margin-bottom: 15px;">
+                        <p style="color: var(--text-secondary); margin-bottom: 20px;">
                             ${ratings.total} série${ratings.total > 1 ? 's' : ''} notée${ratings.total > 1 ? 's' : ''}
                         </p>
-                        <div style="display: grid; gap: 15px;">
+                        <div class="series-grid">
                             ${ratings.ratings.map(r => `
-                                <div style="display: flex; justify-content: space-between; align-items: center; padding: 15px; background: var(--bg-dark); border-radius: 8px;">
-                                    <div>
-                                        <strong>${formatSeriesTitle(r.serie_id)}</strong>
-                                        <span class="language-badge ${getLanguage(r.serie_id)}" style="margin-left: 10px;">
-                                            ${getLanguage(r.serie_id).toUpperCase()}
-                                        </span>
+                                <div class="series-card">
+                                    <div class="series-rating">
+                                        <span class="rating-value">${'★'.repeat(r.rating)}${'☆'.repeat(5 - r.rating)}</span>
                                     </div>
-                                    <div style="font-size: 20px;">
-                                        ${'★'.repeat(r.rating)}${'☆'.repeat(5 - r.rating)}
-                                    </div>
+                                    <h3>${formatSeriesTitle(r.serie_id)}</h3>
+                                    <span class="language-badge ${getLanguage(r.serie_id)}">
+                                        ${getLanguage(r.serie_id).toUpperCase()}
+                                    </span>
                                 </div>
                             `).join('')}
                         </div>

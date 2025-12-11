@@ -1,6 +1,18 @@
 """
-API SQLite pour les recommandations (déjà créé précédemment avec poster_url)
-Modifié pour ajouter poster_url partout
+API de recommandation de séries TV utilisant SQLite.
+
+Ce module implémente plusieurs algorithmes de recommandation:
+1. Recommandations par popularité (score basé sur note moyenne et nombre de votes)
+2. Filtrage collaboratif (basé sur la similitude entre utilisateurs)
+3. Recommandations hybrides (combinaison des deux méthodes)
+
+Algorithmes:
+    - Popularité: score = note_moyenne * log(1 + nb_votes)
+    - Collaboratif: Trouve les utilisateurs similaires puis recommande leurs séries préférées
+    - Hybride: Moyenne pondérée des scores de popularité et collaboratif
+
+La langue préférée de l'utilisateur est prise en compte pour personnaliser
+les recommandations (VF vs VO).
 """
 from flask import Blueprint, request, jsonify
 import math
@@ -8,15 +20,63 @@ from database.db_sqlite import get_connection
 
 api_recommend_sqlite = Blueprint('api_recommend_sqlite', __name__)
 
+
+# ============================================================================
+# HELPERS DE CALCUL DE SCORES
+# ============================================================================
+
+def calculate_popularity_score(average_rating, num_ratings):
+    """
+    Calculer un score de popularité pour une série.
+    
+    Le score combine la note moyenne avec le nombre de votes en utilisant
+    une fonction logarithmique pour éviter que les séries avec beaucoup de
+    votes mais une note moyenne écrasent les séries bien notées mais moins votées.
+    
+    Formule: score = note_moyenne * log(1 + nb_votes)
+    
+    Args:
+        average_rating (float): Note moyenne de la série (0-5)
+        num_ratings (int): Nombre total de votes
+        
+    Returns:
+        float: Score de popularité calculé
+    """
+    if num_ratings > 0:
+        return average_rating * math.log(1 + num_ratings)
+    return 0.0
+
+
+# ============================================================================
+# RECOMMANDATIONS PAR POPULARITÉ
+# ============================================================================
+
 @api_recommend_sqlite.route('/api/recommend/popularity', methods=['GET'])
 def recommend_popularity():
-    """Recommandations basées sur la popularité."""
+    """
+    Recommander des séries basées sur leur popularité.
+    
+    Le score de popularité combine la note moyenne et le nombre de votes
+    pour équilibrer qualité et consensus. Les séries sans votes sont également
+    incluses avec un score basé sur le nombre de mots-clés (indicateur de richesse).
+    
+    Query params:
+        limit (int): Nombre maximum de recommandations (défaut: 10)
+        language (str): Filtrer par langue ('vf', 'vo', ou vide pour toutes)
+        
+    Returns:
+        JSON: {
+            'method': 'popularity',
+            'recommendations': [...]
+        }
+    """
     limit = request.args.get('limit', 10, type=int)
     language = request.args.get('language')
     
     with get_connection() as conn:
         cursor = conn.cursor()
         
+        # Construire la requête SQL avec score de popularité
         query = """
             SELECT s.id, s.title, s.language, s.average_rating, s.num_ratings, s.poster_url,
                    CASE 
@@ -31,11 +91,14 @@ def recommend_popularity():
         """
         params = []
         
+        # Appliquer le filtre de langue si spécifié
         if language:
             query += " WHERE s.language = ?"
             params.append(language.lower())
         
-        query += " ORDER BY pop_score DESC, s.title ASC LIMIT ?"
+        # Tri par score de popularité décroissant, puis par note moyenne
+        # (pas de tri alphabétique pour éviter les biais)
+        query += " ORDER BY pop_score DESC, s.average_rating DESC LIMIT ?"
         params.append(limit)
         
         cursor.execute(query, params)
@@ -54,9 +117,66 @@ def recommend_popularity():
         } for s in series]
     })
 
+
+# ============================================================================
+# FILTRAGE COLLABORATIF
+# ============================================================================
+
+def find_similar_users(conn, user_id, min_common_ratings=2):
+    """
+    Trouver les utilisateurs avec des goûts similaires à un utilisateur donné.
+    
+    La similitude est calculée en comptant:
+    - Le nombre de séries notées en commun
+    - Le nombre de notes similaires (différence ≤ 1 étoile)
+    
+    Args:
+        conn: Connexion à la base de données
+        user_id (int): ID de l'utilisateur de référence
+        min_common_ratings (int): Nombre minimum de séries en commun requises
+        
+    Returns:
+        list: Liste des IDs d'utilisateurs similaires, triés par similarité
+    """
+    cursor = conn.cursor()
+    cursor.execute(
+        """SELECT r2.user_id, COUNT(*) as common_ratings,
+                  SUM(CASE WHEN ABS(r1.rating - r2.rating) <= 1 THEN 1 ELSE 0 END) as similar_ratings
+           FROM ratings r1
+           JOIN ratings r2 ON r1.serie_id = r2.serie_id
+           WHERE r1.user_id = ? AND r2.user_id != r1.user_id
+           GROUP BY r2.user_id
+           HAVING common_ratings >= ?
+           ORDER BY similar_ratings DESC, common_ratings DESC
+           LIMIT 10""",
+        (user_id, min_common_ratings)
+    )
+    similar_users_data = cursor.fetchall()
+    return [row[0] for row in similar_users_data]
+
+
 @api_recommend_sqlite.route('/api/recommend/collaborative/<int:user_id>', methods=['GET'])
 def recommend_collaborative(user_id):
-    """Recommandations par filtrage collaboratif amélioré."""
+    """
+    Recommander des séries par filtrage collaboratif.
+    
+    Algorithme:
+    1. Récupérer les notes de l'utilisateur et sa langue préférée
+    2. Trouver des utilisateurs similaires (ayant noté les mêmes séries de façon similaire)
+    3. Identifier les séries bien notées (≥4/5) par ces utilisateurs similaires
+    4. Filtrer pour ne garder que les séries dans la langue préférée
+    5. Exclure les séries déjà notées par l'utilisateur
+    6. Trier par note moyenne prédite
+    
+    Query params:
+        limit (int): Nombre maximum de recommandations (défaut: 10)
+        
+    Returns:
+        JSON: {
+            'method': 'collaborative',
+            'recommendations': [...]
+        }
+    """
     limit = request.args.get('limit', 10, type=int)
     
     with get_connection() as conn:
