@@ -56,16 +56,19 @@ def recommend_popularity():
 
 @api_recommend_sqlite.route('/api/recommend/collaborative/<int:user_id>', methods=['GET'])
 def recommend_collaborative(user_id):
-    """Recommandations par filtrage collaboratif."""
+    """Recommandations par filtrage collaboratif amélioré."""
     limit = request.args.get('limit', 10, type=int)
     
     with get_connection() as conn:
         cursor = conn.cursor()
         
-        # Vérifier que l'utilisateur existe
-        cursor.execute("SELECT id FROM users WHERE id = ?", (user_id,))
-        if not cursor.fetchone():
+        # Vérifier que l'utilisateur existe et récupérer sa langue préférée
+        cursor.execute("SELECT id, language_preference FROM users WHERE id = ?", (user_id,))
+        user_row = cursor.fetchone()
+        if not user_row:
             return jsonify({'error': 'Utilisateur non trouvé'}), 404
+        
+        user_lang = user_row[1] if user_row[1] else 'vf'
         
         # Notes de l'utilisateur
         cursor.execute(
@@ -81,36 +84,47 @@ def recommend_collaborative(user_id):
                 'recommendations': []
             })
         
-        # Trouver les utilisateurs similaires (ont noté les mêmes séries)
+        # Trouver les utilisateurs similaires avec score de similarité
         cursor.execute(
-            """SELECT DISTINCT r2.user_id
+            """SELECT r2.user_id, COUNT(*) as common_ratings,
+                      SUM(CASE WHEN ABS(r1.rating - r2.rating) <= 1 THEN 1 ELSE 0 END) as similar_ratings
                FROM ratings r1
                JOIN ratings r2 ON r1.serie_id = r2.serie_id
-               WHERE r1.user_id = ? AND r2.user_id != r1.user_id""",
+               WHERE r1.user_id = ? AND r2.user_id != r1.user_id
+               GROUP BY r2.user_id
+               HAVING common_ratings >= 2
+               ORDER BY similar_ratings DESC, common_ratings DESC
+               LIMIT 10""",
             (user_id,)
         )
-        similar_users = [row[0] for row in cursor.fetchall()]
+        similar_users_data = cursor.fetchall()
         
-        if not similar_users:
+        if not similar_users_data:
             return jsonify({
                 'method': 'collaborative',
                 'message': 'Aucun utilisateur similaire trouvé',
                 'recommendations': []
             })
         
-        # Séries non vues par l'utilisateur mais aimées par les utilisateurs similaires
+        similar_users = [row[0] for row in similar_users_data]
+        
+        # Séries non vues, aimées par utilisateurs similaires, dans la langue préférée
         placeholders = ','.join('?' * len(similar_users))
         cursor.execute(
             f"""SELECT s.id, s.title, s.language, s.average_rating, s.num_ratings, s.poster_url,
-                       AVG(r.rating) as pred_rating
+                       AVG(r.rating) as pred_rating,
+                       COUNT(*) as recommendation_count
                 FROM series s
                 JOIN ratings r ON s.id = r.serie_id
                 WHERE r.user_id IN ({placeholders})
+                  AND r.rating >= 4
                   AND s.id NOT IN ({','.join('?' * len(user_ratings))})
+                  AND s.language = ?
                 GROUP BY s.id
-                ORDER BY pred_rating DESC
+                HAVING AVG(r.rating) >= 4.0
+                ORDER BY pred_rating DESC, recommendation_count DESC
                 LIMIT ?""",
-            similar_users + list(user_ratings.keys()) + [limit]
+            similar_users + list(user_ratings.keys()) + [user_lang, limit]
         )
         recommendations = cursor.fetchall()
     

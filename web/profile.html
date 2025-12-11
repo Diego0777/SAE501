@@ -9,14 +9,13 @@
 <body>
     <nav class="navbar">
         <div class="container">
-            <a href="index.html" class="logo">📺 S5C.01</a>
+            <a href="index.html" class="logo">S5C.01</a>
             <ul class="nav-links">
                 <li><a href="index.html">Accueil</a></li>
                 <li><a href="search.html">Recherche</a></li>
                 <li><a href="recommendations.html">Recommandations</a></li>
                 <li><a href="series.html">Séries</a></li>
                 <li><a href="profile.html" class="active" id="profileLink">Profil</a></li>
-                <li><button id="languageToggle" class="language-toggle all" onclick="toggleLanguage()">🌍 Tous</button></li>
             </ul>
         </div>
     </nav>
@@ -24,7 +23,7 @@
     <main class="container">
         <!-- Formulaire de connexion -->
         <div id="loginSection" class="auth-form" style="display: none;">
-            <h2>👤 Connexion</h2>
+            <h2>Connexion</h2>
             <form onsubmit="login(event)">
                 <div class="form-group">
                     <label for="loginUsername">Nom d'utilisateur</label>
@@ -72,7 +71,7 @@
         <div id="profileSection" style="display: none;">
             <div class="search-section">
                 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-                    <h2>👤 Mon Profil</h2>
+                    <h2>Mon Profil</h2>
                     <button class="btn btn-secondary" onclick="logout()">Se déconnecter</button>
                 </div>
                 
@@ -80,7 +79,7 @@
             </div>
 
             <div class="search-section" style="margin-top: 30px;">
-                <h3>⭐ Mes notations</h3>
+                <h3>Mes notations</h3>
                 <div id="userRatings"></div>
             </div>
         </div>

@@ -9,14 +9,13 @@
 <body>
     <nav class="navbar">
         <div class="container">
-            <a href="index.html" class="logo">📺 S5C.01</a>
+            <a href="index.html" class="logo">S5C.01</a>
             <ul class="nav-links">
                 <li><a href="index.html">Accueil</a></li>
                 <li><a href="search.html" class="active">Recherche</a></li>
                 <li><a href="recommendations.html">Recommandations</a></li>
                 <li><a href="series.html">Séries</a></li>
                 <li><a href="profile.html" id="profileLink">Profil</a></li>
-                <li><button id="languageToggle" class="language-toggle all" onclick="toggleLanguage()">🌍 Tous</button></li>
             </ul>
         </div>
     </nav>
@@ -24,38 +23,33 @@
     <main class="container">
         <section class="hero-search">
             <div class="search-hero-content">
-                <h1>🔍 Rechercher une série</h1>
+                <h1>Rechercher une série</h1>
                 <p class="subtitle">Recherchez par titre ou par mots-clés (crash avion île → Lost)</p>
                 
                 <form class="search-form-modern" onsubmit="performSearch(event)">
-                    <div class="search-input-wrapper">
+                    <div class="search-input-wrapper-enhanced">
                         <input type="text" id="searchQuery" placeholder="Rechercher une série... (ex: lost, crash avion, breaking bad)" required>
-                        <button type="submit" class="btn btn-primary">🔍 Rechercher</button>
-                    </div>
-                    
-                    <div class="search-filters">
-                        <div class="filter-item">
-                            <label for="searchLanguage">🌍 Langue</label>
-                            <select id="searchLanguage">
-                                <option value="">Toutes</option>
-                                <option value="vf">VF</option>
-                                <option value="vo">VO</option>
-                            </select>
-                        </div>
                         
-                        <div class="filter-item">
-                            <label for="searchTop">📊 Résultats</label>
-                            <select id="searchTop">
+                        <div class="search-filters-inline">
+                            <select id="searchLanguage" class="language-filter-prominent">
+                                <option value="vf" selected>VF</option>
+                                <option value="vo">VO</option>
+                                <option value="">Tous</option>
+                            </select>
+                            
+                            <select id="searchTop" class="results-filter">
                                 <option value="10">10</option>
                                 <option value="20" selected>20</option>
                                 <option value="50">50</option>
                             </select>
                         </div>
+                        
+                        <button type="submit" class="btn btn-primary btn-search">Rechercher</button>
                     </div>
                 </form>
                 
                 <div class="search-tips">
-                    <p><strong>💡 Astuce :</strong> La recherche est intelligente et cherche dans les titres ET les mots-clés</p>
+                    <p><strong>Astuce :</strong> La recherche est intelligente et cherche dans les titres ET les mots-clés</p>
                 </div>
             </div>
         </section>
