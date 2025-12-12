@@ -44,13 +44,25 @@
             const div = document.getElementById('serieDetails');
             div.innerHTML = showLoading();
             
+            // Récupérer l'utilisateur connecté et sa note existante
+            let currentUserRating = null;
+            let currentUserId = null;
+            try {
+                const profile = await apiRequest('/profile');
+                currentUserId = profile.user_id;
+                const userRatingData = await apiRequest(`/api/ratings/user/${currentUserId}/series/${encodeURIComponent(serieTitle)}`, { requireAuth: false });
+                currentUserRating = userRatingData.rating;
+            } catch {
+                // Utilisateur non connecté ou pas de note
+            }
+            
             try {
                 const serie = await apiRequest(`/api/series/${encodeURIComponent(serieTitle)}`, { requireAuth: false });
                 
                 const keywordsHtml = serie.keywords ? `
                     <div class="search-section" style="margin-top: 30px;">
                         <h3>Mots-clés principaux</h3>
-                        <div class="series-keywords">`
+                        <div class="series-keywords">
                             ${serie.keywords.slice(0, 20).map(kw => 
                                 `<span class="keyword-tag">${kw.keyword} (${kw.score.toFixed(2)})</span>`
                             ).join('')}
@@ -122,20 +134,20 @@
                             <div style="margin-top: 30px; padding: 25px; background: var(--surface); border-radius: 12px;">
                                 <h3 style="margin-bottom: 15px; display: flex; align-items: center; gap: 10px;">
                                     <span style="font-size: 24px;">⭐</span>
-                                    Noter cette série
+                                    ${currentUserRating ? 'Votre note' : 'Noter cette série'}
                                 </h3>
                                 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
                                     ${[1,2,3,4,5].map(i => `
                                         <button class="star-btn" data-rating="${i}" onclick="rateSerie(${i})" 
-                                                style="font-size: 2rem; background: none; border: none; cursor: pointer; color: var(--text-secondary); transition: all 0.2s;">
-                                            ☆
+                                                style="font-size: 2rem; background: none; border: none; cursor: pointer; color: ${i <= currentUserRating ? '#fbbf24' : 'var(--text-secondary)'}; transition: all 0.2s;">
+                                            ${i <= currentUserRating ? '★' : '☆'}
                                         </button>
                                     `).join('')}
                                 </div>
                                 <p style="color: var(--text-secondary); font-size: 0.9rem;">
-                                    Cliquez sur une étoile pour noter
+                                    ${currentUserRating ? 'Cliquez sur une étoile pour modifier votre note' : 'Cliquez sur une étoile pour noter'}
                                 </p>
-                                <div id="ratingMessage" style="margin-top: 10px; font-weight: 500;"></div>
+                                <div id="ratingMessage" style="margin-top: 10px; font-weight: 500;">${currentUserRating ? `<span style="color: var(--success);">Note actuelle : ${currentUserRating}/5</span>` : ''}</div>
                             </div>
                         </div>
                     </div>

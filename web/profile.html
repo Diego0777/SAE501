@@ -210,14 +210,22 @@
                         </p>
                         <div class="series-grid">
                             ${ratings.ratings.map(r => `
-                                <div class="series-card">
+                                <div class="series-card" style="position: relative;">
                                     <div class="series-rating">
-                                        <span class="rating-value">${'★'.repeat(r.rating)}${'☆'.repeat(5 - r.rating)}</span>
+                                        <span class="rating-value" style="font-size: 1.5rem;">${'★'.repeat(r.rating)}${'☆'.repeat(5 - r.rating)}</span>
                                     </div>
-                                    <h3>${formatSeriesTitle(r.serie_id)}</h3>
+                                    <h3 style="margin: 10px 0;">${formatSeriesTitle(r.serie_id)}</h3>
                                     <span class="language-badge ${getLanguage(r.serie_id)}">
                                         ${getLanguage(r.serie_id).toUpperCase()}
                                     </span>
+                                    <div style="margin-top: 15px; display: flex; gap: 10px; flex-wrap: wrap;">
+                                        <button onclick="viewSeriesDetails('${r.serie_id}')" class="btn btn-primary btn-sm" style="flex: 1; min-width: 100px;">
+                                            Voir
+                                        </button>
+                                        <button onclick="showEditRating('${r.serie_id}', ${r.rating})" class="btn btn-secondary btn-sm" style="flex: 1; min-width: 100px;">
+                                            Modifier
+                                        </button>
+                                    </div>
                                 </div>
                             `).join('')}
                         </div>
@@ -233,6 +241,88 @@
             removeToken();
             updateProfileLink();
             showLogin();
+        }
+
+        async function showEditRating(serieTitle, currentRating) {
+            const modal = document.createElement('div');
+            modal.style.cssText = 'position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); display: flex; align-items: center; justify-content: center; z-index: 9999;';
+            
+            modal.innerHTML = `
+                <div style="background: var(--surface); padding: 30px; border-radius: 12px; max-width: 500px; width: 90%;">
+                    <h3 style="margin-bottom: 20px;">${formatSeriesTitle(serieTitle)}</h3>
+                    <p style="color: var(--text-secondary); margin-bottom: 20px;">Modifier votre note :</p>
+                    <div style="display: flex; gap: 10px; margin-bottom: 20px; justify-content: center;">
+                        ${[1,2,3,4,5].map(i => `
+                            <button class="edit-star-btn" data-rating="${i}" 
+                                    style="font-size: 2.5rem; background: none; border: none; cursor: pointer; color: ${i <= currentRating ? '#fbbf24' : 'var(--text-secondary)'}; transition: all 0.2s;"
+                                    onmouseover="highlightStars(${i})" onclick="updateRating('${serieTitle}', ${i})">
+                                ${i <= currentRating ? '★' : '☆'}
+                            </button>
+                        `).join('')}
+                    </div>
+                    <div style="display: flex; gap: 10px;">
+                        <button onclick="this.closest('div').parentElement.parentElement.remove()" class="btn btn-secondary" style="flex: 1;">Annuler</button>
+                        <button onclick="deleteRating('${serieTitle}')" class="btn" style="flex: 1; background: #ef4444;">Supprimer</button>
+                    </div>
+                </div>
+            `;
+            
+            document.body.appendChild(modal);
+            modal.onclick = (e) => { if (e.target === modal) modal.remove(); };
+        }
+
+        function highlightStars(rating) {
+            document.querySelectorAll('.edit-star-btn').forEach((btn, idx) => {
+                if (idx < rating) {
+                    btn.textContent = '★';
+                    btn.style.color = '#fbbf24';
+                } else {
+                    btn.textContent = '☆';
+                    btn.style.color = 'var(--text-secondary)';
+                }
+            });
+        }
+
+        async function updateRating(serieTitle, newRating) {
+            try {
+                const profile = await apiRequest('/profile');
+                await apiRequest('/rate', {
+                    method: 'POST',
+                    requireAuth: false,
+                    body: JSON.stringify({
+                        user_id: profile.user_id,
+                        series_title: serieTitle,
+                        rating: newRating
+                    })
+                });
+                
+                document.querySelector('div[style*="position: fixed"]').remove();
+                loadProfile();
+            } catch (error) {
+                alert('Erreur lors de la modification de la note.');
+            }
+        }
+
+        async function deleteRating(serieTitle) {
+            if (!confirm('Êtes-vous sûr de vouloir supprimer cette note ?')) return;
+            
+            try {
+                const profile = await apiRequest('/profile');
+                const ratings = await apiRequest(`/api/ratings?user_id=${profile.user_id}`, { requireAuth: false });
+                const rating = ratings.find(r => r.serie_id === serieTitle);
+                
+                if (rating) {
+                    await apiRequest(`/api/ratings/${rating.id}`, {
+                        method: 'DELETE',
+                        requireAuth: false
+                    });
+                    
+                    document.querySelector('div[style*="position: fixed"]').remove();
+                    loadProfile();
+                }
+            } catch (error) {
+                alert('Erreur lors de la suppression de la note.');
+            }
         }
 
         // Initialisation
