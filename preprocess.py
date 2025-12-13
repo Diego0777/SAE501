@@ -24,131 +24,10 @@ import re
 import glob
 import unicodedata
 from tqdm import tqdm
-import nltk
 from langdetect import detect, LangDetectException
+from stopwords_config import get_french_stopwords, get_english_stopwords
 
-# S'assurer d'avoir les stopwords
-try:
-    nltk.data.find('corpora/stopwords')
-except LookupError:
-    nltk.download('stopwords', quiet=True)
 
-from nltk.corpus import stopwords
-
-def create_comprehensive_stopwords():
-    """
-    Crée un ensemble complet de stopwords français et anglais
-    identique à celui utilisé dans indexer.py pour la cohérence.
-    """
-    french_stop = {
-        # Pronoms et articles
-        'le', 'la', 'les', 'un', 'une', 'des', 'de', 'du', 'au', 'aux', 'et', 'ou', 'mais', 'donc', 'car',
-        'ni', 'ne', 'pas', 'plus', 'moins', 'tres', 'trop', 'bien', 'mal', 'tout', 'tous', 'toute', 'toutes',
-        'je', 'tu', 'il', 'elle', 'nous', 'vous', 'ils', 'elles', 'me', 'te', 'se', 'mon', 'ton', 'son',
-        'ma', 'ta', 'sa', 'mes', 'tes', 'ses', 'notre', 'votre', 'leur', 'ce', 'cet', 'cette', 'ces',
-        'qui', 'que', 'quoi', 'dont', 'quand', 'comment', 'pourquoi', 'quel', 'quelle', 'quels', 'quelles',
-        
-        # Verbes courants
-        'suis', 'es', 'est', 'sommes', 'etes', 'sont', 'ai', 'as', 'avons', 'avez', 'ont',
-        'ete', 'etais', 'etait', 'etions', 'etiez', 'etaient', 'avoir', 'etre', 'fait', 'faire',
-        'dit', 'dire', 'va', 'vas', 'vais', 'allons', 'allez', 'vont', 'aller', 'peux', 'peut', 'pouvons',
-        'pouvez', 'peuvent', 'pouvoir', 'veux', 'veut', 'voulons', 'voulez', 'veulent', 'vouloir',
-        'dois', 'doit', 'devons', 'devez', 'doivent', 'devoir', 'sais', 'sait', 'savons', 'savez', 'savent',
-        'pour', 'dans', 'sur', 'avec', 'sans', 'sous', 'par', 'chez', 'vers', 'avant', 'apres',
-        
-        # Adverbes et conjonctions
-        'si', 'comme', 'aussi', 'alors', 'encore', 'deja', 'toujours', 'jamais', 'ici', 'voici', 'voila',
-        'oui', 'non', 'rien', 'quelque', 'quelques', 'chaque', 'autre', 'autres', 'meme', 'memes',
-        'tait', 'tre', 'chose', 'choses', 'ah', 'oh', 'euh', 'hum', 'hein', 'ben', 'ok', 'okay', 'ouais', 'nan',
-        'allez', 'allons', 'attends', 'attendez', 'regarde', 'regardez', 'ecoute', 'ecoutez',
-        'tiens', 'tenez', 'viens', 'venez', 'voici', 'peu', 'beaucoup', 'assez',
-        
-        # MOTS TRONQU\u00c9S (apr\u00e8s suppression des accents et s\u00e9paration)
-        'parce', 'quelqu', 'aujourd', 'peut', 'c', 'd', 'l', 's', 't',
-        
-        # MOTS COMMUNS TR\u00c8S FR\u00c9QUENTS (sans sp\u00e9cificit\u00e9)
-        'voir', 'fais', 'passe', 'juste', 'vie', 'merci', 'vraiment', 'fois', 'soir',
-        'pense', 'crois', 'semble', 'parait', 'comprends', 'trouve',
-        'reste', 'part', 'vient', 'tient', 'sent', 'vois', 'sens',
-        'attend', 'appelle', 'ouvre', 'ferme', 'commence', 'finit', 'continue',
-        'moment', 'jour', 'nuit', 'matin', 'heure', 'temps', 'ans', 'annees',
-        'personne', 'gens', 'monde', 'homme', 'femme', 'enfant', 'fille', 'garcon',
-        'bon', 'mauvais', 'grand', 'petit', 'nouveau', 'ancien', 'premier', 'dernier',
-        'hier', 'demain', 'tard', 'tot',
-        'pourrait', 'faudrait', 'devrait', 'serait', 'irait',
-        'vrai', 'faux', 'possible', 'impossible', 'certain',
-        'pardon', 'excuse',
-        'mieux', 'pire', 'meilleur',
-        'seul', 'seule', 'seuls', 'seules', 'ensemble',
-        'maintenant', 'ensuite', 'puis', 'pendant',
-        'aller', 'venir', 'etre', 'avoir'
-    }
-    
-    english_stop = {
-        # Articles et prépositions
-        'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'from',
-        'up', 'about', 'into', 'through', 'during', 'before', 'after', 'above', 'below', 'between', 'under',
-        'as', 'than', 'than', 'so', 'such',
-        
-        # Verbes courants
-        'is', 'am', 'are', 'was', 'were', 'be', 'been', 'being', 'have', 'has', 'had', 'having', 'do', 'does',
-        'did', 'doing', 'would', 'should', 'could', 'might', 'must', 'can', 'will', 'shall',
-        'go', 'goes', 'going', 'come', 'comes', 'coming', 'get', 'gets', 'getting', 'make', 'makes', 'making',
-        'take', 'takes', 'taking', 'see', 'sees', 'seeing', 'say', 'says', 'said', 'know', 'knows', 'knowing',
-        'think', 'thinks', 'thinking', 'want', 'wants', 'wanting', 'need', 'needs', 'needing',
-        'look', 'looks', 'looking', 'tell', 'tells', 'telling', 'ask', 'asks', 'asking',
-        'let', 'lets', 'letting', 'give', 'gives', 'giving', 'find', 'finds', 'finding',
-        'use', 'uses', 'using', 'work', 'works', 'working', 'call', 'calls', 'calling',
-        'try', 'tries', 'trying', 'feel', 'feels', 'feeling', 'become', 'becomes', 'becoming',
-        'leave', 'leaves', 'leaving', 'put', 'puts', 'putting', 'mean', 'means', 'meaning',
-        
-        # Pronoms
-        'i', 'you', 'he', 'she', 'it', 'we', 'they', 'me', 'him', 'her', 'us', 'them',
-        'my', 'your', 'his', 'her', 'its', 'our', 'their', 'mine', 'yours',
-        'this', 'that', 'these', 'those', 'what', 'which', 'who', 'whom', 'whose',
-        
-        # Questions et démonstratifs
-        'when', 'where', 'why', 'how', 'what', 'which', 'who', 'whose', 'whom',
-        
-        # Quantificateurs
-        'all', 'each', 'every', 'both', 'few', 'more', 'most', 'other', 'some', 'any',
-        'many', 'much', 'no', 'none', 'nothing', 'anybody', 'anybody', 'everybody',
-        'nobody', 'somebody', 'anyone', 'someone', 'everyone', 'something', 'anything',
-        'everything',
-        
-        # Adverbes courants
-        'very', 'just', 'now', 'only', 'own', 'same', 'also', 'too', 'not', 'no', 'nor',
-        'well', 'really', 'even', 'rather', 'quite', 'almost', 'ever', 'never', 'always',
-        'sometimes', 'often', 'usually', 'probably', 'certainly', 'definitely', 'maybe', 'perhaps',
-        'certainly', 'seriously', 'actually', 'basically', 'literally', 'simply', 'just',
-        
-        # Interjections et expressions courantes
-        'yeah', 'hey', 'yes', 'okay', 'ok', 'right', 'sure', 'sorry', 'thank', 'thanks',
-        'please', 'hello', 'hi', 'bye', 'goodbye', 'good', 'great', 'wow', 'oh', 'ah',
-        'uh', 'er', 'um', 'mm', 'hmm', 'really', 'seriously', 'honestly', 'actually',
-        
-        # Mots tronqués / contractés
-        'dont', 'cant', 'wont', 'doesnt', 'isnt', 'arent', 'wasnt', 'werent', 'havent',
-        'hasnt', 'hadnt', 'didnt', 'shouldnt', 'wouldnt', 'couldnt', 'mustnt',
-        's', 'd', 't', 're', 've', 'll', 'm',
-        
-        # Mots courants trop génériques
-        'time', 'times', 'way', 'thing', 'things', 'place', 'day', 'night', 'morning',
-        'evening', 'moment', 'second', 'minute', 'hour', 'week', 'year', 'month',
-        'guy', 'guys', 'man', 'men', 'woman', 'women', 'person', 'people',
-        'person', 'friend', 'friends', 'family', 'life', 'world', 'life', 'world',
-        'right', 'left', 'good', 'bad', 'big', 'small', 'new', 'old', 'first', 'last',
-        'next', 'last', 'same', 'different', 'same', 'different', 'like', 'unlike',
-        'help', 'hand', 'idea', 'matter', 'reason', 'fact', 'kind', 'sort', 'type',
-        'sense', 'point', 'part', 'piece', 'bit', 'lot', 'bunch', 'set', 'group',
-        'look', 'sound', 'feel', 'seem', 'appear', 'show', 'turn', 'move', 'come',
-        'back', 'down', 'up', 'out', 'in', 'here', 'there', 'around', 'along',
-        'away', 'over', 'under', 'near', 'far', 'close', 'close', 'open', 'close'
-    }
-    
-    return french_stop, english_stop
-
-# Normalize stopwords (remove accents)
 def normalize_stopwords(stopwords_set):
     """Enlève les accents des stopwords."""
     normalized = set()
@@ -157,9 +36,10 @@ def normalize_stopwords(stopwords_set):
         normalized.add(''.join(c for c in nfd if unicodedata.category(c) != 'Mn'))
     return normalized
 
-STOPWORDS_FR, STOPWORDS_EN = create_comprehensive_stopwords()
-STOPWORDS_FR = normalize_stopwords(STOPWORDS_FR)
-STOPWORDS_EN = normalize_stopwords(STOPWORDS_EN)
+
+# Récupérer les stopwords depuis la config centralisée
+STOPWORDS_FR = normalize_stopwords(get_french_stopwords())
+STOPWORDS_EN = normalize_stopwords(get_english_stopwords())
 
 TIMESTAMP_RE = re.compile(r'\d{2}:\d{2}:\d{2},\d{3}\s*-->\s*\d{2}:\d{2}:\d{2},\d{3}')
 TAG_RE = re.compile(r'<[^>]+>')
