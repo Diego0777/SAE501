@@ -1,802 +1,802 @@
 [
   {
     "keyword": "coraline",
-    "score": 459.6931082227078
+    "score": 756.9171690469904
   },
   {
     "keyword": "tierney",
-    "score": 371.63439784115275
-  },
-  {
-    "keyword": "buzzwire",
-    "score": 174.86297599133633
+    "score": 592.4566201960962
   },
   {
     "keyword": "mick",
-    "score": 163.32793371903097
-  },
-  {
-    "keyword": "mick john",
-    "score": 150.95506610431408
+    "score": 260.3761012352498
   },
   {
     "keyword": "josef",
-    "score": 147.50664760753517
-  },
-  {
-    "keyword": "lee jay",
-    "score": 139.58992476746545
+    "score": 235.15393194407807
   },
   {
     "keyword": "vampire",
-    "score": 62.880945640904464
+    "score": 127.39668106025684
   },
   {
     "keyword": "beth",
-    "score": 34.71406010452473
+    "score": 55.34088029063877
   },
   {
-    "keyword": "dominic",
-    "score": 16.014949496384872
+    "keyword": "one",
+    "score": 55.205690186982885
   },
   {
-    "keyword": "really",
-    "score": 15.952137286748238
+    "keyword": "gonna",
+    "score": 52.078885917663854
+  },
+  {
+    "keyword": "got",
+    "score": 43.62046319595103
   },
   {
     "keyword": "blood",
-    "score": 15.365378923547377
+    "score": 26.6495524072003
+  },
+  {
+    "keyword": "dominic",
+    "score": 25.53090592893629
   },
   {
     "keyword": "vampires",
-    "score": 14.330619302863685
+    "score": 22.845760044850692
   },
   {
     "keyword": "maureen",
-    "score": 14.11001437310497
-  },
-  {
-    "keyword": "something",
-    "score": 12.775452396214028
-  },
-  {
-    "keyword": "abbott",
-    "score": 11.361739432144425
-  },
-  {
-    "keyword": "vamp",
-    "score": 10.241947714443429
-  },
-  {
-    "keyword": "never",
-    "score": 9.530033366743137
-  },
-  {
-    "keyword": "shepherd",
-    "score": 8.753210145952382
-  },
-  {
-    "keyword": "human",
-    "score": 8.395486850409645
-  },
-  {
-    "keyword": "mean",
-    "score": 7.915684019983106
-  },
-  {
-    "keyword": "years",
-    "score": 7.688835672166014
-  },
-  {
-    "keyword": "talbot",
-    "score": 6.8207474820810825
-  },
-  {
-    "keyword": "find",
-    "score": 6.239029383921165
-  },
-  {
-    "keyword": "said",
-    "score": 6.176187315647658
-  },
-  {
-    "keyword": "thought",
-    "score": 6.073665841328232
+    "score": 22.494073409160663
   },
   {
     "keyword": "kill",
-    "score": 6.061430344959542
+    "score": 17.92485444973852
   },
   {
-    "keyword": "say",
-    "score": 5.920645422665384
+    "keyword": "human",
+    "score": 16.738797984417108
+  },
+  {
+    "keyword": "shepherd",
+    "score": 13.954298442400177
+  },
+  {
+    "keyword": "years",
+    "score": 12.257481067513355
+  },
+  {
+    "keyword": "talbot",
+    "score": 10.873581734950243
+  },
+  {
+    "keyword": "thought",
+    "score": 9.68259008707761
   },
   {
     "keyword": "simone",
-    "score": 5.725798913753998
-  },
-  {
-    "keyword": "even",
-    "score": 5.48599503599939
+    "score": 9.128023380158512
   },
   {
     "keyword": "still",
-    "score": 5.467438423984934
-  },
-  {
-    "keyword": "jacob",
-    "score": 5.133854128785133
-  },
-  {
-    "keyword": "work",
-    "score": 4.654631088189925
-  },
-  {
-    "keyword": "lola",
-    "score": 4.524663931702584
-  },
-  {
-    "keyword": "kind",
-    "score": 4.424490269056693
-  },
-  {
-    "keyword": "way",
-    "score": 4.351793994287238
-  },
-  {
-    "keyword": "josh",
-    "score": 4.269005733280895
-  },
-  {
-    "keyword": "moonlight",
-    "score": 4.25506625601459
-  },
-  {
-    "keyword": "dead",
-    "score": 3.9987507883754563
-  },
-  {
-    "keyword": "nothing",
-    "score": 3.961035453831927
-  },
-  {
-    "keyword": "jay",
-    "score": 3.959971850703087
-  },
-  {
-    "keyword": "much",
-    "score": 3.9384579989070656
-  },
-  {
-    "keyword": "someone",
-    "score": 3.7945603142144364
-  },
-  {
-    "keyword": "anything",
-    "score": 3.7350564285800147
-  },
-  {
-    "keyword": "found",
-    "score": 3.6237578221983435
-  },
-  {
-    "keyword": "sire",
-    "score": 3.561207735778907
-  },
-  {
-    "keyword": "call",
-    "score": 3.441776501091743
-  },
-  {
-    "keyword": "killed",
-    "score": 3.424700735079479
-  },
-  {
-    "keyword": "happened",
-    "score": 3.3145894070843283
-  },
-  {
-    "keyword": "thank",
-    "score": 3.2611168868352918
-  },
-  {
-    "keyword": "always",
-    "score": 3.2412444526632727
-  },
-  {
-    "keyword": "keep",
-    "score": 3.1011016157531532
-  },
-  {
-    "keyword": "last",
-    "score": 3.061822539937624
-  },
-  {
-    "keyword": "give",
-    "score": 3.048706277381488
-  },
-  {
-    "keyword": "guillermo",
-    "score": 2.89448517235069
-  },
-  {
-    "keyword": "com bbs",
-    "score": 2.843821906462077
-  },
-  {
-    "keyword": "feel",
-    "score": 2.7797689335552014
-  },
-  {
-    "keyword": "told",
-    "score": 2.7029455513704344
-  },
-  {
-    "keyword": "wife",
-    "score": 2.7029455513704344
-  },
-  {
-    "keyword": "turn",
-    "score": 2.6864193408966903
-  },
-  {
-    "keyword": "movie",
-    "score": 2.683543092294118
-  },
-  {
-    "keyword": "turned",
-    "score": 2.6105701062068225
-  },
-  {
-    "keyword": "god",
-    "score": 2.609616905766461
-  },
-  {
-    "keyword": "morrow",
-    "score": 2.6071484062246357
-  },
-  {
-    "keyword": "night",
-    "score": 2.555767757614145
-  },
-  {
-    "keyword": "saw",
-    "score": 2.533444943002976
-  },
-  {
-    "keyword": "friend",
-    "score": 2.516602645186386
-  },
-  {
-    "keyword": "everything",
-    "score": 2.50998459708569
-  },
-  {
-    "keyword": "humans",
-    "score": 2.4950457004956763
-  },
-  {
-    "keyword": "wait",
-    "score": 2.493055621108828
-  },
-  {
-    "keyword": "please",
-    "score": 2.470520118348397
-  },
-  {
-    "keyword": "little",
-    "score": 2.4677340544418667
-  },
-  {
-    "keyword": "bbs",
-    "score": 2.4657820663158296
-  },
-  {
-    "keyword": "looking",
-    "score": 2.457834990186776
-  },
-  {
-    "keyword": "done",
-    "score": 2.4040245818962407
-  },
-  {
-    "keyword": "murder",
-    "score": 2.403522961424703
-  },
-  {
-    "keyword": "story",
-    "score": 2.382520011900372
-  },
-  {
-    "keyword": "ever",
-    "score": 2.328304171747649
-  },
-  {
-    "keyword": "morgan",
-    "score": 2.321988577707468
-  },
-  {
-    "keyword": "emma",
-    "score": 2.221856888836223
-  },
-  {
-    "keyword": "took",
-    "score": 2.215794479193606
-  },
-  {
-    "keyword": "knew",
-    "score": 2.180366796694215
-  },
-  {
-    "keyword": "around",
-    "score": 2.1616146020579006
-  },
-  {
-    "keyword": "actually",
-    "score": 2.1473661713693604
-  },
-  {
-    "keyword": "first",
-    "score": 2.09989098327844
-  },
-  {
-    "keyword": "talk",
-    "score": 2.0628270682738674
-  },
-  {
-    "keyword": "turner",
-    "score": 2.0576072039218944
-  },
-  {
-    "keyword": "stay",
-    "score": 2.029593382554845
-  },
-  {
-    "keyword": "somebody",
-    "score": 2.0073601627118443
-  },
-  {
-    "keyword": "www ydy",
-    "score": 1.975706415087774
-  },
-  {
-    "keyword": "love",
-    "score": 1.9556374824008014
-  },
-  {
-    "keyword": "heard",
-    "score": 1.9221510820443455
-  },
-  {
-    "keyword": "listen",
-    "score": 1.90033068104573
-  },
-  {
-    "keyword": "else",
-    "score": 1.8113801860656962
-  },
-  {
-    "keyword": "name",
-    "score": 1.8002503380557862
-  },
-  {
-    "keyword": "since",
-    "score": 1.7796553360261549
-  },
-  {
-    "keyword": "private investigator",
-    "score": 1.7618397571001183
-  },
-  {
-    "keyword": "away",
-    "score": 1.7345794341779133
-  },
-  {
-    "keyword": "investigator",
-    "score": 1.7335198711593385
-  },
-  {
-    "keyword": "better",
-    "score": 1.7272742693082044
-  },
-  {
-    "keyword": "made",
-    "score": 1.7080953805439567
-  },
-  {
-    "keyword": "logan",
-    "score": 1.6573433312758032
-  },
-  {
-    "keyword": "wanted",
-    "score": 1.6418538580250257
-  },
-  {
-    "keyword": "paparazzi",
-    "score": 1.625278601696166
-  },
-  {
-    "keyword": "ago",
-    "score": 1.6227005771102414
-  },
-  {
-    "keyword": "getting",
-    "score": 1.6227005771102414
-  },
-  {
-    "keyword": "foster",
-    "score": 1.601742072094822
-  },
-  {
-    "keyword": "thanks",
-    "score": 1.5902828565176412
-  },
-  {
-    "keyword": "understand",
-    "score": 1.5720067003439444
-  },
-  {
-    "keyword": "lee",
-    "score": 1.5554330338552467
-  },
-  {
-    "keyword": "perez",
-    "score": 1.5166951132807567
-  },
-  {
-    "keyword": "lot",
-    "score": 1.5033335076365406
-  },
-  {
-    "keyword": "believe",
-    "score": 1.4970523499774624
-  },
-  {
-    "keyword": "leave",
-    "score": 1.4954824833178835
-  },
-  {
-    "keyword": "exactly",
-    "score": 1.4939531306137424
-  },
-  {
-    "keyword": "life",
-    "score": 1.4574916152579906
-  },
-  {
-    "keyword": "hearst",
-    "score": 1.4545874322952526
-  },
-  {
-    "keyword": "ydy com",
-    "score": 1.4305644170252378
-  },
-  {
-    "keyword": "sure",
-    "score": 1.4240919756869796
-  },
-  {
-    "keyword": "alone",
-    "score": 1.3821289069845666
-  },
-  {
-    "keyword": "without",
-    "score": 1.3801632574293494
-  },
-  {
-    "keyword": "death",
-    "score": 1.3776097965422307
-  },
-  {
-    "keyword": "guess",
-    "score": 1.3769195073631417
-  },
-  {
-    "keyword": "dean",
-    "score": 1.3610991193759454
+    "score": 8.716147129063442
   },
   {
     "keyword": "hank",
-    "score": 1.3358473768720989
+    "score": 8.690402447132087
   },
   {
-    "keyword": "used",
-    "score": 1.3004739887085033
+    "keyword": "jacob",
+    "score": 8.184349681807104
   },
   {
-    "keyword": "gone",
-    "score": 1.2784144315194494
+    "keyword": "lola",
+    "score": 7.213183483745999
   },
   {
-    "keyword": "ydy",
-    "score": 1.2772908734762398
+    "keyword": "josh",
+    "score": 6.926337416191886
   },
   {
-    "keyword": "yeah well",
-    "score": 1.2618186253898616
+    "keyword": "sire",
+    "score": 6.859111040247261
   },
   {
-    "keyword": "looks",
-    "score": 1.2587892009716752
+    "keyword": "moonlight",
+    "score": 6.783392999660878
   },
   {
-    "keyword": "left",
-    "score": 1.234856072764315
+    "keyword": "dead",
+    "score": 6.7641423301869
   },
   {
-    "keyword": "whole",
-    "score": 1.186939118987294
+    "keyword": "morrow",
+    "score": 6.749934412748175
   },
   {
-    "keyword": "huh",
-    "score": 1.1733714209591755
+    "keyword": "jay",
+    "score": 6.312955830697961
   },
   {
-    "keyword": "family",
-    "score": 1.1630303275849605
+    "keyword": "found",
+    "score": 5.852606177739654
+  },
+  {
+    "keyword": "keep",
+    "score": 5.79750373470454
+  },
+  {
+    "keyword": "two",
+    "score": 5.608670509919195
+  },
+  {
+    "keyword": "talk",
+    "score": 5.469764183093187
+  },
+  {
+    "keyword": "killed",
+    "score": 5.459630848152871
+  },
+  {
+    "keyword": "happened",
+    "score": 5.2840922392181975
+  },
+  {
+    "keyword": "murder",
+    "score": 5.114672264962508
+  },
+  {
+    "keyword": "wait",
+    "score": 5.082808488903094
+  },
+  {
+    "keyword": "gotta",
+    "score": 5.033203379343384
+  },
+  {
+    "keyword": "movie",
+    "score": 4.94987489314382
   },
   {
     "keyword": "hear",
-    "score": 1.1613191971601011
+    "score": 4.850597665266348
   },
   {
-    "keyword": "old",
-    "score": 1.1598394968016092
+    "keyword": "guillermo",
+    "score": 4.6143653880811755
   },
   {
-    "keyword": "trying",
-    "score": 1.1432529702369492
+    "keyword": "com bbs",
+    "score": 4.533598409968204
   },
   {
-    "keyword": "audrey",
-    "score": 1.1325016900890092
+    "keyword": "lee",
+    "score": 4.4701720829636225
   },
   {
-    "keyword": "silver",
-    "score": 1.131964355017724
+    "keyword": "told",
+    "score": 4.30901443795705
   },
   {
-    "keyword": "tonight",
-    "score": 1.1318272195055057
+    "keyword": "wife",
+    "score": 4.30901443795705
   },
   {
-    "keyword": "cops",
-    "score": 1.1259685754221458
+    "keyword": "turned",
+    "score": 4.305888077908362
   },
   {
-    "keyword": "care",
-    "score": 1.1248418981760493
+    "keyword": "real",
+    "score": 4.215160802207448
   },
   {
-    "keyword": "anyone",
-    "score": 1.1164927853983726
+    "keyword": "god",
+    "score": 4.160230648665178
   },
   {
-    "keyword": "probably",
-    "score": 1.0954557438029342
+    "keyword": "story",
+    "score": 4.099126842795328
   },
   {
-    "keyword": "wrong",
-    "score": 1.0897012977187888
+    "keyword": "saw",
+    "score": 4.038797907576861
   },
   {
-    "keyword": "together",
-    "score": 1.0889712845157173
+    "keyword": "name",
+    "score": 4.017642172372804
   },
   {
-    "keyword": "tried",
-    "score": 1.0777289473190106
+    "keyword": "humans",
+    "score": 3.9775821386218877
   },
   {
-    "keyword": "called",
-    "score": 1.0603425154323591
+    "keyword": "little",
+    "score": 3.9340421283132927
   },
   {
-    "keyword": "john",
-    "score": 1.0592317173360648
+    "keyword": "bbs",
+    "score": 3.9309302842683578
   },
   {
-    "keyword": "investors",
-    "score": 1.057180835417874
+    "keyword": "done",
+    "score": 3.8949213783941836
   },
   {
-    "keyword": "died",
-    "score": 1.0163712927770705
+    "keyword": "com",
+    "score": 3.8816872892311802
   },
   {
-    "keyword": "pretty",
-    "score": 1.007310591323141
+    "keyword": "stay",
+    "score": 3.854163203301034
   },
   {
-    "keyword": "new",
-    "score": 1.0006121271040112
+    "keyword": "love",
+    "score": 3.835770258061073
   },
   {
-    "keyword": "mortal",
-    "score": 0.9910747891341631
+    "keyword": "morgan",
+    "score": 3.701695841057509
   },
   {
-    "keyword": "remember",
-    "score": 0.9892728418967449
+    "keyword": "emma",
+    "score": 3.6362110780619488
   },
   {
-    "keyword": "private",
-    "score": 0.9815274936961808
+    "keyword": "took",
+    "score": 3.5324020484059853
+  },
+  {
+    "keyword": "somethin",
+    "score": 3.4773208626651777
+  },
+  {
+    "keyword": "knew",
+    "score": 3.475923516932854
   },
   {
     "keyword": "thinkin",
-    "score": 0.9504657979389581
+    "score": 3.403637505777624
   },
   {
-    "keyword": "boyfriend",
-    "score": 0.9108602074986493
+    "keyword": "turner",
+    "score": 3.280221144243379
   },
   {
-    "keyword": "ask",
-    "score": 0.9066712304147714
+    "keyword": "body",
+    "score": 3.246533209803343
   },
   {
-    "keyword": "son",
-    "score": 0.9042675522251429
+    "keyword": "though",
+    "score": 3.223586309562308
   },
   {
-    "keyword": "girl",
-    "score": 0.8946098165945636
+    "keyword": "lin",
+    "score": 3.211037524683406
   },
   {
-    "keyword": "kent",
-    "score": 0.892710998675876
+    "keyword": "care",
+    "score": 3.1976293008422254
   },
   {
-    "keyword": "killer",
-    "score": 0.8900079482123868
+    "keyword": "www ydy",
+    "score": 3.149655553905325
   },
   {
-    "keyword": "forever",
-    "score": 0.8893856111303335
+    "keyword": "eat",
+    "score": 3.1285356587468103
   },
   {
-    "keyword": "talking",
-    "score": 0.8771678230960197
+    "keyword": "heard",
+    "score": 3.1239244294565225
   },
   {
-    "keyword": "live",
-    "score": 0.8761124853716512
+    "keyword": "listen",
+    "score": 3.0857249271101255
   },
   {
-    "keyword": "put",
-    "score": 0.8761124853716512
+    "keyword": "wanna",
+    "score": 2.9010919561705446
   },
   {
-    "keyword": "office",
-    "score": 0.862980598005883
+    "keyword": "investigator",
+    "score": 2.8928661733453334
   },
   {
-    "keyword": "cure",
-    "score": 0.8570898600835846
+    "keyword": "else",
+    "score": 2.8876879781869906
   },
   {
-    "keyword": "bad",
-    "score": 0.8463176794210561
+    "keyword": "ago",
+    "score": 2.855794348195607
+  },
+  {
+    "keyword": "since",
+    "score": 2.8371124729597046
+  },
+  {
+    "keyword": "private investigator",
+    "score": 2.8087110178234984
+  },
+  {
+    "keyword": "understand",
+    "score": 2.773531469049027
+  },
+  {
+    "keyword": "better",
+    "score": 2.7536069903395304
   },
   {
     "keyword": "came",
-    "score": 0.8404994842118382
+    "score": 2.744169737962664
   },
   {
-    "keyword": "try",
-    "score": 0.8368562216045294
+    "keyword": "made",
+    "score": 2.7230321574328094
+  },
+  {
+    "keyword": "logan",
+    "score": 2.6421236415577853
+  },
+  {
+    "keyword": "wanted",
+    "score": 2.617430445707018
+  },
+  {
+    "keyword": "paparazzi",
+    "score": 2.5910063030535775
+  },
+  {
+    "keyword": "live",
+    "score": 2.569774981588896
+  },
+  {
+    "keyword": "used",
+    "score": 2.562158158642436
+  },
+  {
+    "keyword": "foster",
+    "score": 2.553484553560631
+  },
+  {
+    "keyword": "believe",
+    "score": 2.486558923421667
+  },
+  {
+    "keyword": "guess",
+    "score": 2.4425460613289753
+  },
+  {
+    "keyword": "perez",
+    "score": 2.41790336390317
+  },
+  {
+    "keyword": "exactly",
+    "score": 2.381648274854022
+  },
+  {
+    "keyword": "hearst",
+    "score": 2.318891789682269
+  },
+  {
+    "keyword": "mortal",
+    "score": 2.318824256029015
+  },
+  {
+    "keyword": "ydy com",
+    "score": 2.280594488580783
+  },
+  {
+    "keyword": "alone",
+    "score": 2.203378981235751
+  },
+  {
+    "keyword": "without",
+    "score": 2.2002453582483765
+  },
+  {
+    "keyword": "death",
+    "score": 2.1961746510808666
+  },
+  {
+    "keyword": "dean",
+    "score": 2.1698534600180652
+  },
+  {
+    "keyword": "die",
+    "score": 2.1242943695941108
+  },
+  {
+    "keyword": "gone",
+    "score": 2.0380381840533053
+  },
+  {
+    "keyword": "ydy",
+    "score": 2.0362470166997424
   },
   {
     "keyword": "hit",
-    "score": 0.8367355801287988
+    "score": 1.9961973754048588
   },
   {
-    "keyword": "year",
-    "score": 0.835641958567539
+    "keyword": "girl",
+    "score": 1.983365813208054
   },
   {
-    "keyword": "anyway",
-    "score": 0.8195584700843115
+    "keyword": "bet",
+    "score": 1.9036191139378975
   },
   {
-    "keyword": "party",
-    "score": 0.8122493982222388
+    "keyword": "whole",
+    "score": 1.892208963698555
   },
   {
-    "keyword": "became",
-    "score": 0.8017448032683423
+    "keyword": "huh",
+    "score": 1.8705794467209147
   },
   {
-    "keyword": "long",
-    "score": 0.7892296213101107
+    "keyword": "ate",
+    "score": 1.8470679195306436
   },
   {
-    "keyword": "already",
-    "score": 0.78898472271947
+    "keyword": "tar",
+    "score": 1.8275709162246054
   },
   {
-    "keyword": "study group",
-    "score": 0.7848068580767612
+    "keyword": "wrong",
+    "score": 1.8209222543079022
   },
   {
-    "keyword": "working",
-    "score": 0.7807598809138045
+    "keyword": "audrey",
+    "score": 1.8054252447409025
   },
   {
-    "keyword": "stop",
-    "score": 0.7681132534780213
+    "keyword": "silver",
+    "score": 1.804568629416552
   },
   {
-    "keyword": "day",
-    "score": 0.7663725500561565
+    "keyword": "ready",
+    "score": 1.8044003747434645
   },
   {
-    "keyword": "taylor",
-    "score": 0.7656369809935792
+    "keyword": "tonight",
+    "score": 1.804350009066687
+  },
+  {
+    "keyword": "cops",
+    "score": 1.7950102049669525
+  },
+  {
+    "keyword": "talking",
+    "score": 1.760249920826208
+  },
+  {
+    "keyword": "together",
+    "score": 1.7360294161751593
+  },
+  {
+    "keyword": "ugh",
+    "score": 1.7321567993502336
+  },
+  {
+    "keyword": "tried",
+    "score": 1.7181069710587824
+  },
+  {
+    "keyword": "john",
+    "score": 1.7090561143819725
+  },
+  {
+    "keyword": "happen",
+    "score": 1.6966752418974078
+  },
+  {
+    "keyword": "called",
+    "score": 1.6903896587414282
+  },
+  {
+    "keyword": "investors",
+    "score": 1.6853493334475247
   },
   {
     "keyword": "room",
-    "score": 0.7600054815054929
+    "score": 1.6758316327566072
   },
   {
-    "keyword": "scoffs",
-    "score": 0.7485139111201706
+    "keyword": "ran",
+    "score": 1.6735307177726608
   },
   {
-    "keyword": "enough",
-    "score": 0.739362457252557
+    "keyword": "died",
+    "score": 1.6202910830671247
+  },
+  {
+    "keyword": "remember",
+    "score": 1.617660445123302
+  },
+  {
+    "keyword": "pretty",
+    "score": 1.6058465844114986
+  },
+  {
+    "keyword": "office",
+    "score": 1.5724694527847878
+  },
+  {
+    "keyword": "private",
+    "score": 1.5647433739256273
+  },
+  {
+    "keyword": "killer",
+    "score": 1.5548366333719175
+  },
+  {
+    "keyword": "may",
+    "score": 1.507956065746234
+  },
+  {
+    "keyword": "hot",
+    "score": 1.4924228842165823
+  },
+  {
+    "keyword": "pay",
+    "score": 1.479519424218677
   },
   {
     "keyword": "fire",
-    "score": 0.7378118855587289
+    "score": 1.470013263369032
   },
   {
-    "keyword": "chloe",
-    "score": 0.7304197139268529
+    "keyword": "boyfriend",
+    "score": 1.452086144718026
   },
   {
-    "keyword": "bbs proudly",
-    "score": 0.7217633393892616
+    "keyword": "kent",
+    "score": 1.4231528194369538
   },
   {
-    "keyword": "looks like",
-    "score": 0.7133095497951315
+    "keyword": "forever",
+    "score": 1.4178515128907379
   },
   {
-    "keyword": "saying",
-    "score": 0.7095910869953262
+    "keyword": "check",
+    "score": 1.3684300511045577
   },
   {
-    "keyword": "presents www",
-    "score": 0.7074752612828251
+    "keyword": "cure",
+    "score": 1.3663658817893087
   },
   {
-    "keyword": "bbs sync",
-    "score": 0.7074752612828251
+    "keyword": "anyway",
+    "score": 1.346582381692458
+  },
+  {
+    "keyword": "late",
+    "score": 1.3213384001250836
+  },
+  {
+    "keyword": "read",
+    "score": 1.3069923020116596
+  },
+  {
+    "keyword": "run",
+    "score": 1.29538492908916
+  },
+  {
+    "keyword": "party",
+    "score": 1.2948815718418751
+  },
+  {
+    "keyword": "became",
+    "score": 1.2781352295789756
+  },
+  {
+    "keyword": "phone",
+    "score": 1.2639174991691509
+  },
+  {
+    "keyword": "already",
+    "score": 1.2577932100045495
+  },
+  {
+    "keyword": "start",
+    "score": 1.2518420817171474
+  },
+  {
+    "keyword": "taylor",
+    "score": 1.2205724246507539
   },
   {
     "keyword": "case",
-    "score": 0.7072293710602034
+    "score": 1.2146296158218277
   },
   {
-    "keyword": "coming",
-    "score": 0.7052809705565348
+    "keyword": "meet",
+    "score": 1.1954760433365315
+  },
+  {
+    "keyword": "scoffs",
+    "score": 1.1932749619736918
+  },
+  {
+    "keyword": "enough",
+    "score": 1.178685786537342
+  },
+  {
+    "keyword": "chloe",
+    "score": 1.1644293357975681
+  },
+  {
+    "keyword": "bbs proudly",
+    "score": 1.1506294119167735
+  },
+  {
+    "keyword": "able",
+    "score": 1.1482547839276591
+  },
+  {
+    "keyword": "ten",
+    "score": 1.1314647460293006
+  },
+  {
+    "keyword": "saying",
+    "score": 1.1312245033416335
+  },
+  {
+    "keyword": "three",
+    "score": 1.1307825625672518
+  },
+  {
+    "keyword": "head",
+    "score": 1.1297413212656056
+  },
+  {
+    "keyword": "thin",
+    "score": 1.129643225480303
+  },
+  {
+    "keyword": "bbs sync",
+    "score": 1.127851470711085
+  },
+  {
+    "keyword": "presents www",
+    "score": 1.127851470711085
   },
   {
     "keyword": "celebrity",
-    "score": 0.7029643713178675
+    "score": 1.120660245576275
   },
   {
-    "keyword": "anders",
-    "score": 0.6947321171434175
+    "keyword": "home",
+    "score": 1.1148306299807702
   },
   {
-    "keyword": "great",
-    "score": 0.6934253858081839
+    "keyword": "police",
+    "score": 1.0965655007153914
   },
   {
-    "keyword": "matter",
-    "score": 0.6933919380211357
+    "keyword": "renee",
+    "score": 1.093072703090015
+  },
+  {
+    "keyword": "freezer",
+    "score": 1.085214941971536
+  },
+  {
+    "keyword": "daughter",
+    "score": 1.0850440310163598
+  },
+  {
+    "keyword": "hours",
+    "score": 1.0776713813047794
+  },
+  {
+    "keyword": "asked",
+    "score": 1.0699416516941302
+  },
+  {
+    "keyword": "safe",
+    "score": 1.0670529178977717
+  },
+  {
+    "keyword": "sync ßceaea",
+    "score": 1.0581455272196758
+  },
+  {
+    "keyword": "ßceaea",
+    "score": 1.0581455272196758
+  },
+  {
+    "keyword": "goin",
+    "score": 1.048659918486269
+  },
+  {
+    "keyword": "shot",
+    "score": 1.0383243734412317
+  },
+  {
+    "keyword": "hurt",
+    "score": 1.033348963867862
+  },
+  {
+    "keyword": "went",
+    "score": 1.0327684070837468
+  },
+  {
+    "keyword": "yet",
+    "score": 1.0157472514641863
+  },
+  {
+    "keyword": "end",
+    "score": 1.0053891971269246
+  },
+  {
+    "keyword": "rig",
+    "score": 0.9968169542079612
+  },
+  {
+    "keyword": "chloe chloe",
+    "score": 0.9925071490470789
+  },
+  {
+    "keyword": "money",
+    "score": 0.9824729787809203
+  },
+  {
+    "keyword": "living",
+    "score": 0.9792737106195325
+  },
+  {
+    "keyword": "act",
+    "score": 0.9790262538766555
+  },
+  {
+    "keyword": "worry",
+    "score": 0.9723743742096052
+  },
+  {
+    "keyword": "stake",
+    "score": 0.9702732249277772
+  },
+  {
+    "keyword": "ink",
+    "score": 0.9679714794882767
+  },
+  {
+    "keyword": "drink",
+    "score": 0.9597707248797681
+  },
+  {
+    "keyword": "nice",
+    "score": 0.9544179055365718
+  },
+  {
+    "keyword": "rest",
+    "score": 0.9523757624296831
+  },
+  {
+    "keyword": "curse",
+    "score": 0.9488090381128823
+  },
+  {
+    "keyword": "number",
+    "score": 0.9260708325805763
+  },
+  {
+    "keyword": "sighs",
+    "score": 0.9219936003585053
+  },
+  {
+    "keyword": "another",
+    "score": 0.9215434032749664
+  },
+  {
+    "keyword": "clear",
+    "score": 0.8958011977683796
+  },
+  {
+    "keyword": "line",
+    "score": 0.8848627692141868
   }
 ]

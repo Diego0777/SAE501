@@ -1,802 +1,802 @@
 [
   {
-    "keyword": "vorenus",
-    "score": 1143.3984609879558
-  },
-  {
-    "keyword": "pullo",
-    "score": 917.9411683658803
-  },
-  {
     "keyword": "pompee",
-    "score": 526.3041431225595
+    "score": 871.834321678988
   },
   {
     "keyword": "cesar",
-    "score": 247.35459823093402
+    "score": 420.25804970149744
   },
   {
     "keyword": "antoine",
-    "score": 243.07061648999033
+    "score": 402.6517913963968
   },
   {
     "keyword": "synchro traduction",
-    "score": 142.1781353991841
+    "score": 235.5211902720394
   },
   {
     "keyword": "lucius",
-    "score": 142.0646585569974
+    "score": 235.33321340157968
   },
   {
     "keyword": "traduction yellow",
-    "score": 125.23624153996487
-  },
-  {
-    "keyword": "octave",
-    "score": 115.73927791997059
+    "score": 207.45657262894733
   },
   {
     "keyword": "yellow sub",
-    "score": 65.56617867462086
+    "score": 108.61180869815041
   },
   {
     "keyword": "gaius",
-    "score": 62.04414458906642
+    "score": 102.77748221975409
   },
   {
     "keyword": "senat",
-    "score": 36.88529437909794
+    "score": 75.3109016002278
   },
   {
     "keyword": "rome",
-    "score": 32.70825272288453
-  },
-  {
-    "keyword": "brutus",
-    "score": 27.56859288209854
-  },
-  {
-    "keyword": "gaule",
-    "score": 25.31653267839608
+    "score": 61.059542036197605
   },
   {
     "keyword": "republique",
-    "score": 23.96071935489424
-  },
-  {
-    "keyword": "homme",
-    "score": 22.634822364509215
-  },
-  {
-    "keyword": "hommes",
-    "score": 20.85604561968384
-  },
-  {
-    "keyword": "traduction",
-    "score": 16.40162339378005
-  },
-  {
-    "keyword": "yellow synchro",
-    "score": 16.386292923953825
-  },
-  {
-    "keyword": "dieux",
-    "score": 14.363055007815854
-  },
-  {
-    "keyword": "dis",
-    "score": 13.766794112169416
+    "score": 39.691455556051466
   },
   {
     "keyword": "legion",
-    "score": 12.615972725407678
+    "score": 36.96766742831651
   },
   {
     "keyword": "marc",
-    "score": 12.421957298862914
+    "score": 34.82836187176718
   },
   {
-    "keyword": "fais",
-    "score": 12.26661007309564
+    "keyword": "dis",
+    "score": 34.822880819338046
   },
   {
-    "keyword": "maintenant",
-    "score": 11.952987121607782
+    "keyword": "hommes",
+    "score": 34.54849562434253
   },
   {
-    "keyword": "peut etre",
-    "score": 11.583854203434665
+    "keyword": "traduction",
+    "score": 27.169647803096527
   },
   {
-    "keyword": "peu",
-    "score": 11.521351516537408
-  },
-  {
-    "keyword": "cela",
-    "score": 11.349844401949992
-  },
-  {
-    "keyword": "peuple",
-    "score": 10.62559143344381
-  },
-  {
-    "keyword": "sub synchro",
-    "score": 10.002938228615537
-  },
-  {
-    "keyword": "femme",
-    "score": 9.977814776962337
-  },
-  {
-    "keyword": "vraiment",
-    "score": 8.886672403257371
-  },
-  {
-    "keyword": "esclaves",
-    "score": 8.837866614206213
-  },
-  {
-    "keyword": "excellence",
-    "score": 7.824597013745868
-  },
-  {
-    "keyword": "voir",
-    "score": 7.814074544425758
-  },
-  {
-    "keyword": "traduction synchro",
-    "score": 7.659784200627456
-  },
-  {
-    "keyword": "pere",
-    "score": 7.411856647891458
-  },
-  {
-    "keyword": "argent",
-    "score": 7.300873117017321
-  },
-  {
-    "keyword": "bon",
-    "score": 7.284080779723135
-  },
-  {
-    "keyword": "magnus",
-    "score": 7.268029414952066
-  },
-  {
-    "keyword": "romain",
-    "score": 7.105914495943419
-  },
-  {
-    "keyword": "mort",
-    "score": 7.101685756848152
-  },
-  {
-    "keyword": "fils",
-    "score": 7.0153387351501
-  },
-  {
-    "keyword": "yellow",
-    "score": 6.94750743844723
-  },
-  {
-    "keyword": "frere",
-    "score": 6.937043298818956
-  },
-  {
-    "keyword": "demande",
-    "score": 6.790472333656676
-  },
-  {
-    "keyword": "transcript synchro",
-    "score": 6.757225932930743
-  },
-  {
-    "keyword": "crois",
-    "score": 6.574117262754477
-  },
-  {
-    "keyword": "bonne",
-    "score": 6.455071131273938
-  },
-  {
-    "keyword": "mere",
-    "score": 6.434246393013192
-  },
-  {
-    "keyword": "merci",
-    "score": 6.189435337264089
-  },
-  {
-    "keyword": "synchro",
-    "score": 6.174674989465888
+    "keyword": "dieux",
+    "score": 25.95649108372826
   },
   {
     "keyword": "aime",
-    "score": 5.724241908361325
+    "score": 21.998415014332828
   },
   {
     "keyword": "parle",
-    "score": 5.60607167212982
-  },
-  {
-    "keyword": "vois",
-    "score": 5.21924892439841
-  },
-  {
-    "keyword": "pense",
-    "score": 5.07772125601375
-  },
-  {
-    "keyword": "vie",
-    "score": 4.949908399510355
-  },
-  {
-    "keyword": "egypte",
-    "score": 4.879564409950618
-  },
-  {
-    "keyword": "tyran",
-    "score": 4.87478579819719
-  },
-  {
-    "keyword": "temps",
-    "score": 4.873975228463335
-  },
-  {
-    "keyword": "grece",
-    "score": 4.871940974855109
-  },
-  {
-    "keyword": "parler",
-    "score": 4.703075852144372
-  },
-  {
-    "keyword": "plait",
-    "score": 4.702215942104883
-  },
-  {
-    "keyword": "enfants",
-    "score": 4.673411896987689
+    "score": 19.571790796936725
   },
   {
     "keyword": "ami",
-    "score": 4.607542686981867
+    "score": 19.486555328127487
   },
   {
-    "keyword": "vrai",
-    "score": 4.597786184080429
+    "keyword": "cela",
+    "score": 18.801265436802492
   },
   {
-    "keyword": "hein",
-    "score": 4.450856110511545
+    "keyword": "pere",
+    "score": 18.50449178577409
   },
   {
-    "keyword": "mieux",
-    "score": 4.450856110511545
+    "keyword": "peuple",
+    "score": 17.601524557364762
   },
   {
-    "keyword": "yel",
-    "score": 4.310086474157723
+    "keyword": "mort",
+    "score": 16.231830896398336
   },
   {
-    "keyword": "jupiter",
-    "score": 4.184968035784114
+    "keyword": "demande",
+    "score": 16.017900007758996
   },
   {
-    "keyword": "quelque chose",
-    "score": 4.154534702907775
-  },
-  {
-    "keyword": "besoin",
-    "score": 4.119712487771431
-  },
-  {
-    "keyword": "nom",
-    "score": 3.9428365807428856
-  },
-  {
-    "keyword": "beaucoup",
-    "score": 3.9428365807428856
-  },
-  {
-    "keyword": "famille",
-    "score": 3.856295656003562
-  },
-  {
-    "keyword": "assez",
-    "score": 3.856295656003562
+    "keyword": "esclaves",
+    "score": 14.640119302445926
   },
   {
     "keyword": "donne",
-    "score": 3.55597916435431
+    "score": 14.398507895218529
   },
   {
-    "keyword": "romains",
-    "score": 3.5055199506983152
+    "keyword": "excellence",
+    "score": 12.961616052302281
   },
   {
-    "keyword": "soldats",
-    "score": 3.5044892543420514
+    "keyword": "yellow",
+    "score": 12.699354568431726
   },
   {
-    "keyword": "fille",
-    "score": 3.272922470644278
+    "keyword": "traduction synchro",
+    "score": 12.68860002343998
   },
   {
-    "keyword": "deux",
-    "score": 3.2106949959867133
+    "keyword": "frere",
+    "score": 12.472519618994351
   },
   {
-    "keyword": "sub contact",
-    "score": 3.1504392185815906
+    "keyword": "argent",
+    "score": 12.09405596519675
   },
   {
-    "keyword": "yellowsubteam com",
-    "score": 3.1504392185815906
+    "keyword": "magnus",
+    "score": 12.039649654538426
   },
   {
-    "keyword": "yellowsubteam",
-    "score": 3.1504392185815906
+    "keyword": "fils",
+    "score": 11.621062017905578
   },
   {
-    "keyword": "contact yellowsubteam",
-    "score": 3.1504392185815906
+    "keyword": "ble",
+    "score": 11.502026709237988
   },
   {
-    "keyword": "fois",
-    "score": 3.0467634939167176
+    "keyword": "bonne",
+    "score": 11.471609819372413
   },
   {
-    "keyword": "amis",
-    "score": 3.004898139553479
+    "keyword": "transcript synchro",
+    "score": 11.19349251692376
   },
   {
-    "keyword": "gens",
-    "score": 2.972521795572284
-  },
-  {
-    "keyword": "garcon",
-    "score": 2.9141176753048206
-  },
-  {
-    "keyword": "ainsi",
-    "score": 2.8618312821115004
-  },
-  {
-    "keyword": "esclave",
-    "score": 2.787790843765937
-  },
-  {
-    "keyword": "petit",
-    "score": 2.723439349965651
-  },
-  {
-    "keyword": "reste",
-    "score": 2.718652050788072
-  },
-  {
-    "keyword": "ville",
-    "score": 2.702409353549142
-  },
-  {
-    "keyword": "desole",
-    "score": 2.631772902903037
-  },
-  {
-    "keyword": "laisse",
-    "score": 2.555022605017274
-  },
-  {
-    "keyword": "viens",
-    "score": 2.555022605017274
-  },
-  {
-    "keyword": "tant",
-    "score": 2.4755159939821993
-  },
-  {
-    "keyword": "personne",
-    "score": 2.4749045563903938
-  },
-  {
-    "keyword": "importe",
-    "score": 2.4353317823256955
-  },
-  {
-    "keyword": "tres bien",
-    "score": 2.4349782283441006
-  },
-  {
-    "keyword": "juste",
-    "score": 2.42474462700946
-  },
-  {
-    "keyword": "jusqu",
-    "score": 2.395922950777422
-  },
-  {
-    "keyword": "faut",
-    "score": 2.395814774050039
-  },
-  {
-    "keyword": "maison",
-    "score": 2.3566192312933736
-  },
-  {
-    "keyword": "tuer",
-    "score": 2.3562103705902024
-  },
-  {
-    "keyword": "treve",
-    "score": 2.289017287708451
+    "keyword": "mere",
+    "score": 10.927461243509661
   },
   {
     "keyword": "tue",
-    "score": 2.2806855004165927
+    "score": 10.89793961392484
   },
   {
-    "keyword": "pardonne",
-    "score": 2.20748386106376
+    "keyword": "esclave",
+    "score": 10.251594850847246
   },
   {
-    "keyword": "aucun",
-    "score": 2.2014626114554936
+    "keyword": "synchro",
+    "score": 10.22848414053926
   },
   {
-    "keyword": "soldat",
-    "score": 2.1934751940408983
+    "keyword": "tant",
+    "score": 10.16177668069159
   },
   {
-    "keyword": "partir",
-    "score": 2.165838278933614
+    "keyword": "parler",
+    "score": 9.6840852959634
   },
   {
-    "keyword": "honneur",
-    "score": 2.1201825047995406
-  },
-  {
-    "keyword": "triomphe",
-    "score": 2.104861087853314
-  },
-  {
-    "keyword": "raison",
-    "score": 2.1040884782567177
-  },
-  {
-    "keyword": "passe",
-    "score": 2.063004211722993
-  },
-  {
-    "keyword": "depuis",
-    "score": 2.0514044972663408
-  },
-  {
-    "keyword": "jules",
-    "score": 2.0280410255970467
-  },
-  {
-    "keyword": "mari",
-    "score": 2.0182084231803135
-  },
-  {
-    "keyword": "devrais",
-    "score": 1.9375241427153131
-  },
-  {
-    "keyword": "seulement",
-    "score": 1.8654733099019765
-  },
-  {
-    "keyword": "jour",
-    "score": 1.8538293020063858
-  },
-  {
-    "keyword": "guerre",
-    "score": 1.8351917142641831
-  },
-  {
-    "keyword": "chef",
-    "score": 1.8246716499077162
-  },
-  {
-    "keyword": "quelqu",
-    "score": 1.8054944214143527
-  },
-  {
-    "keyword": "ferai",
-    "score": 1.7946385503752356
-  },
-  {
-    "keyword": "aucune",
-    "score": 1.7946385503752356
-  },
-  {
-    "keyword": "yello",
-    "score": 1.787872577760684
-  },
-  {
-    "keyword": "pretres",
-    "score": 1.7812362837831597
-  },
-  {
-    "keyword": "mourir",
-    "score": 1.765506791368019
-  },
-  {
-    "keyword": "maitre",
-    "score": 1.7554701255105392
-  },
-  {
-    "keyword": "pourrait",
-    "score": 1.7369371483143274
-  },
-  {
-    "keyword": "espere",
-    "score": 1.6970233589311259
-  },
-  {
-    "keyword": "citoyens",
-    "score": 1.666565114673094
-  },
-  {
-    "keyword": "armee",
-    "score": 1.666242025448187
-  },
-  {
-    "keyword": "janus",
-    "score": 1.6578589463198863
-  },
-  {
-    "keyword": "peur",
-    "score": 1.6426277623135153
-  },
-  {
-    "keyword": "castor",
-    "score": 1.634931452903584
-  },
-  {
-    "keyword": "demain",
-    "score": 1.629746710580703
-  },
-  {
-    "keyword": "facon",
-    "score": 1.629746710580703
-  },
-  {
-    "keyword": "entre",
-    "score": 1.6162082335708412
-  },
-  {
-    "keyword": "aigle",
-    "score": 1.608454038991453
-  },
-  {
-    "keyword": "femmes",
-    "score": 1.6033739534682026
-  },
-  {
-    "keyword": "seul",
-    "score": 1.5636822830517372
-  },
-  {
-    "keyword": "probleme",
-    "score": 1.5521354131121472
-  },
-  {
-    "keyword": "attends",
-    "score": 1.551599340778893
-  },
-  {
-    "keyword": "demander",
-    "score": 1.5487878489350484
-  },
-  {
-    "keyword": "paix",
-    "score": 1.515681553412129
-  },
-  {
-    "keyword": "sub",
-    "score": 1.5043374150604807
-  },
-  {
-    "keyword": "contre",
-    "score": 1.4830443958127835
-  },
-  {
-    "keyword": "amour",
-    "score": 1.4788682833091826
-  },
-  {
-    "keyword": "enfant",
-    "score": 1.4421307428473857
-  },
-  {
-    "keyword": "affaires",
-    "score": 1.4421307428473857
-  },
-  {
-    "keyword": "faites",
-    "score": 1.4352125970277825
-  },
-  {
-    "keyword": "regarde",
-    "score": 1.4352125970277825
-  },
-  {
-    "keyword": "monde",
-    "score": 1.4119878143173892
-  },
-  {
-    "keyword": "droit",
-    "score": 1.4119878143173892
-  },
-  {
-    "keyword": "soeur",
-    "score": 1.40869790663524
-  },
-  {
-    "keyword": "jeune",
-    "score": 1.4008445047010476
-  },
-  {
-    "keyword": "plaisir",
-    "score": 1.3954712065278283
-  },
-  {
-    "keyword": "nuit",
-    "score": 1.3892089606738258
-  },
-  {
-    "keyword": "sang",
-    "score": 1.3806901755511916
-  },
-  {
-    "keyword": "effet",
-    "score": 1.3553750994192482
-  },
-  {
-    "keyword": "putain",
-    "score": 1.318474222144837
-  },
-  {
-    "keyword": "arrete",
-    "score": 1.3116609468175704
-  },
-  {
-    "keyword": "ecoute",
-    "score": 1.3116609468175704
-  },
-  {
-    "keyword": "raceman sous",
-    "score": 1.303173671306547
-  },
-  {
-    "keyword": "idee",
-    "score": 1.290435491757719
-  },
-  {
-    "keyword": "pris",
-    "score": 1.2696175775341323
-  },
-  {
-    "keyword": "calme",
-    "score": 1.2314888399614405
-  },
-  {
-    "keyword": "venu",
-    "score": 1.1930767947520642
-  },
-  {
-    "keyword": "prendre",
-    "score": 1.173770282690846
-  },
-  {
-    "keyword": "pourrais",
-    "score": 1.173770282690846
-  },
-  {
-    "keyword": "majeste",
-    "score": 1.1181184210250066
-  },
-  {
-    "keyword": "comprends",
-    "score": 1.1172863886081348
-  },
-  {
-    "keyword": "combien",
-    "score": 1.0992617974140857
-  },
-  {
-    "keyword": "plutot",
-    "score": 1.0973252567966447
-  },
-  {
-    "keyword": "heureux",
-    "score": 1.0942982099845402
-  },
-  {
-    "keyword": "ennemis",
-    "score": 1.087879759777655
-  },
-  {
-    "keyword": "fera",
-    "score": 1.0763628535416958
+    "keyword": "nom",
+    "score": 9.214208809619798
   },
   {
     "keyword": "eau",
-    "score": 1.0654138394630963
+    "score": 8.935506676788671
   },
   {
-    "keyword": "parce",
-    "score": 1.0620439430074284
+    "keyword": "roi",
+    "score": 8.610896012192692
   },
   {
-    "keyword": "doute",
-    "score": 1.05877885816358
+    "keyword": "laisse",
+    "score": 8.18552835503617
   },
   {
-    "keyword": "accord",
-    "score": 1.0538672935863742
+    "keyword": "egypte",
+    "score": 8.083105145625971
   },
   {
-    "keyword": "connais",
-    "score": 1.0449105490110402
+    "keyword": "plait",
+    "score": 7.85926160318073
   },
   {
-    "keyword": "italie",
-    "score": 1.0369734003584923
+    "keyword": "enfants",
+    "score": 7.741609000003572
   },
   {
-    "keyword": "maitresse",
-    "score": 1.006732449720707
+    "keyword": "besoin",
+    "score": 6.897090810917192
   },
   {
-    "keyword": "mois",
-    "score": 0.9917876236784797
+    "keyword": "soldat",
+    "score": 6.792934373473062
   },
   {
-    "keyword": "epee",
-    "score": 0.9897174560351601
+    "keyword": "famille",
+    "score": 6.745461861507928
   },
   {
-    "keyword": "desolee",
-    "score": 0.9870473509587073
+    "keyword": "desole",
+    "score": 6.327996900291479
   },
   {
-    "keyword": "venir",
-    "score": 0.9758360111271994
+    "keyword": "aucun",
+    "score": 6.054616955904425
+  },
+  {
+    "keyword": "deux",
+    "score": 6.016634865033482
+  },
+  {
+    "keyword": "soldats",
+    "score": 5.805263081843371
+  },
+  {
+    "keyword": "mari",
+    "score": 5.680735537539187
+  },
+  {
+    "keyword": "fera",
+    "score": 5.563499213610692
+  },
+  {
+    "keyword": "cher",
+    "score": 5.408073049557816
+  },
+  {
+    "keyword": "mer",
+    "score": 5.333660082053127
+  },
+  {
+    "keyword": "entre",
+    "score": 5.273220311867721
+  },
+  {
+    "keyword": "ferai",
+    "score": 5.085830803434226
+  },
+  {
+    "keyword": "tuer",
+    "score": 5.0220566137586875
+  },
+  {
+    "keyword": "amis",
+    "score": 4.977679475728539
+  },
+  {
+    "keyword": "venu",
+    "score": 4.930268643851526
+  },
+  {
+    "keyword": "faut",
+    "score": 4.906347203630251
+  },
+  {
+    "keyword": "pardonne",
+    "score": 4.811117024099364
+  },
+  {
+    "keyword": "ainsi",
+    "score": 4.740686097959088
+  },
+  {
+    "keyword": "ville",
+    "score": 4.638658841177912
+  },
+  {
+    "keyword": "raison",
+    "score": 4.436131910229836
+  },
+  {
+    "keyword": "jusqu",
+    "score": 4.311652359567969
+  },
+  {
+    "keyword": "importe",
+    "score": 4.2092774520096485
+  },
+  {
+    "keyword": "ere",
+    "score": 4.197001185334066
+  },
+  {
+    "keyword": "maitre",
+    "score": 4.146442945225486
+  },
+  {
+    "keyword": "porte",
+    "score": 4.141217500124065
+  },
+  {
+    "keyword": "partir",
+    "score": 4.129846167834145
+  },
+  {
+    "keyword": "maison",
+    "score": 4.067314044485772
+  },
+  {
+    "keyword": "contre",
+    "score": 3.9401215129363103
+  },
+  {
+    "keyword": "treve",
+    "score": 3.9231324468347695
+  },
+  {
+    "keyword": "pris",
+    "score": 3.8854546365137494
+  },
+  {
+    "keyword": "res",
+    "score": 3.8244514553777833
+  },
+  {
+    "keyword": "sou",
+    "score": 3.8146483158470996
+  },
+  {
+    "keyword": "honneur",
+    "score": 3.7543966851896133
+  },
+  {
+    "keyword": "droit",
+    "score": 3.7513398647427807
+  },
+  {
+    "keyword": "mis",
+    "score": 3.6421841382106783
+  },
+  {
+    "keyword": "triomphe",
+    "score": 3.48674841864157
+  },
+  {
+    "keyword": "sub",
+    "score": 3.4629108153430526
+  },
+  {
+    "keyword": "espere",
+    "score": 3.4439542789169857
+  },
+  {
+    "keyword": "depuis",
+    "score": 3.3981964074087565
+  },
+  {
+    "keyword": "jules",
+    "score": 3.359494305703807
+  },
+  {
+    "keyword": "ment",
+    "score": 3.321622788186226
+  },
+  {
+    "keyword": "cas",
+    "score": 3.259658685217984
+  },
+  {
+    "keyword": "devrais",
+    "score": 3.2095511098940874
+  },
+  {
+    "keyword": "ver",
+    "score": 3.206430602292108
+  },
+  {
+    "keyword": "com",
+    "score": 3.1981972821507676
+  },
+  {
+    "keyword": "chef",
+    "score": 3.170973725145407
+  },
+  {
+    "keyword": "guerre",
+    "score": 3.1430927043949493
+  },
+  {
+    "keyword": "citoyens",
+    "score": 3.138543861731834
+  },
+  {
+    "keyword": "armee",
+    "score": 3.131130449179315
+  },
+  {
+    "keyword": "arrete",
+    "score": 3.107641723129895
+  },
+  {
+    "keyword": "seulement",
+    "score": 3.0901973298164087
+  },
+  {
+    "keyword": "pres",
+    "score": 3.0375473343323436
   },
   {
     "keyword": "prends",
-    "score": 0.9710249460288519
+    "score": 3.0358107645672576
   },
   {
-    "keyword": "serment",
-    "score": 0.958337315097595
+    "keyword": "aucune",
+    "score": 2.972858001729626
   },
   {
-    "keyword": "longtemps",
-    "score": 0.9553117036669926
+    "keyword": "garde",
+    "score": 2.966937698439679
   },
   {
-    "keyword": "puis",
-    "score": 0.9553117036669926
+    "keyword": "pretres",
+    "score": 2.9506568540549405
   },
   {
-    "keyword": "genre",
-    "score": 0.9400702093385475
+    "keyword": "demander",
+    "score": 2.9496173351495143
+  },
+  {
+    "keyword": "mourir",
+    "score": 2.9246006059153244
+  },
+  {
+    "keyword": "prendre",
+    "score": 2.90056613280027
+  },
+  {
+    "keyword": "peur",
+    "score": 2.769316454132205
+  },
+  {
+    "keyword": "probleme",
+    "score": 2.75649766938113
+  },
+  {
+    "keyword": "facon",
+    "score": 2.7486861625118286
+  },
+  {
+    "keyword": "connais",
+    "score": 2.734860652498782
+  },
+  {
+    "keyword": "loi",
+    "score": 2.714121936431487
+  },
+  {
+    "keyword": "amour",
+    "score": 2.713566882617975
+  },
+  {
+    "keyword": "jeune",
+    "score": 2.69409995508158
+  },
+  {
+    "keyword": "aigle",
+    "score": 2.664439287359723
+  },
+  {
+    "keyword": "femmes",
+    "score": 2.6560240146051575
+  },
+  {
+    "keyword": "egard",
+    "score": 2.616266248630514
+  },
+  {
+    "keyword": "jours",
+    "score": 2.611239712193972
+  },
+  {
+    "keyword": "parti",
+    "score": 2.599716585168617
+  },
+  {
+    "keyword": "putain",
+    "score": 2.517686088365884
+  },
+  {
+    "keyword": "paix",
+    "score": 2.510759636358593
+  },
+  {
+    "keyword": "affaire",
+    "score": 2.473860635886359
   },
   {
     "keyword": "retour",
-    "score": 0.933862328350568
+    "score": 2.455047682443827
   },
   {
-    "keyword": "nouvelles",
-    "score": 0.9266691115943151
+    "keyword": "rend",
+    "score": 2.432765668108867
+  },
+  {
+    "keyword": "sang",
+    "score": 2.431241488903884
+  },
+  {
+    "keyword": "faites",
+    "score": 2.423738478611535
+  },
+  {
+    "keyword": "ordre",
+    "score": 2.416545831459081
+  },
+  {
+    "keyword": "affaires",
+    "score": 2.388921110335969
+  },
+  {
+    "keyword": "citoyen",
+    "score": 2.3883971187481943
+  },
+  {
+    "keyword": "yell",
+    "score": 2.376789063830528
+  },
+  {
+    "keyword": "trouver",
+    "score": 2.372501836587257
+  },
+  {
+    "keyword": "leurs",
+    "score": 2.3448884316568717
+  },
+  {
+    "keyword": "soeur",
+    "score": 2.333538886080833
+  },
+  {
+    "keyword": "plaisir",
+    "score": 2.3116285681270723
+  },
+  {
+    "keyword": "hui",
+    "score": 2.3001800166263253
+  },
+  {
+    "keyword": "con",
+    "score": 2.2961729105227207
+  },
+  {
+    "keyword": "accord",
+    "score": 2.273635352934496
+  },
+  {
+    "keyword": "idee",
+    "score": 2.2681993365996784
+  },
+  {
+    "keyword": "calme",
+    "score": 2.25203710013135
+  },
+  {
+    "keyword": "effet",
+    "score": 2.2452084899274665
+  },
+  {
+    "keyword": "eme",
+    "score": 2.192841331415203
+  },
+  {
+    "keyword": "rendre",
+    "score": 2.085871529552942
+  },
+  {
+    "keyword": "aiment",
+    "score": 2.0775694206744455
+  },
+  {
+    "keyword": "epouse",
+    "score": 2.0538891377177806
+  },
+  {
+    "keyword": "ira",
+    "score": 2.0441375106518143
+  },
+  {
+    "keyword": "doute",
+    "score": 2.037259658981309
+  },
+  {
+    "keyword": "ose",
+    "score": 2.0322402378848547
+  },
+  {
+    "keyword": "vin",
+    "score": 2.000615582393972
+  },
+  {
+    "keyword": "mettre",
+    "score": 1.9664115567663425
+  },
+  {
+    "keyword": "italie",
+    "score": 1.9562738466853966
+  },
+  {
+    "keyword": "pourrais",
+    "score": 1.944376139897546
+  },
+  {
+    "keyword": "heureux",
+    "score": 1.939595230793311
+  },
+  {
+    "keyword": "fin",
+    "score": 1.9090021065256104
+  },
+  {
+    "keyword": "prend",
+    "score": 1.9088158052628388
+  },
+  {
+    "keyword": "rois",
+    "score": 1.8684729636299366
+  },
+  {
+    "keyword": "epee",
+    "score": 1.8671244355739862
+  },
+  {
+    "keyword": "majeste",
+    "score": 1.852187614118999
+  },
+  {
+    "keyword": "senateur",
+    "score": 1.8415082618754892
+  },
+  {
+    "keyword": "combien",
+    "score": 1.8209512047731675
+  },
+  {
+    "keyword": "plutot",
+    "score": 1.8177432828943973
+  },
+  {
+    "keyword": "fou",
+    "score": 1.8107497090118243
+  },
+  {
+    "keyword": "occupe",
+    "score": 1.8069972230111269
+  },
+  {
+    "keyword": "ennemis",
+    "score": 1.8020966105394849
+  },
+  {
+    "keyword": "vite",
+    "score": 1.796724303673809
+  },
+  {
+    "keyword": "mois",
+    "score": 1.7958067569202352
   },
   {
     "keyword": "politique",
-    "score": 0.9165106057720148
+    "score": 1.7826037206604175
+  },
+  {
+    "keyword": "laisser",
+    "score": 1.7760664997550575
+  },
+  {
+    "keyword": "rester",
+    "score": 1.7555914136122004
+  },
+  {
+    "keyword": "cote",
+    "score": 1.7530542627828802
+  },
+  {
+    "keyword": "battre",
+    "score": 1.740020676389948
+  },
+  {
+    "keyword": "jure",
+    "score": 1.73946981530918
+  },
+  {
+    "keyword": "dieu",
+    "score": 1.7320805230109655
+  },
+  {
+    "keyword": "souhaite",
+    "score": 1.7277462549177212
+  },
+  {
+    "keyword": "marche",
+    "score": 1.714521219441268
+  },
+  {
+    "keyword": "lache",
+    "score": 1.7118522913021528
+  },
+  {
+    "keyword": "leve",
+    "score": 1.707701942128577
+  },
+  {
+    "keyword": "propre",
+    "score": 1.681618791822708
+  },
+  {
+    "keyword": "baise",
+    "score": 1.6769738536194883
+  },
+  {
+    "keyword": "tel",
+    "score": 1.6745594472959864
+  },
+  {
+    "keyword": "maitresse",
+    "score": 1.6676743169967583
+  },
+  {
+    "keyword": "serment",
+    "score": 1.6576790489747981
+  },
+  {
+    "keyword": "desolee",
+    "score": 1.6350655204470503
+  },
+  {
+    "keyword": "traitre",
+    "score": 1.6253566598349616
+  },
+  {
+    "keyword": "longtemps",
+    "score": 1.582494726750728
+  },
+  {
+    "keyword": "bas",
+    "score": 1.5727532845930614
+  },
+  {
+    "keyword": "genre",
+    "score": 1.557246858112689
+  },
+  {
+    "keyword": "fini",
+    "score": 1.5490971439779087
+  },
+  {
+    "keyword": "arrive",
+    "score": 1.5412726588305519
+  },
+  {
+    "keyword": "nouvelles",
+    "score": 1.535047646660014
+  },
+  {
+    "keyword": "sol",
+    "score": 1.5284490232285362
+  },
+  {
+    "keyword": "irai",
+    "score": 1.5193830631843508
+  },
+  {
+    "keyword": "ordres",
+    "score": 1.492032400164622
+  },
+  {
+    "keyword": "main",
+    "score": 1.4872119213502206
+  },
+  {
+    "keyword": "tribu",
+    "score": 1.4854971391561635
+  },
+  {
+    "keyword": "fui",
+    "score": 1.4723866211545085
+  },
+  {
+    "keyword": "dea",
+    "score": 1.470447732806949
+  },
+  {
+    "keyword": "beau",
+    "score": 1.466381096652055
   }
 ]

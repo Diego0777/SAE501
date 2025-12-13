@@ -1,802 +1,802 @@
 [
   {
     "keyword": "marissa",
-    "score": 540.0203507962461
+    "score": 1011.2640163638904
   },
   {
     "keyword": "kirsten",
-    "score": 411.1816998545639
+    "score": 769.9955319038476
   },
   {
     "keyword": "seth",
-    "score": 343.7136180728189
+    "score": 647.57644710623
   },
   {
     "keyword": "kaitlin",
-    "score": 303.4978133644895
+    "score": 568.3423175591284
   },
   {
     "keyword": "cohen",
-    "score": 263.95174613201607
+    "score": 540.9869502509844
   },
   {
     "keyword": "ryan",
-    "score": 234.7440760467443
+    "score": 440.13783695541696
   },
   {
-    "keyword": "really",
-    "score": 166.09645781396998
+    "keyword": "gonna",
+    "score": 335.90570505394714
+  },
+  {
+    "keyword": "got",
+    "score": 333.0197210484308
   },
   {
     "keyword": "atwood",
-    "score": 165.85040754096266
+    "score": 327.2354049150866
+  },
+  {
+    "keyword": "one",
+    "score": 256.2370305294395
   },
   {
     "keyword": "sandy",
-    "score": 125.01547997014397
+    "score": 234.10905940092601
   },
   {
     "keyword": "summer",
-    "score": 119.90701551455933
+    "score": 225.5485331218063
   },
   {
     "keyword": "bullit",
-    "score": 107.17842596296632
-  },
-  {
-    "keyword": "newport",
-    "score": 105.66605094113424
-  },
-  {
-    "keyword": "julie cooper",
-    "score": 98.45245504469631
-  },
-  {
-    "keyword": "sandy cohen",
-    "score": 97.00464299624193
-  },
-  {
-    "keyword": "mean",
-    "score": 91.10255710397118
-  },
-  {
-    "keyword": "volchok",
-    "score": 84.40560670550349
-  },
-  {
-    "keyword": "julie",
-    "score": 75.0401255630455
-  },
-  {
-    "keyword": "caleb",
-    "score": 67.92678166428624
-  },
-  {
-    "keyword": "mom",
-    "score": 65.78668339396238
-  },
-  {
-    "keyword": "say",
-    "score": 58.44638035158555
-  },
-  {
-    "keyword": "taylor",
-    "score": 51.95625096562234
-  },
-  {
-    "keyword": "something",
-    "score": 50.65379205835289
-  },
-  {
-    "keyword": "nichol",
-    "score": 49.21748542897036
-  },
-  {
-    "keyword": "talk",
-    "score": 48.664138017075224
-  },
-  {
-    "keyword": "dad",
-    "score": 46.290751606226465
-  },
-  {
-    "keyword": "thanks",
-    "score": 45.55200966845367
-  },
-  {
-    "keyword": "chrismukkah",
-    "score": 45.19131592346413
-  },
-  {
-    "keyword": "ryan atwood",
-    "score": 42.999376713816304
-  },
-  {
-    "keyword": "thought",
-    "score": 41.78692929838457
-  },
-  {
-    "keyword": "trey",
-    "score": 40.224201644343026
-  },
-  {
-    "keyword": "newport group",
-    "score": 37.15727723617162
-  },
-  {
-    "keyword": "cohens",
-    "score": 34.59127620803267
-  },
-  {
-    "keyword": "hey summer",
-    "score": 33.89194179938557
-  },
-  {
-    "keyword": "great",
-    "score": 32.928891065111046
-  },
-  {
-    "keyword": "never",
-    "score": 31.699109828187627
-  },
-  {
-    "keyword": "thank",
-    "score": 31.084415808144563
-  },
-  {
-    "keyword": "god",
-    "score": 31.006672792534026
-  },
-  {
-    "keyword": "said",
-    "score": 30.791508522714427
-  },
-  {
-    "keyword": "even",
-    "score": 29.20360556971682
-  },
-  {
-    "keyword": "kind",
-    "score": 28.617923666141596
-  },
-  {
-    "keyword": "little",
-    "score": 26.975148473287152
-  },
-  {
-    "keyword": "seth cohen",
-    "score": 25.419959090184634
-  },
-  {
-    "keyword": "everything",
-    "score": 24.290633092308443
+    "score": 216.1004049355579
   },
   {
     "keyword": "che",
-    "score": 23.877007066338738
+    "score": 206.0704272659991
   },
   {
-    "keyword": "told",
-    "score": 23.79422007659111
+    "keyword": "newport",
+    "score": 198.26821594504094
   },
   {
-    "keyword": "sandy kirsten",
-    "score": 23.465601776943284
+    "keyword": "julie cooper",
+    "score": 184.36606132080797
   },
   {
-    "keyword": "work",
-    "score": 23.166700713581385
+    "keyword": "sandy cohen",
+    "score": 181.65482974425498
   },
   {
-    "keyword": "anything",
-    "score": 22.83710197473963
+    "keyword": "volchok",
+    "score": 158.06136327044456
+  },
+  {
+    "keyword": "julie",
+    "score": 140.81322093365668
+  },
+  {
+    "keyword": "talk",
+    "score": 136.81321580307647
+  },
+  {
+    "keyword": "mom",
+    "score": 134.65924132668601
+  },
+  {
+    "keyword": "caleb",
+    "score": 127.20244698781205
+  },
+  {
+    "keyword": "taylor",
+    "score": 97.29538331145193
+  },
+  {
+    "keyword": "nichol",
+    "score": 94.82222372124942
+  },
+  {
+    "keyword": "dad",
+    "score": 91.26791936056824
+  },
+  {
+    "keyword": "ryan atwood",
+    "score": 81.56812238520247
+  },
+  {
+    "keyword": "thought",
+    "score": 80.1528068067973
+  },
+  {
+    "keyword": "trey",
+    "score": 75.3254718084452
+  },
+  {
+    "keyword": "wanna",
+    "score": 58.38759440965427
+  },
+  {
+    "keyword": "god",
+    "score": 58.31909162051029
   },
   {
     "keyword": "wait",
-    "score": 22.234155385256294
+    "score": 51.27511871585244
   },
   {
-    "keyword": "guess",
-    "score": 21.991107116009413
+    "keyword": "little",
+    "score": 50.55698053646891
   },
   {
-    "keyword": "much",
-    "score": 21.629285919509776
-  },
-  {
-    "keyword": "actually",
-    "score": 21.587656628665883
-  },
-  {
-    "keyword": "last",
-    "score": 21.392240360009062
+    "keyword": "seth cohen",
+    "score": 48.8718452019591
   },
   {
     "keyword": "love",
-    "score": 20.580473762133924
+    "score": 46.44709985560795
   },
   {
-    "keyword": "nothing",
-    "score": 19.59196575206095
+    "keyword": "told",
+    "score": 44.558021795698416
   },
   {
-    "keyword": "hailey",
-    "score": 19.271368888240445
-  },
-  {
-    "keyword": "still",
-    "score": 19.015046767140323
-  },
-  {
-    "keyword": "hey ryan",
-    "score": 18.885596283625656
-  },
-  {
-    "keyword": "night",
-    "score": 18.380594251126713
-  },
-  {
-    "keyword": "summer roberts",
-    "score": 18.365936668029413
-  },
-  {
-    "keyword": "wanted",
-    "score": 18.13342447984777
-  },
-  {
-    "keyword": "together",
-    "score": 17.41667310277452
-  },
-  {
-    "keyword": "talking",
-    "score": 17.315294141333244
-  },
-  {
-    "keyword": "call",
-    "score": 16.927983105723538
-  },
-  {
-    "keyword": "give",
-    "score": 16.877505619463914
-  },
-  {
-    "keyword": "feel",
-    "score": 16.24192959123035
-  },
-  {
-    "keyword": "home",
-    "score": 15.75945458796329
-  },
-  {
-    "keyword": "ever",
-    "score": 15.3588315062194
-  },
-  {
-    "keyword": "marissa cooper",
-    "score": 15.066836488584196
-  },
-  {
-    "keyword": "better",
-    "score": 14.925761821908596
-  },
-  {
-    "keyword": "please",
-    "score": 14.643799705240431
-  },
-  {
-    "keyword": "way",
-    "score": 14.638850328851705
-  },
-  {
-    "keyword": "seth summer",
-    "score": 14.442007886856667
-  },
-  {
-    "keyword": "nice",
-    "score": 14.357810735115814
-  },
-  {
-    "keyword": "believe",
-    "score": 14.054497844982393
-  },
-  {
-    "keyword": "getting",
-    "score": 13.993805631768213
-  },
-  {
-    "keyword": "berkeley",
-    "score": 13.875772632739814
-  },
-  {
-    "keyword": "zach",
-    "score": 13.652819388860063
-  },
-  {
-    "keyword": "year",
-    "score": 13.505717722914678
-  },
-  {
-    "keyword": "school",
-    "score": 13.36553947208737
-  },
-  {
-    "keyword": "tonight",
-    "score": 12.4475515078613
-  },
-  {
-    "keyword": "cooper",
-    "score": 12.41216053409199
-  },
-  {
-    "keyword": "find",
-    "score": 12.37869676532835
-  },
-  {
-    "keyword": "stay",
-    "score": 12.135056550435626
-  },
-  {
-    "keyword": "captain oats",
-    "score": 12.061166951094311
-  },
-  {
-    "keyword": "life",
-    "score": 11.742252940158208
-  },
-  {
-    "keyword": "first",
-    "score": 11.561697422055925
-  },
-  {
-    "keyword": "family",
-    "score": 11.360723430702647
-  },
-  {
-    "keyword": "pool house",
-    "score": 11.115402488618363
-  },
-  {
-    "keyword": "house",
-    "score": 11.109451023435579
-  },
-  {
-    "keyword": "townsend",
-    "score": 10.818564339549608
-  },
-  {
-    "keyword": "trying",
-    "score": 10.73011725573978
-  },
-  {
-    "keyword": "happened",
-    "score": 10.675618998735345
-  },
-  {
-    "keyword": "listen",
-    "score": 10.612540006468627
-  },
-  {
-    "keyword": "dinner",
-    "score": 10.560687276626751
-  },
-  {
-    "keyword": "party",
-    "score": 10.324626717509943
-  },
-  {
-    "keyword": "fine",
-    "score": 10.20176884685354
-  },
-  {
-    "keyword": "away",
-    "score": 10.158637150844346
-  },
-  {
-    "keyword": "ask",
-    "score": 9.962273355160292
-  },
-  {
-    "keyword": "idea",
-    "score": 9.921611430118066
-  },
-  {
-    "keyword": "caleb nichol",
-    "score": 9.87281287785773
-  },
-  {
-    "keyword": "chino",
-    "score": 9.688292953396957
-  },
-  {
-    "keyword": "ryan hey",
-    "score": 9.610715323593295
-  },
-  {
-    "keyword": "day",
-    "score": 9.518118345627373
-  },
-  {
-    "keyword": "keep",
-    "score": 9.514043001209016
-  },
-  {
-    "keyword": "lindsay",
-    "score": 9.47298478555537
-  },
-  {
-    "keyword": "sure",
-    "score": 9.27706103979735
-  },
-  {
-    "keyword": "coming",
-    "score": 9.26747252900201
-  },
-  {
-    "keyword": "jimmy cooper",
-    "score": 9.043377898538724
-  },
-  {
-    "keyword": "friends",
-    "score": 8.75461430537803
-  },
-  {
-    "keyword": "probably",
-    "score": 8.688847088099086
-  },
-  {
-    "keyword": "friend",
-    "score": 8.588152771200207
-  },
-  {
-    "keyword": "pretty",
-    "score": 8.490957180987534
-  },
-  {
-    "keyword": "ryan marissa",
-    "score": 8.360454814771733
-  },
-  {
-    "keyword": "totally",
-    "score": 8.321851481512219
-  },
-  {
-    "keyword": "around",
-    "score": 8.321128015860452
-  },
-  {
-    "keyword": "tomorrow",
-    "score": 8.317100797471888
-  },
-  {
-    "keyword": "theresa",
-    "score": 8.263087312070615
-  },
-  {
-    "keyword": "valentine day",
-    "score": 8.240690299048326
-  },
-  {
-    "keyword": "done",
-    "score": 8.205716271530562
-  },
-  {
-    "keyword": "went",
-    "score": 8.1980302830245
+    "keyword": "guess",
+    "score": 43.79902952033852
   },
   {
     "keyword": "coop",
-    "score": 8.189272487747845
+    "score": 42.730871465916955
   },
   {
-    "keyword": "leave",
-    "score": 8.182715210229183
+    "keyword": "two",
+    "score": 38.6693623059
   },
   {
-    "keyword": "speaking french",
-    "score": 8.085617308324515
+    "keyword": "real",
+    "score": 37.23862738322665
   },
   {
-    "keyword": "money",
-    "score": 8.019462103497194
+    "keyword": "hailey",
+    "score": 36.088347178059024
   },
   {
-    "keyword": "since",
-    "score": 7.931361059994591
+    "keyword": "still",
+    "score": 35.60834797565041
   },
   {
-    "keyword": "always",
-    "score": 7.585181187304906
+    "keyword": "wanted",
+    "score": 33.957386314948515
   },
   {
-    "keyword": "looking",
-    "score": 7.4292118827066265
+    "keyword": "talking",
+    "score": 33.53394000360709
   },
   {
-    "keyword": "someone",
-    "score": 7.280613091680966
+    "keyword": "together",
+    "score": 32.61516860918111
   },
   {
-    "keyword": "mind",
-    "score": 7.095107088453294
+    "keyword": "home",
+    "score": 32.44028828967857
   },
   {
-    "keyword": "left",
-    "score": 7.095107088453294
+    "keyword": "marissa cooper",
+    "score": 28.21476923763663
   },
   {
-    "keyword": "put",
-    "score": 7.017956145986123
+    "keyword": "better",
+    "score": 27.950587093724444
   },
   {
-    "keyword": "meet",
-    "score": 7.0031262871755855
+    "keyword": "nice",
+    "score": 27.820242669726582
   },
   {
-    "keyword": "bad",
-    "score": 6.908691179273043
+    "keyword": "stay",
+    "score": 27.81595801510528
   },
   {
-    "keyword": "luke",
-    "score": 6.875663911490754
+    "keyword": "believe",
+    "score": 27.716779697811727
   },
   {
-    "keyword": "yeah well",
-    "score": 6.748274914775359
+    "keyword": "cal",
+    "score": 26.463160033977406
   },
   {
-    "keyword": "henri",
-    "score": 6.6760075712538995
+    "keyword": "berkeley",
+    "score": 25.984334742286453
   },
   {
-    "keyword": "exactly",
-    "score": 6.6467427104910195
+    "keyword": "school",
+    "score": 25.981803169394375
   },
   {
-    "keyword": "thinking",
-    "score": 6.6134486846830365
+    "keyword": "zach",
+    "score": 25.777467362192358
   },
   {
-    "keyword": "care",
-    "score": 6.506990572391966
+    "keyword": "eat",
+    "score": 25.617125294200232
   },
   {
-    "keyword": "ready",
-    "score": 6.458309691567593
+    "keyword": "cooper",
+    "score": 24.73436002153308
+  },
+  {
+    "keyword": "gotta",
+    "score": 24.38631362923908
   },
   {
     "keyword": "hear",
-    "score": 6.385843582564078
+    "score": 23.77428401013961
   },
   {
-    "keyword": "years",
-    "score": 6.042764985734926
+    "keyword": "tonight",
+    "score": 23.309789923983214
   },
   {
-    "keyword": "called",
-    "score": 5.932187172262226
+    "keyword": "house",
+    "score": 22.815115515119313
   },
   {
-    "keyword": "valentine",
-    "score": 5.890848174028197
-  },
-  {
-    "keyword": "saying",
-    "score": 5.8493491885183495
-  },
-  {
-    "keyword": "whole",
-    "score": 5.793332768217372
-  },
-  {
-    "keyword": "huh",
-    "score": 5.744476737153729
-  },
-  {
-    "keyword": "dude",
-    "score": 5.670006508200311
-  },
-  {
-    "keyword": "wants",
-    "score": 5.623191022089102
-  },
-  {
-    "keyword": "enough",
-    "score": 5.583282772034882
-  },
-  {
-    "keyword": "made",
-    "score": 5.42585864559813
-  },
-  {
-    "keyword": "without",
-    "score": 5.406425277182882
-  },
-  {
-    "keyword": "new",
-    "score": 5.389690068035641
-  },
-  {
-    "keyword": "already",
-    "score": 5.37774378174767
-  },
-  {
-    "keyword": "morning",
-    "score": 5.375666639149299
-  },
-  {
-    "keyword": "next",
-    "score": 5.37348438404404
-  },
-  {
-    "keyword": "try",
-    "score": 5.300945284589552
-  },
-  {
-    "keyword": "today",
-    "score": 5.234722551511084
-  },
-  {
-    "keyword": "else",
-    "score": 5.190084031356384
-  },
-  {
-    "keyword": "whatever",
-    "score": 5.171781895773826
-  },
-  {
-    "keyword": "sounds",
-    "score": 5.141537987837322
-  },
-  {
-    "keyword": "honey",
-    "score": 5.109331274396091
-  },
-  {
-    "keyword": "father",
-    "score": 5.058444774116827
-  },
-  {
-    "keyword": "later",
-    "score": 5.0247792856322615
-  },
-  {
-    "keyword": "problem",
-    "score": 4.937518103960361
-  },
-  {
-    "keyword": "best",
-    "score": 4.916285026031917
-  },
-  {
-    "keyword": "weird",
-    "score": 4.90695526629398
-  },
-  {
-    "keyword": "least",
-    "score": 4.9036562442394285
-  },
-  {
-    "keyword": "late",
-    "score": 4.8548045745459145
-  },
-  {
-    "keyword": "start",
-    "score": 4.796542165763923
-  },
-  {
-    "keyword": "oats",
-    "score": 4.7734740841003465
-  },
-  {
-    "keyword": "lot",
-    "score": 4.74462627960298
-  },
-  {
-    "keyword": "yet",
-    "score": 4.709256117076277
-  },
-  {
-    "keyword": "supposed",
-    "score": 4.7088975211376844
+    "keyword": "listen",
+    "score": 22.802405393808314
   },
   {
     "keyword": "happen",
-    "score": 4.708092959081569
+    "score": 22.686073253632685
   },
   {
-    "keyword": "last night",
-    "score": 4.632475952927371
+    "keyword": "though",
+    "score": 21.161411416288537
   },
   {
-    "keyword": "yeah yeah",
-    "score": 4.5552530581775645
+    "keyword": "keep",
+    "score": 20.750662623416833
   },
   {
-    "keyword": "anyone",
-    "score": 4.518529635645203
+    "keyword": "townsend",
+    "score": 20.259282468100917
   },
   {
-    "keyword": "comic",
-    "score": 4.510538949742807
+    "keyword": "dinner",
+    "score": 20.249168691311418
   },
   {
-    "keyword": "came",
-    "score": 4.490352279628773
+    "keyword": "ready",
+    "score": 20.169015442634844
   },
   {
-    "keyword": "happy",
-    "score": 4.4720503394286455
+    "keyword": "late",
+    "score": 20.113852388922044
   },
   {
-    "keyword": "another",
-    "score": 4.441140335368403
+    "keyword": "happened",
+    "score": 19.991597223907448
   },
   {
-    "keyword": "awesome",
-    "score": 4.403271083510288
+    "keyword": "party",
+    "score": 19.68034799467361
   },
   {
-    "keyword": "comic book",
-    "score": 4.375215310867518
+    "keyword": "fine",
+    "score": 19.63380030335064
   },
   {
-    "keyword": "wrong",
-    "score": 4.3378869173403265
+    "keyword": "meet",
+    "score": 19.44977472082881
   },
   {
-    "keyword": "working",
-    "score": 4.307039573895287
+    "keyword": "may",
+    "score": 19.21335603667931
   },
   {
-    "keyword": "soon",
-    "score": 4.23333471067569
+    "keyword": "eve",
+    "score": 19.038535563844516
   },
   {
-    "keyword": "worry",
-    "score": 4.227727780665524
+    "keyword": "anna",
+    "score": 18.512432498459493
   },
   {
-    "keyword": "alone",
-    "score": 4.199311458876071
+    "keyword": "care",
+    "score": 18.489024828277408
+  },
+  {
+    "keyword": "chino",
+    "score": 18.31527321922105
+  },
+  {
+    "keyword": "lindsay",
+    "score": 17.73949560802615
+  },
+  {
+    "keyword": "done",
+    "score": 16.208464738388212
+  },
+  {
+    "keyword": "pretty",
+    "score": 15.900510876967044
+  },
+  {
+    "keyword": "hang",
+    "score": 15.889484151080532
+  },
+  {
+    "keyword": "went",
+    "score": 15.623426818529136
+  },
+  {
+    "keyword": "totally",
+    "score": 15.583836683875465
+  },
+  {
+    "keyword": "tomorrow",
+    "score": 15.57494036021652
+  },
+  {
+    "keyword": "mind",
+    "score": 15.51689386181282
+  },
+  {
+    "keyword": "theresa",
+    "score": 15.473792516243298
+  },
+  {
+    "keyword": "since",
+    "score": 15.32287689018215
+  },
+  {
+    "keyword": "money",
+    "score": 15.01757006731858
+  },
+  {
+    "keyword": "kid",
+    "score": 13.934873852322466
+  },
+  {
+    "keyword": "start",
+    "score": 13.852521828071753
   },
   {
     "keyword": "girl",
-    "score": 4.164267313058903
+    "score": 13.548745838428331
   },
   {
-    "keyword": "birthday",
-    "score": 4.15469836146439
+    "keyword": "read",
+    "score": 13.38794338469404
   },
   {
-    "keyword": "everyone",
-    "score": 4.098849736198367
+    "keyword": "luke",
+    "score": 13.011598398355964
   },
   {
-    "keyword": "hello",
-    "score": 4.083792094233525
+    "keyword": "ing",
+    "score": 12.73821643959495
   },
   {
-    "keyword": "taking",
-    "score": 4.053677798356968
+    "keyword": "henri",
+    "score": 12.50176260918219
   },
   {
-    "keyword": "married",
-    "score": 4.040933713882508
+    "keyword": "exactly",
+    "score": 12.446960043705234
   },
   {
-    "keyword": "knew",
-    "score": 4.0304733669755
+    "keyword": "oats",
+    "score": 11.402047699659136
+  },
+  {
+    "keyword": "years",
+    "score": 11.315926854251188
+  },
+  {
+    "keyword": "thin",
+    "score": 11.290290793620498
+  },
+  {
+    "keyword": "dude",
+    "score": 11.254265948524688
+  },
+  {
+    "keyword": "ice",
+    "score": 11.192893942365172
+  },
+  {
+    "keyword": "called",
+    "score": 11.177960883261514
+  },
+  {
+    "keyword": "valentine",
+    "score": 11.031441269711229
+  },
+  {
+    "keyword": "whole",
+    "score": 10.977219323008269
+  },
+  {
+    "keyword": "saying",
+    "score": 10.953728585921002
+  },
+  {
+    "keyword": "comic book",
+    "score": 10.909753533503407
+  },
+  {
+    "keyword": "ass",
+    "score": 10.886708070052755
+  },
+  {
+    "keyword": "huh",
+    "score": 10.757340179046079
+  },
+  {
+    "keyword": "problem",
+    "score": 10.573919089469255
+  },
+  {
+    "keyword": "enough",
+    "score": 10.45548182067245
+  },
+  {
+    "keyword": "made",
+    "score": 10.436236333940387
+  },
+  {
+    "keyword": "prom",
+    "score": 10.286021215814756
+  },
+  {
+    "keyword": "father",
+    "score": 10.265461485606206
+  },
+  {
+    "keyword": "comic",
+    "score": 10.179894886368503
+  },
+  {
+    "keyword": "without",
+    "score": 10.124291301084842
+  },
+  {
+    "keyword": "already",
+    "score": 10.070581169186354
+  },
+  {
+    "keyword": "sum",
+    "score": 10.0221907003353
+  },
+  {
+    "keyword": "weird",
+    "score": 9.974530115166665
+  },
+  {
+    "keyword": "honey",
+    "score": 9.819117290945124
+  },
+  {
+    "keyword": "today",
+    "score": 9.80275381138197
+  },
+  {
+    "keyword": "else",
+    "score": 9.780336918826228
+  },
+  {
+    "keyword": "whatever",
+    "score": 9.684888586081504
+  },
+  {
+    "keyword": "ten",
+    "score": 9.665544664971042
+  },
+  {
+    "keyword": "sounds",
+    "score": 9.628252617149386
+  },
+  {
+    "keyword": "kay",
+    "score": 9.605153958915286
+  },
+  {
+    "keyword": "lat",
+    "score": 9.527509642088416
+  },
+  {
+    "keyword": "later",
+    "score": 9.476163465964861
+  },
+  {
+    "keyword": "best",
+    "score": 9.366698260631125
+  },
+  {
+    "keyword": "hell",
+    "score": 9.36055938235402
+  },
+  {
+    "keyword": "room",
+    "score": 9.253266406858257
+  },
+  {
+    "keyword": "came",
+    "score": 9.185540858670695
+  },
+  {
+    "keyword": "least",
+    "score": 9.182785613737847
+  },
+  {
+    "keyword": "soon",
+    "score": 9.172379855194174
   },
   {
     "keyword": "used",
-    "score": 4.008452608138076
+    "score": 8.980516677897816
+  },
+  {
+    "keyword": "supposed",
+    "score": 8.881569153538376
+  },
+  {
+    "keyword": "yet",
+    "score": 8.81874404921756
+  },
+  {
+    "keyword": "live",
+    "score": 8.655215160689485
+  },
+  {
+    "keyword": "fun",
+    "score": 8.60548524451676
+  },
+  {
+    "keyword": "sit",
+    "score": 8.570526435143277
+  },
+  {
+    "keyword": "happy",
+    "score": 8.567065829570515
+  },
+  {
+    "keyword": "another",
+    "score": 8.31665955951145
+  },
+  {
+    "keyword": "awesome",
+    "score": 8.28522103599778
+  },
+  {
+    "keyword": "worry",
+    "score": 8.245516375361545
+  },
+  {
+    "keyword": "wrong",
+    "score": 8.234202317182394
+  },
+  {
+    "keyword": "alone",
+    "score": 7.9430003724807445
+  },
+  {
+    "keyword": "birthday",
+    "score": 7.907024156881232
   },
   {
     "keyword": "girlfriend",
-    "score": 3.9655683243961977
+    "score": 7.906569032047575
   },
   {
-    "keyword": "yeah know",
-    "score": 3.9095581435142304
+    "keyword": "till",
+    "score": 7.833419757687483
+  },
+  {
+    "keyword": "understand",
+    "score": 7.647712012098221
+  },
+  {
+    "keyword": "married",
+    "score": 7.567216404596066
+  },
+  {
+    "keyword": "knew",
+    "score": 7.547627934624256
+  },
+  {
+    "keyword": "watch",
+    "score": 7.451839616496887
+  },
+  {
+    "keyword": "remember",
+    "score": 7.400923543618848
+  },
+  {
+    "keyword": "found",
+    "score": 7.337112049458511
+  },
+  {
+    "keyword": "ryan ryan",
+    "score": 7.271169654026051
+  },
+  {
+    "keyword": "roberts",
+    "score": 7.097811400700973
+  },
+  {
+    "keyword": "mother",
+    "score": 6.881627852051284
+  },
+  {
+    "keyword": "ate",
+    "score": 6.806599325141682
+  },
+  {
+    "keyword": "phone",
+    "score": 6.746252731073467
+  },
+  {
+    "keyword": "heard",
+    "score": 6.711907519581445
+  },
+  {
+    "keyword": "kiki",
+    "score": 6.70683566896674
+  },
+  {
+    "keyword": "boyfriend",
+    "score": 6.697329212036482
+  },
+  {
+    "keyword": "johnny",
+    "score": 6.6831449840508546
+  },
+  {
+    "keyword": "ran",
+    "score": 6.64702070460281
+  },
+  {
+    "keyword": "act",
+    "score": 6.4555690357015365
+  },
+  {
+    "keyword": "sleep",
+    "score": 6.384105778967696
+  },
+  {
+    "keyword": "seems",
+    "score": 6.346061679952718
+  },
+  {
+    "keyword": "hard",
+    "score": 6.313354244279399
+  },
+  {
+    "keyword": "gone",
+    "score": 6.241747716349945
+  },
+  {
+    "keyword": "jimmy",
+    "score": 6.231435099392815
+  },
+  {
+    "keyword": "wish",
+    "score": 6.206165646792567
+  },
+  {
+    "keyword": "stuff",
+    "score": 6.184037823927151
+  },
+  {
+    "keyword": "less",
+    "score": 6.090663588990009
+  },
+  {
+    "keyword": "hope",
+    "score": 6.082934363352972
+  },
+  {
+    "keyword": "head",
+    "score": 6.028515795622334
+  },
+  {
+    "keyword": "saw",
+    "score": 6.025469149651187
+  },
+  {
+    "keyword": "ally",
+    "score": 6.011063882812406
+  },
+  {
+    "keyword": "wife",
+    "score": 5.834341230866249
+  },
+  {
+    "keyword": "water polo",
+    "score": 5.746728281558904
+  },
+  {
+    "keyword": "glad",
+    "score": 5.739812359196056
+  },
+  {
+    "keyword": "either",
+    "score": 5.721385403235964
+  },
+  {
+    "keyword": "spend",
+    "score": 5.7149530850418016
+  },
+  {
+    "keyword": "seen",
+    "score": 5.642918934737114
+  },
+  {
+    "keyword": "movie",
+    "score": 5.6341562655826705
+  },
+  {
+    "keyword": "bet",
+    "score": 5.542257643500674
+  },
+  {
+    "keyword": "hot",
+    "score": 5.476516414630718
+  },
+  {
+    "keyword": "asked",
+    "score": 5.458406495865223
+  },
+  {
+    "keyword": "pen",
+    "score": 5.450052357947168
+  },
+  {
+    "keyword": "three",
+    "score": 5.448513420205895
+  },
+  {
+    "keyword": "pancakes",
+    "score": 5.396775855056015
+  },
+  {
+    "keyword": "end",
+    "score": 5.392051932080022
+  },
+  {
+    "keyword": "drink",
+    "score": 5.261355920293043
+  },
+  {
+    "keyword": "took",
+    "score": 5.22009392780188
+  },
+  {
+    "keyword": "oliver",
+    "score": 5.191431570729634
+  },
+  {
+    "keyword": "funny",
+    "score": 5.167770913704022
+  },
+  {
+    "keyword": "book",
+    "score": 5.146237185944273
+  },
+  {
+    "keyword": "rest",
+    "score": 5.139245414227357
+  },
+  {
+    "keyword": "taylor taylor",
+    "score": 5.128840765618222
+  },
+  {
+    "keyword": "pool",
+    "score": 5.067281358030302
+  },
+  {
+    "keyword": "kids",
+    "score": 5.0532758544223535
   }
 ]

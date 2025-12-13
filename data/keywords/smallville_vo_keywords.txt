@@ -1,200 +1,200 @@
-lana	3260.582416
-lex	2058.615541
-clark	1603.432184
-smallville	1160.212627
-luthor	786.175870
-luthorcorp	515.576384
-chloe	490.254931
-metropolis	344.790598
-kent	214.235337
-meteor	131.693135
-zod	125.660957
-clark kent	119.892715
-lionel luthor	114.522965
-really	103.341082
-lex luthor	98.130257
-kryptonian	95.088084
-never	92.644636
-jor	92.261485
-dad	91.219009
-lionel	90.717908
-mrs kent	88.216393
-clark know	85.411227
-something	81.742722
-kal	72.690206
-clark clark	72.215077
-find	67.713216
-thought	65.446764
-lana lang	61.123893
-meteor rocks	56.828915
-father	56.162372
-okay clark	54.715615
-daily planet	53.135976
-lana know	52.637982
-said	52.290024
-son	50.654665
-happened	49.604450
-know clark	48.098779
-rickman	47.391453
-anything	46.255586
-nao	45.870124
-whitney	45.058925
-lois	44.689596
-say	42.984534
-mean	42.960135
-luthors	39.317999
-told	37.929219
-even	37.375813
-life	36.988385
-believe	36.576570
-meteor shower	36.199022
-lex lex	35.825167
-still	34.776974
-meteor rock	34.726228
-ever	34.370369
-mom	33.739597
-someone	33.642799
-last	32.781101
-everything	32.350652
-way	32.182996
-nell	31.884907
-hey clark	31.659127
-found	31.500231
-wanted	31.381295
-lex know	31.094506
-right clark	31.094506
-always	30.761471
-give	30.496946
-much	30.188849
-guess	29.595978
-chloe sullivan	27.642161
-better	27.071685
-thanks	26.445247
-clark lana	26.311971
-keep	25.499586
-clark okay	25.354713
-kind	25.261051
-krypton	25.147420
-lana lana	23.945911
-green arrow	23.885956
-away	23.844328
-trying	23.676714
-nothing	23.274920
-little	22.886422
-please	20.652218
-thank	19.932163
-saw	19.881151
-warrior angel	19.523092
-lana clark	19.523092
-talk	19.154391
-looking	19.119456
-miss sullivan	19.102793
-understand	18.810062
-lang	18.753086
-first	18.461141
-friend	18.086140
-work	17.782752
-call	17.644847
-around	17.398434
-watchtower	17.165100
-remember	16.723206
-actually	16.430376
-belle reve	16.353887
-wait	15.905191
-lex clark	15.677025
-clark chloe	15.158334
-else	15.064410
-anyone	15.006324
-day	14.937392
-made	14.813994
-done	14.323316
-hurt	14.286240
-feel	13.967664
-kara	13.741035
-wrong	13.585150
-stay	13.437420
-meteors	13.425124
-seen	13.354125
-jodi	13.325051
-jonathan kent	13.161574
-oliver	13.140663
-great	12.802992
-talon	12.784913
-years	12.594794
-night	12.502151
-talking	12.328558
-kill	12.213036
-knew	12.058963
-tess	11.968042
-getting	11.726622
-sure	11.620509
-put	11.515951
-save	11.108763
-blur	11.067042
-heard	10.958109
-que	10.948172
-together	10.913562
-jonathan	10.887683
-trust	10.871162
-went	10.739068
-exactly	10.722857
-idea	10.563113
-worry	10.471232
-since	10.302305
-came	10.279142
-god	10.243381
-world	10.214443
-care	10.194133
-farm	9.968421
-leave	9.914394
-already	9.810042
-abilities	9.806062
-enough	9.683027
-looks	9.662998
-lois lane	9.630106
-ask	9.518446
-name	9.490779
-friends	9.442858
-person	9.215338
-another	9.137081
-try	9.052110
-home	9.036108
-whole	8.861321
-hear	8.721914
-planet	8.709463
-family	8.544527
-used	8.354418
-love	8.326639
-story	8.259796
-mother	8.140325
-whatever	8.101248
-inquisitor	8.077856
-truth	8.055702
-summerholt	7.938126
-took	7.791438
-pretty	7.531994
-called	7.476206
-lot	7.316828
-next	7.297899
-without	7.256635
-school	7.230197
-mind	7.045519
-left	7.045519
-looks like	6.858628
-problem	6.601205
-ago	6.565305
-kryptonite	6.508192
-martha	6.507334
-may	6.468781
-yet	6.240283
-listen	6.221284
-best	6.136303
-matter	6.090040
-tried	6.074091
-coming	5.879230
-pete	5.869321
-brainiac	5.838884
-nice	5.837789
-sullivan	5.816855
-phelan	5.816514
-gone	5.801690
+lana	4626.677221
+lex	2953.605111
+clark	2237.687623
+smallville	1620.612174
+luthor	1517.915509
+luthorcorp	720.715408
+chloe	683.812514
+metropolis	479.935683
+one	400.445112
+kent	314.351999
+gonna	249.498023
+got	235.181452
+meteor	208.138324
+jor	185.373779
+zod	175.587804
+clark kent	172.070100
+lionel luthor	160.193616
+kryptonian	145.876833
+lex luthor	140.368015
+dad	135.564836
+lionel	126.490388
+clark clark	124.795311
+mrs kent	124.365964
+kal	101.475237
+krypton	98.449217
+thought	93.672326
+lana lang	85.673548
+father	82.171588
+daily planet	74.362834
+happened	69.101804
+rickman	65.967139
+clark lana	63.076880
+whitney	62.720346
+lex lex	62.446438
+lois	62.310782
+mom	55.574576
+believe	55.048409
+lana clark	53.459838
+meteor shower	52.962813
+told	52.940495
+still	48.738264
+found	46.943066
+lana lana	45.368307
+nell	45.109453
+guess	44.925397
+wanted	43.723541
+talk	43.713656
+keep	42.951619
+lex clark	39.198483
+chloe sullivan	38.996817
+better	37.833059
+real	32.579506
+chloe clark	32.154209
+little	31.904542
+hear	31.615426
+lang	30.163757
+wait	30.159863
+happen	30.008654
+kill	29.008694
+understand	28.035747
+saw	27.952390
+care	25.551312
+may	25.290915
+remember	24.169462
+hurt	22.763095
+stay	21.474923
+two	21.234947
+done	21.094143
+else	21.087988
+save	21.024532
+made	20.777240
+kara	19.510997
+wrong	18.910023
+seen	18.766681
+jodi	18.547976
+tess	18.496305
+oliver	18.333472
+trust	17.970198
+talking	17.909903
+talon	17.796123
+belle reve	17.761509
+years	17.531485
+late	16.874382
+knew	16.869329
+thin	16.837616
+came	16.282777
+blur	15.995239
+farm	15.768970
+heard	15.532520
+went	15.423795
+together	15.272058
+name	15.203377
+jonathan	15.155249
+exactly	15.010443
+used	14.965434
+worry	14.927854
+god	14.867939
+since	14.447294
+abilities	14.072703
+able	14.039950
+home	13.960116
+love	13.903923
+story	13.817023
+hit	13.809546
+already	13.708476
+enough	13.503959
+lois lane	13.404749
+gotta	13.249322
+ready	13.113561
+another	12.812819
+rest	12.665216
+live	12.527973
+start	12.440379
+planet	12.436790
+whole	12.428518
+mind	12.351460
+mother	11.981713
+read	11.491669
+problem	11.426929
+truth	11.344643
+whatever	11.300880
+though	11.075997
+took	10.845392
+ago	10.788444
+pretty	10.566404
+school	10.540624
+called	10.452955
+com	10.444591
+hell	10.362602
+without	10.145099
+ship	9.966919
+listen	9.896203
+run	9.776390
+protect	9.468666
+body	9.458294
+die	9.339739
+kryptonite	9.059161
+martha	9.057967
+wanna	8.841547
+yet	8.839837
+eve	8.828563
+red	8.701885
+best	8.633309
+ran	8.623551
+hard	8.584535
+win	8.554016
+pete	8.534230
+tried	8.476240
+nice	8.409879
+kid	8.392349
+torch	8.361106
+hope	8.319358
+doctor	8.282210
+check	8.239734
+brainiac	8.217690
+powers	8.161785
+gone	8.130134
+sullivan	8.096846
+end	7.972894
+fine	7.686543
+bet	7.629833
+side	7.575887
+lose	7.523003
+hospital	7.488517
+safe	7.291054
+today	7.286510
+money	7.187872
+por	7.156300
+earl	7.138354
+eat	7.097213
+head	7.031618
+sheriff	6.969385
+lane	6.863873
+dead	6.854847
+anymore	6.822816
+bring	6.820320
+girl	6.691135
+glad	6.671476
+least	6.670594
+supposed	6.652475
+weird	6.639304
+sit	6.498460
+lost	6.496215
+owe	6.451476
+behind	6.440769
+truck	6.429834
+meet	6.423372
+afraid	6.389778
+subtitles	6.253860
+chloe chloe	6.208827
+wish	6.154608
+alicia	6.137088
+ill	6.085158
+ink	5.998923
+killed	5.857979
+miss	5.840474
+power	5.761885
+play	5.736257
+ing	5.718653
+tvsubtitles	5.718279

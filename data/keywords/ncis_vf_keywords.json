@@ -1,802 +1,802 @@
 [
   {
     "keyword": "gibbs",
-    "score": 3691.111124754637
+    "score": 5405.482037952825
   },
   {
     "keyword": "dinozzo",
-    "score": 2875.142610347814
+    "score": 4216.218321313663
   },
   {
     "keyword": "ziva",
-    "score": 2511.212815345332
+    "score": 3672.245436047659
   },
   {
     "keyword": "ncis",
-    "score": 1574.147244761754
+    "score": 2337.446650256833
   },
   {
     "keyword": "mcgee",
-    "score": 1396.928475608019
+    "score": 2066.613192872844
   },
   {
     "keyword": "agent gibbs",
-    "score": 613.8164734078181
+    "score": 900.0807614049213
   },
   {
     "keyword": "ducky",
-    "score": 450.74498669335907
+    "score": 659.1421523860087
   },
   {
     "keyword": "team ncis",
-    "score": 390.4423045544402
+    "score": 570.9591645034684
   },
   {
     "keyword": "ncis com",
-    "score": 361.00017872207866
+    "score": 535.7526660515678
   },
   {
     "keyword": "quartier maitre",
-    "score": 336.3967485570603
+    "score": 491.9262186944751
   },
   {
     "keyword": "jethro",
-    "score": 232.28843540585456
-  },
-  {
-    "keyword": "www team",
-    "score": 180.52343801781578
+    "score": 339.6845307387844
   },
   {
     "keyword": "abby",
-    "score": 168.8612442148529
-  },
-  {
-    "keyword": "bizut",
-    "score": 159.70737802897418
-  },
-  {
-    "keyword": "ouais",
-    "score": 139.21526442138602
-  },
-  {
-    "keyword": "special gibbs",
-    "score": 110.96360557019064
-  },
-  {
-    "keyword": "deux",
-    "score": 96.56707777036699
-  },
-  {
-    "keyword": "juste",
-    "score": 94.01903367229566
-  },
-  {
-    "keyword": "trouve",
-    "score": 92.6776049861443
-  },
-  {
-    "keyword": "peut etre",
-    "score": 83.33182367205255
-  },
-  {
-    "keyword": "quelque chose",
-    "score": 75.58008155373793
-  },
-  {
-    "keyword": "mort",
-    "score": 71.89020089580237
-  },
-  {
-    "keyword": "ncis saison",
-    "score": 71.56710471004439
-  },
-  {
-    "keyword": "vraiment",
-    "score": 67.9720250207526
-  },
-  {
-    "keyword": "pense",
-    "score": 67.74603764175272
-  },
-  {
-    "keyword": "tony",
-    "score": 66.60761357674713
-  },
-  {
-    "keyword": "mallard",
-    "score": 64.6554380823542
-  },
-  {
-    "keyword": "patron",
-    "score": 63.851455731852596
-  },
-  {
-    "keyword": "besoin",
-    "score": 54.14274099174858
-  },
-  {
-    "keyword": "agent dinozzo",
-    "score": 53.930786158559485
-  },
-  {
-    "keyword": "quelqu",
-    "score": 52.232784913773536
-  },
-  {
-    "keyword": "voir",
-    "score": 48.50064750873439
-  },
-  {
-    "keyword": "maintenant",
-    "score": 48.01058106179492
-  },
-  {
-    "keyword": "rivkin",
-    "score": 46.91819212926398
-  },
-  {
-    "keyword": "fois",
-    "score": 43.92937067285079
-  },
-  {
-    "keyword": "agent special",
-    "score": 42.8294691436779
-  },
-  {
-    "keyword": "fornell",
-    "score": 40.343037249690724
-  },
-  {
-    "keyword": "temps",
-    "score": 37.9634509532201
-  },
-  {
-    "keyword": "passe",
-    "score": 37.365570449071
-  },
-  {
-    "keyword": "peu",
-    "score": 36.67510241437647
-  },
-  {
-    "keyword": "depuis",
-    "score": 36.54614172270892
-  },
-  {
-    "keyword": "tue",
-    "score": 34.52574421792697
-  },
-  {
-    "keyword": "palmer",
-    "score": 33.36132522501287
-  },
-  {
-    "keyword": "directeur",
-    "score": 33.30619362649552
-  },
-  {
-    "keyword": "abs",
-    "score": 32.300018703446106
-  },
-  {
-    "keyword": "fais",
-    "score": 29.759717790767503
-  },
-  {
-    "keyword": "parler",
-    "score": 29.552441595246663
-  },
-  {
-    "keyword": "agent",
-    "score": 29.18796100550344
-  },
-  {
-    "keyword": "gaillots",
-    "score": 28.63294394203976
-  },
-  {
-    "keyword": "voiture",
-    "score": 28.38337391242288
-  },
-  {
-    "keyword": "caporal",
-    "score": 28.236477852257636
-  },
-  {
-    "keyword": "vance",
-    "score": 27.611391055248102
-  },
-  {
-    "keyword": "crois",
-    "score": 27.023425042843296
-  },
-  {
-    "keyword": "kody",
-    "score": 26.243370008990166
-  },
-  {
-    "keyword": "personne",
-    "score": 26.221658408430358
-  },
-  {
-    "keyword": "mossad",
-    "score": 25.124375530131424
-  },
-  {
-    "keyword": "merci",
-    "score": 24.850895409865224
-  },
-  {
-    "keyword": "ans",
-    "score": 24.46409554830299
-  },
-  {
-    "keyword": "parce",
-    "score": 23.426399362226512
-  },
-  {
-    "keyword": "cela",
-    "score": 23.266137978281957
-  },
-  {
-    "keyword": "femme",
-    "score": 22.940221284749
-  },
-  {
-    "keyword": "homme",
-    "score": 22.539114408874838
-  },
-  {
-    "keyword": "bon",
-    "score": 22.463103468023235
-  },
-  {
-    "keyword": "arnett",
-    "score": 21.699326983597896
-  },
-  {
-    "keyword": "werth",
-    "score": 21.229758959205917
-  },
-  {
-    "keyword": "korby",
-    "score": 20.552253863082136
-  },
-  {
-    "keyword": "turtle www",
-    "score": 20.552253863082136
-  },
-  {
-    "keyword": "savoir",
-    "score": 20.365936024300364
-  },
-  {
-    "keyword": "tony ziva",
-    "score": 19.884532383900194
-  },
-  {
-    "keyword": "norfolk",
-    "score": 19.30301926133025
-  },
-  {
-    "keyword": "marine",
-    "score": 19.184364811737698
-  },
-  {
-    "keyword": "nom",
-    "score": 18.629368979145433
-  },
-  {
-    "keyword": "siravo",
-    "score": 18.57858497518926
-  },
-  {
-    "keyword": "parle",
-    "score": 18.02910799425453
-  },
-  {
-    "keyword": "sciuto",
-    "score": 17.51990635423366
-  },
-  {
-    "keyword": "sergent",
-    "score": 17.068066067382762
-  },
-  {
-    "keyword": "magic turtle",
-    "score": 16.98504799727851
+    "score": 247.54259950645968
   },
   {
     "keyword": "ari",
-    "score": 16.877216416538886
+    "score": 242.5428066121487
   },
   {
-    "keyword": "abbs",
-    "score": 16.69396730843757
+    "keyword": "bizut",
+    "score": 242.34620187145114
   },
   {
-    "keyword": "trois",
-    "score": 16.427348206222554
+    "keyword": "www team",
+    "score": 240.30917840104223
   },
   {
-    "keyword": "capitaine",
-    "score": 15.674963715825522
+    "keyword": "deux",
+    "score": 148.55661948380217
   },
   {
-    "keyword": "desole",
-    "score": 15.269215931093177
+    "keyword": "mort",
+    "score": 134.8669094020919
   },
   {
-    "keyword": "beaucoup",
-    "score": 15.201255782824727
+    "keyword": "tue",
+    "score": 110.66880429868054
   },
   {
-    "keyword": "laisse",
-    "score": 15.058803030616398
+    "keyword": "tony",
+    "score": 97.40293752427326
   },
   {
-    "keyword": "entre",
-    "score": 15.037085695439847
+    "keyword": "mallard",
+    "score": 94.54819438747437
   },
   {
-    "keyword": "trouver",
-    "score": 14.949001302683659
+    "keyword": "patron",
+    "score": 93.88534007426841
   },
   {
-    "keyword": "lol synchro",
-    "score": 14.899466280746143
+    "keyword": "besoin",
+    "score": 79.44305599709338
   },
   {
-    "keyword": "agent mcgee",
-    "score": 14.899466280746143
+    "keyword": "agent dinozzo",
+    "score": 78.86511335201102
   },
   {
-    "keyword": "pourrait",
-    "score": 14.359085481382659
+    "keyword": "abs",
+    "score": 69.03900768017435
   },
   {
-    "keyword": "corps",
-    "score": 14.185729677872828
+    "keyword": "rivkin",
+    "score": 68.61032082245228
   },
   {
-    "keyword": "mois",
-    "score": 14.184250639580688
+    "keyword": "vance",
+    "score": 68.09136090108703
   },
   {
-    "keyword": "demande",
-    "score": 14.070726599794757
+    "keyword": "agent special",
+    "score": 62.2050078423241
   },
   {
-    "keyword": "fille",
-    "score": 14.014116666372953
+    "keyword": "parle",
+    "score": 60.16960548538356
   },
   {
-    "keyword": "nuit",
-    "score": 13.84489575755597
-  },
-  {
-    "keyword": "vrai",
-    "score": 13.787316795710803
-  },
-  {
-    "keyword": "mtac",
-    "score": 13.7537597018467
-  },
-  {
-    "keyword": "yazeed",
-    "score": 13.7537597018467
-  },
-  {
-    "keyword": "gars",
-    "score": 13.443440483376474
-  },
-  {
-    "keyword": "jusqu",
-    "score": 13.393233547648808
-  },
-  {
-    "keyword": "pris",
-    "score": 13.342723801229388
-  },
-  {
-    "keyword": "monsieur",
-    "score": 13.257098889768693
-  },
-  {
-    "keyword": "quartier",
-    "score": 13.218229614121677
-  },
-  {
-    "keyword": "azari",
-    "score": 13.19622873389052
-  },
-  {
-    "keyword": "maitre",
-    "score": 13.062651616047154
-  },
-  {
-    "keyword": "gibbs gibbs",
-    "score": 12.83312338434575
-  },
-  {
-    "keyword": "probleme",
-    "score": 12.69575162937277
-  },
-  {
-    "keyword": "donne",
-    "score": 12.658397884458063
-  },
-  {
-    "keyword": "derniere",
-    "score": 12.497608734002467
-  },
-  {
-    "keyword": "raison",
-    "score": 12.463159878037223
-  },
-  {
-    "keyword": "bonne",
-    "score": 12.439431109060315
-  },
-  {
-    "keyword": "affaire",
-    "score": 12.317021565681188
-  },
-  {
-    "keyword": "tuer",
-    "score": 12.225271282569143
-  },
-  {
-    "keyword": "euh",
-    "score": 12.182654910173673
-  },
-  {
-    "keyword": "vie",
-    "score": 12.088953025099308
-  },
-  {
-    "keyword": "prendre",
-    "score": 11.921003429658393
-  },
-  {
-    "keyword": "celui",
-    "score": 11.8149870859758
-  },
-  {
-    "keyword": "callen",
-    "score": 11.81111835712911
-  },
-  {
-    "keyword": "pere",
-    "score": 11.656752298011057
+    "keyword": "fornell",
+    "score": 59.58443114550544
   },
   {
     "keyword": "aime",
-    "score": 11.518190318595739
+    "score": 54.56346415797678
   },
   {
-    "keyword": "regarde",
-    "score": 11.319335358614667
+    "keyword": "depuis",
+    "score": 53.44286287735961
   },
   {
-    "keyword": "jours",
-    "score": 11.21479609202738
+    "keyword": "eme",
+    "score": 50.643891879460284
   },
   {
-    "keyword": "anthony dinozzo",
-    "score": 11.069370078002843
+    "keyword": "directeur",
+    "score": 49.182879220927866
   },
   {
-    "keyword": "mayne",
-    "score": 11.069370078002843
+    "keyword": "entre",
+    "score": 48.81019872832526
   },
   {
-    "keyword": "lieutenant",
-    "score": 10.887390319460268
+    "keyword": "palmer",
+    "score": 48.785580238132034
+  },
+  {
+    "keyword": "agent",
+    "score": 48.684493074565374
+  },
+  {
+    "keyword": "com",
+    "score": 45.41050687976245
+  },
+  {
+    "keyword": "parler",
+    "score": 45.32181912239796
+  },
+  {
+    "keyword": "voiture",
+    "score": 43.88014232195651
+  },
+  {
+    "keyword": "pris",
+    "score": 43.37276663825119
   },
   {
     "keyword": "dis",
-    "score": 10.563095175513343
+    "score": 42.3566182342972
   },
   {
-    "keyword": "dessus",
-    "score": 10.545824229940141
+    "keyword": "jours",
+    "score": 42.19323841347145
   },
   {
-    "keyword": "arme",
-    "score": 10.525452752533699
+    "keyword": "gaillots",
+    "score": 41.87108200039373
   },
   {
-    "keyword": "seul",
-    "score": 10.495123219591061
+    "keyword": "caporal",
+    "score": 41.657941905872995
+  },
+  {
+    "keyword": "nom",
+    "score": 39.06464179995567
+  },
+  {
+    "keyword": "kody",
+    "score": 38.376713894227024
+  },
+  {
+    "keyword": "donne",
+    "score": 38.28600319437909
+  },
+  {
+    "keyword": "laisse",
+    "score": 38.07397661352558
+  },
+  {
+    "keyword": "mossad",
+    "score": 36.740364181912234
+  },
+  {
+    "keyword": "mme",
+    "score": 35.78556656435737
+  },
+  {
+    "keyword": "pere",
+    "score": 35.32293400186458
+  },
+  {
+    "keyword": "marine",
+    "score": 34.772351764368196
+  },
+  {
+    "keyword": "cela",
+    "score": 34.261539320050964
   },
   {
     "keyword": "travail",
-    "score": 10.482839400608968
+    "score": 33.74616679980899
   },
   {
-    "keyword": "synchro gaillots",
-    "score": 10.453522541934518
+    "keyword": "appel",
+    "score": 33.74125307220549
   },
   {
-    "keyword": "mieux",
-    "score": 10.384512069579559
+    "keyword": "arnett",
+    "score": 33.7355031174874
   },
   {
-    "keyword": "meurtre",
-    "score": 10.313249908611875
-  },
-  {
-    "keyword": "kort",
-    "score": 10.132593087403773
-  },
-  {
-    "keyword": "empreintes",
-    "score": 9.955375397382207
-  },
-  {
-    "keyword": "argent",
-    "score": 9.947144594277828
-  },
-  {
-    "keyword": "assez",
-    "score": 9.845916446303306
-  },
-  {
-    "keyword": "vois",
-    "score": 9.845916446303306
-  },
-  {
-    "keyword": "gens",
-    "score": 9.638209524353538
-  },
-  {
-    "keyword": "trimble",
-    "score": 9.574628271161856
-  },
-  {
-    "keyword": "accord",
-    "score": 9.570260871353312
-  },
-  {
-    "keyword": "secnav",
-    "score": 9.556861757012536
-  },
-  {
-    "keyword": "kale",
-    "score": 9.556861757012536
-  },
-  {
-    "keyword": "tueur",
-    "score": 9.515233629638654
-  },
-  {
-    "keyword": "reste",
-    "score": 9.019102727220229
-  },
-  {
-    "keyword": "yost",
-    "score": 9.009199872020224
-  },
-  {
-    "keyword": "aucun",
-    "score": 8.977566597401411
-  },
-  {
-    "keyword": "franks",
-    "score": 8.852573053246857
-  },
-  {
-    "keyword": "equipe",
-    "score": 8.843579648686003
+    "keyword": "tony ziva",
+    "score": 32.847297069921574
   },
   {
     "keyword": "duck",
-    "score": 8.780169651659017
+    "score": 32.782390849386154
   },
   {
-    "keyword": "combien",
-    "score": 8.735593149153399
+    "keyword": "demande",
+    "score": 30.86326096567116
   },
   {
-    "keyword": "heure",
-    "score": 8.50509211055494
+    "keyword": "pres",
+    "score": 29.866310834051053
   },
   {
-    "keyword": "securite",
-    "score": 8.226397139976648
+    "keyword": "savoir",
+    "score": 29.781910620661982
   },
   {
-    "keyword": "enquete",
-    "score": 8.212737038135115
+    "keyword": "trouver",
+    "score": 29.452625136245285
   },
   {
-    "keyword": "appelle",
-    "score": 8.14912809525308
+    "keyword": "desole",
+    "score": 29.37437499738052
   },
   {
-    "keyword": "seulement",
-    "score": 8.050863699415357
-  },
-  {
-    "keyword": "aucune",
-    "score": 8.050863699415357
-  },
-  {
-    "keyword": "arrive",
-    "score": 7.917982371788366
-  },
-  {
-    "keyword": "kate",
-    "score": 7.780348530778834
-  },
-  {
-    "keyword": "recherche",
-    "score": 7.664652764549527
-  },
-  {
-    "keyword": "pendant",
-    "score": 7.609196748151835
-  },
-  {
-    "keyword": "petit",
-    "score": 7.602527263837858
-  },
-  {
-    "keyword": "danforth",
-    "score": 7.592487991871406
-  },
-  {
-    "keyword": "appele",
-    "score": 7.539030445067922
-  },
-  {
-    "keyword": "travaille",
-    "score": 7.469952019483484
-  },
-  {
-    "keyword": "heures",
-    "score": 7.443806170048113
-  },
-  {
-    "keyword": "essaye",
-    "score": 7.435375983144827
+    "keyword": "norfolk",
+    "score": 28.22756556162771
   },
   {
     "keyword": "porte",
-    "score": 7.422046564236084
+    "score": 28.12935017686409
+  },
+  {
+    "keyword": "arme",
+    "score": 27.73292470581958
+  },
+  {
+    "keyword": "trois",
+    "score": 27.187742838520318
+  },
+  {
+    "keyword": "nat",
+    "score": 26.999766665740523
+  },
+  {
+    "keyword": "sciuto",
+    "score": 25.620049306920063
+  },
+  {
+    "keyword": "affaire",
+    "score": 25.175812032425046
+  },
+  {
+    "keyword": "sergent",
+    "score": 25.091452843312943
+  },
+  {
+    "keyword": "ami",
+    "score": 24.49797859939709
+  },
+  {
+    "keyword": "mari",
+    "score": 24.035144835367966
+  },
+  {
+    "keyword": "alle",
+    "score": 23.314575392835
+  },
+  {
+    "keyword": "capitaine",
+    "score": 23.16629530409815
+  },
+  {
+    "keyword": "mois",
+    "score": 23.075514701776214
+  },
+  {
+    "keyword": "prendre",
+    "score": 22.894679598906773
+  },
+  {
+    "keyword": "gibbs gibbs",
+    "score": 22.787749475848162
+  },
+  {
+    "keyword": "probleme",
+    "score": 22.543367074880702
+  },
+  {
+    "keyword": "aucun",
+    "score": 22.482560644324746
+  },
+  {
+    "keyword": "raison",
+    "score": 22.066100095084774
+  },
+  {
+    "keyword": "ment",
+    "score": 21.996354994909957
+  },
+  {
+    "keyword": "derniere",
+    "score": 21.958065775814923
+  },
+  {
+    "keyword": "appele",
+    "score": 21.796398009435674
+  },
+  {
+    "keyword": "parti",
+    "score": 21.60529178332953
   },
   {
     "keyword": "bas",
-    "score": 7.386004831156539
+    "score": 21.114308680233037
   },
   {
-    "keyword": "rankin",
-    "score": 7.28471417067142
+    "keyword": "corps",
+    "score": 20.769722869708787
   },
   {
-    "keyword": "tete",
-    "score": 7.268253810965151
+    "keyword": "bonne",
+    "score": 20.716365249455514
   },
   {
-    "keyword": "officier",
-    "score": 7.262653703815792
+    "keyword": "tuer",
+    "score": 20.405830253618113
   },
   {
-    "keyword": "fini",
-    "score": 7.192868965586801
+    "keyword": "eau",
+    "score": 20.401690248526787
   },
   {
-    "keyword": "idee",
-    "score": 7.144943620842304
+    "keyword": "jusqu",
+    "score": 20.201062756661912
   },
   {
-    "keyword": "monde",
-    "score": 7.10269371107934
+    "keyword": "quartier",
+    "score": 19.772401958293997
   },
   {
-    "keyword": "puis",
-    "score": 7.10269371107934
+    "keyword": "gars",
+    "score": 19.732329495460892
   },
   {
-    "keyword": "aider",
-    "score": 6.976612700237816
+    "keyword": "maitre",
+    "score": 19.526422199320812
   },
   {
-    "keyword": "utilise",
-    "score": 6.838121913240412
-  },
-  {
-    "keyword": "maison",
-    "score": 6.826091025146226
-  },
-  {
-    "keyword": "sharif",
-    "score": 6.810132384506293
-  },
-  {
-    "keyword": "truc",
-    "score": 6.810067798835124
-  },
-  {
-    "keyword": "marche",
-    "score": 6.78165419583484
+    "keyword": "monsieur",
+    "score": 19.386378006553315
   },
   {
     "keyword": "cas",
-    "score": 6.780630285189105
+    "score": 19.264383314605034
   },
   {
-    "keyword": "pensais",
-    "score": 6.723701409143912
+    "keyword": "tant",
+    "score": 19.025768315040764
+  },
+  {
+    "keyword": "mis",
+    "score": 18.27401396907935
+  },
+  {
+    "keyword": "marin",
+    "score": 17.98459428952766
   },
   {
     "keyword": "arrete",
-    "score": 6.630217288811899
+    "score": 17.74016932395983
   },
   {
-    "keyword": "kujathemas",
-    "score": 6.56798409476738
+    "keyword": "meurtre",
+    "score": 17.34700913917154
   },
   {
-    "keyword": "veux dire",
-    "score": 6.547855077949462
+    "keyword": "celui",
+    "score": 17.277521099887416
   },
   {
-    "keyword": "adn",
-    "score": 6.50188630193084
+    "keyword": "callen",
+    "score": 17.271863705275642
   },
   {
-    "keyword": "seule",
-    "score": 6.343954209115302
+    "keyword": "tir",
+    "score": 17.2442161818999
   },
   {
-    "keyword": "vient",
-    "score": 6.303518335309359
+    "keyword": "cou",
+    "score": 16.95481851039306
   },
   {
-    "keyword": "renny",
-    "score": 6.295606789736457
+    "keyword": "arrive",
+    "score": 16.83284664712074
   },
   {
-    "keyword": "penses",
-    "score": 6.222991538755595
+    "keyword": "garde",
+    "score": 16.688344338997222
   },
   {
-    "keyword": "viens",
-    "score": 6.161845604612
+    "keyword": "utilise",
+    "score": 16.48029689479462
+  },
+  {
+    "keyword": "travaille",
+    "score": 16.412059308592493
+  },
+  {
+    "keyword": "ours",
+    "score": 16.30187377746345
+  },
+  {
+    "keyword": "cherche",
+    "score": 16.205073040972685
+  },
+  {
+    "keyword": "lieutenant",
+    "score": 16.107635916604494
+  },
+  {
+    "keyword": "coup",
+    "score": 16.043942199102318
+  },
+  {
+    "keyword": "essaye",
+    "score": 15.918270595620317
+  },
+  {
+    "keyword": "fini",
+    "score": 15.883150251059568
+  },
+  {
+    "keyword": "mer",
+    "score": 15.781488320401328
+  },
+  {
+    "keyword": "contre",
+    "score": 15.665330650083131
+  },
+  {
+    "keyword": "dessus",
+    "score": 15.421574253328643
+  },
+  {
+    "keyword": "enquete",
+    "score": 15.293408710936546
+  },
+  {
+    "keyword": "argent",
+    "score": 15.075507493303917
+  },
+  {
+    "keyword": "heu",
+    "score": 14.938689800611499
+  },
+  {
+    "keyword": "tueur",
+    "score": 14.684961755629265
+  },
+  {
+    "keyword": "equipe",
+    "score": 14.599235019532335
+  },
+  {
+    "keyword": "accord",
+    "score": 14.584900444090232
+  },
+  {
+    "keyword": "empreintes",
+    "score": 14.558137663115808
+  },
+  {
+    "keyword": "truc",
+    "score": 14.538551366907356
+  },
+  {
+    "keyword": "recherche",
+    "score": 14.314039005848572
+  },
+  {
+    "keyword": "connais",
+    "score": 14.111505789322514
+  },
+  {
+    "keyword": "ais",
+    "score": 13.921076767810126
+  },
+  {
+    "keyword": "empreinte",
+    "score": 13.186299199866273
+  },
+  {
+    "keyword": "yost",
+    "score": 13.174507915179559
+  },
+  {
+    "keyword": "prend",
+    "score": 13.173991240089052
   },
   {
     "keyword": "leurs",
-    "score": 6.12308456850836
+    "score": 13.126707367552896
   },
   {
-    "keyword": "avis recherche",
-    "score": 6.1124364689375295
+    "keyword": "franks",
+    "score": 12.945466347340927
   },
   {
-    "keyword": "shepard",
-    "score": 6.11151355190104
+    "keyword": "combien",
+    "score": 12.774402024838485
+  },
+  {
+    "keyword": "marche",
+    "score": 12.672502942155738
+  },
+  {
+    "keyword": "vol",
+    "score": 12.268140024096036
+  },
+  {
+    "keyword": "securite",
+    "score": 12.090464583701669
+  },
+  {
+    "keyword": "partie",
+    "score": 12.026969277590743
+  },
+  {
+    "keyword": "aucune",
+    "score": 11.920490242675505
+  },
+  {
+    "keyword": "mai",
+    "score": 11.884203984997715
+  },
+  {
+    "keyword": "idee",
+    "score": 11.80186736965299
+  },
+  {
+    "keyword": "seulement",
+    "score": 11.773095173677742
+  },
+  {
+    "keyword": "officier",
+    "score": 11.515105095741584
+  },
+  {
+    "keyword": "kate",
+    "score": 11.435632913203344
+  },
+  {
+    "keyword": "tete",
+    "score": 11.259769900189605
+  },
+  {
+    "keyword": "aider",
+    "score": 11.196949304168228
+  },
+  {
+    "keyword": "balle",
+    "score": 11.182024574146464
   },
   {
     "keyword": "victime",
-    "score": 6.094382755075291
+    "score": 11.170174401776897
   },
   {
-    "keyword": "dieu",
-    "score": 6.0379281843057795
+    "keyword": "heures",
+    "score": 10.885371031775147
   },
   {
-    "keyword": "cote",
-    "score": 5.964933353420217
+    "keyword": "aide",
+    "score": 10.642860128232023
   },
   {
-    "keyword": "jour",
-    "score": 5.953001940385556
+    "keyword": "maison",
+    "score": 10.570275036850619
+  },
+  {
+    "keyword": "sol",
+    "score": 10.414724488869387
+  },
+  {
+    "keyword": "lors",
+    "score": 10.140359584943193
+  },
+  {
+    "keyword": "sharif",
+    "score": 9.958724889847511
+  },
+  {
+    "keyword": "pensais",
+    "score": 9.832333469387986
   },
   {
     "keyword": "sang",
-    "score": 5.918707434938397
+    "score": 9.82263058214293
+  },
+  {
+    "keyword": "verifie",
+    "score": 9.627982138973797
+  },
+  {
+    "keyword": "kujathemas",
+    "score": 9.604621905661286
+  },
+  {
+    "keyword": "cote",
+    "score": 9.584639756221904
+  },
+  {
+    "keyword": "adn",
+    "score": 9.544168100990015
+  },
+  {
+    "keyword": "penses",
+    "score": 9.360139100512061
+  },
+  {
+    "keyword": "renny",
+    "score": 9.206313841457966
+  },
+  {
+    "keyword": "entendu",
+    "score": 9.133345163936422
+  },
+  {
+    "keyword": "dieu",
+    "score": 9.099208524907276
+  },
+  {
+    "keyword": "avis recherche",
+    "score": 8.938456664852747
+  },
+  {
+    "keyword": "shepard",
+    "score": 8.93710704690942
+  },
+  {
+    "keyword": "numero",
+    "score": 8.873668298896778
+  },
+  {
+    "keyword": "semaine",
+    "score": 8.82913810755385
+  },
+  {
+    "keyword": "dur",
+    "score": 8.784159742141297
+  },
+  {
+    "keyword": "faites",
+    "score": 8.781312370370735
+  },
+  {
+    "keyword": "autopsie",
+    "score": 8.59416260216529
+  },
+  {
+    "keyword": "mec",
+    "score": 8.563647522217904
+  },
+  {
+    "keyword": "passer",
+    "score": 8.556558326088476
+  },
+  {
+    "keyword": "docteur",
+    "score": 8.508591984285827
+  },
+  {
+    "keyword": "len",
+    "score": 8.487715666183208
+  },
+  {
+    "keyword": "fil",
+    "score": 8.38904991884523
+  },
+  {
+    "keyword": "recu",
+    "score": 8.386416060079839
+  },
+  {
+    "keyword": "paulson",
+    "score": 8.331911573007787
+  },
+  {
+    "keyword": "hommes",
+    "score": 8.327548404044673
+  },
+  {
+    "keyword": "voulait",
+    "score": 8.245762134491846
+  },
+  {
+    "keyword": "boulot",
+    "score": 8.222825268365835
+  },
+  {
+    "keyword": "dirait",
+    "score": 8.20389963357299
+  },
+  {
+    "keyword": "ordinateur",
+    "score": 8.005361200689846
+  },
+  {
+    "keyword": "cia",
+    "score": 7.962737498939598
+  },
+  {
+    "keyword": "grenouille",
+    "score": 7.91406397171921
+  },
+  {
+    "keyword": "prends",
+    "score": 7.804613951121932
+  },
+  {
+    "keyword": "mettre",
+    "score": 7.786140093638837
+  },
+  {
+    "keyword": "compte",
+    "score": 7.733426730653348
+  },
+  {
+    "keyword": "faut",
+    "score": 7.714047053635204
+  },
+  {
+    "keyword": "envoye",
+    "score": 7.670528792494721
+  },
+  {
+    "keyword": "ere",
+    "score": 7.6596668326860495
+  },
+  {
+    "keyword": "venu",
+    "score": 7.58648501256866
+  },
+  {
+    "keyword": "voulais",
+    "score": 7.576712335600578
+  },
+  {
+    "keyword": "virginie",
+    "score": 7.56592554620543
+  },
+  {
+    "keyword": "celle",
+    "score": 7.410108074554002
+  },
+  {
+    "keyword": "ali",
+    "score": 7.251801978011309
+  },
+  {
+    "keyword": "rend",
+    "score": 7.2408346662382925
+  },
+  {
+    "keyword": "importe",
+    "score": 7.219501555080675
+  },
+  {
+    "keyword": "famille",
+    "score": 7.2011814765106825
   }
 ]

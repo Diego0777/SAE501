@@ -1,802 +1,802 @@
 [
   {
     "keyword": "sheldon",
-    "score": 688.6395195961499
+    "score": 1205.2867732203506
   },
   {
     "keyword": "wolowitz",
-    "score": 219.13850881643646
-  },
-  {
-    "keyword": "leonard",
-    "score": 142.24128541012098
+    "score": 380.3461706990512
   },
   {
     "keyword": "raj",
-    "score": 122.12937120446031
+    "score": 246.89299239625632
   },
   {
-    "keyword": "koothrappali",
-    "score": 87.37575727489332
+    "keyword": "leonard",
+    "score": 246.8800600736428
   },
   {
     "keyword": "penny",
-    "score": 64.16508336635229
-  },
-  {
-    "keyword": "stan lee",
-    "score": 27.599181411556625
-  },
-  {
-    "keyword": "kripke",
-    "score": 23.029892838116385
-  },
-  {
-    "keyword": "merci",
-    "score": 21.22189179973669
-  },
-  {
-    "keyword": "fais",
-    "score": 20.970860989320485
-  },
-  {
-    "keyword": "vraiment",
-    "score": 18.108373110044305
-  },
-  {
-    "keyword": "peu",
-    "score": 16.759129271306637
-  },
-  {
-    "keyword": "jesslataree",
-    "score": 14.702059284776356
-  },
-  {
-    "keyword": "howard",
-    "score": 13.009001158388644
-  },
-  {
-    "keyword": "parler",
-    "score": 12.816382684542955
-  },
-  {
-    "keyword": "bernadette",
-    "score": 12.351069841089066
-  },
-  {
-    "keyword": "petit",
-    "score": 12.014023973963146
-  },
-  {
-    "keyword": "deux",
-    "score": 10.825126922282942
-  },
-  {
-    "keyword": "passe",
-    "score": 10.683341864232702
-  },
-  {
-    "keyword": "voir",
-    "score": 10.450893371755171
-  },
-  {
-    "keyword": "peut etre",
-    "score": 10.383055846258005
-  },
-  {
-    "keyword": "faut",
-    "score": 9.91957322308622
-  },
-  {
-    "keyword": "desole",
-    "score": 9.658542376061874
-  },
-  {
-    "keyword": "bon",
-    "score": 9.289651292118602
-  },
-  {
-    "keyword": "besoin",
-    "score": 8.786820963183901
-  },
-  {
-    "keyword": "parle",
-    "score": 8.661693656053743
-  },
-  {
-    "keyword": "salut",
-    "score": 8.517945776750345
+    "score": 111.3676636880856
   },
   {
     "keyword": "pos",
-    "score": 8.149224241215622
+    "score": 54.829845854449616
   },
   {
-    "keyword": "temps",
-    "score": 7.702521307765943
-  },
-  {
-    "keyword": "sixe",
-    "score": 7.565410839198335
-  },
-  {
-    "keyword": "bonne",
-    "score": 7.559444304489902
-  },
-  {
-    "keyword": "parce",
-    "score": 7.45859286590632
-  },
-  {
-    "keyword": "crois",
-    "score": 7.330382539573384
-  },
-  {
-    "keyword": "wil",
-    "score": 6.9322356883481335
-  },
-  {
-    "keyword": "viens",
-    "score": 6.766918234929189
-  },
-  {
-    "keyword": "leslie",
-    "score": 6.492756444942686
-  },
-  {
-    "keyword": "ans",
-    "score": 6.454230490239122
-  },
-  {
-    "keyword": "vois",
-    "score": 6.426484562648487
-  },
-  {
-    "keyword": "juste",
-    "score": 6.352477209978014
-  },
-  {
-    "keyword": "soir",
-    "score": 6.328569219196518
-  },
-  {
-    "keyword": "mere",
-    "score": 6.28455162449904
-  },
-  {
-    "keyword": "vrai",
-    "score": 6.213483844859749
-  },
-  {
-    "keyword": "fois",
-    "score": 6.120444487935852
-  },
-  {
-    "keyword": "attends",
-    "score": 6.044862292576598
-  },
-  {
-    "keyword": "dis",
-    "score": 6.033213782006094
-  },
-  {
-    "keyword": "accord",
-    "score": 5.811902555162739
-  },
-  {
-    "keyword": "entre",
-    "score": 5.806326125745585
+    "keyword": "parle",
+    "score": 33.553564126070874
   },
   {
     "keyword": "aime",
-    "score": 5.647856615269519
+    "score": 28.27865458305681
   },
   {
-    "keyword": "regarde",
-    "score": 5.0534498956480585
+    "keyword": "dis",
+    "score": 24.5230741513888
   },
   {
-    "keyword": "mieux",
-    "score": 4.812796056283147
+    "keyword": "parler",
+    "score": 23.16441023779026
   },
   {
-    "keyword": "amis",
-    "score": 4.812729932841387
+    "keyword": "mme",
+    "score": 22.630581932391195
   },
   {
-    "keyword": "monde",
-    "score": 4.68055096938647
+    "keyword": "howard",
+    "score": 22.578978938646145
   },
   {
-    "keyword": "nuit",
-    "score": 4.6050421127081025
+    "keyword": "desole",
+    "score": 22.53873207233268
   },
   {
-    "keyword": "raison",
-    "score": 4.512714922911266
+    "keyword": "entre",
+    "score": 20.875825098613944
   },
   {
-    "keyword": "cheesecake",
-    "score": 4.420705391777813
+    "keyword": "deux",
+    "score": 20.692063320570842
   },
   {
-    "keyword": "tres bien",
-    "score": 4.418369257995337
-  },
-  {
-    "keyword": "probleme",
-    "score": 4.347305541500647
-  },
-  {
-    "keyword": "trouve",
-    "score": 4.189656254402464
-  },
-  {
-    "keyword": "pense",
-    "score": 4.1670207919557605
-  },
-  {
-    "keyword": "trois",
-    "score": 4.100199358991865
+    "keyword": "faut",
+    "score": 20.193364168203775
   },
   {
     "keyword": "ami",
-    "score": 4.022029364475322
+    "score": 20.073148443341307
   },
   {
-    "keyword": "depuis",
-    "score": 4.007517564439292
+    "keyword": "besoin",
+    "score": 16.306927532618765
   },
   {
-    "keyword": "anneau",
-    "score": 3.979289316985802
+    "keyword": "salut",
+    "score": 15.315308335539024
   },
   {
-    "keyword": "pourrait",
-    "score": 3.942667433639901
+    "keyword": "bonne",
+    "score": 13.915140273930415
   },
   {
-    "keyword": "maintenant",
-    "score": 3.9261527556851727
+    "keyword": "sixe",
+    "score": 13.130850702577918
   },
   {
-    "keyword": "kryptonien",
-    "score": 3.900950186032754
-  },
-  {
-    "keyword": "personne",
-    "score": 3.854401337488128
-  },
-  {
-    "keyword": "bonjour",
-    "score": 3.7500870381008933
-  },
-  {
-    "keyword": "cooper",
-    "score": 3.7272420638332564
-  },
-  {
-    "keyword": "marche",
-    "score": 3.540284416699805
-  },
-  {
-    "keyword": "fille",
-    "score": 3.5369527845239186
-  },
-  {
-    "keyword": "prendre",
-    "score": 3.5102531936039254
-  },
-  {
-    "keyword": "beaucoup",
-    "score": 3.45557161010535
-  },
-  {
-    "keyword": "quelqu",
-    "score": 3.426456830362015
-  },
-  {
-    "keyword": "voulais",
-    "score": 3.3152169293003526
-  },
-  {
-    "keyword": "demande",
-    "score": 3.289621599023512
-  },
-  {
-    "keyword": "physique",
-    "score": 3.2758417179277246
-  },
-  {
-    "keyword": "pourrais",
-    "score": 3.261569690570517
-  },
-  {
-    "keyword": "femme",
-    "score": 3.1580954203532268
+    "keyword": "leslie",
+    "score": 11.269105847499091
   },
   {
     "keyword": "donne",
-    "score": 3.1338881381347377
+    "score": 11.246785401177675
   },
   {
-    "keyword": "arrete",
-    "score": 3.070731338522073
-  },
-  {
-    "keyword": "vie",
-    "score": 2.965824667307334
-  },
-  {
-    "keyword": "comprends",
-    "score": 2.9426879570291877
-  },
-  {
-    "keyword": "seul",
-    "score": 2.91238042097976
-  },
-  {
-    "keyword": "particules",
-    "score": 2.8787798938812363
-  },
-  {
-    "keyword": "spock",
-    "score": 2.860934183588555
-  },
-  {
-    "keyword": "copine",
-    "score": 2.8482842000638695
-  },
-  {
-    "keyword": "appelle",
-    "score": 2.802969043527475
-  },
-  {
-    "keyword": "stuart",
-    "score": 2.7791287055695917
-  },
-  {
-    "keyword": "halo",
-    "score": 2.7355646732799137
-  },
-  {
-    "keyword": "vient",
-    "score": 2.681868078772461
-  },
-  {
-    "keyword": "golgi",
-    "score": 2.6750200262255506
-  },
-  {
-    "keyword": "laisse",
-    "score": 2.638469767249542
-  },
-  {
-    "keyword": "quantique",
-    "score": 2.624210501350711
-  },
-  {
-    "keyword": "sous titres",
-    "score": 2.6079886238887555
-  },
-  {
-    "keyword": "tete",
-    "score": 2.5721833556839804
-  },
-  {
-    "keyword": "sortir",
-    "score": 2.532902653696956
-  },
-  {
-    "keyword": "sens",
-    "score": 2.491166389328276
-  },
-  {
-    "keyword": "venir",
-    "score": 2.4827668700544243
-  },
-  {
-    "keyword": "cote",
-    "score": 2.4827668700544243
-  },
-  {
-    "keyword": "prends",
-    "score": 2.459841707877861
-  },
-  {
-    "keyword": "nouveau",
-    "score": 2.43358652971463
-  },
-  {
-    "keyword": "desolee",
-    "score": 2.4271315108167038
-  },
-  {
-    "keyword": "dieu",
-    "score": 2.4038940990660147
-  },
-  {
-    "keyword": "gars",
-    "score": 2.387732708067732
-  },
-  {
-    "keyword": "jour",
-    "score": 2.3533427278951744
-  },
-  {
-    "keyword": "temporelle",
-    "score": 2.342932216453798
-  },
-  {
-    "keyword": "idee",
-    "score": 2.2790916500216007
-  },
-  {
-    "keyword": "hein",
-    "score": 2.2740248341520277
-  },
-  {
-    "keyword": "comics",
-    "score": 2.2552809559116027
-  },
-  {
-    "keyword": "super",
-    "score": 2.214459676376024
-  },
-  {
-    "keyword": "devrais",
-    "score": 2.2130732977314183
-  },
-  {
-    "keyword": "truc",
-    "score": 2.2100319764884047
-  },
-  {
-    "keyword": "benj",
-    "score": 2.193384003649878
-  },
-  {
-    "keyword": "soiree",
-    "score": 2.190828154670809
-  },
-  {
-    "keyword": "reste",
-    "score": 2.1419183389148024
-  },
-  {
-    "keyword": "puis",
-    "score": 2.1419183389148024
-  },
-  {
-    "keyword": "femmes",
-    "score": 2.074754033873038
-  },
-  {
-    "keyword": "ecoute",
-    "score": 2.0415795130979717
-  },
-  {
-    "keyword": "titres",
-    "score": 2.0384179174534807
-  },
-  {
-    "keyword": "ensemble",
-    "score": 2.0288440518631767
-  },
-  {
-    "keyword": "jusqu",
-    "score": 2.008542428086397
-  },
-  {
-    "keyword": "genial",
-    "score": 2.0039587738589844
-  },
-  {
-    "keyword": "connais",
-    "score": 1.976139673939127
-  },
-  {
-    "keyword": "trouver",
-    "score": 1.975250705492007
-  },
-  {
-    "keyword": "chambre",
-    "score": 1.9735491091124338
-  },
-  {
-    "keyword": "chaton",
-    "score": 1.9700637697919128
-  },
-  {
-    "keyword": "mange",
-    "score": 1.944356040353365
-  },
-  {
-    "keyword": "savoir",
-    "score": 1.94328696121565
-  },
-  {
-    "keyword": "gens",
-    "score": 1.94328696121565
-  },
-  {
-    "keyword": "joue",
-    "score": 1.9098973370239463
-  },
-  {
-    "keyword": "fete",
-    "score": 1.9070294109694916
-  },
-  {
-    "keyword": "stan",
-    "score": 1.893956079862359
-  },
-  {
-    "keyword": "star trek",
-    "score": 1.8601570020610254
-  },
-  {
-    "keyword": "contre",
-    "score": 1.8415252981316945
-  },
-  {
-    "keyword": "homme",
-    "score": 1.8189447924378301
-  },
-  {
-    "keyword": "nom",
-    "score": 1.7956831327282776
-  },
-  {
-    "keyword": "amour",
-    "score": 1.7923862652837468
-  },
-  {
-    "keyword": "stephanie",
-    "score": 1.782638822692992
-  },
-  {
-    "keyword": "envie",
-    "score": 1.7770407227109455
-  },
-  {
-    "keyword": "scientifique",
-    "score": 1.7764586467335346
-  },
-  {
-    "keyword": "trek",
-    "score": 1.7714895303274436
-  },
-  {
-    "keyword": "manger",
-    "score": 1.7658593672227607
-  },
-  {
-    "keyword": "celui",
-    "score": 1.7532929479795527
+    "keyword": "mere",
+    "score": 11.21109127861787
   },
   {
     "keyword": "tant",
-    "score": 1.748103191661111
+    "score": 10.854241848214462
   },
   {
-    "keyword": "oublie",
-    "score": 1.748103191661111
+    "keyword": "accord",
+    "score": 10.638099848093537
   },
   {
-    "keyword": "passer",
-    "score": 1.7294510606954414
+    "keyword": "raison",
+    "score": 9.44546631782501
   },
   {
-    "keyword": "tiens",
-    "score": 1.7197268253512652
+    "keyword": "prendre",
+    "score": 9.168067221467167
   },
   {
-    "keyword": "skynet",
-    "score": 1.6444176951695246
+    "keyword": "anneau",
+    "score": 9.125990289950614
   },
   {
-    "keyword": "titres sub",
-    "score": 1.6012407652847438
+    "keyword": "demande",
+    "score": 8.835770735846305
   },
   {
-    "keyword": "nouvelle",
-    "score": 1.572035670763439
+    "keyword": "probleme",
+    "score": 8.71668856719377
   },
   {
-    "keyword": "jouer",
-    "score": 1.5547798737265077
+    "keyword": "eau",
+    "score": 8.703624582923402
   },
   {
-    "keyword": "partie",
-    "score": 1.53847201996883
+    "keyword": "amis",
+    "score": 8.561364887950242
   },
   {
-    "keyword": "filles",
-    "score": 1.51937272310984
+    "keyword": "prends",
+    "score": 8.251168939614907
+  },
+  {
+    "keyword": "stan",
+    "score": 8.033455591603856
+  },
+  {
+    "keyword": "prend",
+    "score": 8.00347471771795
+  },
+  {
+    "keyword": "marche",
+    "score": 7.9431590946647495
   },
   {
     "keyword": "porte",
-    "score": 1.4973953694089095
+    "score": 7.91133344031519
   },
   {
-    "keyword": "the",
-    "score": 1.4944704696748328
+    "keyword": "laisse",
+    "score": 7.672843738663941
   },
   {
-    "keyword": "equipe",
-    "score": 1.4944704696748328
+    "keyword": "trois",
+    "score": 7.653712640133406
   },
   {
-    "keyword": "pasadena",
-    "score": 1.4903891464383587
+    "keyword": "arrete",
+    "score": 7.4003040943164535
   },
   {
-    "keyword": "mois",
-    "score": 1.489158554149234
+    "keyword": "leo",
+    "score": 7.203447664612593
   },
   {
-    "keyword": "enfin",
-    "score": 1.4800539793596945
+    "keyword": "depuis",
+    "score": 6.955618927390215
   },
   {
-    "keyword": "mettre",
-    "score": 1.4700560617035578
+    "keyword": "joue",
+    "score": 6.920396636577634
   },
   {
-    "keyword": "tard",
-    "score": 1.457392720224173
+    "keyword": "mange",
+    "score": 6.674484922984822
   },
   {
-    "keyword": "plait",
-    "score": 1.4468884072459878
+    "keyword": "bonjour",
+    "score": 6.562995322690465
   },
   {
-    "keyword": "sub way",
-    "score": 1.4181145405093283
+    "keyword": "cooper",
+    "score": 6.555273445903112
   },
   {
-    "keyword": "heure",
-    "score": 1.409571303177041
+    "keyword": "physique",
+    "score": 6.316806366692143
   },
   {
-    "keyword": "electrons",
-    "score": 1.4054318061228162
+    "keyword": "rend",
+    "score": 6.116931620757623
   },
   {
-    "keyword": "petite",
-    "score": 1.399759467732876
+    "keyword": "nom",
+    "score": 6.02760586318183
   },
   {
-    "keyword": "tout monde",
-    "score": 1.3996217856655913
+    "keyword": "lors",
+    "score": 6.022547625993439
   },
   {
-    "keyword": "pere",
-    "score": 1.3996217856655913
-  },
-  {
-    "keyword": "aider",
-    "score": 1.3996217856655913
-  },
-  {
-    "keyword": "dessus",
-    "score": 1.366244024739375
-  },
-  {
-    "keyword": "quelque chose",
-    "score": 1.366244024739375
-  },
-  {
-    "keyword": "pendant",
-    "score": 1.3642664100887092
-  },
-  {
-    "keyword": "arrive",
-    "score": 1.3555872708256185
-  },
-  {
-    "keyword": "suisse",
-    "score": 1.350683854325457
-  },
-  {
-    "keyword": "prix nobel",
-    "score": 1.3402586484754744
-  },
-  {
-    "keyword": "inde",
-    "score": 1.3335322851492053
-  },
-  {
-    "keyword": "achete",
-    "score": 1.2920114719599092
-  },
-  {
-    "keyword": "faites",
-    "score": 1.2564990964253326
-  },
-  {
-    "keyword": "devrait",
-    "score": 1.2564990964253326
-  },
-  {
-    "keyword": "compris",
-    "score": 1.2564990964253326
-  },
-  {
-    "keyword": "travail",
-    "score": 1.2484356810478219
-  },
-  {
-    "keyword": "comic",
-    "score": 1.2103556887202658
-  },
-  {
-    "keyword": "fini",
-    "score": 1.170594860508244
-  },
-  {
-    "keyword": "plutot",
-    "score": 1.1698469370956164
-  },
-  {
-    "keyword": "peur",
-    "score": 1.1645971912768744
-  },
-  {
-    "keyword": "boite",
-    "score": 1.1585602317637034
-  },
-  {
-    "keyword": "bonne nuit",
-    "score": 1.1418184413864751
-  },
-  {
-    "keyword": "aimerais",
-    "score": 1.1362336974450893
+    "keyword": "contre",
+    "score": 5.954431145832422
   },
   {
     "keyword": "pris",
-    "score": 1.113968167348941
+    "score": 5.948880119730325
+  },
+  {
+    "keyword": "truc",
+    "score": 5.883349716643363
+  },
+  {
+    "keyword": "voulais",
+    "score": 5.754032328258137
+  },
+  {
+    "keyword": "pourrais",
+    "score": 5.660919885677071
+  },
+  {
+    "keyword": "super",
+    "score": 5.370238171857075
+  },
+  {
+    "keyword": "alle",
+    "score": 5.3434055674791
+  },
+  {
+    "keyword": "copine",
+    "score": 5.2875822245770205
+  },
+  {
+    "keyword": "connais",
+    "score": 5.131223667208222
+  },
+  {
+    "keyword": "particules",
+    "score": 4.996533538705106
+  },
+  {
+    "keyword": "spock",
+    "score": 4.9655597604774195
+  },
+  {
+    "keyword": "mis",
+    "score": 4.949292440871464
+  },
+  {
+    "keyword": "scientifique",
+    "score": 4.856834613693661
+  },
+  {
+    "keyword": "jeu",
+    "score": 4.8386183252515735
+  },
+  {
+    "keyword": "stuart",
+    "score": 4.823574673170006
+  },
+  {
+    "keyword": "cle",
+    "score": 4.814708811199791
+  },
+  {
+    "keyword": "lait",
+    "score": 4.798744706242294
+  },
+  {
+    "keyword": "dieu",
+    "score": 4.796807040912352
+  },
+  {
+    "keyword": "lee",
+    "score": 4.720165563489315
+  },
+  {
+    "keyword": "cote",
+    "score": 4.688158434797563
+  },
+  {
+    "keyword": "tete",
+    "score": 4.679565746009062
+  },
+  {
+    "keyword": "golgi",
+    "score": 4.642879195506559
   },
   {
     "keyword": "mot",
-    "score": 1.0960514398401786
+    "score": 4.642278108413017
   },
   {
-    "keyword": "universite",
-    "score": 1.0899165730865612
+    "keyword": "pere",
+    "score": 4.638292449784291
   },
   {
-    "keyword": "tresor",
-    "score": 1.0859364451842914
+    "keyword": "travail",
+    "score": 4.6271133365594235
   },
   {
-    "keyword": "revoir",
-    "score": 1.085753086171701
+    "keyword": "parti",
+    "score": 4.504263421388364
   },
   {
-    "keyword": "batman",
-    "score": 1.06934709332584
+    "keyword": "inde",
+    "score": 4.484163452990034
   },
   {
-    "keyword": "dirait",
-    "score": 1.0666735639916103
+    "keyword": "idee",
+    "score": 4.483527102504849
+  },
+  {
+    "keyword": "sortir",
+    "score": 4.452848641098016
+  },
+  {
+    "keyword": "fini",
+    "score": 4.369850837287873
+  },
+  {
+    "keyword": "trouver",
+    "score": 4.315524246193603
+  },
+  {
+    "keyword": "cas",
+    "score": 4.225464102191293
+  },
+  {
+    "keyword": "desolee",
+    "score": 4.212633283433638
+  },
+  {
+    "keyword": "fete",
+    "score": 4.1984935871350055
+  },
+  {
+    "keyword": "oublie",
+    "score": 4.196627470115073
+  },
+  {
+    "keyword": "jours",
+    "score": 4.19621280698266
+  },
+  {
+    "keyword": "benj",
+    "score": 4.161201645983717
+  },
+  {
+    "keyword": "gars",
+    "score": 4.144251035892422
+  },
+  {
+    "keyword": "temporelle",
+    "score": 4.066493386071648
+  },
+  {
+    "keyword": "vite",
+    "score": 4.020477170042683
+  },
+  {
+    "keyword": "soiree",
+    "score": 3.9975182619591765
+  },
+  {
+    "keyword": "amour",
+    "score": 3.959453378978598
+  },
+  {
+    "keyword": "comics",
+    "score": 3.9143621085329547
+  },
+  {
+    "keyword": "onde",
+    "score": 3.8952289459999183
+  },
+  {
+    "keyword": "devrais",
+    "score": 3.841104691341825
+  },
+  {
+    "keyword": "coup",
+    "score": 3.8339948352456448
+  },
+  {
+    "keyword": "com",
+    "score": 3.7951665865768187
   },
   {
     "keyword": "bas",
-    "score": 1.0612319748115766
+    "score": 3.7414510462280033
   },
   {
-    "keyword": "poulet",
-    "score": 1.0570241362627257
+    "keyword": "passer",
+    "score": 3.7202581639485337
   },
   {
-    "keyword": "assez",
-    "score": 1.0493586137476876
+    "keyword": "comic",
+    "score": 3.7137732109081503
   },
   {
-    "keyword": "demain",
-    "score": 1.0493586137476876
+    "keyword": "genial",
+    "score": 3.6905991351382617
+  },
+  {
+    "keyword": "jusqu",
+    "score": 3.637421248700354
+  },
+  {
+    "keyword": "plu",
+    "score": 3.609097084773611
+  },
+  {
+    "keyword": "femmes",
+    "score": 3.601031859658394
+  },
+  {
+    "keyword": "titres",
+    "score": 3.5379653415329546
+  },
+  {
+    "keyword": "chaton",
+    "score": 3.5377517535730107
+  },
+  {
+    "keyword": "chambre",
+    "score": 3.5283994013607654
+  },
+  {
+    "keyword": "arrive",
+    "score": 3.4851428596575125
+  },
+  {
+    "keyword": "achete",
+    "score": 3.468630155828498
+  },
+  {
+    "keyword": "vit",
+    "score": 3.3805616632147517
+  },
+  {
+    "keyword": "savoir",
+    "score": 3.372851984161765
+  },
+  {
+    "keyword": "rit",
+    "score": 3.3661160872713802
+  },
+  {
+    "keyword": "con",
+    "score": 3.314554900355521
+  },
+  {
+    "keyword": "aide",
+    "score": 3.284847368571998
+  },
+  {
+    "keyword": "pres",
+    "score": 3.262131326645345
+  },
+  {
+    "keyword": "partie",
+    "score": 3.2463299781157304
+  },
+  {
+    "keyword": "star trek",
+    "score": 3.2285680707336812
+  },
+  {
+    "keyword": "manger",
+    "score": 3.1979281566246014
+  },
+  {
+    "keyword": "ira",
+    "score": 3.1959406320466504
+  },
+  {
+    "keyword": "ment",
+    "score": 3.168418321736614
+  },
+  {
+    "keyword": "mois",
+    "score": 3.142273628479822
+  },
+  {
+    "keyword": "mettre",
+    "score": 3.1258391564628485
+  },
+  {
+    "keyword": "stephanie",
+    "score": 3.0940242023764717
+  },
+  {
+    "keyword": "don",
+    "score": 3.086678580285435
+  },
+  {
+    "keyword": "nouvelle",
+    "score": 3.086598736850052
+  },
+  {
+    "keyword": "envie",
+    "score": 3.0843079005595913
+  },
+  {
+    "keyword": "trek",
+    "score": 3.0746730135774616
+  },
+  {
+    "keyword": "jouer",
+    "score": 3.0678773903587775
+  },
+  {
+    "keyword": "mer",
+    "score": 3.052202203461645
+  },
+  {
+    "keyword": "celui",
+    "score": 3.043090246800365
+  },
+  {
+    "keyword": "aise",
+    "score": 2.94770192225659
+  },
+  {
+    "keyword": "univers",
+    "score": 2.9262136917252004
+  },
+  {
+    "keyword": "rendre",
+    "score": 2.9066322943423044
+  },
+  {
+    "keyword": "cher",
+    "score": 2.863285693314567
+  },
+  {
+    "keyword": "skynet",
+    "score": 2.8541217003142108
+  },
+  {
+    "keyword": "aider",
+    "score": 2.8522735888147706
+  },
+  {
+    "keyword": "equipe",
+    "score": 2.821978342980047
+  },
+  {
+    "keyword": "petite",
+    "score": 2.804291659660595
+  },
+  {
+    "keyword": "pourra",
+    "score": 2.6817513647244944
+  },
+  {
+    "keyword": "ours",
+    "score": 2.6752949981559553
+  },
+  {
+    "keyword": "pre",
+    "score": 2.6541658041979974
+  },
+  {
+    "keyword": "filles",
+    "score": 2.6370882973539382
+  },
+  {
+    "keyword": "jess",
+    "score": 2.6276948264735682
+  },
+  {
+    "keyword": "fou",
+    "score": 2.61294422262559
+  },
+  {
+    "keyword": "enfin",
+    "score": 2.568845003636027
+  },
+  {
+    "keyword": "pourrai",
+    "score": 2.5617471354536225
+  },
+  {
+    "keyword": "gros",
+    "score": 2.555182285591717
+  },
+  {
+    "keyword": "cou",
+    "score": 2.528780834310193
+  },
+  {
+    "keyword": "plait",
+    "score": 2.5112814178444576
+  },
+  {
+    "keyword": "mort",
+    "score": 2.5075692767720943
+  },
+  {
+    "keyword": "bla",
+    "score": 2.489904457800323
+  },
+  {
+    "keyword": "mec",
+    "score": 2.447635951236223
+  },
+  {
+    "keyword": "peur",
+    "score": 2.44462176466537
+  },
+  {
+    "keyword": "aucun",
+    "score": 2.430068014981263
+  },
+  {
+    "keyword": "suisse",
+    "score": 2.4291715087576633
+  },
+  {
+    "keyword": "cha",
+    "score": 2.4026108831104778
+  },
+  {
+    "keyword": "sub",
+    "score": 2.399969967320668
+  },
+  {
+    "keyword": "dessus",
+    "score": 2.37131157758022
+  },
+  {
+    "keyword": "tele",
+    "score": 2.3702319495274913
+  },
+  {
+    "keyword": "leurs",
+    "score": 2.3623641383144243
+  },
+  {
+    "keyword": "spatiale",
+    "score": 2.3564299205134436
+  },
+  {
+    "keyword": "essaye",
+    "score": 2.2876641687673853
+  },
+  {
+    "keyword": "fin",
+    "score": 2.2323043786717363
+  },
+  {
+    "keyword": "aire",
+    "score": 2.2279674644326
+  },
+  {
+    "keyword": "compris",
+    "score": 2.22227529819479
+  },
+  {
+    "keyword": "faites",
+    "score": 2.22227529819479
+  },
+  {
+    "keyword": "labo",
+    "score": 2.221033860782342
+  },
+  {
+    "keyword": "cul",
+    "score": 2.2029844176880893
+  },
+  {
+    "keyword": "krypton",
+    "score": 2.2007913606179486
+  },
+  {
+    "keyword": "fer",
+    "score": 2.1766189326098395
+  },
+  {
+    "keyword": "compte",
+    "score": 2.1214053846718524
+  },
+  {
+    "keyword": "mets",
+    "score": 2.1212958322336863
+  },
+  {
+    "keyword": "droit",
+    "score": 2.11631781742566
+  },
+  {
+    "keyword": "boite",
+    "score": 2.0950774329452635
+  },
+  {
+    "keyword": "nue",
+    "score": 2.079149607611712
+  },
+  {
+    "keyword": "tel",
+    "score": 2.0746632953117614
+  },
+  {
+    "keyword": "der",
+    "score": 2.0695417532773823
+  },
+  {
+    "keyword": "trou",
+    "score": 2.063050855595909
+  },
+  {
+    "keyword": "fac",
+    "score": 2.0606865136042014
+  },
+  {
+    "keyword": "min",
+    "score": 2.0525767260975725
+  },
+  {
+    "keyword": "universite",
+    "score": 2.041586337342827
+  },
+  {
+    "keyword": "plutot",
+    "score": 2.0304363903518463
+  },
+  {
+    "keyword": "travaille",
+    "score": 2.018146954985029
+  },
+  {
+    "keyword": "serveuse",
+    "score": 2.016684102926662
+  },
+  {
+    "keyword": "parfait",
+    "score": 2.014429678609391
+  },
+  {
+    "keyword": "demander",
+    "score": 2.0048244976676037
+  },
+  {
+    "keyword": "pret",
+    "score": 1.9934963842712752
+  },
+  {
+    "keyword": "reve",
+    "score": 1.980769003706949
+  },
+  {
+    "keyword": "rends",
+    "score": 1.9799631142416154
+  },
+  {
+    "keyword": "aimerais",
+    "score": 1.972095813632048
+  },
+  {
+    "keyword": "indien",
+    "score": 1.956000463049607
+  },
+  {
+    "keyword": "revoir",
+    "score": 1.9483635503422998
+  },
+  {
+    "keyword": "essaie",
+    "score": 1.9473343648584802
+  },
+  {
+    "keyword": "tresor",
+    "score": 1.9404397769164428
+  },
+  {
+    "keyword": "serie",
+    "score": 1.9393880841589803
+  },
+  {
+    "keyword": "entendu",
+    "score": 1.9048073984526768
+  },
+  {
+    "keyword": "bois",
+    "score": 1.8797975081787248
+  },
+  {
+    "keyword": "terre",
+    "score": 1.86147671620815
+  },
+  {
+    "keyword": "batman",
+    "score": 1.8560045620979326
   }
 ]

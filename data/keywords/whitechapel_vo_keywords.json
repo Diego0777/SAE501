@@ -1,802 +1,802 @@
 [
   {
     "keyword": "ripper",
-    "score": 191.24585807523528
-  },
-  {
-    "keyword": "jack ripper",
-    "score": 33.09094832790851
-  },
-  {
-    "keyword": "leary",
-    "score": 26.994560255365823
+    "score": 298.2544500427672
   },
   {
     "keyword": "murder",
-    "score": 13.55398225672059
+    "score": 25.553426015671594
   },
   {
-    "keyword": "fitz",
-    "score": 6.563719208636065
+    "keyword": "got",
+    "score": 23.718737991925035
+  },
+  {
+    "keyword": "one",
+    "score": 9.546360113788591
   },
   {
     "keyword": "kent",
-    "score": 5.929866241885584
+    "score": 8.08265631817483
   },
   {
     "keyword": "murders",
-    "score": 5.9294524810802995
+    "score": 8.082092344848851
   },
   {
     "keyword": "killer",
-    "score": 5.168205576197445
+    "score": 7.364714903044795
   },
   {
     "keyword": "sir",
-    "score": 4.814269499558859
+    "score": 6.852112586012967
   },
   {
     "keyword": "mary",
-    "score": 4.693720729224832
+    "score": 6.397738154672742
   },
   {
     "keyword": "cut",
-    "score": 3.705807959593515
-  },
-  {
-    "keyword": "found",
-    "score": 3.530971441583853
-  },
-  {
-    "keyword": "cathy",
-    "score": 3.4839288165004856
-  },
-  {
-    "keyword": "thank",
-    "score": 3.4331005916172503
-  },
-  {
-    "keyword": "jack",
-    "score": 3.2485168027165305
-  },
-  {
-    "keyword": "nothing",
-    "score": 3.012735464671247
+    "score": 5.963942249871067
   },
   {
     "keyword": "victim",
-    "score": 2.779279339889214
+    "score": 5.064396466583596
+  },
+  {
+    "keyword": "found",
+    "score": 4.812862123267314
+  },
+  {
+    "keyword": "cathy",
+    "score": 4.74874105285128
+  },
+  {
+    "keyword": "jack",
+    "score": 4.5140532692215185
   },
   {
     "keyword": "alice",
-    "score": 2.7301070216668566
-  },
-  {
-    "keyword": "august",
-    "score": 2.421346534482139
-  },
-  {
-    "keyword": "chandler",
-    "score": 2.421346534482139
-  },
-  {
-    "keyword": "kidney",
-    "score": 2.3928789784995526
-  },
-  {
-    "keyword": "nichols",
-    "score": 2.1830606187413863
-  },
-  {
-    "keyword": "catherine",
-    "score": 2.1458627128555814
-  },
-  {
-    "keyword": "apron",
-    "score": 2.132051078335689
-  },
-  {
-    "keyword": "say",
-    "score": 2.041629015774514
-  },
-  {
-    "keyword": "copycat",
-    "score": 2.022386924471862
-  },
-  {
-    "keyword": "vans",
-    "score": 2.002427032247848
-  },
-  {
-    "keyword": "kelly",
-    "score": 1.9711033539439364
-  },
-  {
-    "keyword": "night",
-    "score": 1.9399063359536322
-  },
-  {
-    "keyword": "bloody",
-    "score": 1.9077049127859902
-  },
-  {
-    "keyword": "inquiry",
-    "score": 1.8145601360321644
-  },
-  {
-    "keyword": "dead",
-    "score": 1.802837376041669
-  },
-  {
-    "keyword": "witnesses",
-    "score": 1.7999817181112479
-  },
-  {
-    "keyword": "square",
-    "score": 1.7705351794034223
-  },
-  {
-    "keyword": "last",
-    "score": 1.7475956809645137
-  },
-  {
-    "keyword": "prime suspect",
-    "score": 1.6941527599831179
-  },
-  {
-    "keyword": "graves",
-    "score": 1.6849126699187946
-  },
-  {
-    "keyword": "killed",
-    "score": 1.6703095023109527
+    "score": 3.721250339864724
   },
   {
     "keyword": "body",
-    "score": 1.6691027563859613
+    "score": 3.36572604931907
   },
   {
-    "keyword": "work",
-    "score": 1.6220014875119066
+    "keyword": "august",
+    "score": 3.3003968499632825
   },
   {
-    "keyword": "throat",
-    "score": 1.5780401028870623
+    "keyword": "chandler",
+    "score": 3.3003968499632825
   },
   {
-    "keyword": "find",
-    "score": 1.546489060389012
+    "keyword": "kidney",
+    "score": 3.261594377556673
   },
   {
-    "keyword": "bloody hell",
-    "score": 1.5199924789662806
+    "keyword": "nichols",
+    "score": 2.9756031558340803
   },
   {
-    "keyword": "stab wounds",
-    "score": 1.5199924789662806
+    "keyword": "catherine",
+    "score": 2.9249008504587786
   },
   {
-    "keyword": "conspiracy",
-    "score": 1.4962671247615318
-  },
-  {
-    "keyword": "joe",
-    "score": 1.4812211483490738
-  },
-  {
-    "keyword": "something",
-    "score": 1.4750536283860336
-  },
-  {
-    "keyword": "cohen",
-    "score": 1.4422164891110842
-  },
-  {
-    "keyword": "fire",
-    "score": 1.4074263140088823
-  },
-  {
-    "keyword": "eureka",
-    "score": 1.4055016363600716
-  },
-  {
-    "keyword": "please",
-    "score": 1.376877013969288
-  },
-  {
-    "keyword": "kiry",
-    "score": 1.3361533517412363
-  },
-  {
-    "keyword": "left",
-    "score": 1.3340884182226844
-  },
-  {
-    "keyword": "emma",
-    "score": 1.328871073591528
-  },
-  {
-    "keyword": "clarence",
-    "score": 1.3175693595681335
-  },
-  {
-    "keyword": "thought",
-    "score": 1.3169367934533427
-  },
-  {
-    "keyword": "rob",
-    "score": 1.296001442014292
-  },
-  {
-    "keyword": "red hair",
-    "score": 1.2580494811465823
-  },
-  {
-    "keyword": "shit",
-    "score": 1.2250192635432313
-  },
-  {
-    "keyword": "annie",
-    "score": 1.2142378102484177
-  },
-  {
-    "keyword": "knife",
-    "score": 1.2090133694215792
-  },
-  {
-    "keyword": "inspector",
-    "score": 1.1750546518477478
-  },
-  {
-    "keyword": "hat",
-    "score": 1.1509209163976473
-  },
-  {
-    "keyword": "soldier",
-    "score": 1.1307351653310211
-  },
-  {
-    "keyword": "sanders",
-    "score": 1.082653125625884
-  },
-  {
-    "keyword": "first",
-    "score": 1.057929387025403
-  },
-  {
-    "keyword": "name",
-    "score": 1.0475255504468337
-  },
-  {
-    "keyword": "miles",
-    "score": 1.0428931445820946
-  },
-  {
-    "keyword": "phillips",
-    "score": 1.0380164177774227
-  },
-  {
-    "keyword": "away",
-    "score": 1.0242288861163307
-  },
-  {
-    "keyword": "knew",
-    "score": 1.0140052716222203
-  },
-  {
-    "keyword": "mean",
-    "score": 0.997839542253984
-  },
-  {
-    "keyword": "head",
-    "score": 0.9781269385860738
-  },
-  {
-    "keyword": "much",
-    "score": 0.9685180789683757
-  },
-  {
-    "keyword": "known",
-    "score": 0.9557394633356943
-  },
-  {
-    "keyword": "eyes",
-    "score": 0.9535580874997597
-  },
-  {
-    "keyword": "wilkes",
-    "score": 0.9432164241716356
-  },
-  {
-    "keyword": "next",
-    "score": 0.924430950837778
-  },
-  {
-    "keyword": "suspect",
-    "score": 0.9204555626227828
-  },
-  {
-    "keyword": "made",
-    "score": 0.882637784703224
-  },
-  {
-    "keyword": "stab",
-    "score": 0.8332015894996176
-  },
-  {
-    "keyword": "mutilation",
-    "score": 0.8320096654340534
-  },
-  {
-    "keyword": "theory",
-    "score": 0.8281218334214988
-  },
-  {
-    "keyword": "investigation",
-    "score": 0.8183950614382531
-  },
-  {
-    "keyword": "anthony",
-    "score": 0.8133026034965607
-  },
-  {
-    "keyword": "intestines",
-    "score": 0.8063739686053644
-  },
-  {
-    "keyword": "book",
-    "score": 0.7881157930472876
-  },
-  {
-    "keyword": "historical",
-    "score": 0.7863575170741591
-  },
-  {
-    "keyword": "anything",
-    "score": 0.7754850394489573
-  },
-  {
-    "keyword": "skip",
-    "score": 0.7702069965375833
-  },
-  {
-    "keyword": "still",
-    "score": 0.7514475532573487
-  },
-  {
-    "keyword": "never",
-    "score": 0.7282720605282639
-  },
-  {
-    "keyword": "dead woman",
-    "score": 0.723508464408935
-  },
-  {
-    "keyword": "wanted",
-    "score": 0.7072533619046623
-  },
-  {
-    "keyword": "start",
-    "score": 0.7059207584828782
-  },
-  {
-    "keyword": "copper",
-    "score": 0.6871740365773555
-  },
-  {
-    "keyword": "thanks",
-    "score": 0.6850383736372156
-  },
-  {
-    "keyword": "another",
-    "score": 0.6742384956769015
-  },
-  {
-    "keyword": "envelope",
-    "score": 0.6683342029981403
-  },
-  {
-    "keyword": "even",
-    "score": 0.6636374462491877
-  },
-  {
-    "keyword": "victims",
-    "score": 0.6624652431377571
-  },
-  {
-    "keyword": "looking",
-    "score": 0.6551814645010262
-  },
-  {
-    "keyword": "used",
-    "score": 0.6551814645010262
-  },
-  {
-    "keyword": "wants",
-    "score": 0.6551814645010262
-  },
-  {
-    "keyword": "give",
-    "score": 0.6329827013302428
-  },
-  {
-    "keyword": "private",
-    "score": 0.6239806139595612
-  },
-  {
-    "keyword": "years",
-    "score": 0.6239806139595612
-  },
-  {
-    "keyword": "god",
-    "score": 0.6134607986655447
-  },
-  {
-    "keyword": "saw",
-    "score": 0.6041579392414306
-  },
-  {
-    "keyword": "larkin",
-    "score": 0.5957313925776584
-  },
-  {
-    "keyword": "address",
-    "score": 0.595020583636648
-  },
-  {
-    "keyword": "domestic",
-    "score": 0.5875948311781866
-  },
-  {
-    "keyword": "jones",
-    "score": 0.5758001800846297
-  },
-  {
-    "keyword": "murdered",
-    "score": 0.5744688881981288
-  },
-  {
-    "keyword": "lane",
-    "score": 0.5666976568374017
-  },
-  {
-    "keyword": "really",
-    "score": 0.5666976568374017
-  },
-  {
-    "keyword": "attacker",
-    "score": 0.5577155867507221
-  },
-  {
-    "keyword": "prostitutes",
-    "score": 0.5577155867507221
-  },
-  {
-    "keyword": "died",
-    "score": 0.5567733214325485
-  },
-  {
-    "keyword": "stabbed",
-    "score": 0.5521099248145211
-  },
-  {
-    "keyword": "keep",
-    "score": 0.5489937502072522
-  },
-  {
-    "keyword": "police",
-    "score": 0.5454082280813225
-  },
-  {
-    "keyword": "night murder",
-    "score": 0.5413049637429554
-  },
-  {
-    "keyword": "vertebrae",
-    "score": 0.5413049637429554
-  },
-  {
-    "keyword": "cos",
-    "score": 0.5411655283694755
-  },
-  {
-    "keyword": "tonight",
-    "score": 0.5403847787793972
-  },
-  {
-    "keyword": "detective",
-    "score": 0.5330439254872855
-  },
-  {
-    "keyword": "catch",
-    "score": 0.525686219726737
-  },
-  {
-    "keyword": "longer",
-    "score": 0.5214369143901117
-  },
-  {
-    "keyword": "fish",
-    "score": 0.5130248480558242
-  },
-  {
-    "keyword": "move",
-    "score": 0.5047735113684256
-  },
-  {
-    "keyword": "side",
-    "score": 0.497995766025765
-  },
-  {
-    "keyword": "took",
-    "score": 0.4966790738707849
-  },
-  {
-    "keyword": "way",
-    "score": 0.4900717705343235
-  },
-  {
-    "keyword": "cuts",
-    "score": 0.4892367130012481
-  },
-  {
-    "keyword": "lived",
-    "score": 0.48386410306234545
-  },
-  {
-    "keyword": "wearing",
-    "score": 0.48386410306234545
-  },
-  {
-    "keyword": "home",
-    "score": 0.47422975968648823
-  },
-  {
-    "keyword": "great",
-    "score": 0.46956995859531314
-  },
-  {
-    "keyword": "completely",
-    "score": 0.4678929322826938
-  },
-  {
-    "keyword": "squad",
-    "score": 0.46130943669414615
-  },
-  {
-    "keyword": "history",
-    "score": 0.4601466268087996
-  },
-  {
-    "keyword": "serial",
-    "score": 0.4588996574673046
-  },
-  {
-    "keyword": "everything",
-    "score": 0.4512066809340214
-  },
-  {
-    "keyword": "east",
-    "score": 0.4483878308911327
-  },
-  {
-    "keyword": "forensics",
-    "score": 0.4434725646433847
-  },
-  {
-    "keyword": "looks like",
-    "score": 0.4378172943020939
-  },
-  {
-    "keyword": "next victim",
-    "score": 0.43650321504910794
-  },
-  {
-    "keyword": "john doe",
-    "score": 0.43167965880808506
-  },
-  {
-    "keyword": "half",
-    "score": 0.43031087726132233
-  },
-  {
-    "keyword": "mother",
-    "score": 0.43031087726132233
-  },
-  {
-    "keyword": "least",
-    "score": 0.4236518990727511
-  },
-  {
-    "keyword": "heard",
-    "score": 0.41677490145996904
-  },
-  {
-    "keyword": "happen",
-    "score": 0.4100305999219259
-  },
-  {
-    "keyword": "read",
-    "score": 0.4100305999219259
-  },
-  {
-    "keyword": "dna",
-    "score": 0.40373712560506947
-  },
-  {
-    "keyword": "apologise",
-    "score": 0.40362435440811373
-  },
-  {
-    "keyword": "first victim",
-    "score": 0.40362435440811373
-  },
-  {
-    "keyword": "looks",
-    "score": 0.40341579281785805
-  },
-  {
-    "keyword": "failed",
-    "score": 0.39914433398137694
-  },
-  {
-    "keyword": "officer",
-    "score": 0.39914433398137694
+    "keyword": "copycat",
+    "score": 2.7565981737353424
   },
   {
     "keyword": "eat",
-    "score": 0.396927375065446
+    "score": 2.7325148520791323
   },
   {
-    "keyword": "seen",
-    "score": 0.396927375065446
+    "keyword": "kelly",
+    "score": 2.686696516861831
   },
   {
-    "keyword": "leather",
-    "score": 0.39322393368198644
+    "keyword": "rob",
+    "score": 2.6278135058617207
   },
   {
-    "keyword": "dark",
-    "score": 0.39109128335135623
+    "keyword": "bloody",
+    "score": 2.6002817833610687
   },
   {
-    "keyword": "ask",
-    "score": 0.39056233459440437
+    "keyword": "dead",
+    "score": 2.4573429338384876
   },
   {
-    "keyword": "clear",
-    "score": 0.39056233459440437
+    "keyword": "witnesses",
+    "score": 2.4534505523458274
   },
   {
-    "keyword": "recognise",
-    "score": 0.3886621359916341
+    "keyword": "square",
+    "score": 2.413313685437426
   },
   {
-    "keyword": "money",
-    "score": 0.3857788552843548
+    "keyword": "graves",
+    "score": 2.296606614985218
   },
   {
-    "keyword": "injuries",
-    "score": 0.3850874288253239
+    "keyword": "killed",
+    "score": 2.2767018852465997
   },
   {
-    "keyword": "john",
-    "score": 0.38434803595134637
+    "keyword": "stab",
+    "score": 2.2368699403144268
   },
   {
-    "keyword": "step",
-    "score": 0.3843177489542834
+    "keyword": "hat",
+    "score": 2.169839972490271
   },
   {
-    "keyword": "man killed",
-    "score": 0.37904511210173847
+    "keyword": "throat",
+    "score": 2.150934825112953
   },
   {
-    "keyword": "eyeball",
-    "score": 0.3745715902085029
+    "keyword": "head",
+    "score": 2.1200886144138797
   },
   {
-    "keyword": "get body",
-    "score": 0.3745715902085029
+    "keyword": "conspiracy",
+    "score": 2.0394748273083274
   },
   {
-    "keyword": "hand",
-    "score": 0.3740490295726818
+    "keyword": "joe",
+    "score": 2.018966530602702
   },
   {
-    "keyword": "believe",
-    "score": 0.37217868112890057
+    "keyword": "fire",
+    "score": 2.013715128974911
   },
   {
-    "keyword": "sir need",
-    "score": 0.3696367645654616
+    "keyword": "thought",
+    "score": 1.9974122285886067
+  },
+  {
+    "keyword": "cohen",
+    "score": 1.965801544653888
+  },
+  {
+    "keyword": "eureka",
+    "score": 1.9157576609550084
+  },
+  {
+    "keyword": "emma",
+    "score": 1.8113069908957948
+  },
+  {
+    "keyword": "clarence",
+    "score": 1.7959022808178242
+  },
+  {
+    "keyword": "kill",
+    "score": 1.766854467832795
+  },
+  {
+    "keyword": "name",
+    "score": 1.6858353040006382
+  },
+  {
+    "keyword": "shit",
+    "score": 1.6697526194478067
+  },
+  {
+    "keyword": "annie",
+    "score": 1.655057046556651
+  },
+  {
+    "keyword": "knife",
+    "score": 1.6479359146566257
+  },
+  {
+    "keyword": "inspector",
+    "score": 1.6016487587648993
+  },
+  {
+    "keyword": "soldier",
+    "score": 1.5412394403923524
+  },
+  {
+    "keyword": "ate",
+    "score": 1.4834038536383731
+  },
+  {
+    "keyword": "sanders",
+    "score": 1.4757016042657347
+  },
+  {
+    "keyword": "miles",
+    "score": 1.421507083026094
+  },
+  {
+    "keyword": "phillips",
+    "score": 1.414859899917414
+  },
+  {
+    "keyword": "suspect",
+    "score": 1.3960648725092282
+  },
+  {
+    "keyword": "knew",
+    "score": 1.3821317009561749
+  },
+  {
+    "keyword": "book",
+    "score": 1.3522289671835046
+  },
+  {
+    "keyword": "made",
+    "score": 1.3489941176644993
+  },
+  {
+    "keyword": "known",
+    "score": 1.302712961262832
+  },
+  {
+    "keyword": "eyes",
+    "score": 1.2997396545366042
+  },
+  {
+    "keyword": "two",
+    "score": 1.230896357993549
+  },
+  {
+    "keyword": "ann",
+    "score": 1.2167389840045908
+  },
+  {
+    "keyword": "skip",
+    "score": 1.1535560274072094
+  },
+  {
+    "keyword": "theory",
+    "score": 1.1287647808720926
+  },
+  {
+    "keyword": "investigation",
+    "score": 1.1155067828298255
+  },
+  {
+    "keyword": "east",
+    "score": 1.1111479926899985
+  },
+  {
+    "keyword": "cos",
+    "score": 1.1099881434207506
+  },
+  {
+    "keyword": "anthony",
+    "score": 1.1085655491361002
+  },
+  {
+    "keyword": "side",
+    "score": 1.0950771427959691
+  },
+  {
+    "keyword": "historical",
+    "score": 1.0718382665749107
+  },
+  {
+    "keyword": "used",
+    "score": 1.0485543792489351
+  },
+  {
+    "keyword": "still",
+    "score": 1.024254522169662
+  },
+  {
+    "keyword": "happen",
+    "score": 0.9730820928513043
+  },
+  {
+    "keyword": "read",
+    "score": 0.9730820928513043
+  },
+  {
+    "keyword": "wanted",
+    "score": 0.9640159863591418
+  },
+  {
+    "keyword": "start",
+    "score": 0.9621995920211674
+  },
+  {
+    "keyword": "copper",
+    "score": 0.9366470240417323
+  },
+  {
+    "keyword": "another",
+    "score": 0.9190153394263949
   },
   {
     "keyword": "real",
-    "score": 0.3683379422821609
+    "score": 0.9175776369373373
   },
   {
-    "keyword": "step back",
-    "score": 0.36198722435199954
+    "keyword": "envelope",
+    "score": 0.91096754094702
   },
   {
-    "keyword": "thank sir",
-    "score": 0.36198722435199954
+    "keyword": "victims",
+    "score": 0.9029679025805473
   },
   {
-    "keyword": "false",
-    "score": 0.36152025388641607
+    "keyword": "god",
+    "score": 0.9024230489690256
   },
   {
-    "keyword": "kfc",
-    "score": 0.3612798423744881
+    "keyword": "address",
+    "score": 0.8911754681157557
   },
   {
-    "keyword": "said",
-    "score": 0.36048846446820304
+    "keyword": "police",
+    "score": 0.8601533748813368
   },
   {
-    "keyword": "someone",
-    "score": 0.3492266319210072
-  },
-  {
-    "keyword": "wrong",
-    "score": 0.3492266319210072
-  },
-  {
-    "keyword": "community",
-    "score": 0.3486982438018898
-  },
-  {
-    "keyword": "talk",
-    "score": 0.346469123657379
-  },
-  {
-    "keyword": "word",
-    "score": 0.34375028160751275
+    "keyword": "till",
+    "score": 0.8565140724923725
   },
   {
     "keyword": "press",
-    "score": 0.3372606547665732
+    "score": 0.8533134198594493
   },
   {
-    "keyword": "beer",
-    "score": 0.3317330115682251
+    "keyword": "private",
+    "score": 0.8505117394073202
   },
   {
-    "keyword": "look like",
-    "score": 0.3317330115682251
+    "keyword": "years",
+    "score": 0.8505117394073202
   },
   {
-    "keyword": "flat",
-    "score": 0.33051524084941436
+    "keyword": "pen",
+    "score": 0.8496680685699449
   },
   {
-    "keyword": "leak",
-    "score": 0.32740176492406414
+    "keyword": "catch",
+    "score": 0.8290501549953594
+  },
+  {
+    "keyword": "saw",
+    "score": 0.8234926026311968
+  },
+  {
+    "keyword": "squad",
+    "score": 0.8230078595960006
+  },
+  {
+    "keyword": "per",
+    "score": 0.8192575016195586
+  },
+  {
+    "keyword": "larkin",
+    "score": 0.8120068662158884
+  },
+  {
+    "keyword": "rip",
+    "score": 0.8010328720066117
+  },
+  {
+    "keyword": "domestic",
+    "score": 0.8009163918744728
+  },
+  {
+    "keyword": "ear",
+    "score": 0.787159618776453
+  },
+  {
+    "keyword": "jones",
+    "score": 0.7848397879017514
+  },
+  {
+    "keyword": "murdered",
+    "score": 0.7830251812413589
+  },
+  {
+    "keyword": "lane",
+    "score": 0.7724326670604984
+  },
+  {
+    "keyword": "fish",
+    "score": 0.7683686442019824
+  },
+  {
+    "keyword": "attacker",
+    "score": 0.7601897289274951
+  },
+  {
+    "keyword": "prostitutes",
+    "score": 0.7601897289274951
+  },
+  {
+    "keyword": "died",
+    "score": 0.7589053817910392
+  },
+  {
+    "keyword": "stabbed",
+    "score": 0.7525489766713734
+  },
+  {
+    "keyword": "keep",
+    "score": 0.7483015000250927
+  },
+  {
+    "keyword": "may",
+    "score": 0.7422420159301308
+  },
+  {
+    "keyword": "vertebrae",
+    "score": 0.7378213616948587
+  },
+  {
+    "keyword": "tonight",
+    "score": 0.7365671110075399
+  },
+  {
+    "keyword": "wound",
+    "score": 0.7311083249770493
+  },
+  {
+    "keyword": "detective",
+    "score": 0.7265612201793156
+  },
+  {
+    "keyword": "longer",
+    "score": 0.7107403773891303
+  },
+  {
+    "keyword": "talk",
+    "score": 0.6963962842641521
+  },
+  {
+    "keyword": "witness",
+    "score": 0.6934084755629518
+  },
+  {
+    "keyword": "took",
+    "score": 0.6769944027018042
+  },
+  {
+    "keyword": "believe",
+    "score": 0.6748111904513991
+  },
+  {
+    "keyword": "cuts",
+    "score": 0.6668501527894871
+  },
+  {
+    "keyword": "lived",
+    "score": 0.6595270601772073
+  },
+  {
+    "keyword": "wearing",
+    "score": 0.6595270601772073
+  },
+  {
+    "keyword": "hell",
+    "score": 0.6520935679633388
+  },
+  {
+    "keyword": "clear",
+    "score": 0.6509013150822207
+  },
+  {
+    "keyword": "home",
+    "score": 0.6463950462022046
+  },
+  {
+    "keyword": "step",
+    "score": 0.640494246490931
+  },
+  {
+    "keyword": "completely",
+    "score": 0.6377576847570707
+  },
+  {
+    "keyword": "blood",
+    "score": 0.6333852886370234
+  },
+  {
+    "keyword": "heard",
+    "score": 0.6321269850483885
+  },
+  {
+    "keyword": "chapel",
+    "score": 0.6277070695136394
+  },
+  {
+    "keyword": "history",
+    "score": 0.627199145605069
+  },
+  {
+    "keyword": "serial",
+    "score": 0.6254994741090387
   },
   {
     "keyword": "serial killer",
-    "score": 0.32740176492406414
+    "score": 0.617253041868125
+  },
+  {
+    "keyword": "forensics",
+    "score": 0.6044716997549454
+  },
+  {
+    "keyword": "red",
+    "score": 0.6032880001308348
+  },
+  {
+    "keyword": "gut",
+    "score": 0.5982968521444785
+  },
+  {
+    "keyword": "john doe",
+    "score": 0.5883974746424044
+  },
+  {
+    "keyword": "half",
+    "score": 0.5865317680031894
+  },
+  {
+    "keyword": "mother",
+    "score": 0.5865317680031894
+  },
+  {
+    "keyword": "least",
+    "score": 0.577455301531101
+  },
+  {
+    "keyword": "stand",
+    "score": 0.5531126032276453
+  },
+  {
+    "keyword": "die",
+    "score": 0.5524911324085839
+  },
+  {
+    "keyword": "dna",
+    "score": 0.5503106302977759
+  },
+  {
+    "keyword": "apologise",
+    "score": 0.5501569184279964
+  },
+  {
+    "keyword": "live",
+    "score": 0.5465979483199704
+  },
+  {
+    "keyword": "failed",
+    "score": 0.5440504627457513
+  },
+  {
+    "keyword": "officer",
+    "score": 0.5440504627457513
+  },
+  {
+    "keyword": "seen",
+    "score": 0.5410286547895425
+  },
+  {
+    "keyword": "sit",
+    "score": 0.5368170286469276
+  },
+  {
+    "keyword": "leather",
+    "score": 0.5359807089040901
+  },
+  {
+    "keyword": "dark",
+    "score": 0.53307381708458
+  },
+  {
+    "keyword": "recognise",
+    "score": 0.5297627873827376
+  },
+  {
+    "keyword": "money",
+    "score": 0.525832754887038
+  },
+  {
+    "keyword": "injuries",
+    "score": 0.5248903116328943
+  },
+  {
+    "keyword": "john",
+    "score": 0.5238824881440178
+  },
+  {
+    "keyword": "though",
+    "score": 0.5238534092827918
+  },
+  {
+    "keyword": "event",
+    "score": 0.5217733841380066
+  },
+  {
+    "keyword": "flat",
+    "score": 0.5212495617575323
+  },
+  {
+    "keyword": "beer",
+    "score": 0.5115114249965824
+  },
+  {
+    "keyword": "arrest",
+    "score": 0.5067276636775955
+  },
+  {
+    "keyword": "prostitute",
+    "score": 0.5054429184557454
+  },
+  {
+    "keyword": "false",
+    "score": 0.49276726405451854
+  },
+  {
+    "keyword": "hit",
+    "score": 0.476021154677237
+  },
+  {
+    "keyword": "wrong",
+    "score": 0.4760105418623552
+  },
+  {
+    "keyword": "community",
+    "score": 0.47529032670146903
+  },
+  {
+    "keyword": "word",
+    "score": 0.4685460467698268
+  },
+  {
+    "keyword": "bin",
+    "score": 0.4666233368678202
+  },
+  {
+    "keyword": "leak",
+    "score": 0.44626233306126184
   },
   {
     "keyword": "colour",
-    "score": 0.3255821239860483
+    "score": 0.44378208616790416
+  },
+  {
+    "keyword": "wait",
+    "score": 0.4418484796607165
   },
   {
     "keyword": "yet",
-    "score": 0.32099992888592793
+    "score": 0.43753636212180474
   },
   {
     "keyword": "linked",
-    "score": 0.3195932560150728
+    "score": 0.43561900801912484
+  },
+  {
+    "keyword": "hospital",
+    "score": 0.4348244119526141
+  },
+  {
+    "keyword": "tea",
+    "score": 0.432144612911425
   },
   {
     "keyword": "frances",
-    "score": 0.31490136554689846
+    "score": 0.42922376458700406
   },
   {
     "keyword": "serial killers",
-    "score": 0.31490136554689846
+    "score": 0.42922376458700406
+  },
+  {
+    "keyword": "van",
+    "score": 0.4244908968201211
+  },
+  {
+    "keyword": "told",
+    "score": 0.4234686482962109
+  },
+  {
+    "keyword": "understand",
+    "score": 0.4234686482962109
+  },
+  {
+    "keyword": "three",
+    "score": 0.4199431318783896
+  },
+  {
+    "keyword": "drink",
+    "score": 0.4166370522552491
+  },
+  {
+    "keyword": "yard",
+    "score": 0.41642509944502154
+  },
+  {
+    "keyword": "shaped",
+    "score": 0.4063118098966007
+  },
+  {
+    "keyword": "accomplice",
+    "score": 0.4029811331699636
+  },
+  {
+    "keyword": "ice",
+    "score": 0.3980489958648446
+  },
+  {
+    "keyword": "filing",
+    "score": 0.39715167845046223
+  },
+  {
+    "keyword": "done",
+    "score": 0.3905853351218837
+  },
+  {
+    "keyword": "remember",
+    "score": 0.38438351533693305
+  },
+  {
+    "keyword": "went",
+    "score": 0.3741722897836659
+  },
+  {
+    "keyword": "else",
+    "score": 0.3723028544791382
+  },
+  {
+    "keyword": "brick",
+    "score": 0.3713217880455798
+  },
+  {
+    "keyword": "wounds",
+    "score": 0.3682729992005043
+  },
+  {
+    "keyword": "ten",
+    "score": 0.3638644540516746
+  },
+  {
+    "keyword": "pattern",
+    "score": 0.36147251506612343
+  },
+  {
+    "keyword": "pressure",
+    "score": 0.35991682991683305
+  },
+  {
+    "keyword": "attack",
+    "score": 0.35687000505962446
+  },
+  {
+    "keyword": "nice",
+    "score": 0.3550161064356972
+  },
+  {
+    "keyword": "pub",
+    "score": 0.3496371891350241
+  },
+  {
+    "keyword": "shift",
+    "score": 0.34790006305252424
+  },
+  {
+    "keyword": "anywhere",
+    "score": 0.3422748539719796
+  },
+  {
+    "keyword": "report",
+    "score": 0.3346757476927334
+  },
+  {
+    "keyword": "job",
+    "score": 0.3341803683753952
+  },
+  {
+    "keyword": "game",
+    "score": 0.3340377249941057
   }
 ]

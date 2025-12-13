@@ -1,200 +1,200 @@
-cartman	1580.695667
-south park	1417.433212
-route south	659.232223
-butters	604.408576
-park histoire	317.741661
-prends route	176.548615
-kyle	149.046769
-ouais	148.323904
-terrance phillip	100.195186
-stan	96.209162
-eric cartman	93.300335
-galeres place	91.247331
-visages amicaux	91.247331
-taille route	91.247331
-park oublie	91.247331
-journee taille	91.247331
-air visages	91.247331
-garer tout	91.247331
-suivez south	91.247331
-amicaux gens	91.247331
-park presenterai	89.324135
-presenterai potes	89.324135
-dieu	86.306595
-monde	74.729874
-toutes galeres	70.907785
-place garer	70.907785
-garrison	70.790865
-enfants	70.395318
-maintenant	69.715749
-faut	63.610295
-kenny	62.424783
-mahomet	62.260036
-histoire calmer	58.600489
-juste	56.355514
-gentils bien	50.167838
-faut prends	50.167838
-merde	47.074608
-tweek	46.203460
-awesom	45.662982
-voir	44.479195
-oublie toutes	43.952101
-calmer nerfs	43.952101
-gens	43.001494
-vraiment	42.450429
-hankey	41.357363
-terrance	40.281219
-putain	39.136709
-fais	35.813708
-galeres	33.500042
-marsh	31.588403
-temps	31.425691
-south	30.827828
-histoire prendre	29.471714
-chinpokomon	29.278301
-southparknews net	29.278301
-southparknews	29.278301
-salut	28.978286
-ike	28.500023
-barbrady	28.272627
-broflovski	27.282607
-peut etre	26.883391
-eric	26.323194
-tout monde	25.909822
-gens gentils	25.790670
-parce	25.620867
-petit	25.164387
-mec	24.564824
-bon	24.237037
-passe	23.858036
-vrai	22.628722
-merci	22.057933
-peu	21.554786
-bordel	21.412795
-gros	21.354517
-fois	21.033317
-stan kyle	20.796156
-family guy	20.658775
-ecole	20.615353
-cul	20.129462
-crois	19.686611
-fils	18.925692
-mysterion	18.257774
-park	17.991023
-personne	17.630957
-besoin	17.506976
-marklar	17.444404
-stan marsh	17.268215
-pere	16.905365
-juif	16.205416
-mecs	15.948536
-viens	15.037041
-bonne	14.979580
-sida	14.283337
-phillip	13.471837
-trouve	13.411997
-gars	13.266916
-vie	13.246986
-parler	13.194962
-pense	13.121642
-jouer	13.111714
-connard	13.014084
-mieux	12.635123
-histoire	12.249937
-mackey	12.203521
-quelqu	12.141330
-vois	11.717533
-aime	11.469409
-regardez	11.409643
-maman	11.340819
-couilles	11.337078
-gros lard	11.052579
-prends	11.041655
-deux	10.771228
-voyez	10.732099
-quelque chose	10.644714
-faites	10.579186
-homme	10.452399
-depuis	10.318874
-ville	10.315771
-mort	10.092166
-amicaux	9.893608
-accord	9.541735
-prendre	9.462283
-token	9.401546
-truc	9.216873
-noel	9.116254
-desole	8.922333
-super	8.824277
-presenterai	8.599643
-gueule	8.527701
-seul	8.459107
-genial	8.365962
-tuer	8.282197
-regarde	8.165182
-probleme	8.112783
-argent	7.999932
-attendez	7.991047
-dis	7.980754
-vagin	7.977220
-maison	7.892365
-raison	7.874358
-enfant	7.856271
-aider	7.748437
-tue	7.734906
-tres bien	7.679081
-donne	7.209696
-arrete	7.090642
-idee	7.084052
-jour	7.080884
-bonjour	6.998275
-potes	6.941645
-bordel merde	6.830374
-contre	6.770668
-wendy	6.745447
-amis	6.713263
-randy	6.617537
-beaucoup	6.590907
-papa	6.539299
-venez	6.499504
-soir	6.496679
-juifs	6.396418
-toc	6.302765
-ans	6.275904
-garcons	6.207747
-parle	6.138972
-vite	6.129930
-tete	6.042029
-butters butters	5.986694
-mettre	5.973059
-ami	5.935908
-trouver	5.880843
-tapettes	5.838069
-laisse	5.785679
-nouveau	5.755111
-seigneur	5.660117
-pourrait	5.637755
-nom	5.624308
-dit bonne	5.495626
-chier	5.450872
-peur	5.450711
-craig	5.367433
-savoir	5.347028
-demain	5.338023
-aujourd hui	5.307973
-aujourd	5.307973
-vient	5.289836
-hui	5.222601
-peu air	5.161348
-reste	5.157020
-tele	5.118134
-mere	5.103223
-sens	5.080063
-sortir	4.911355
-garcon	4.867373
-joue	4.818690
-roux	4.733256
-jours	4.726810
-venir	4.677468
-arreter	4.666212
-trou cul	4.564626
+cartman	2826.612433
+south park	2499.366510
+butters	1067.295147
+kyle	264.828124
+prends route	218.999161
+stan	216.821877
+terrance phillip	181.820496
+eric cartman	167.170441
+dieu	157.767081
+garrison	124.825858
+enfants	124.128388
+faut	123.976931
+kenny	110.073907
+merde	97.882805
+mme	91.386086
+tweek	81.470773
+awesom	80.517747
+hankey	72.925629
+mec	72.166437
+putain	71.193742
+terrance	71.028058
+ike	63.010981
+marsh	60.598378
+aime	59.765625
+eric	59.517021
+south	58.070438
+cul	57.000030
+salut	51.610630
+barbrady	49.853254
+gros	49.589417
+con	46.388371
+pere	43.096446
+juif	40.945595
+bordel	37.832776
+ecole	37.657254
+ami	37.443348
+park	35.152814
+tue	35.112984
+dis	35.038043
+fils	33.371761
+ours	32.735540
+besoin	31.058988
+bonne	28.811790
+prends	28.175874
+mecs	28.122127
+connard	27.951556
+parle	27.424967
+arrete	26.895468
+prendre	26.624421
+donne	25.908226
+sida	25.355049
+ouai	25.202135
+phillip	24.694646
+jouer	24.558454
+parler	24.547524
+entre	24.467642
+joue	23.653065
+mort	23.463979
+gars	23.450308
+eau	23.013115
+truc	22.962917
+histoire	22.542913
+laisse	22.167363
+eme	21.589069
+mackey	21.518525
+deux	21.396387
+trou	21.361548
+voyez	20.342984
+ville	20.221877
+maman	20.158750
+couilles	19.990722
+jours	19.928072
+faites	18.808020
+tant	18.612225
+depuis	18.195318
+desole	17.872412
+vite	17.754715
+probleme	17.545139
+amicaux	17.445445
+accord	17.410872
+nom	17.327702
+gueule	17.186990
+super	17.018641
+tuer	16.950522
+genial	16.750361
+token	16.577790
+prend	16.465671
+vagin	16.275109
+noel	16.127850
+contre	15.858302
+trouver	15.604360
+aider	15.577519
+porte	15.456513
+presenterai	15.163790
+pris	15.150894
+raison	14.972564
+ble	14.935622
+idee	14.698357
+maison	14.637198
+tele	14.436008
+pres	14.220829
+argent	14.150383
+toc	13.629858
+mettre	13.053549
+aide	13.030198
+rend	12.564946
+heu	12.550988
+tit	12.508929
+potes	12.404996
+bonjour	12.374357
+bordel merde	12.297286
+mis	12.259118
+leurs	12.052578
+chie	12.014414
+amis	11.953345
+wendy	11.894277
+fini	11.880340
+randy	11.872705
+papa	11.799866
+tete	11.702012
+venu	11.700094
+ron	11.613365
+jeu	11.516647
+juifs	11.278834
+mer	10.967626
+garcons	10.946149
+droit	10.691596
+pote	10.687484
+craig	10.678131
+seigneur	10.437757
+gagne	10.423283
+terre	10.376768
+ame	10.316341
+peur	10.280668
+alle	10.173736
+hui	10.110061
+oublie	10.094363
+chier	9.899545
+ere	9.777928
+sortir	9.773264
+reve	9.667588
+arrive	9.473013
+arreter	9.429718
+savoir	9.428440
+mere	9.416987
+rendre	9.063737
+amour	9.044009
+parc	8.918963
+nouvelle	8.899376
+ras	8.543935
+ned	8.444402
+travail	8.362289
+roux	8.346173
+cher	8.135946
+marche	8.075133
+trou cul	8.048826
+jesus	7.983112
+allo	7.959956
+bebe	7.950927
+tapette	7.912908
+garde	7.881748
+fin	7.878954
+colorado	7.867711
+pip	7.851754
+chef	7.832007
+craint	7.826200
+ira	7.824018
+demande	7.760157
+emmerde	7.725513
+roi	7.649913
+vieux	7.622968
+fout	7.606423
+titrage	7.564256
+monsieur	7.549875
+plait	7.496451
+enfoire	7.478826
+bas	7.472562
+cons	7.463766
+foi	7.450560
+fera	7.432318
+journee	7.365066
+lard	7.364940
+aucun	7.357342
+clyde	7.241463
+com	7.219480
+parti	7.184497
+coup	7.181189
+plein	7.073649
+passer	7.035514
+pute	6.904680
+serviette	6.828796
+pret	6.750280
+canada	6.714249
+beau	6.696549
+nez	6.694657
+penis	6.645446
+denver	6.630272
+suffit	6.627717
+ment	6.609987
+cool	6.496538

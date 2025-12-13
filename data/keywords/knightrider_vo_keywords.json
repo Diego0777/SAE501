@@ -1,802 +1,802 @@
 [
   {
     "keyword": "kitt",
-    "score": 3659.9465649242543
-  },
-  {
-    "keyword": "graiman",
-    "score": 155.28265467895898
-  },
-  {
-    "keyword": "karr",
-    "score": 44.89026472272058
+    "score": 4241.985792259101
   },
   {
     "keyword": "sarah",
-    "score": 33.69750685998233
+    "score": 39.003255266746834
   },
   {
     "keyword": "michael",
-    "score": 32.905664804210176
+    "score": 38.174015746180416
+  },
+  {
+    "keyword": "got",
+    "score": 35.14136645347301
   },
   {
     "keyword": "mike",
-    "score": 29.098786609883646
+    "score": 34.110194094417
+  },
+  {
+    "keyword": "one",
+    "score": 28.99922057049515
   },
   {
     "keyword": "zoe",
-    "score": 22.33409967128624
+    "score": 25.85065400392059
   },
   {
-    "keyword": "galt",
-    "score": 22.309080872548076
+    "keyword": "gonna",
+    "score": 16.376121456474433
   },
   {
     "keyword": "torres",
-    "score": 8.59719496917364
+    "score": 9.950842694504518
   },
   {
     "keyword": "maddie",
-    "score": 8.486671418913792
-  },
-  {
-    "keyword": "something",
-    "score": 8.020970149283619
-  },
-  {
-    "keyword": "carrie",
-    "score": 6.791243957217012
-  },
-  {
-    "keyword": "billy",
-    "score": 6.763941057557075
-  },
-  {
-    "keyword": "really",
-    "score": 6.490981149223115
-  },
-  {
-    "keyword": "matheson",
-    "score": 5.971095863977313
-  },
-  {
-    "keyword": "driscoll",
-    "score": 5.701855508953112
-  },
-  {
-    "keyword": "destruct",
-    "score": 5.403660810800175
-  },
-  {
-    "keyword": "find",
-    "score": 5.277229962461099
-  },
-  {
-    "keyword": "self destruct",
-    "score": 5.195648979643073
-  },
-  {
-    "keyword": "stevens",
-    "score": 5.117362670833328
-  },
-  {
-    "keyword": "emp",
-    "score": 4.945356304994399
-  },
-  {
-    "keyword": "say",
-    "score": 4.702506329263392
-  },
-  {
-    "keyword": "please",
-    "score": 4.247246767977454
-  },
-  {
-    "keyword": "ambassador",
-    "score": 4.028965887879108
-  },
-  {
-    "keyword": "anything",
-    "score": 3.9896737466682515
-  },
-  {
-    "keyword": "knight",
-    "score": 3.8197521323270203
-  },
-  {
-    "keyword": "still",
-    "score": 3.7749259932159185
-  },
-  {
-    "keyword": "mean",
-    "score": 3.4050216487057443
-  },
-  {
-    "keyword": "accessing",
-    "score": 3.2182151601921865
-  },
-  {
-    "keyword": "haas",
-    "score": 3.2145799847798906
-  },
-  {
-    "keyword": "give",
-    "score": 3.0812916889543014
-  },
-  {
-    "keyword": "way",
-    "score": 3.074668571308782
-  },
-  {
-    "keyword": "thought",
-    "score": 3.0426068211653954
-  },
-  {
-    "keyword": "system",
-    "score": 3.02279990686031
-  },
-  {
-    "keyword": "never",
-    "score": 2.9862611670981827
-  },
-  {
-    "keyword": "last",
-    "score": 2.974101835041204
-  },
-  {
-    "keyword": "skyler",
-    "score": 2.9465096066612593
-  },
-  {
-    "keyword": "bomb",
-    "score": 2.922169246354055
-  },
-  {
-    "keyword": "move",
-    "score": 2.6587613382323076
-  },
-  {
-    "keyword": "another",
-    "score": 2.6106790985434176
-  },
-  {
-    "keyword": "sgt",
-    "score": 2.4967059555756617
-  },
-  {
-    "keyword": "nano",
-    "score": 2.4967059555756617
-  },
-  {
-    "keyword": "work",
-    "score": 2.4534660582506964
-  },
-  {
-    "keyword": "talking",
-    "score": 2.447255512076129
-  },
-  {
-    "keyword": "bank",
-    "score": 2.3751686192253336
-  },
-  {
-    "keyword": "three",
-    "score": 2.336594619829309
-  },
-  {
-    "keyword": "dad",
-    "score": 2.246814527687113
-  },
-  {
-    "keyword": "nothing",
-    "score": 2.196471333538772
-  },
-  {
-    "keyword": "call",
-    "score": 2.1852638689905333
-  },
-  {
-    "keyword": "everything",
-    "score": 2.0083813886424484
-  },
-  {
-    "keyword": "car",
-    "score": 2.003845261802525
-  },
-  {
-    "keyword": "little",
-    "score": 1.9972588237309494
-  },
-  {
-    "keyword": "said",
-    "score": 1.969097559896853
-  },
-  {
-    "keyword": "files",
-    "score": 1.878207836962158
-  },
-  {
-    "keyword": "transformation",
-    "score": 1.8682752840479553
-  },
-  {
-    "keyword": "fire",
-    "score": 1.8630394129932744
-  },
-  {
-    "keyword": "danny",
-    "score": 1.845362324613799
-  },
-  {
-    "keyword": "believe",
-    "score": 1.8186850259496212
-  },
-  {
-    "keyword": "much",
-    "score": 1.799046302437138
-  },
-  {
-    "keyword": "exactly",
-    "score": 1.7931331779279014
-  },
-  {
-    "keyword": "congressman",
-    "score": 1.7915238795180168
-  },
-  {
-    "keyword": "keep",
-    "score": 1.7724395692026613
-  },
-  {
-    "keyword": "getting",
-    "score": 1.7506429039764604
-  },
-  {
-    "keyword": "serum",
-    "score": 1.728196827584465
-  },
-  {
-    "keyword": "dead",
-    "score": 1.7092974901437397
-  },
-  {
-    "keyword": "nikki",
-    "score": 1.6472337864495161
-  },
-  {
-    "keyword": "phone",
-    "score": 1.6159838414905203
-  },
-  {
-    "keyword": "hear",
-    "score": 1.615087903670154
-  },
-  {
-    "keyword": "idea",
-    "score": 1.610020748255023
-  },
-  {
-    "keyword": "sarge",
-    "score": 1.5543976994063033
-  },
-  {
-    "keyword": "program",
-    "score": 1.5404694010117783
-  },
-  {
-    "keyword": "even",
-    "score": 1.5154863442050326
-  },
-  {
-    "keyword": "better",
-    "score": 1.4917214495561586
-  },
-  {
-    "keyword": "night",
-    "score": 1.4878780019021836
-  },
-  {
-    "keyword": "father",
-    "score": 1.4853543399731637
-  },
-  {
-    "keyword": "government",
-    "score": 1.4853248922396742
-  },
-  {
-    "keyword": "open",
-    "score": 1.4804653304855948
-  },
-  {
-    "keyword": "approaching",
-    "score": 1.474572423273593
-  },
-  {
-    "keyword": "working",
-    "score": 1.4686937213736853
-  },
-  {
-    "keyword": "seconds",
-    "score": 1.43869902376987
-  },
-  {
-    "keyword": "drop",
-    "score": 1.4320639609247854
-  },
-  {
-    "keyword": "shipment",
-    "score": 1.431761875491268
-  },
-  {
-    "keyword": "first",
-    "score": 1.4133563845307489
-  },
-  {
-    "keyword": "thank",
-    "score": 1.4089612294115552
-  },
-  {
-    "keyword": "hell",
-    "score": 1.3707722202636763
-  },
-  {
-    "keyword": "told",
-    "score": 1.3666477691090682
-  },
-  {
-    "keyword": "virus",
-    "score": 1.3653069816057555
-  },
-  {
-    "keyword": "mainframe",
-    "score": 1.317940000878429
-  },
-  {
-    "keyword": "military",
-    "score": 1.309261733627433
-  },
-  {
-    "keyword": "sonny",
-    "score": 1.298290530548719
+    "score": 9.822916962144445
   },
   {
     "keyword": "dea",
-    "score": 1.287927949450808
+    "score": 9.640195074845442
   },
   {
-    "keyword": "name",
-    "score": 1.25655326001035
+    "keyword": "carrie",
+    "score": 8.291314204818207
   },
   {
-    "keyword": "door",
-    "score": 1.25655326001035
+    "keyword": "billy",
+    "score": 7.828938822486715
   },
   {
-    "keyword": "around",
-    "score": 1.2531354994867105
+    "keyword": "destruct",
+    "score": 7.236626567240708
   },
   {
-    "keyword": "happened",
-    "score": 1.239911317828138
+    "keyword": "self destruct",
+    "score": 6.2219943412422225
   },
   {
-    "keyword": "weapons",
-    "score": 1.2378821695838262
+    "keyword": "stevens",
+    "score": 5.923102957508776
   },
   {
-    "keyword": "put",
-    "score": 1.2341511927682705
+    "keyword": "two",
+    "score": 5.497540139148682
   },
   {
-    "keyword": "may",
-    "score": 1.234088955371897
+    "keyword": "ambassador",
+    "score": 4.663335647913466
   },
   {
-    "keyword": "turner",
-    "score": 1.2279793460041153
+    "keyword": "knight",
+    "score": 4.499606353192861
   },
   {
-    "keyword": "access",
-    "score": 1.2037903100317633
+    "keyword": "still",
+    "score": 4.369296599248633
   },
   {
-    "keyword": "thanks",
-    "score": 1.2015219250681066
+    "keyword": "system",
+    "score": 4.251630031791805
   },
   {
-    "keyword": "inside",
-    "score": 1.2014450066997189
+    "keyword": "haas",
+    "score": 3.7207228488063566
   },
   {
-    "keyword": "nice",
-    "score": 1.2005747618387477
-  },
-  {
-    "keyword": "looking",
-    "score": 1.1979919272751414
-  },
-  {
-    "keyword": "kill",
-    "score": 1.1958215844311824
-  },
-  {
-    "keyword": "away",
-    "score": 1.1738743274500107
-  },
-  {
-    "keyword": "room",
-    "score": 1.1715038888629221
-  },
-  {
-    "keyword": "bad",
-    "score": 1.1627278833802304
-  },
-  {
-    "keyword": "looks",
-    "score": 1.159592051820123
-  },
-  {
-    "keyword": "means",
-    "score": 1.159592051820123
-  },
-  {
-    "keyword": "mike mike",
-    "score": 1.1585772294819496
-  },
-  {
-    "keyword": "wait",
-    "score": 1.1436293561372795
-  },
-  {
-    "keyword": "left",
-    "score": 1.1278131336758006
-  },
-  {
-    "keyword": "wrong",
-    "score": 1.1094310412140138
-  },
-  {
-    "keyword": "weapon",
-    "score": 1.098112897816602
-  },
-  {
-    "keyword": "appears",
-    "score": 1.0782990939150097
-  },
-  {
-    "keyword": "download",
-    "score": 1.067133116031454
-  },
-  {
-    "keyword": "truck",
-    "score": 1.0610667953707216
-  },
-  {
-    "keyword": "hours",
-    "score": 1.0485335878672861
-  },
-  {
-    "keyword": "intercept",
-    "score": 1.0409849131361264
-  },
-  {
-    "keyword": "rand",
-    "score": 1.0379496765026541
-  },
-  {
-    "keyword": "without",
-    "score": 1.0318173925088037
-  },
-  {
-    "keyword": "done",
-    "score": 1.0318173925088037
-  },
-  {
-    "keyword": "hit",
-    "score": 1.0232250770448832
-  },
-  {
-    "keyword": "took",
-    "score": 1.009823106981268
-  },
-  {
-    "keyword": "someone",
-    "score": 1.0038288878847905
-  },
-  {
-    "keyword": "trying",
-    "score": 1.0030349912859997
-  },
-  {
-    "keyword": "security",
-    "score": 0.9993178761779052
-  },
-  {
-    "keyword": "great",
-    "score": 0.9955901419360783
-  },
-  {
-    "keyword": "plane",
-    "score": 0.9947869558545942
-  },
-  {
-    "keyword": "dude",
-    "score": 0.9823840663197553
-  },
-  {
-    "keyword": "killed",
-    "score": 0.9787912102738997
-  },
-  {
-    "keyword": "cell",
-    "score": 0.9694334768781429
-  },
-  {
-    "keyword": "infrared",
-    "score": 0.9682245893608817
-  },
-  {
-    "keyword": "looks like",
-    "score": 0.9535446315919197
-  },
-  {
-    "keyword": "actually",
-    "score": 0.9473210152611554
-  },
-  {
-    "keyword": "shut",
-    "score": 0.9401350778376414
-  },
-  {
-    "keyword": "god",
-    "score": 0.9279308676233438
-  },
-  {
-    "keyword": "operational",
-    "score": 0.924189615134821
-  },
-  {
-    "keyword": "able",
-    "score": 0.8930265716597957
-  },
-  {
-    "keyword": "try",
-    "score": 0.8818428280362892
-  },
-  {
-    "keyword": "next",
-    "score": 0.8719774413330674
-  },
-  {
-    "keyword": "target",
-    "score": 0.8702508123903359
-  },
-  {
-    "keyword": "remember",
-    "score": 0.8679402566045552
-  },
-  {
-    "keyword": "arrow",
-    "score": 0.860339721577958
-  },
-  {
-    "keyword": "turbo",
-    "score": 0.8482652588204892
-  },
-  {
-    "keyword": "sure",
-    "score": 0.8400533549593545
-  },
-  {
-    "keyword": "uploaded",
-    "score": 0.8292170076191011
-  },
-  {
-    "keyword": "database",
-    "score": 0.8236574154386068
-  },
-  {
-    "keyword": "override",
-    "score": 0.8153302331765169
-  },
-  {
-    "keyword": "megan",
-    "score": 0.8061104134269219
-  },
-  {
-    "keyword": "enhance",
-    "score": 0.800963314171571
-  },
-  {
-    "keyword": "enough",
-    "score": 0.8002701324462117
-  },
-  {
-    "keyword": "kind",
-    "score": 0.7977372360480044
-  },
-  {
-    "keyword": "vehicles",
-    "score": 0.7924932394853503
-  },
-  {
-    "keyword": "problem",
-    "score": 0.7887340306558885
-  },
-  {
-    "keyword": "found",
-    "score": 0.7874748500171446
-  },
-  {
-    "keyword": "else",
-    "score": 0.7851262262090717
-  },
-  {
-    "keyword": "pilots",
-    "score": 0.7764109897744458
-  },
-  {
-    "keyword": "sensors",
-    "score": 0.7705932808144749
-  },
-  {
-    "keyword": "package",
-    "score": 0.7683000384122828
-  },
-  {
-    "keyword": "footage",
-    "score": 0.7633259546619258
-  },
-  {
-    "keyword": "yet",
-    "score": 0.7632974073445021
-  },
-  {
-    "keyword": "screen",
-    "score": 0.7456379990749888
-  },
-  {
-    "keyword": "fight",
-    "score": 0.7420834238424676
+    "keyword": "thought",
+    "score": 3.5670402304600985
   },
   {
     "keyword": "hank",
-    "score": 0.7407533973077712
+    "score": 3.5349480332789023
   },
   {
-    "keyword": "knew",
-    "score": 0.7392728426683958
+    "keyword": "gotta",
+    "score": 3.531969952912038
   },
   {
-    "keyword": "ready",
-    "score": 0.7387557911042707
+    "keyword": "skyler",
+    "score": 3.4104441854423633
   },
   {
-    "keyword": "industries",
-    "score": 0.7270339427299166
+    "keyword": "bomb",
+    "score": 3.3822713805434383
   },
   {
-    "keyword": "attack",
-    "score": 0.7151475939435974
+    "keyword": "hear",
+    "score": 3.254792045724119
   },
   {
-    "keyword": "protocol",
-    "score": 0.7107254078341314
+    "keyword": "may",
+    "score": 3.2513905581793803
   },
   {
-    "keyword": "check",
-    "score": 0.7044312856612321
+    "keyword": "another",
+    "score": 3.0217364068845187
   },
   {
-    "keyword": "money",
-    "score": 0.7008641060284544
+    "keyword": "dad",
+    "score": 2.9616597810354053
   },
   {
-    "keyword": "coordinates",
-    "score": 0.6867943494328509
+    "keyword": "fire",
+    "score": 2.9212809489578646
   },
   {
-    "keyword": "turn",
-    "score": 0.6825026274332852
+    "keyword": "able",
+    "score": 2.8587586038599415
   },
   {
-    "keyword": "detected",
-    "score": 0.6798829064507437
+    "keyword": "talking",
+    "score": 2.832581408383413
   },
   {
-    "keyword": "self",
-    "score": 0.6730452004945818
+    "keyword": "bank",
+    "score": 2.789059643711072
   },
   {
-    "keyword": "made",
-    "score": 0.6691783105729396
+    "keyword": "three",
+    "score": 2.7404969624592947
   },
   {
-    "keyword": "years",
-    "score": 0.6681791699884693
+    "keyword": "kill",
+    "score": 2.619241248894378
   },
   {
-    "keyword": "activated",
-    "score": 0.6604278155764458
+    "keyword": "program",
+    "score": 2.4849772741672433
   },
   {
-    "keyword": "using",
-    "score": 0.6487539116991127
+    "keyword": "per",
+    "score": 2.4612390400428126
   },
   {
-    "keyword": "current",
-    "score": 0.6457229988522588
+    "keyword": "rand",
+    "score": 2.4559726150372763
+  },
+  {
+    "keyword": "keep",
+    "score": 2.386843404753853
+  },
+  {
+    "keyword": "little",
+    "score": 2.336033894244244
+  },
+  {
+    "keyword": "hell",
+    "score": 2.310810677670802
+  },
+  {
+    "keyword": "believe",
+    "score": 2.2823642947206486
+  },
+  {
+    "keyword": "weapon",
+    "score": 2.2129625991245576
+  },
+  {
+    "keyword": "phone",
+    "score": 2.1891940298392556
+  },
+  {
+    "keyword": "files",
+    "score": 2.1739358942318465
+  },
+  {
+    "keyword": "transformation",
+    "score": 2.1624394384740704
+  },
+  {
+    "keyword": "access",
+    "score": 2.1489390460273055
+  },
+  {
+    "keyword": "door",
+    "score": 2.144700625569113
+  },
+  {
+    "keyword": "danny",
+    "score": 2.1359187819329097
+  },
+  {
+    "keyword": "ten",
+    "score": 2.123458809939131
+  },
+  {
+    "keyword": "exactly",
+    "score": 2.075466038380727
+  },
+  {
+    "keyword": "congressman",
+    "score": 2.0736033523089676
+  },
+  {
+    "keyword": "serum",
+    "score": 2.0003053133140396
+  },
+  {
+    "keyword": "drop",
+    "score": 1.9896224784045087
+  },
+  {
+    "keyword": "dead",
+    "score": 1.9784302325955787
+  },
+  {
+    "keyword": "nikki",
+    "score": 1.9065944588677533
+  },
+  {
+    "keyword": "name",
+    "score": 1.8764031128328018
+  },
+  {
+    "keyword": "sarge",
+    "score": 1.7991411206739893
+  },
+  {
+    "keyword": "father",
+    "score": 1.7844149919180754
+  },
+  {
+    "keyword": "government",
+    "score": 1.7607452524492933
+  },
+  {
+    "keyword": "wait",
+    "score": 1.749051189201032
+  },
+  {
+    "keyword": "better",
+    "score": 1.7265963540173594
+  },
+  {
+    "keyword": "hit",
+    "score": 1.7105357058920174
+  },
+  {
+    "keyword": "download",
+    "score": 1.7084201680391264
+  },
+  {
+    "keyword": "approaching",
+    "score": 1.7067471748939813
+  },
+  {
+    "keyword": "virus",
+    "score": 1.6968244674636066
+  },
+  {
+    "keyword": "happen",
+    "score": 1.6944274191405813
+  },
+  {
+    "keyword": "ass",
+    "score": 1.6928328379178685
+  },
+  {
+    "keyword": "seconds",
+    "score": 1.6652254277824374
+  },
+  {
+    "keyword": "shipment",
+    "score": 1.6571960098715566
+  },
+  {
+    "keyword": "real",
+    "score": 1.6110522398768072
+  },
+  {
+    "keyword": "told",
+    "score": 1.581829540677153
+  },
+  {
+    "keyword": "mainframe",
+    "score": 1.5254526245549331
+  },
+  {
+    "keyword": "talk",
+    "score": 1.5161987745265995
+  },
+  {
+    "keyword": "military",
+    "score": 1.5154079445651023
+  },
+  {
+    "keyword": "sonny",
+    "score": 1.5027093008333736
+  },
+  {
+    "keyword": "target",
+    "score": 1.4670452463184969
+  },
+  {
+    "keyword": "turner",
+    "score": 1.466630859102892
+  },
+  {
+    "keyword": "head",
+    "score": 1.4661319962246389
   },
   {
     "keyword": "run",
-    "score": 0.6432399915176791
+    "score": 1.4511618227864682
   },
   {
-    "keyword": "understand",
-    "score": 0.6431883040533615
+    "keyword": "room",
+    "score": 1.4456278442307928
   },
   {
-    "keyword": "worry",
-    "score": 0.6431883040533615
+    "keyword": "happened",
+    "score": 1.4351381494875577
   },
   {
-    "keyword": "swat",
-    "score": 0.642403178344987
+    "keyword": "weapons",
+    "score": 1.4327895072786307
   },
   {
-    "keyword": "leave",
-    "score": 0.6392557552524257
+    "keyword": "data",
+    "score": 1.4206236393430944
   },
   {
-    "keyword": "five",
-    "score": 0.6308252460284574
+    "keyword": "nice",
+    "score": 1.4180403929016507
+  },
+  {
+    "keyword": "inside",
+    "score": 1.3906152309717805
+  },
+  {
+    "keyword": "ready",
+    "score": 1.3095414136010795
+  },
+  {
+    "keyword": "cell",
+    "score": 1.2982732076608734
+  },
+  {
+    "keyword": "truck",
+    "score": 1.295438398052098
+  },
+  {
+    "keyword": "die",
+    "score": 1.2891372480769892
+  },
+  {
+    "keyword": "intercept",
+    "score": 1.284568314420545
+  },
+  {
+    "keyword": "rig",
+    "score": 1.2845251281758114
+  },
+  {
+    "keyword": "wrong",
+    "score": 1.2841134592277546
+  },
+  {
+    "keyword": "shut",
+    "score": 1.274750071787511
+  },
+  {
+    "keyword": "database",
+    "score": 1.2744886741416346
+  },
+  {
+    "keyword": "done",
+    "score": 1.2501576883652363
+  },
+  {
+    "keyword": "appears",
+    "score": 1.2480797166574413
+  },
+  {
+    "keyword": "fight",
+    "score": 1.2470732795896864
+  },
+  {
+    "keyword": "plane",
+    "score": 1.2404409432520003
+  },
+  {
+    "keyword": "hours",
+    "score": 1.2136275645932795
+  },
+  {
+    "keyword": "dude",
+    "score": 1.2039592335632658
+  },
+  {
+    "keyword": "without",
+    "score": 1.1942793665985494
+  },
+  {
+    "keyword": "line",
+    "score": 1.193602198804942
+  },
+  {
+    "keyword": "arrow",
+    "score": 1.1904223441696866
+  },
+  {
+    "keyword": "took",
+    "score": 1.168822031241229
+  },
+  {
+    "keyword": "security",
+    "score": 1.156662728169872
+  },
+  {
+    "keyword": "thin",
+    "score": 1.1488254895785595
+  },
+  {
+    "keyword": "hang",
+    "score": 1.1363269425608533
+  },
+  {
+    "keyword": "killed",
+    "score": 1.132904092453711
+  },
+  {
+    "keyword": "remember",
+    "score": 1.1038623861475148
+  },
+  {
+    "keyword": "protocol",
+    "score": 1.0997430068992216
+  },
+  {
+    "keyword": "ran",
+    "score": 1.0977890219452455
+  },
+  {
+    "keyword": "mike mike",
+    "score": 1.0973149406174656
+  },
+  {
+    "keyword": "found",
+    "score": 1.0835859859863268
+  },
+  {
+    "keyword": "number",
+    "score": 1.0823304622301362
+  },
+  {
+    "keyword": "side",
+    "score": 1.0773443669038183
+  },
+  {
+    "keyword": "god",
+    "score": 1.0740356742174164
+  },
+  {
+    "keyword": "operational",
+    "score": 1.0697053530920726
+  },
+  {
+    "keyword": "lose",
+    "score": 1.0389849048732709
+  },
+  {
+    "keyword": "check",
+    "score": 1.0322040808526396
+  },
+  {
+    "keyword": "missile",
+    "score": 1.0292030751741341
+  },
+  {
+    "keyword": "search",
+    "score": 1.0203617723210285
+  },
+  {
+    "keyword": "screen",
+    "score": 0.9922193413068496
+  },
+  {
+    "keyword": "care",
+    "score": 0.9696395410836421
+  },
+  {
+    "keyword": "current",
+    "score": 0.960561415538013
+  },
+  {
+    "keyword": "override",
+    "score": 0.9437058160835279
+  },
+  {
+    "keyword": "problem",
+    "score": 0.9389136166450011
+  },
+  {
+    "keyword": "act",
+    "score": 0.936604537934404
+  },
+  {
+    "keyword": "megan",
+    "score": 0.933034314933575
+  },
+  {
+    "keyword": "track",
+    "score": 0.9301561730331088
+  },
+  {
+    "keyword": "enough",
+    "score": 0.9262744685488954
   },
   {
     "keyword": "guess",
-    "score": 0.6226341284023882
+    "score": 0.9216523475535368
   },
   {
-    "keyword": "speed",
-    "score": 0.6212149305685852
+    "keyword": "late",
+    "score": 0.9197090479099312
   },
   {
-    "keyword": "pretty",
-    "score": 0.6209799790446752
+    "keyword": "body",
+    "score": 0.9192605345799847
   },
   {
-    "keyword": "per hour",
-    "score": 0.6202327714683257
+    "keyword": "vehicles",
+    "score": 0.9172730862628112
   },
   {
-    "keyword": "coming",
-    "score": 0.6199401869403646
+    "keyword": "cover",
+    "score": 0.9092004503393012
   },
   {
-    "keyword": "stop",
-    "score": 0.6184037923244771
+    "keyword": "else",
+    "score": 0.9087461201414856
   },
   {
-    "keyword": "doors",
-    "score": 0.6174748123643948
+    "keyword": "pilots",
+    "score": 0.8986586500867368
   },
   {
-    "keyword": "according",
-    "score": 0.6132558611431967
+    "keyword": "chang",
+    "score": 0.895227634675977
   },
   {
-    "keyword": "gets",
-    "score": 0.6126497038580254
+    "keyword": "sensors",
+    "score": 0.8919249297383376
+  },
+  {
+    "keyword": "package",
+    "score": 0.8892706111511235
+  },
+  {
+    "keyword": "read",
+    "score": 0.887986035338628
+  },
+  {
+    "keyword": "footage",
+    "score": 0.8835133467030599
+  },
+  {
+    "keyword": "yet",
+    "score": 0.8834803045461643
+  },
+  {
+    "keyword": "tin",
+    "score": 0.8813387626967897
+  },
+  {
+    "keyword": "owe",
+    "score": 0.881155610363286
+  },
+  {
+    "keyword": "wanna",
+    "score": 0.88035645544571
   },
   {
     "keyword": "used",
-    "score": 0.6074515531275614
+    "score": 0.8628495828392825
+  },
+  {
+    "keyword": "start",
+    "score": 0.8572982039879462
+  },
+  {
+    "keyword": "detected",
+    "score": 0.8561368683493815
+  },
+  {
+    "keyword": "knew",
+    "score": 0.855673018012233
+  },
+  {
+    "keyword": "attack",
+    "score": 0.8521855788330647
+  },
+  {
+    "keyword": "industries",
+    "score": 0.8415070756928753
+  },
+  {
+    "keyword": "alex",
+    "score": 0.8370423921713839
+  },
+  {
+    "keyword": "understand",
+    "score": 0.8151089120805136
+  },
+  {
+    "keyword": "activated",
+    "score": 0.8149634400518345
+  },
+  {
+    "keyword": "rest",
+    "score": 0.8130046457744249
+  },
+  {
+    "keyword": "money",
+    "score": 0.811216739217913
+  },
+  {
+    "keyword": "stay",
+    "score": 0.8026270561679097
+  },
+  {
+    "keyword": "coordinates",
+    "score": 0.7949316677341526
+  },
+  {
+    "keyword": "worry",
+    "score": 0.7917356995499453
+  },
+  {
+    "keyword": "self",
+    "score": 0.7790176843059998
+  },
+  {
+    "keyword": "made",
+    "score": 0.7745419438505143
+  },
+  {
+    "keyword": "shot",
+    "score": 0.7740426534567028
+  },
+  {
+    "keyword": "ate",
+    "score": 0.7739953621522044
+  },
+  {
+    "keyword": "years",
+    "score": 0.7733854863290308
+  },
+  {
+    "keyword": "gun",
+    "score": 0.7678724068393187
+  },
+  {
+    "keyword": "voice",
+    "score": 0.7588082943186173
+  },
+  {
+    "keyword": "clear",
+    "score": 0.758442895855551
+  },
+  {
+    "keyword": "speed",
+    "score": 0.7571256317879449
+  },
+  {
+    "keyword": "stat",
+    "score": 0.7507750479749459
+  },
+  {
+    "keyword": "che",
+    "score": 0.7451359144235603
+  },
+  {
+    "keyword": "swat",
+    "score": 0.7435510067041248
+  },
+  {
+    "keyword": "nsa",
+    "score": 0.7433662679577595
+  },
+  {
+    "keyword": "sign",
+    "score": 0.7366910107112998
+  },
+  {
+    "keyword": "according",
+    "score": 0.7355105673259825
+  },
+  {
+    "keyword": "five",
+    "score": 0.7301501028485641
+  },
+  {
+    "keyword": "cut",
+    "score": 0.7288211525346716
+  },
+  {
+    "keyword": "pretty",
+    "score": 0.7187546763876901
   },
   {
     "keyword": "miles",
-    "score": 0.6069606836846992
+    "score": 0.7185404313555759
+  },
+  {
+    "keyword": "kid",
+    "score": 0.7161355581669261
+  },
+  {
+    "keyword": "doors",
+    "score": 0.7146976133132159
+  },
+  {
+    "keyword": "location",
+    "score": 0.7122480978791587
+  },
+  {
+    "keyword": "less",
+    "score": 0.7113658560978775
   },
   {
     "keyword": "encrypted",
-    "score": 0.6057436282905261
+    "score": 0.701119327865705
+  },
+  {
+    "keyword": "fine",
+    "score": 0.6974379883452427
+  },
+  {
+    "keyword": "till",
+    "score": 0.6968823283336223
+  },
+  {
+    "keyword": "unh",
+    "score": 0.695399424929908
+  },
+  {
+    "keyword": "vehicle",
+    "score": 0.6888285406415309
+  },
+  {
+    "keyword": "meet",
+    "score": 0.6841263955368447
+  },
+  {
+    "keyword": "list",
+    "score": 0.6838380581066171
+  },
+  {
+    "keyword": "called",
+    "score": 0.68055945206626
+  },
+  {
+    "keyword": "indicate",
+    "score": 0.6795976620156619
+  },
+  {
+    "keyword": "arm",
+    "score": 0.6755307042609121
+  },
+  {
+    "keyword": "attempting",
+    "score": 0.674048611173032
+  },
+  {
+    "keyword": "bro",
+    "score": 0.672683219074314
+  },
+  {
+    "keyword": "mom",
+    "score": 0.6689199547847868
+  },
+  {
+    "keyword": "systems",
+    "score": 0.6613038795672993
   }
 ]

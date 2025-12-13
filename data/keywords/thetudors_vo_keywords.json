@@ -1,802 +1,802 @@
 [
   {
     "keyword": "majesty",
-    "score": 4148.9172063618025
+    "score": 4583.639800898656
   },
   {
     "keyword": "wolsey",
-    "score": 236.19219356950305
+    "score": 260.94035750983
   },
   {
     "keyword": "cromwell",
-    "score": 196.90117416838626
+    "score": 217.5324340958155
   },
   {
     "keyword": "lady mary",
-    "score": 174.62362472320152
+    "score": 192.92064812263163
   },
   {
     "keyword": "sir thomas",
-    "score": 146.64467918912723
-  },
-  {
-    "keyword": "yes majesty",
-    "score": 138.2399345086996
+    "score": 163.7521189024299
   },
   {
     "keyword": "king",
-    "score": 100.5474217792409
-  },
-  {
-    "keyword": "lady anne",
-    "score": 94.17546868880405
+    "score": 132.92005259002744
   },
   {
     "keyword": "boleyn",
-    "score": 93.23281286962715
+    "score": 106.95409787791466
   },
   {
     "keyword": "emperor",
-    "score": 93.20656721200334
-  },
-  {
-    "keyword": "aske",
-    "score": 70.96555482145749
-  },
-  {
-    "keyword": "hertford",
-    "score": 56.11100719338402
+    "score": 102.97272997469847
   },
   {
     "keyword": "god",
-    "score": 52.237091215052004
-  },
-  {
-    "keyword": "dereham",
-    "score": 51.70216860641581
+    "score": 58.92965988049585
   },
   {
     "keyword": "eminence",
-    "score": 50.2660009416995
+    "score": 58.78293978472833
   },
   {
     "keyword": "lord",
-    "score": 40.797268239446645
+    "score": 53.23536969945316
   },
   {
     "keyword": "lady",
-    "score": 33.51237138562191
+    "score": 37.14081505555007
   },
   {
     "keyword": "england",
-    "score": 33.361535925000815
-  },
-  {
-    "keyword": "suffolk",
-    "score": 32.3806662773346
+    "score": 36.85715001747111
   },
   {
     "keyword": "queen",
-    "score": 27.819906425063117
-  },
-  {
-    "keyword": "anne boleyn",
-    "score": 22.847500467360465
-  },
-  {
-    "keyword": "holiness",
-    "score": 21.607464520210822
-  },
-  {
-    "keyword": "surrey",
-    "score": 20.927216149017138
+    "score": 31.449652176332474
   },
   {
     "keyword": "sir",
-    "score": 20.757029491672522
+    "score": 28.02381854534375
+  },
+  {
+    "keyword": "one",
+    "score": 25.864244379735702
   },
   {
     "keyword": "cardinal",
-    "score": 20.75435853897826
-  },
-  {
-    "keyword": "madam",
-    "score": 18.97930658149471
-  },
-  {
-    "keyword": "anne",
-    "score": 18.926551362625386
+    "score": 25.4591184657934
   },
   {
     "keyword": "lords",
-    "score": 18.48639881982741
+    "score": 25.360630311001227
   },
   {
-    "keyword": "say",
-    "score": 17.92061459987303
+    "keyword": "madam",
+    "score": 24.01561848628441
+  },
+  {
+    "keyword": "anne",
+    "score": 23.028076140341586
   },
   {
     "keyword": "pope",
-    "score": 17.85380191760276
+    "score": 20.425876271222325
   },
   {
     "keyword": "katherine",
-    "score": 16.768632383385054
-  },
-  {
-    "keyword": "culpepper",
-    "score": 15.445692760642496
-  },
-  {
-    "keyword": "thank",
-    "score": 15.012375847710086
-  },
-  {
-    "keyword": "parliament",
-    "score": 14.514260789300497
-  },
-  {
-    "keyword": "tudors",
-    "score": 12.998326095723831
-  },
-  {
-    "keyword": "highness",
-    "score": 12.602727471271015
+    "score": 18.525645843514383
   },
   {
     "keyword": "grace",
-    "score": 12.448774998562337
+    "score": 14.343152277011475
+  },
+  {
+    "keyword": "highness",
+    "score": 13.923238368945952
   },
   {
     "keyword": "treaty",
-    "score": 11.976284344536298
+    "score": 13.231156674884243
   },
   {
     "keyword": "may",
-    "score": 11.57532968281966
-  },
-  {
-    "keyword": "great",
-    "score": 10.210708863841282
-  },
-  {
-    "keyword": "francis",
-    "score": 10.082707074868425
-  },
-  {
-    "keyword": "father",
-    "score": 9.793906652303383
-  },
-  {
-    "keyword": "still",
-    "score": 9.392054955086996
-  },
-  {
-    "keyword": "also",
-    "score": 9.369395159516303
-  },
-  {
-    "keyword": "never",
-    "score": 9.19067039981272
+    "score": 13.18940642177493
   },
   {
     "keyword": "love",
-    "score": 8.995310623673609
+    "score": 12.682147173275636
   },
   {
-    "keyword": "french",
-    "score": 8.89117137933721
+    "keyword": "father",
+    "score": 11.25318680966016
   },
   {
-    "keyword": "mistress",
-    "score": 8.677625019910636
+    "keyword": "francis",
+    "score": 11.13917081264099
+  },
+  {
+    "keyword": "still",
+    "score": 10.73167142168795
   },
   {
     "keyword": "ambassador",
-    "score": 8.413201309515593
+    "score": 10.45737887075678
   },
   {
-    "keyword": "even",
-    "score": 8.286524825589753
+    "keyword": "french",
+    "score": 10.025061276893394
   },
   {
-    "keyword": "son",
-    "score": 8.11659829714776
-  },
-  {
-    "keyword": "marriage",
-    "score": 8.107788207394318
+    "keyword": "mistress",
+    "score": 9.79932071184612
   },
   {
     "keyword": "duke",
-    "score": 7.998069857278123
+    "score": 9.129435404836153
   },
   {
-    "keyword": "wife",
-    "score": 7.944083233180039
-  },
-  {
-    "keyword": "duchess",
-    "score": 7.920716293987417
-  },
-  {
-    "keyword": "realm",
-    "score": 7.904265354506124
-  },
-  {
-    "keyword": "please",
-    "score": 7.850463414190741
-  },
-  {
-    "keyword": "thomas",
-    "score": 7.844431118963488
-  },
-  {
-    "keyword": "true",
-    "score": 7.416975735273271
-  },
-  {
-    "keyword": "treason",
-    "score": 7.117740986865887
-  },
-  {
-    "keyword": "much",
-    "score": 7.066312988878309
-  },
-  {
-    "keyword": "believe",
-    "score": 6.703211285858218
-  },
-  {
-    "keyword": "nothing",
-    "score": 6.582085907700773
-  },
-  {
-    "keyword": "church",
-    "score": 6.399318213839542
-  },
-  {
-    "keyword": "ask",
-    "score": 6.268006023901916
-  },
-  {
-    "keyword": "seymour",
-    "score": 6.2443765432462195
-  },
-  {
-    "keyword": "daughter",
-    "score": 6.061346013027685
-  },
-  {
-    "keyword": "honour",
-    "score": 5.95423824350221
-  },
-  {
-    "keyword": "told",
-    "score": 5.900152352089688
-  },
-  {
-    "keyword": "rebels",
-    "score": 5.868265747863118
-  },
-  {
-    "keyword": "norfolk",
-    "score": 5.566565678250424
-  },
-  {
-    "keyword": "give",
-    "score": 5.4880704911230165
-  },
-  {
-    "keyword": "many",
-    "score": 5.403200810980088
-  },
-  {
-    "keyword": "always",
-    "score": 5.371563470186785
-  },
-  {
-    "keyword": "bishop",
-    "score": 5.289884743821194
-  },
-  {
-    "keyword": "ever",
-    "score": 5.050318720236334
-  },
-  {
-    "keyword": "understand",
-    "score": 5.019030464791158
-  },
-  {
-    "keyword": "forgive",
-    "score": 4.788803803392615
-  },
-  {
-    "keyword": "mary",
-    "score": 4.556719409290232
-  },
-  {
-    "keyword": "upon",
-    "score": 4.439700820390783
-  },
-  {
-    "keyword": "everything",
-    "score": 4.2103203543970205
-  },
-  {
-    "keyword": "find",
-    "score": 4.079482739046171
-  },
-  {
-    "keyword": "perhaps",
-    "score": 4.052693230026803
-  },
-  {
-    "keyword": "holy",
-    "score": 4.026677167730149
-  },
-  {
-    "keyword": "cannot",
-    "score": 3.967393477704733
-  },
-  {
-    "keyword": "done",
-    "score": 3.9415836801826813
-  },
-  {
-    "keyword": "oath",
-    "score": 3.9356716613962672
-  },
-  {
-    "keyword": "child",
-    "score": 3.8789243027689273
-  },
-  {
-    "keyword": "since",
-    "score": 3.6556554664656606
-  },
-  {
-    "keyword": "france",
-    "score": 3.6487504265048676
-  },
-  {
-    "keyword": "master",
-    "score": 3.540682990551193
-  },
-  {
-    "keyword": "speak",
-    "score": 3.515389895898913
-  },
-  {
-    "keyword": "indeed",
-    "score": 3.500471340761022
-  },
-  {
-    "keyword": "trust",
-    "score": 3.3718038337447194
-  },
-  {
-    "keyword": "catherine",
-    "score": 3.266887382723188
-  },
-  {
-    "keyword": "matter",
-    "score": 3.1994099058389462
-  },
-  {
-    "keyword": "bryan",
-    "score": 3.1537109592553567
-  },
-  {
-    "keyword": "way",
-    "score": 3.0945801303670293
-  },
-  {
-    "keyword": "council",
-    "score": 3.034578669862818
-  },
-  {
-    "keyword": "gracious",
-    "score": 3.012384263101568
-  },
-  {
-    "keyword": "surely",
-    "score": 2.9941319948495457
-  },
-  {
-    "keyword": "already",
-    "score": 2.9929897135223706
-  },
-  {
-    "keyword": "yet",
-    "score": 2.9176435702812507
-  },
-  {
-    "keyword": "away",
-    "score": 2.912541019405023
-  },
-  {
-    "keyword": "princess",
-    "score": 2.8873750812961263
-  },
-  {
-    "keyword": "court",
-    "score": 2.872137568251099
-  },
-  {
-    "keyword": "made",
-    "score": 2.868071512244297
-  },
-  {
-    "keyword": "said",
-    "score": 2.862717370362535
-  },
-  {
-    "keyword": "imperial",
-    "score": 2.8284304664195123
-  },
-  {
-    "keyword": "traitor",
-    "score": 2.8189620559333837
-  },
-  {
-    "keyword": "pray",
-    "score": 2.8149854311687403
-  },
-  {
-    "keyword": "anything",
-    "score": 2.7297958165638865
-  },
-  {
-    "keyword": "christ",
-    "score": 2.711731174732795
+    "keyword": "marriage",
+    "score": 9.112764142808585
   },
   {
     "keyword": "hear",
-    "score": 2.672730436283515
+    "score": 8.97172208906907
   },
   {
-    "keyword": "mean",
-    "score": 2.659972602848887
+    "keyword": "honour",
+    "score": 8.92063636149999
   },
   {
-    "keyword": "swear",
-    "score": 2.659319147844658
+    "keyword": "wife",
+    "score": 8.91568093705569
   },
   {
-    "keyword": "earl",
-    "score": 2.6168680059304283
+    "keyword": "realm",
+    "score": 8.850679533383705
   },
   {
-    "keyword": "leave",
-    "score": 2.6009250585205477
+    "keyword": "thomas",
+    "score": 8.666368814772998
   },
   {
-    "keyword": "secretary",
-    "score": 2.5867546796950234
+    "keyword": "bishop",
+    "score": 8.418506335224588
+  },
+  {
+    "keyword": "true",
+    "score": 8.390985866776115
+  },
+  {
+    "keyword": "treason",
+    "score": 8.262578729959209
+  },
+  {
+    "keyword": "believe",
+    "score": 8.13231708669812
+  },
+  {
+    "keyword": "seymour",
+    "score": 7.6989827954687735
+  },
+  {
+    "keyword": "church",
+    "score": 7.671229265838794
+  },
+  {
+    "keyword": "daughter",
+    "score": 7.256911512775616
+  },
+  {
+    "keyword": "ill",
+    "score": 7.25319883634532
   },
   {
     "keyword": "die",
-    "score": 2.5522570790517216
+    "score": 6.847550385312754
   },
   {
-    "keyword": "something",
-    "score": 2.5425754098997597
+    "keyword": "told",
+    "score": 6.5183689640602
   },
   {
-    "keyword": "henry",
-    "score": 2.538081125234352
+    "keyword": "rebels",
+    "score": 6.483141288746674
   },
   {
-    "keyword": "heart",
-    "score": 2.528456570164763
-  },
-  {
-    "keyword": "else",
-    "score": 2.482644012261583
-  },
-  {
-    "keyword": "kingdom",
-    "score": 2.4736393654636464
-  },
-  {
-    "keyword": "better",
-    "score": 2.468577290205474
-  },
-  {
-    "keyword": "seems",
-    "score": 2.4509928296528005
-  },
-  {
-    "keyword": "letter",
-    "score": 2.357412714470664
-  },
-  {
-    "keyword": "marry",
-    "score": 2.3327701350021246
-  },
-  {
-    "keyword": "edward",
-    "score": 2.306696551699615
-  },
-  {
-    "keyword": "prince",
-    "score": 2.2306340588707667
-  },
-  {
-    "keyword": "rome",
-    "score": 2.2223213049244492
-  },
-  {
-    "keyword": "sister",
-    "score": 2.198992945987987
-  },
-  {
-    "keyword": "fisher",
-    "score": 2.1717065839436875
-  },
-  {
-    "keyword": "elizabeth",
-    "score": 2.171336139248557
-  },
-  {
-    "keyword": "death",
-    "score": 2.145082136786695
-  },
-  {
-    "keyword": "soon",
-    "score": 2.1300861063442165
-  },
-  {
-    "keyword": "poor",
-    "score": 2.125878289697325
-  },
-  {
-    "keyword": "mother",
-    "score": 2.089429914477639
-  },
-  {
-    "keyword": "thought",
-    "score": 2.079171078162378
-  },
-  {
-    "keyword": "heard",
-    "score": 2.0760394273760037
-  },
-  {
-    "keyword": "new",
-    "score": 2.0593002246839065
-  },
-  {
-    "keyword": "world",
-    "score": 2.0232488039768852
-  },
-  {
-    "keyword": "first",
-    "score": 2.0074276917251197
-  },
-  {
-    "keyword": "beautiful",
-    "score": 1.9972737773993845
-  },
-  {
-    "keyword": "taken",
-    "score": 1.9719637757494004
-  },
-  {
-    "keyword": "life",
-    "score": 1.9713489307167462
-  },
-  {
-    "keyword": "wyatt",
-    "score": 1.941672998473662
-  },
-  {
-    "keyword": "husband",
-    "score": 1.9326051339223482
-  },
-  {
-    "keyword": "faith",
-    "score": 1.9011343744989895
-  },
-  {
-    "keyword": "beg",
-    "score": 1.8469633583020462
-  },
-  {
-    "keyword": "wish",
-    "score": 1.8363540760653847
-  },
-  {
-    "keyword": "bless",
-    "score": 1.7869442551869255
-  },
-  {
-    "keyword": "favour",
-    "score": 1.7857061578739732
-  },
-  {
-    "keyword": "send",
-    "score": 1.758631767000809
-  },
-  {
-    "keyword": "subjects",
-    "score": 1.7583022729038733
-  },
-  {
-    "keyword": "name",
-    "score": 1.7122891404662608
-  },
-  {
-    "keyword": "married",
-    "score": 1.6929241697135284
-  },
-  {
-    "keyword": "buckingham",
-    "score": 1.6852168028139523
-  },
-  {
-    "keyword": "another",
-    "score": 1.6787552827764067
-  },
-  {
-    "keyword": "heir",
-    "score": 1.6786111845835399
-  },
-  {
-    "keyword": "others",
-    "score": 1.6747994294904305
-  },
-  {
-    "keyword": "keep",
-    "score": 1.6523602195400942
-  },
-  {
-    "keyword": "coronation",
-    "score": 1.6415298946827905
-  },
-  {
-    "keyword": "return",
-    "score": 1.6153755189800252
-  },
-  {
-    "keyword": "brother",
-    "score": 1.5946132998097677
-  },
-  {
-    "keyword": "servants",
-    "score": 1.5811863907576742
-  },
-  {
-    "keyword": "visit",
-    "score": 1.5460712698299417
-  },
-  {
-    "keyword": "religious",
-    "score": 1.5360956361649256
+    "keyword": "child",
+    "score": 6.351999200013037
   },
   {
     "keyword": "war",
-    "score": 1.5318083266918867
+    "score": 6.328238147124042
   },
   {
-    "keyword": "without",
-    "score": 1.5191230040219312
+    "keyword": "thou",
+    "score": 6.236844791184194
   },
   {
-    "keyword": "rebellion",
-    "score": 1.5191204758378292
+    "keyword": "norfolk",
+    "score": 6.149829154946998
   },
   {
-    "keyword": "mind",
-    "score": 1.5184499321802714
+    "keyword": "forgive",
+    "score": 6.0578824621962335
+  },
+  {
+    "keyword": "understand",
+    "score": 5.8462161227366
+  },
+  {
+    "keyword": "christ",
+    "score": 5.187504196977843
+  },
+  {
+    "keyword": "mary",
+    "score": 5.034171425239269
+  },
+  {
+    "keyword": "upon",
+    "score": 4.945723351738164
+  },
+  {
+    "keyword": "done",
+    "score": 4.89978236850834
+  },
+  {
+    "keyword": "sin",
+    "score": 4.570448656027609
+  },
+  {
+    "keyword": "holy",
+    "score": 4.521074515950749
+  },
+  {
+    "keyword": "trust",
+    "score": 4.420423001288708
+  },
+  {
+    "keyword": "cannot",
+    "score": 4.383096057532496
+  },
+  {
+    "keyword": "oath",
+    "score": 4.348050436577387
+  },
+  {
+    "keyword": "since",
+    "score": 4.233350771850594
+  },
+  {
+    "keyword": "heart",
+    "score": 4.215715767996053
+  },
+  {
+    "keyword": "pray",
+    "score": 4.141975622634028
+  },
+  {
+    "keyword": "france",
+    "score": 4.1187788969832
+  },
+  {
+    "keyword": "traitor",
+    "score": 4.097473505576544
+  },
+  {
+    "keyword": "earl",
+    "score": 4.091268146808082
+  },
+  {
+    "keyword": "prince",
+    "score": 4.084234439915248
+  },
+  {
+    "keyword": "master",
+    "score": 4.078438762959962
+  },
+  {
+    "keyword": "speak",
+    "score": 4.012658747687507
+  },
+  {
+    "keyword": "council",
+    "score": 3.911971773550587
+  },
+  {
+    "keyword": "indeed",
+    "score": 3.8672499260324176
+  },
+  {
+    "keyword": "yet",
+    "score": 3.6415054514554877
+  },
+  {
+    "keyword": "catherine",
+    "score": 3.609191094375825
+  },
+  {
+    "keyword": "beg",
+    "score": 3.5258573431331377
+  },
+  {
+    "keyword": "read",
+    "score": 3.5086391323023025
+  },
+  {
+    "keyword": "bryan",
+    "score": 3.4841560711810833
+  },
+  {
+    "keyword": "gracious",
+    "score": 3.4604893971059734
+  },
+  {
+    "keyword": "made",
+    "score": 3.4100668975541235
+  },
+  {
+    "keyword": "ought",
+    "score": 3.380873611379423
+  },
+  {
+    "keyword": "court",
+    "score": 3.3444547128079254
+  },
+  {
+    "keyword": "surely",
+    "score": 3.3078564594377875
+  },
+  {
+    "keyword": "already",
+    "score": 3.3065944901348003
+  },
+  {
+    "keyword": "princess",
+    "score": 3.2310077933392813
+  },
+  {
+    "keyword": "letter",
+    "score": 3.2278681772535354
+  },
+  {
+    "keyword": "swear",
+    "score": 3.083964179906803
+  },
+  {
+    "keyword": "marry",
+    "score": 3.0191129648492248
+  },
+  {
+    "keyword": "two",
+    "score": 2.973004265982766
+  },
+  {
+    "keyword": "else",
+    "score": 2.972742595825661
+  },
+  {
+    "keyword": "bless",
+    "score": 2.8691776720791373
+  },
+  {
+    "keyword": "act",
+    "score": 2.868637584971943
+  },
+  {
+    "keyword": "secretary",
+    "score": 2.857794242514708
+  },
+  {
+    "keyword": "faith",
+    "score": 2.847144742722073
+  },
+  {
+    "keyword": "henry",
+    "score": 2.843653853906255
+  },
+  {
+    "keyword": "better",
+    "score": 2.777276031273556
+  },
+  {
+    "keyword": "ready",
+    "score": 2.758255160397198
+  },
+  {
+    "keyword": "kingdom",
+    "score": 2.732826731568218
+  },
+  {
+    "keyword": "seems",
+    "score": 2.7078072969224984
+  },
+  {
+    "keyword": "sister",
+    "score": 2.631916487737437
+  },
+  {
+    "keyword": "though",
+    "score": 2.614127175138028
+  },
+  {
+    "keyword": "wish",
+    "score": 2.568360533040521
+  },
+  {
+    "keyword": "edward",
+    "score": 2.5483916880177016
   },
   {
     "keyword": "order",
-    "score": 1.5085424351451353
+    "score": 2.5279550275639786
   },
   {
-    "keyword": "priests",
-    "score": 1.5045853741496023
+    "keyword": "death",
+    "score": 2.5211954842358075
   },
   {
-    "keyword": "make way",
-    "score": 1.4847630846845483
+    "keyword": "thought",
+    "score": 2.4669935275740835
   },
   {
-    "keyword": "happy",
-    "score": 1.434397834000575
+    "keyword": "rome",
+    "score": 2.4551756222123213
   },
   {
-    "keyword": "fear",
-    "score": 1.4251875440653616
+    "keyword": "eat",
+    "score": 2.4320617271776643
   },
   {
-    "keyword": "children",
-    "score": 1.410633546344148
+    "keyword": "soon",
+    "score": 2.4040216317737304
   },
   {
-    "keyword": "day",
-    "score": 1.3966650576451147
+    "keyword": "poor",
+    "score": 2.4021585864549038
   },
   {
-    "keyword": "commands",
-    "score": 1.3941917788542961
+    "keyword": "fisher",
+    "score": 2.399257502360939
   },
   {
-    "keyword": "wait",
-    "score": 1.3914006501954714
+    "keyword": "elizabeth",
+    "score": 2.398848242555507
   },
   {
-    "keyword": "ladies",
-    "score": 1.359185775084639
+    "keyword": "mother",
+    "score": 2.3773548257893977
   },
   {
-    "keyword": "enough",
-    "score": 1.3518539007529498
+    "keyword": "send",
+    "score": 2.3755610876504023
   },
   {
-    "keyword": "rumours",
-    "score": 1.3501797894126824
+    "keyword": "taken",
+    "score": 2.353673662226815
   },
   {
-    "keyword": "throne",
-    "score": 1.3423559538866063
+    "keyword": "favour",
+    "score": 2.3403938722540447
+  },
+  {
+    "keyword": "mind",
+    "score": 2.3295575662512413
+  },
+  {
+    "keyword": "name",
+    "score": 2.30716816589193
+  },
+  {
+    "keyword": "heard",
+    "score": 2.2935663630414918
+  },
+  {
+    "keyword": "command",
+    "score": 2.233207537706479
+  },
+  {
+    "keyword": "keep",
+    "score": 2.2176209177888655
+  },
+  {
+    "keyword": "beautiful",
+    "score": 2.2065476663022827
+  },
+  {
+    "keyword": "return",
+    "score": 2.1853372818413432
+  },
+  {
+    "keyword": "heir",
+    "score": 2.170550938146164
+  },
+  {
+    "keyword": "husband",
+    "score": 2.1605589999411254
+  },
+  {
+    "keyword": "wyatt",
+    "score": 2.1451210504965674
   },
   {
     "keyword": "servant",
-    "score": 1.32148162503425
+    "score": 2.1107677116182146
   },
   {
-    "keyword": "mercy",
-    "score": 1.3194835535624359
+    "keyword": "care",
+    "score": 2.1071424882510073
   },
   {
-    "keyword": "english",
-    "score": 1.3151270901888918
+    "keyword": "fra",
+    "score": 2.0810853734812444
   },
   {
-    "keyword": "charles",
-    "score": 1.309745343958008
+    "keyword": "wait",
+    "score": 2.0502445973619268
+  },
+  {
+    "keyword": "visit",
+    "score": 2.0185247291465713
+  },
+  {
+    "keyword": "promise",
+    "score": 1.971125687322834
+  },
+  {
+    "keyword": "subjects",
+    "score": 1.942536782304243
+  },
+  {
+    "keyword": "married",
+    "score": 1.9200191937120996
+  },
+  {
+    "keyword": "others",
+    "score": 1.9011532365552777
+  },
+  {
+    "keyword": "law",
+    "score": 1.8959293871827227
+  },
+  {
+    "keyword": "fear",
+    "score": 1.887022006692124
   },
   {
     "keyword": "head",
-    "score": 1.2945722180386143
+    "score": 1.8845681732420805
   },
   {
-    "keyword": "family",
-    "score": 1.2890387397867893
+    "keyword": "live",
+    "score": 1.87456480683298
   },
   {
-    "keyword": "pleasure",
-    "score": 1.2884230625857107
+    "keyword": "another",
+    "score": 1.8546548767721538
+  },
+  {
+    "keyword": "used",
+    "score": 1.8410842303858672
+  },
+  {
+    "keyword": "ways",
+    "score": 1.7940160653910642
+  },
+  {
+    "keyword": "brother",
+    "score": 1.7799762085675261
+  },
+  {
+    "keyword": "happy",
+    "score": 1.7728255312266343
+  },
+  {
+    "keyword": "bed",
+    "score": 1.771294928323678
+  },
+  {
+    "keyword": "rebellion",
+    "score": 1.7201214052665588
+  },
+  {
+    "keyword": "religious",
+    "score": 1.6970473850661598
+  },
+  {
+    "keyword": "without",
+    "score": 1.6782963644149524
+  },
+  {
+    "keyword": "priests",
+    "score": 1.662235485014572
+  },
+  {
+    "keyword": "allow",
+    "score": 1.618945056709729
   },
   {
     "keyword": "god bless",
-    "score": 1.2860823242339838
+    "score": 1.6013900598395072
   },
   {
-    "keyword": "darcy",
-    "score": 1.2638015986295983
+    "keyword": "english",
+    "score": 1.5995059011233566
   },
   {
-    "keyword": "kiry",
-    "score": 1.24683726515582
+    "keyword": "children",
+    "score": 1.5991842087520767
   },
   {
-    "keyword": "household",
-    "score": 1.2281398887834838
+    "keyword": "faithful",
+    "score": 1.5755904817189228
+  },
+  {
+    "keyword": "pleasure",
+    "score": 1.550940429357549
+  },
+  {
+    "keyword": "throne",
+    "score": 1.5392392025299526
+  },
+  {
+    "keyword": "ladies",
+    "score": 1.5016009492646305
+  },
+  {
+    "keyword": "enough",
+    "score": 1.4935008428198966
+  },
+  {
+    "keyword": "able",
+    "score": 1.4766777069238253
+  },
+  {
+    "keyword": "agree",
+    "score": 1.473662369138057
   },
   {
     "keyword": "remember",
-    "score": 1.2280878010679703
+    "score": 1.4679346273919354
   },
   {
-    "keyword": "put",
-    "score": 1.2263314123939877
+    "keyword": "word",
+    "score": 1.459974378255035
+  },
+  {
+    "keyword": "mercy",
+    "score": 1.4577387380654716
+  },
+  {
+    "keyword": "charles",
+    "score": 1.4469801610893138
+  },
+  {
+    "keyword": "kin",
+    "score": 1.4429453609953495
+  },
+  {
+    "keyword": "com",
+    "score": 1.4368072941434413
+  },
+  {
+    "keyword": "given",
+    "score": 1.432119602805853
+  },
+  {
+    "keyword": "catholic",
+    "score": 1.417777444556509
+  },
+  {
+    "keyword": "darcy",
+    "score": 1.3962224406492094
+  },
+  {
+    "keyword": "ships",
+    "score": 1.3910109863875728
+  },
+  {
+    "keyword": "truth",
+    "score": 1.3822469046654338
   },
   {
     "keyword": "castle",
-    "score": 1.2182057963802346
+    "score": 1.3783780762253355
+  },
+  {
+    "keyword": "talk",
+    "score": 1.3664755020505104
+  },
+  {
+    "keyword": "ten",
+    "score": 1.3597577722301943
+  },
+  {
+    "keyword": "household",
+    "score": 1.3568241050140453
+  },
+  {
+    "keyword": "per",
+    "score": 1.3543371735555874
+  },
+  {
+    "keyword": "appointed",
+    "score": 1.3529212351038837
+  },
+  {
+    "keyword": "receive",
+    "score": 1.3182522447448766
+  },
+  {
+    "keyword": "little",
+    "score": 1.3092989512117594
+  },
+  {
+    "keyword": "sign",
+    "score": 1.3049680105680144
+  },
+  {
+    "keyword": "meet",
+    "score": 1.2984116018733858
+  },
+  {
+    "keyword": "abbey",
+    "score": 1.2410212023986158
+  },
+  {
+    "keyword": "sweetheart",
+    "score": 1.2398234618435444
+  },
+  {
+    "keyword": "sit",
+    "score": 1.2373259561771135
+  },
+  {
+    "keyword": "pra",
+    "score": 1.216379917134955
+  },
+  {
+    "keyword": "hope",
+    "score": 1.213968474859685
+  },
+  {
+    "keyword": "gift",
+    "score": 1.1803539243645658
+  },
+  {
+    "keyword": "bring",
+    "score": 1.1803119025791313
+  },
+  {
+    "keyword": "ease",
+    "score": 1.1789680452661933
+  },
+  {
+    "keyword": "plea",
+    "score": 1.171631350427091
+  },
+  {
+    "keyword": "knowledge",
+    "score": 1.1688573296960405
+  },
+  {
+    "keyword": "rest",
+    "score": 1.1668403607830204
+  },
+  {
+    "keyword": "crown",
+    "score": 1.1643798004685308
+  },
+  {
+    "keyword": "longer",
+    "score": 1.1574811795765332
+  },
+  {
+    "keyword": "afraid",
+    "score": 1.1523598286335701
+  },
+  {
+    "keyword": "found",
+    "score": 1.149457408394803
   }
 ]
