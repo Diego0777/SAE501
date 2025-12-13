@@ -1,802 +1,802 @@
 [
   {
     "keyword": "cylons",
-    "score": 1392.6171288324192
+    "score": 1949.2565571109235
   },
   {
     "keyword": "cylon",
-    "score": 446.0463025405004
+    "score": 1239.9578321563959
   },
   {
     "keyword": "galactica",
-    "score": 435.56530609160745
+    "score": 609.6639997965013
   },
   {
     "keyword": "baltar",
-    "score": 274.95511435787597
-  },
-  {
-    "keyword": "adama",
-    "score": 260.6895930910931
-  },
-  {
-    "keyword": "gaius",
-    "score": 253.73014358458371
-  },
-  {
-    "keyword": "zarek",
-    "score": 235.49120531854834
+    "score": 384.8567193932369
   },
   {
     "keyword": "vaisseau",
-    "score": 225.46149141946492
+    "score": 381.59469633298806
+  },
+  {
+    "keyword": "adama",
+    "score": 364.88916313231715
+  },
+  {
+    "keyword": "gaius",
+    "score": 355.14796987569
   },
   {
     "keyword": "kobol",
-    "score": 220.52821090929
+    "score": 308.67497766832525
   },
   {
     "keyword": "caprica",
-    "score": 197.71493159427317
-  },
-  {
-    "keyword": "roslin",
-    "score": 164.8366686367535
-  },
-  {
-    "keyword": "gaeta",
-    "score": 110.93514902465985
+    "score": 286.00690549558857
   },
   {
     "keyword": "raptor",
-    "score": 101.62169870449776
+    "score": 171.4706657840136
+  },
+  {
+    "keyword": "gaeta",
+    "score": 155.27675351206818
   },
   {
     "keyword": "flotte",
-    "score": 98.14406516319481
+    "score": 137.81773113751214
   },
   {
     "keyword": "madame presidente",
-    "score": 96.74241284839495
+    "score": 135.41107508391002
   },
   {
     "keyword": "amiral",
-    "score": 93.11168995553258
+    "score": 130.3291252360733
   },
   {
     "keyword": "starbuck",
-    "score": 85.23498987344033
-  },
-  {
-    "keyword": "thrace",
-    "score": 74.71002532631374
+    "score": 119.30404952392324
   },
   {
     "keyword": "presidente",
-    "score": 74.03239684102319
+    "score": 103.62369670261886
   },
   {
     "keyword": "boomer",
-    "score": 71.720163543144
+    "score": 100.38724655121214
   },
   {
     "keyword": "vaisseau mere",
-    "score": 56.31532142780463
-  },
-  {
-    "keyword": "lords kobol",
-    "score": 52.793479668440156
-  },
-  {
-    "keyword": "tigh",
-    "score": 48.038852614766135
+    "score": 78.82497442135586
   },
   {
     "keyword": "kara",
-    "score": 47.60436619951554
-  },
-  {
-    "keyword": "vipers",
-    "score": 44.86383155424124
-  },
-  {
-    "keyword": "seriestele",
-    "score": 43.88932425769509
+    "score": 66.6321855737289
   },
   {
     "keyword": "ftl",
-    "score": 43.88932425769509
+    "score": 61.43221372568263
+  },
+  {
+    "keyword": "seriestele",
+    "score": 61.43221372568263
   },
   {
     "keyword": "vaisseaux",
-    "score": 39.132350674207025
+    "score": 54.77384240621469
   },
   {
     "keyword": "battlestar",
-    "score": 37.44556170447491
+    "score": 53.97940649620236
   },
   {
     "keyword": "seriestele net",
-    "score": 33.43005553985305
-  },
-  {
-    "keyword": "battlestar galactica",
-    "score": 29.05833692324745
-  },
-  {
-    "keyword": "demetrius",
-    "score": 25.290155790004732
-  },
-  {
-    "keyword": "monsieur",
-    "score": 24.28337938658378
-  },
-  {
-    "keyword": "sub net",
-    "score": 23.667011082385084
-  },
-  {
-    "keyword": "hera",
-    "score": 23.600057322458845
-  },
-  {
-    "keyword": "quorum",
-    "score": 22.785255490038498
-  },
-  {
-    "keyword": "maintenant",
-    "score": 21.910778252650367
-  },
-  {
-    "keyword": "raider",
-    "score": 21.31386175772254
-  },
-  {
-    "keyword": "pegasus",
-    "score": 19.8795351329098
-  },
-  {
-    "keyword": "vraiment",
-    "score": 18.771254496466767
-  },
-  {
-    "keyword": "besoin",
-    "score": 17.402986345276727
-  },
-  {
-    "keyword": "commandant",
-    "score": 17.293567031805814
-  },
-  {
-    "keyword": "merci",
-    "score": 16.871318339769058
-  },
-  {
-    "keyword": "cally",
-    "score": 16.21510698430351
-  },
-  {
-    "keyword": "saul",
-    "score": 15.63869671790882
-  },
-  {
-    "keyword": "pilotes",
-    "score": 15.497858307612871
-  },
-  {
-    "keyword": "viper",
-    "score": 14.476680106202881
-  },
-  {
-    "keyword": "apollo",
-    "score": 14.298877074024896
-  },
-  {
-    "keyword": "temps",
-    "score": 12.977215485830554
-  },
-  {
-    "keyword": "quelque chose",
-    "score": 12.949297190559351
-  },
-  {
-    "keyword": "dieu",
-    "score": 12.814306083862386
-  },
-  {
-    "keyword": "peut etre",
-    "score": 12.739750107342648
-  },
-  {
-    "keyword": "juste",
-    "score": 12.18359015107909
-  },
-  {
-    "keyword": "terre",
-    "score": 12.080090581129811
-  },
-  {
-    "keyword": "voir",
-    "score": 11.581992342891999
-  },
-  {
-    "keyword": "athena",
-    "score": 10.757271874189488
-  },
-  {
-    "keyword": "dieux",
-    "score": 10.721459058340526
-  },
-  {
-    "keyword": "colonial",
-    "score": 10.531415490481127
-  },
-  {
-    "keyword": "pense",
-    "score": 10.495500990454255
-  },
-  {
-    "keyword": "www seriestele",
-    "score": 10.260417746252068
-  },
-  {
-    "keyword": "lords",
-    "score": 10.041960481120796
-  },
-  {
-    "keyword": "net www",
-    "score": 9.980584133681724
-  },
-  {
-    "keyword": "cela",
-    "score": 9.776577056213398
-  },
-  {
-    "keyword": "capitaine",
-    "score": 9.712758067273182
-  },
-  {
-    "keyword": "faites",
-    "score": 9.69422273083503
-  },
-  {
-    "keyword": "parce",
-    "score": 9.422442793324
-  },
-  {
-    "keyword": "saut",
-    "score": 9.116732830982164
-  },
-  {
-    "keyword": "fois",
-    "score": 9.010697449664233
-  },
-  {
-    "keyword": "the the",
-    "score": 8.806531210632409
-  },
-  {
-    "keyword": "deux",
-    "score": 8.746931575495811
-  },
-  {
-    "keyword": "equipage",
-    "score": 8.442792631933711
-  },
-  {
-    "keyword": "bon",
-    "score": 7.0766634525183685
-  },
-  {
-    "keyword": "passe",
-    "score": 7.008546993025503
-  },
-  {
-    "keyword": "vie",
-    "score": 6.7122775328935855
-  },
-  {
-    "keyword": "peu",
-    "score": 6.537570808698162
-  },
-  {
-    "keyword": "madame",
-    "score": 6.380618795698023
-  },
-  {
-    "keyword": "www sub",
-    "score": 6.332271195757085
-  },
-  {
-    "keyword": "personne",
-    "score": 6.172014999311972
-  },
-  {
-    "keyword": "fais",
-    "score": 6.15308272545192
+    "score": 46.79229747825571
   },
   {
     "keyword": "pos",
-    "score": 6.088711412651063
+    "score": 42.931532044725365
   },
   {
-    "keyword": "bord vaisseau",
-    "score": 6.00805679480334
+    "keyword": "battlestar galactica",
+    "score": 40.67317040245495
   },
   {
-    "keyword": "colonies",
-    "score": 5.94500040512118
+    "keyword": "viper",
+    "score": 35.81166867229145
   },
   {
-    "keyword": "raiders",
-    "score": 5.6162438655614135
+    "keyword": "monsieur",
+    "score": 33.98962680991602
   },
   {
-    "keyword": "monde",
-    "score": 5.4332553707150435
+    "keyword": "sub net",
+    "score": 33.12689150838921
   },
   {
-    "keyword": "bord",
-    "score": 5.410690657032097
+    "keyword": "pegasus",
+    "score": 27.825533240877174
   },
   {
-    "keyword": "pont",
-    "score": 5.394164170775573
+    "keyword": "saut",
+    "score": 27.125145437856524
   },
   {
-    "keyword": "trouve",
-    "score": 5.252042938281718
+    "keyword": "dieu",
+    "score": 25.533150355840743
   },
   {
-    "keyword": "leurs",
-    "score": 5.24838939050534
+    "keyword": "besoin",
+    "score": 24.821977797367516
   },
   {
-    "keyword": "bon episode",
-    "score": 5.18313676840338
+    "keyword": "commandant",
+    "score": 24.35829309072822
   },
   {
-    "keyword": "vrai",
-    "score": 5.167053748331844
+    "keyword": "saul",
+    "score": 22.29591014195398
   },
   {
-    "keyword": "faut",
-    "score": 5.087190547384901
+    "keyword": "pilotes",
+    "score": 21.69246758627628
   },
   {
-    "keyword": "quelqu",
-    "score": 5.079642638503142
+    "keyword": "apollo",
+    "score": 20.761324990944118
   },
   {
-    "keyword": "homme",
-    "score": 4.917314022796061
+    "keyword": "eau",
+    "score": 19.48715378248455
   },
   {
-    "keyword": "entre",
-    "score": 4.833338546165912
+    "keyword": "colonial",
+    "score": 18.555600243171686
   },
   {
-    "keyword": "reste",
-    "score": 4.821395196311377
+    "keyword": "terre",
+    "score": 17.68607455035848
   },
   {
-    "keyword": "sharon",
-    "score": 4.661307481309691
+    "keyword": "dieux",
+    "score": 15.135859467818106
   },
   {
-    "keyword": "depuis",
-    "score": 4.644308506605614
-  },
-  {
-    "keyword": "jusqu",
-    "score": 4.5691537482587865
-  },
-  {
-    "keyword": "crois",
-    "score": 4.511749552659448
-  },
-  {
-    "keyword": "civils",
-    "score": 4.508271678159851
-  },
-  {
-    "keyword": "prendre",
-    "score": 4.486414110961519
-  },
-  {
-    "keyword": "oui monsieur",
-    "score": 4.317017494866692
-  },
-  {
-    "keyword": "the",
-    "score": 4.275502404287328
-  },
-  {
-    "keyword": "trouver",
-    "score": 4.23065729847656
-  },
-  {
-    "keyword": "parle",
-    "score": 4.095049779213991
-  },
-  {
-    "keyword": "accord",
-    "score": 4.037773373325229
-  },
-  {
-    "keyword": "parler",
-    "score": 4.004151591572216
-  },
-  {
-    "keyword": "aucun",
-    "score": 3.9907288138792225
-  },
-  {
-    "keyword": "sas",
-    "score": 3.983140643478608
-  },
-  {
-    "keyword": "docteur",
-    "score": 3.9307978327255855
+    "keyword": "athena",
+    "score": 15.057033482683842
   },
   {
     "keyword": "donne",
-    "score": 3.901186668995445
+    "score": 14.87607770440155
   },
   {
-    "keyword": "raison",
-    "score": 3.850615326761121
+    "keyword": "capitaine",
+    "score": 14.583168104309127
   },
   {
-    "keyword": "chasseurs",
-    "score": 3.849213631994315
+    "keyword": "www seriestele",
+    "score": 14.361583062925153
   },
   {
-    "keyword": "hybride",
-    "score": 3.8163449468026633
+    "keyword": "lords",
+    "score": 14.055806803471365
   },
   {
-    "keyword": "anders",
-    "score": 3.79689845715126
+    "keyword": "net www",
+    "score": 13.969897873285053
   },
   {
-    "keyword": "putain",
-    "score": 3.7572716090745333
+    "keyword": "cela",
+    "score": 13.684347649020918
   },
   {
-    "keyword": "seigneurs",
-    "score": 3.741389979444958
+    "keyword": "mme",
+    "score": 13.632989665353662
   },
   {
-    "keyword": "colonel",
-    "score": 3.6934607967351365
-  },
-  {
-    "keyword": "vois",
-    "score": 3.680546976997711
-  },
-  {
-    "keyword": "gens",
-    "score": 3.546415642810032
-  },
-  {
-    "keyword": "jour",
-    "score": 3.522268926969381
-  },
-  {
-    "keyword": "mieux",
-    "score": 3.4330839021762203
-  },
-  {
-    "keyword": "chef",
-    "score": 3.402801309728295
-  },
-  {
-    "keyword": "savoir",
-    "score": 3.399344163742707
-  },
-  {
-    "keyword": "seul",
-    "score": 3.3815691815049598
-  },
-  {
-    "keyword": "pilote",
-    "score": 3.3759863337022655
-  },
-  {
-    "keyword": "desole",
-    "score": 3.3615631281377083
-  },
-  {
-    "keyword": "pere",
-    "score": 3.3268482226565936
-  },
-  {
-    "keyword": "demande",
-    "score": 3.202535725778512
-  },
-  {
-    "keyword": "darkevil",
-    "score": 3.068189562649743
-  },
-  {
-    "keyword": "partagez",
-    "score": 3.063983313436104
-  },
-  {
-    "keyword": "humains",
-    "score": 2.9916521621404244
-  },
-  {
-    "keyword": "dites",
-    "score": 2.933254709880612
-  },
-  {
-    "keyword": "ordre",
-    "score": 2.8904861271488733
-  },
-  {
-    "keyword": "attaque",
-    "score": 2.8904861271488733
-  },
-  {
-    "keyword": "armes",
-    "score": 2.815321002586762
-  },
-  {
-    "keyword": "tant",
-    "score": 2.7957762168016274
-  },
-  {
-    "keyword": "pourrait",
-    "score": 2.7720604444481762
-  },
-  {
-    "keyword": "lieutenant",
-    "score": 2.719046712902771
+    "keyword": "faites",
+    "score": 13.569075687024572
   },
   {
     "keyword": "aime",
-    "score": 2.719046712902771
+    "score": 13.455854616679972
   },
   {
-    "keyword": "ouais",
-    "score": 2.70529181561532
+    "keyword": "eme",
+    "score": 12.863124862097504
   },
   {
-    "keyword": "beaucoup",
-    "score": 2.6692684278934133
+    "keyword": "deux",
+    "score": 12.675190237655928
   },
   {
-    "keyword": "ellen",
-    "score": 2.6561457366183086
+    "keyword": "equipage",
+    "score": 11.998899463273881
+  },
+  {
+    "keyword": "bord",
+    "score": 11.982645155124342
+  },
+  {
+    "keyword": "entre",
+    "score": 11.959871250682701
+  },
+  {
+    "keyword": "parle",
+    "score": 11.76748782544088
+  },
+  {
+    "keyword": "tant",
+    "score": 11.021616939311588
   },
   {
     "keyword": "dis",
-    "score": 2.641495458130824
+    "score": 10.516546232275136
   },
   {
-    "keyword": "bonne",
-    "score": 2.6404429304218553
+    "keyword": "pres",
+    "score": 10.36951085527752
   },
   {
-    "keyword": "lee",
-    "score": 2.571217027152917
+    "keyword": "pont",
+    "score": 9.807065863183038
   },
   {
-    "keyword": "systeme",
-    "score": 2.528387292045683
+    "keyword": "leurs",
+    "score": 9.035308956798726
   },
   {
-    "keyword": "tout monde",
-    "score": 2.5116403378696943
+    "keyword": "madame",
+    "score": 8.930999603866168
   },
   {
-    "keyword": "sauter",
-    "score": 2.5006397715289204
+    "keyword": "pilote",
+    "score": 8.903606233285721
   },
   {
-    "keyword": "combien",
-    "score": 2.4711213708634094
+    "keyword": "faut",
+    "score": 8.87939843902999
   },
   {
-    "keyword": "carburant",
-    "score": 2.470865695277482
+    "keyword": "www sub",
+    "score": 8.863327108494477
   },
   {
-    "keyword": "colonie",
-    "score": 2.4465732021424693
+    "keyword": "aucun",
+    "score": 8.597180655021338
   },
   {
-    "keyword": "postes",
-    "score": 2.4037985373206054
+    "keyword": "prendre",
+    "score": 8.44863297862927
   },
   {
-    "keyword": "mort",
-    "score": 2.3987028113475444
+    "keyword": "trouver",
+    "score": 8.422191655572348
   },
   {
-    "keyword": "plait",
-    "score": 2.398591431866745
+    "keyword": "pere",
+    "score": 7.87233870864173
   },
   {
-    "keyword": "peur",
-    "score": 2.347239539174837
-  },
-  {
-    "keyword": "laura",
-    "score": 2.271252511931938
-  },
-  {
-    "keyword": "relais",
-    "score": 2.2660733573574605
-  },
-  {
-    "keyword": "hommes",
-    "score": 2.2627004672694184
-  },
-  {
-    "keyword": "mere",
-    "score": 2.256153832921297
-  },
-  {
-    "keyword": "ordres",
-    "score": 2.216854395042126
+    "keyword": "raiders",
+    "score": 7.861098326758376
   },
   {
     "keyword": "laisse",
-    "score": 2.202274781443916
+    "score": 7.840473967843871
   },
   {
-    "keyword": "nouveau",
-    "score": 2.2004700183464996
+    "keyword": "colonie",
+    "score": 7.505341737188652
   },
   {
-    "keyword": "presidence",
-    "score": 2.197518186626099
+    "keyword": "demande",
+    "score": 6.994376440109792
   },
   {
-    "keyword": "moteurs",
-    "score": 2.1318911552596025
+    "keyword": "desole",
+    "score": 6.7316994049478005
   },
   {
-    "keyword": "resynchro",
-    "score": 2.1228734501978987
+    "keyword": "sas",
+    "score": 6.704324628940483
   },
   {
-    "keyword": "personnes",
-    "score": 2.0926582002666434
+    "keyword": "jusqu",
+    "score": 6.601378999800948
   },
   {
-    "keyword": "aucune",
-    "score": 2.0926582002666434
+    "keyword": "pris",
+    "score": 6.588864488574822
   },
   {
-    "keyword": "resurrection",
-    "score": 2.084725857531954
+    "keyword": "sharon",
+    "score": 6.52446676443723
   },
   {
-    "keyword": "guerre",
-    "score": 2.058688789344373
+    "keyword": "depuis",
+    "score": 6.500673173061641
   },
   {
-    "keyword": "survivants",
-    "score": 2.0254733157592146
+    "keyword": "ordre",
+    "score": 6.490779341796987
   },
   {
-    "keyword": "tres bien",
-    "score": 1.9927005374107594
+    "keyword": "lee",
+    "score": 6.408150882458303
   },
   {
-    "keyword": "verite",
-    "score": 1.974599458581327
+    "keyword": "accord",
+    "score": 6.345511516077975
   },
   {
-    "keyword": "hangar",
-    "score": 1.9320868099019974
+    "keyword": "hybride",
+    "score": 6.325592227716702
   },
   {
-    "keyword": "securite",
-    "score": 1.9217756517848557
+    "keyword": "civils",
+    "score": 6.310261412092709
   },
   {
-    "keyword": "probleme",
-    "score": 1.904988008677965
+    "keyword": "com",
+    "score": 6.242114152508788
   },
   {
-    "keyword": "retrouvez",
-    "score": 1.9021663009529592
+    "keyword": "raison",
+    "score": 6.19228985328729
   },
   {
-    "keyword": "croire",
-    "score": 1.890380575238347
+    "keyword": "mort",
+    "score": 6.186220637704686
   },
   {
-    "keyword": "peuple",
-    "score": 1.8541260585889245
+    "keyword": "parler",
+    "score": 5.943272948201674
   },
   {
-    "keyword": "laisser",
-    "score": 1.829411191208329
+    "keyword": "jours",
+    "score": 5.896892117322078
   },
   {
-    "keyword": "cas",
-    "score": 1.8029767368031888
+    "keyword": "vol",
+    "score": 5.860507337279139
   },
   {
-    "keyword": "olympic",
-    "score": 1.7833851107319465
+    "keyword": "putain",
+    "score": 5.823071314336538
   },
   {
-    "keyword": "cinq",
-    "score": 1.776602894224527
+    "keyword": "docteur",
+    "score": 5.5019669738959385
   },
   {
-    "keyword": "femme",
-    "score": 1.74679994206248
+    "keyword": "chasseurs",
+    "score": 5.38777296109831
   },
   {
-    "keyword": "www",
-    "score": 1.7442761461030176
+    "keyword": "seigneurs",
+    "score": 5.236851392354074
   },
   {
-    "keyword": "net",
-    "score": 1.734713201388988
+    "keyword": "colonel",
+    "score": 5.1697645586940455
   },
   {
-    "keyword": "ainsi",
-    "score": 1.7218641911873818
+    "keyword": "president",
+    "score": 5.025612504684279
   },
   {
-    "keyword": "trois",
-    "score": 1.714352527631951
+    "keyword": "ment",
+    "score": 5.009969856713721
   },
   {
-    "keyword": "modeles",
-    "score": 1.674561080119634
-  },
-  {
-    "keyword": "commandement",
-    "score": 1.6720657254643232
-  },
-  {
-    "keyword": "tete",
-    "score": 1.6600482579559086
-  },
-  {
-    "keyword": "pendant",
-    "score": 1.6547656779840523
-  },
-  {
-    "keyword": "feu",
-    "score": 1.6388460234263786
-  },
-  {
-    "keyword": "heures",
-    "score": 1.6384412382953835
+    "keyword": "attaque",
+    "score": 4.836555447151599
   },
   {
     "keyword": "aider",
-    "score": 1.6384412382953835
+    "score": 4.800572246797546
   },
   {
-    "keyword": "traduction relecture",
-    "score": 1.6381254336462938
+    "keyword": "chef",
+    "score": 4.789368689149602
+  },
+  {
+    "keyword": "savoir",
+    "score": 4.758087319095142
+  },
+  {
+    "keyword": "cap",
+    "score": 4.559916366343764
+  },
+  {
+    "keyword": "ellen",
+    "score": 4.5457416208401575
+  },
+  {
+    "keyword": "nom",
+    "score": 4.4962436658682
+  },
+  {
+    "keyword": "humain",
+    "score": 4.38918490857501
+  },
+  {
+    "keyword": "systeme",
+    "score": 4.386168638670174
+  },
+  {
+    "keyword": "madame president",
+    "score": 4.367220842079799
+  },
+  {
+    "keyword": "partagez",
+    "score": 4.288680241640543
+  },
+  {
+    "keyword": "fin",
+    "score": 4.275971533474647
+  },
+  {
+    "keyword": "humains",
+    "score": 4.240527732586625
+  },
+  {
+    "keyword": "bonne",
+    "score": 4.238157099819979
+  },
+  {
+    "keyword": "dites",
+    "score": 4.14885975240494
+  },
+  {
+    "keyword": "aide",
+    "score": 4.1358222321785485
+  },
+  {
+    "keyword": "net",
+    "score": 4.110522010564776
+  },
+  {
+    "keyword": "tir",
+    "score": 4.106072565875414
+  },
+  {
+    "keyword": "porte",
+    "score": 4.021749977703439
+  },
+  {
+    "keyword": "armes",
+    "score": 3.9862483352326126
+  },
+  {
+    "keyword": "sauter",
+    "score": 3.8460101260592015
+  },
+  {
+    "keyword": "prend",
+    "score": 3.810373445117611
+  },
+  {
+    "keyword": "ame",
+    "score": 3.808754955198953
+  },
+  {
+    "keyword": "lieutenant",
+    "score": 3.8058699153444207
+  },
+  {
+    "keyword": "pret",
+    "score": 3.7936934904662323
+  },
+  {
+    "keyword": "res",
+    "score": 3.7791016593086457
+  },
+  {
+    "keyword": "arrete",
+    "score": 3.6762176514609437
   },
   {
     "keyword": "travail",
-    "score": 1.6374269926999712
+    "score": 3.593348441192852
   },
   {
-    "keyword": "voulais",
-    "score": 1.6122431916782194
+    "keyword": "urs",
+    "score": 3.5737606401989823
   },
   {
-    "keyword": "confiance",
-    "score": 1.6122431916782194
+    "keyword": "mere",
+    "score": 3.517147428906664
   },
   {
     "keyword": "approche",
-    "score": 1.599617522713007
+    "score": 3.478817937111506
+  },
+  {
+    "keyword": "combien",
+    "score": 3.458846969382689
+  },
+  {
+    "keyword": "carburant",
+    "score": 3.4584890983626906
+  },
+  {
+    "keyword": "garde",
+    "score": 3.45572908100273
+  },
+  {
+    "keyword": "cas",
+    "score": 3.403061314894345
+  },
+  {
+    "keyword": "peur",
+    "score": 3.399236708176054
+  },
+  {
+    "keyword": "plait",
+    "score": 3.39216251929733
+  },
+  {
+    "keyword": "arme",
+    "score": 3.381139815574652
+  },
+  {
+    "keyword": "postes",
+    "score": 3.3646146983516543
+  },
+  {
+    "keyword": "probleme",
+    "score": 3.3022061432862495
+  },
+  {
+    "keyword": "pare",
+    "score": 3.2448090447347986
+  },
+  {
+    "keyword": "hommes",
+    "score": 3.204878914221776
+  },
+  {
+    "keyword": "laura",
+    "score": 3.1790890403953522
+  },
+  {
+    "keyword": "relais",
+    "score": 3.171839739201523
+  },
+  {
+    "keyword": "laisser",
+    "score": 3.168542768671463
+  },
+  {
+    "keyword": "mis",
+    "score": 3.141111121193173
+  },
+  {
+    "keyword": "vite",
+    "score": 3.105494397774368
+  },
+  {
+    "keyword": "ordres",
+    "score": 3.102947591430945
+  },
+  {
+    "keyword": "presidence",
+    "score": 3.075882556638357
+  },
+  {
+    "keyword": "tue",
+    "score": 3.036596947224904
+  },
+  {
+    "keyword": "dee",
+    "score": 3.0152242730101917
+  },
+  {
+    "keyword": "moteurs",
+    "score": 2.9840239125312573
+  },
+  {
+    "keyword": "resynchro",
+    "score": 2.9714017636594026
+  },
+  {
+    "keyword": "aucune",
+    "score": 2.966245623524124
+  },
+  {
+    "keyword": "personnes",
+    "score": 2.9291092535115304
+  },
+  {
+    "keyword": "resurrection",
+    "score": 2.9180062943645266
+  },
+  {
+    "keyword": "recu",
+    "score": 2.897426732951218
+  },
+  {
+    "keyword": "contre",
+    "score": 2.8874299056405777
+  },
+  {
+    "keyword": "guerre",
+    "score": 2.8815620162913866
+  },
+  {
+    "keyword": "sub",
+    "score": 2.873727435039463
+  },
+  {
+    "keyword": "saute",
+    "score": 2.8683939046830775
+  },
+  {
+    "keyword": "hangar",
+    "score": 2.843057895812796
+  },
+  {
+    "keyword": "survivants",
+    "score": 2.835070070771732
+  },
+  {
+    "keyword": "verite",
+    "score": 2.8000498832616443
+  },
+  {
+    "keyword": "securite",
+    "score": 2.7987989367088635
+  },
+  {
+    "keyword": "idee",
+    "score": 2.7638141025837166
+  },
+  {
+    "keyword": "tribu",
+    "score": 2.728881492087298
+  },
+  {
+    "keyword": "cinq",
+    "score": 2.7281718984514103
+  },
+  {
+    "keyword": "croire",
+    "score": 2.7174951393036024
+  },
+  {
+    "keyword": "bas",
+    "score": 2.7069989232680505
+  },
+  {
+    "keyword": "marche",
+    "score": 2.7011173964123794
+  },
+  {
+    "keyword": "peuple",
+    "score": 2.696026818625839
+  },
+  {
+    "keyword": "arrive",
+    "score": 2.6723127745821094
+  },
+  {
+    "keyword": "carrier",
+    "score": 2.6686631751386294
+  },
+  {
+    "keyword": "retrouvez",
+    "score": 2.662476324671263
+  },
+  {
+    "keyword": "prenez",
+    "score": 2.6572710736940617
+  },
+  {
+    "keyword": "perdu",
+    "score": 2.650194351489524
+  },
+  {
+    "keyword": "fini",
+    "score": 2.6214956031060197
+  },
+  {
+    "keyword": "droit",
+    "score": 2.6057391437457804
+  },
+  {
+    "keyword": "lors",
+    "score": 2.595840185716708
+  },
+  {
+    "keyword": "feu",
+    "score": 2.557158872113241
+  },
+  {
+    "keyword": "retour",
+    "score": 2.528059401584323
+  },
+  {
+    "keyword": "tete",
+    "score": 2.5107707496175076
+  },
+  {
+    "keyword": "olympic",
+    "score": 2.4962174089175337
+  },
+  {
+    "keyword": "trois",
+    "score": 2.4644480174608634
+  },
+  {
+    "keyword": "www",
+    "score": 2.441476300132901
+  },
+  {
+    "keyword": "mettre",
+    "score": 2.4392717261929855
+  },
+  {
+    "keyword": "compte",
+    "score": 2.438313222846067
+  },
+  {
+    "keyword": "main",
+    "score": 2.429196501786527
+  },
+  {
+    "keyword": "merde",
+    "score": 2.4151802115804952
+  },
+  {
+    "keyword": "commandement",
+    "score": 2.4150008466224864
+  },
+  {
+    "keyword": "ainsi",
+    "score": 2.410106120079461
+  },
+  {
+    "keyword": "partir",
+    "score": 2.3819630346610836
+  },
+  {
+    "keyword": "parti",
+    "score": 2.381128644392205
+  },
+  {
+    "keyword": "alle",
+    "score": 2.3773330686870335
+  },
+  {
+    "keyword": "sortir",
+    "score": 2.37536165747489
+  },
+  {
+    "keyword": "modeles",
+    "score": 2.3438956035551812
+  },
+  {
+    "keyword": "equipe",
+    "score": 2.3130380329162663
+  },
+  {
+    "keyword": "heures",
+    "score": 2.293338392201075
+  },
+  {
+    "keyword": "traduction relecture",
+    "score": 2.2928963580839734
+  },
+  {
+    "keyword": "rapport",
+    "score": 2.280160109138043
+  },
+  {
+    "keyword": "confiance",
+    "score": 2.256668791422274
   }
 ]

@@ -24,18 +24,10 @@ import re
 import glob
 import unicodedata
 from tqdm import tqdm
-import nltk
 from langdetect import detect, LangDetectException
+from stopwords_config import get_french_stopwords, get_english_stopwords
 
-# S'assurer d'avoir les stopwords
-try:
-    nltk.data.find('corpora/stopwords')
-except LookupError:
-    nltk.download('stopwords', quiet=True)
 
-from nltk.corpus import stopwords
-
-# Normaliser les stopwords (enlever les accents)
 def normalize_stopwords(stopwords_set):
     """Enlève les accents des stopwords."""
     normalized = set()
@@ -44,8 +36,10 @@ def normalize_stopwords(stopwords_set):
         normalized.add(''.join(c for c in nfd if unicodedata.category(c) != 'Mn'))
     return normalized
 
-STOPWORDS_FR = normalize_stopwords(set(stopwords.words('french')))
-STOPWORDS_EN = normalize_stopwords(set(stopwords.words('english')))
+
+# Récupérer les stopwords depuis la config centralisée
+STOPWORDS_FR = normalize_stopwords(get_french_stopwords())
+STOPWORDS_EN = normalize_stopwords(get_english_stopwords())
 
 TIMESTAMP_RE = re.compile(r'\d{2}:\d{2}:\d{2},\d{3}\s*-->\s*\d{2}:\d{2}:\d{2},\d{3}')
 TAG_RE = re.compile(r'<[^>]+>')

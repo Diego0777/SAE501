@@ -5,6 +5,7 @@ from flask import Blueprint, request, jsonify
 from sklearn.metrics.pairwise import cosine_similarity
 import os
 import joblib
+import unicodedata
 from database.db_sqlite import get_connection
 
 api_search_sqlite = Blueprint('api_search_sqlite', __name__)
@@ -13,6 +14,14 @@ api_search_sqlite = Blueprint('api_search_sqlite', __name__)
 vect = None
 X = None
 titles = None
+
+def remove_accents(text):
+    """
+    Convertit les caractères accentués en caractères non accentués.
+    Exemple: é -> e, ê -> e, à -> a, ç -> c, etc.
+    """
+    nfd_form = unicodedata.normalize('NFD', text)
+    return ''.join(char for char in nfd_form if unicodedata.category(char) != 'Mn')
 
 def init_search_engine(model_dir='./data/index'):
     """Initialise le moteur de recherche TF-IDF."""
@@ -41,8 +50,11 @@ def search():
     if vect is None:
         init_search_engine()
     
+    # Enlever les accents de la requête pour matcher les mots indexés
+    query_clean = remove_accents(query).lower()
+    
     # Recherche TF-IDF
-    q_vec = vect.transform([query])
+    q_vec = vect.transform([query_clean])
     similarities = cosine_similarity(q_vec, X)[0]
     
     # Trier par similarité
@@ -69,8 +81,14 @@ def search():
             
             # Récupérer les infos de la série
             cursor.execute(
-                """SELECT id, title, language, average_rating, num_ratings, poster_url
-                   FROM series WHERE title = ?""",
+                """SELECT s.id, s.title, s.language, 
+                          COALESCE(AVG(r.rating), 0) as average_rating,
+                          COUNT(r.id) as num_ratings,
+                          s.poster_url
+                   FROM series s
+                   LEFT JOIN ratings r ON s.id = r.serie_id
+                   WHERE s.title = ?
+                   GROUP BY s.id, s.title, s.language, s.poster_url""",
                 (title,)
             )
             serie = cursor.fetchone()

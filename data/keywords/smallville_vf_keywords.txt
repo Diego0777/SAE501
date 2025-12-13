@@ -1,200 +1,200 @@
-lana	1894.745182
-lex	1567.582844
-clark	943.818087
-luthor	805.305077
-smallville	795.056592
-chloe	327.889121
-luthorcorp	311.058543
-metropolis	202.676932
-zod	193.112415
-jor	170.329351
-traduction kaiser	148.238103
-kent	139.239201
-kaiser synchro	137.596625
-lionel luthor	113.797760
-kaiser	111.465939
-lionel	108.982962
-pere	107.248491
-clark kent	99.983905
-kal	99.267887
-juste	95.060292
-pense	92.732842
-vraiment	87.520699
-peut etre	86.524871
-passe	85.515487
-meteorites	84.736631
-voir	82.442987
-quelque chose	77.041536
-daily planet	76.496950
-clark sais	69.751725
-quelqu	67.357041
-krypton	66.271900
-vie	61.063134
-fais	59.070153
-lex luthor	58.838058
-archer vert	58.151051
-kryptonien	56.880383
-maintenant	54.956396
-kaiser seriessub	53.480010
-peu	49.881368
-temps	49.592696
-crois	48.239743
-besoin	47.259195
-lois	44.915090
-personne	42.726251
-trouve	37.794876
-fois	37.242516
-monde	36.419447
-mme kent	35.534141
-synchro kaiser	35.534141
-lana lang	32.280753
-pluie meteorites	30.036411
-merci	29.726381
-parce	27.808649
-depuis	26.835395
-swann	26.328295
-gens	25.890790
-chloe sullivan	25.473374
-parler	25.312959
-fils	24.144605
-aider	23.823804
-vrai	23.128817
-ouais	22.932351
-pouvoirs	22.440853
-voulais	22.124371
-kara	22.020498
-beaucoup	21.523386
-deux	21.008044
-faut	21.005760
-laisse	20.440775
-desole	20.041330
-seul	19.661394
-bon	18.722068
-ecoute	18.195776
-clark lana	18.140910
-mieux	17.990834
-parle	17.551967
-pensais	17.091197
-seule	16.901850
-savoir	16.509285
-pourrait	15.802941
-raison	15.693822
-trouver	15.533577
-entre	15.467628
-clark clark	15.245579
-belle reve	13.719770
-prendre	13.602717
-summerholt	12.977090
-vaisseau	12.623100
-brainiac	12.622313
-viens	12.584196
-tuer	12.577804
-arrive	12.172725
-vois	12.103541
-lois lane	12.076595
-lex lex	11.856673
-donne	11.696481
-demande	11.564304
-confiance	11.534915
-homme	11.427826
-aime	11.382979
-talon	11.264929
-tess	11.262770
-bonne	11.195847
-oliver	10.964904
-jour	10.834869
-devrais	10.606482
-histoire	10.580737
-lang	10.536680
-laisser	10.532336
-teague	10.492393
-plait	10.384989
-essaye	10.288037
-reste	10.121554
-croire	9.986919
-warrior angel	9.967196
-soir	9.958269
-aide	9.925856
-ami	9.699814
-mort	9.689583
-partie	9.617594
-dis	9.580756
-euh	9.485667
-cela	9.218967
-jonathan kent	9.042885
-dieu	8.868606
-mere	8.774458
-peur	8.635663
-sortir	8.604822
-probleme	8.496769
-derniere	8.470607
-importe	8.426077
-passer	8.403318
-faites	8.337330
-verite	8.295753
-assez	8.293113
-partir	7.942951
-desolee	7.682175
-savais	7.639151
-comprends	7.602778
-nouveau	7.565478
-fille	7.521606
-petit	7.517587
-ferme	7.515147
-connais	7.438749
-famille	7.346903
-pris	7.315229
-whitney	7.275815
-dirait	7.256778
-pourrais	7.228014
-sauver	7.207000
-tant	7.172993
-venu	7.138981
-kryptonite	6.996536
-veux dire	6.974557
-lana lana	6.972602
-arreter	6.924236
-lana clark	6.908974
-arrete	6.731118
-heros	6.719870
-flou	6.487411
-entendu	6.412528
-idee	6.270056
-archer	6.252703
-combien	6.245167
-regarde	6.216902
-papa	6.213854
-nell	6.191495
-maman	6.185201
-amis	6.174845
-securite	6.168030
-lex clark	6.127438
-hopital	6.070386
-accord	6.054375
-salut	6.042366
-synchro flolo	5.917690
-meteorite	5.913522
-jusqu	5.851317
-rester	5.815325
-nom	5.752520
-clark chloe	5.752372
-attends	5.705023
-sens	5.705023
-pendant	5.649523
-penses	5.646253
-mettre	5.643494
-ensemble	5.618311
-flolo	5.557230
-forteresse	5.448974
-venir	5.448487
-voiture	5.446924
-proteger	5.432640
-tres bien	5.429288
-tard	5.327835
-jonathan	5.238882
-appelle	5.221570
-espere	5.207394
-tue	5.145244
-croyais	5.112191
-nuit	5.040479
-sullivan	5.023807
+lana	3060.395922
+lex	2626.111516
+luthor	1617.979205
+clark	1529.071044
+smallville	1287.233533
+chloe	530.205878
+luthorcorp	503.985687
+metropolis	327.364156
+jor	319.726818
+zod	311.915531
+krypton	235.988881
+kent	225.536449
+pere	222.732067
+lionel luthor	185.056736
+kaiser	180.039991
+lionel	176.029481
+clark kent	162.949090
+kal	160.769415
+meteorites	136.866764
+daily planet	123.558015
+lex luthor	96.962503
+besoin	76.670338
+lois	73.150868
+aime	67.046519
+mme	66.127417
+laisse	65.358581
+parle	64.833136
+entre	52.287769
+lana lang	52.139932
+ami	48.774515
+desole	46.388284
+parler	44.104666
+ais	43.983454
+depuis	43.344580
+dis	42.720567
+aider	41.908009
+faut	41.825800
+chloe sullivan	41.144640
+trouver	40.591865
+donne	39.644921
+fils	39.253094
+clark lana	37.041180
+pouvoirs	36.679735
+kara	35.871546
+voulais	35.735326
+aide	35.137410
+deux	35.037500
+tant	34.916932
+prendre	32.163702
+meteorite	31.743276
+pris	31.626335
+clark clark	29.422784
+jours	29.221334
+raison	28.886252
+tess	27.998747
+arrive	27.868944
+demande	27.781338
+pensais	27.605733
+venu	27.148170
+lex lex	27.100358
+savoir	26.665827
+tue	26.576927
+essaye	24.974151
+com	23.697168
+tuer	22.982065
+arrete	22.713197
+mort	22.488436
+laisser	21.624786
+nell	21.515578
+porte	21.494696
+vaisseau	21.276720
+connais	21.100062
+lang	21.012516
+bonne	20.626206
+talon	20.567610
+brainiac	20.387584
+ville	20.096431
+lois lane	19.506138
+lex clark	19.111542
+partie	18.837094
+histoire	18.796235
+confiance	18.631216
+lana clark	18.358993
+oliver	17.710534
+derniere	17.343100
+belle reve	17.290392
+probleme	17.177313
+devrais	17.131609
+corp	16.985851
+travail	16.928587
+plait	16.836238
+croire	16.200986
+passer	16.041658
+dieu	15.987294
+pres	15.977583
+coup	15.903200
+sortir	15.769522
+alle	15.713907
+cherche	15.532088
+eme	15.429802
+contre	15.105551
+cela	15.059463
+lana lana	14.674934
+peur	14.641502
+mere	14.327625
+heu	14.293397
+prend	14.260326
+mis	14.222149
+parti	14.122268
+reve	13.957585
+ere	13.923600
+partir	13.897336
+archer	13.894523
+cas	13.876195
+mettre	13.823190
+importe	13.737383
+eau	13.638993
+nom	13.638279
+faites	13.593439
+verite	13.399315
+garde	13.352689
+sauve	12.735413
+famille	12.552817
+ment	12.438179
+desolee	12.408263
+savais	12.338771
+arreter	12.292722
+sauver	12.183647
+rendre	12.127668
+dirait	11.781424
+vite	11.761564
+whitney	11.751909
+pourrais	11.674702
+heros	11.343874
+kryptonite	11.300817
+idee	11.249865
+chloe clark	11.056972
+rend	10.932229
+flou	10.925200
+entendu	10.919366
+rester	10.815179
+vert	10.482710
+accord	10.415529
+retrouve	10.291037
+papa	10.267266
+appele	10.219824
+espere	10.196364
+appel	10.175834
+combien	10.087206
+amis	10.076112
+planet	10.027577
+securite	10.019706
+maman	9.990349
+salut	9.885370
+jusqu	9.852552
+hopital	9.804899
+voiture	9.687167
+synchro flolo	9.558264
+pourra	9.404858
+penses	9.333017
+perdu	9.264446
+proteger	9.177517
+don	9.175456
+prends	9.087291
+propos	9.057129
+terre	9.042256
+flolo	8.976047
+forteresse	8.801193
+endroit	8.715095
+aucun	8.712156
+jonathan	8.461852
+docteur	8.341586
+bas	8.298026
+croyais	8.257221
+retrouver	8.221501
+facon	8.195549
+sullivan	8.114462
+lane	8.059985
+celui	8.048013
+ira	8.043800
+ollie	7.965158
+pret	7.920095
+destin	7.848273
+chercher	7.700615
+fini	7.663287
+maison	7.584378
+garder	7.572221
+martha	7.563911
+pete	7.472916
+equipe	7.433315
+alicia	7.378997
+traduction	7.312877
+fin	7.176420
+seulement	7.078221
+argent	7.054544
+inquiete	7.054113
+jeu	7.010702
+cote	7.007236
+rickman	7.002243
+longtemps	6.955944

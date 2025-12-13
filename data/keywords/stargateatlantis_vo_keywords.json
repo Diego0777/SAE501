@@ -1,802 +1,802 @@
 [
   {
     "keyword": "wraith",
-    "score": 4303.182672560613
+    "score": 5935.161795344046
   },
   {
     "keyword": "sheppard",
-    "score": 1597.8302396279362
+    "score": 2193.7704668531164
   },
   {
     "keyword": "teyla",
-    "score": 1082.7878356649644
+    "score": 1484.0133128552636
   },
   {
     "keyword": "ronon",
-    "score": 828.7929904145778
+    "score": 1135.9010425352856
   },
   {
     "keyword": "colonel sheppard",
-    "score": 815.7146227042365
+    "score": 1117.9765044556314
   },
   {
     "keyword": "mckay",
-    "score": 729.3157443204749
+    "score": 1005.0172926510662
   },
   {
     "keyword": "atlantis",
-    "score": 614.8530355179543
+    "score": 842.6859446548533
   },
   {
     "keyword": "rodney",
-    "score": 343.66846561369715
+    "score": 471.969242150288
   },
   {
     "keyword": "weir",
-    "score": 281.29518440276763
+    "score": 432.22041739073666
   },
   {
-    "keyword": "daedalus",
-    "score": 225.8250589557148
+    "keyword": "one",
+    "score": 325.4435513310859
   },
   {
     "keyword": "stargate",
-    "score": 217.8612545706003
+    "score": 312.72529112883484
+  },
+  {
+    "keyword": "daedalus",
+    "score": 309.50421017686836
   },
   {
     "keyword": "zpm",
-    "score": 189.38612074485619
+    "score": 296.57615792672823
   },
   {
     "keyword": "genii",
-    "score": 183.40637887598695
-  },
-  {
-    "keyword": "zelenka",
-    "score": 130.29743979130984
-  },
-  {
-    "keyword": "hive ship",
-    "score": 130.29743979130984
-  },
-  {
-    "keyword": "major sheppard",
-    "score": 115.32326235526375
-  },
-  {
-    "keyword": "hive",
-    "score": 109.94307019585668
+    "score": 251.3673491237466
   },
   {
     "keyword": "replicator",
-    "score": 109.91818509683523
+    "score": 248.01724049079874
   },
   {
-    "keyword": "jumper",
-    "score": 96.93156788496469
-  },
-  {
-    "keyword": "colonel",
-    "score": 93.42997856707672
-  },
-  {
-    "keyword": "hyperspace",
-    "score": 88.05455985561825
-  },
-  {
-    "keyword": "replicators",
-    "score": 84.64014654411912
-  },
-  {
-    "keyword": "back atlantis",
-    "score": 79.9387760672503
-  },
-  {
-    "keyword": "ship",
-    "score": 62.05961453867655
-  },
-  {
-    "keyword": "ancients",
-    "score": 59.20871739884917
-  },
-  {
-    "keyword": "beckett",
-    "score": 56.89693706610577
-  },
-  {
-    "keyword": "offworld",
-    "score": 51.69747541624607
-  },
-  {
-    "keyword": "lorne",
-    "score": 50.28643739164812
-  },
-  {
-    "keyword": "something",
-    "score": 46.72435106578295
-  },
-  {
-    "keyword": "galaxy",
-    "score": 45.761266875268795
-  },
-  {
-    "keyword": "retrovirus",
-    "score": 44.52601160358706
-  },
-  {
-    "keyword": "john sheppard",
-    "score": 42.724467454168696
-  },
-  {
-    "keyword": "ships",
-    "score": 42.453593325282796
-  },
-  {
-    "keyword": "still",
-    "score": 41.612798997392034
-  },
-  {
-    "keyword": "way",
-    "score": 39.87984170577264
-  },
-  {
-    "keyword": "colonel caldwell",
-    "score": 38.52948714178984
-  },
-  {
-    "keyword": "mean",
-    "score": 36.75614512413004
-  },
-  {
-    "keyword": "ellia",
-    "score": 36.32122084883475
-  },
-  {
-    "keyword": "really",
-    "score": 35.13615169028466
-  },
-  {
-    "keyword": "much",
-    "score": 33.22903861398239
-  },
-  {
-    "keyword": "hyperdrive",
-    "score": 32.585001839065846
-  },
-  {
-    "keyword": "alright",
-    "score": 31.697795693162988
-  },
-  {
-    "keyword": "ladon",
-    "score": 31.0556789397486
-  },
-  {
-    "keyword": "subspace",
-    "score": 30.506946044662413
-  },
-  {
-    "keyword": "say",
-    "score": 30.476294631333506
-  },
-  {
-    "keyword": "dhd",
-    "score": 28.863141810230566
-  },
-  {
-    "keyword": "teyla ronon",
-    "score": 27.109062830031586
-  },
-  {
-    "keyword": "even",
-    "score": 26.90849170122799
-  },
-  {
-    "keyword": "power",
-    "score": 26.403221737726803
-  },
-  {
-    "keyword": "www seriestele",
-    "score": 25.73069951428662
-  },
-  {
-    "keyword": "seriestele",
-    "score": 24.7701379314967
-  },
-  {
-    "keyword": "seriestele net",
-    "score": 24.7701379314967
-  },
-  {
-    "keyword": "pegasus",
-    "score": 24.72925078984681
-  },
-  {
-    "keyword": "caldwell",
-    "score": 23.610197412238
-  },
-  {
-    "keyword": "able",
-    "score": 23.201883586834356
-  },
-  {
-    "keyword": "find",
-    "score": 22.115072789929876
-  },
-  {
-    "keyword": "work",
-    "score": 21.698838790687027
-  },
-  {
-    "keyword": "enough",
-    "score": 21.589612707008783
-  },
-  {
-    "keyword": "wait",
-    "score": 21.069986849737834
-  },
-  {
-    "keyword": "gate",
-    "score": 20.57833013129444
-  },
-  {
-    "keyword": "stargate atlantis",
-    "score": 20.55494008740947
-  },
-  {
-    "keyword": "planet",
-    "score": 20.434413335224228
-  },
-  {
-    "keyword": "thought",
-    "score": 19.93224150125547
-  },
-  {
-    "keyword": "said",
-    "score": 19.849103302893624
-  },
-  {
-    "keyword": "give",
-    "score": 19.436140345692397
-  },
-  {
-    "keyword": "never",
-    "score": 19.19663737902439
-  },
-  {
-    "keyword": "radek",
-    "score": 19.179883590314738
-  },
-  {
-    "keyword": "nanites",
-    "score": 18.911052638973338
-  },
-  {
-    "keyword": "shield",
-    "score": 18.53942744155594
-  },
-  {
-    "keyword": "anything",
-    "score": 17.89880631156049
-  },
-  {
-    "keyword": "thank",
-    "score": 17.64386143918957
-  },
-  {
-    "keyword": "cadman",
-    "score": 17.506372758221595
-  },
-  {
-    "keyword": "lieutenant ford",
-    "score": 17.197046962295055
-  },
-  {
-    "keyword": "enzyme",
-    "score": 16.602494872845888
-  },
-  {
-    "keyword": "first",
-    "score": 16.379312764733072
-  },
-  {
-    "keyword": "woolsey",
-    "score": 16.037897511370677
-  },
-  {
-    "keyword": "shields",
-    "score": 15.967124322096636
-  },
-  {
-    "keyword": "idea",
-    "score": 15.872854284529344
-  },
-  {
-    "keyword": "another",
-    "score": 14.628438467091385
-  },
-  {
-    "keyword": "please",
-    "score": 14.332049433872195
-  },
-  {
-    "keyword": "keep",
-    "score": 14.332049433872195
-  },
-  {
-    "keyword": "control room",
-    "score": 14.326599777917663
-  },
-  {
-    "keyword": "happened",
-    "score": 13.984944199845117
-  },
-  {
-    "keyword": "athar",
-    "score": 13.766091978559366
-  },
-  {
-    "keyword": "nothing",
-    "score": 13.7074126502006
-  },
-  {
-    "keyword": "major lorne",
-    "score": 13.522854420621155
-  },
-  {
-    "keyword": "ready",
-    "score": 13.416441592020815
-  },
-  {
-    "keyword": "may",
-    "score": 13.309139493266319
-  },
-  {
-    "keyword": "dart",
-    "score": 13.299093306134681
-  },
-  {
-    "keyword": "trying",
-    "score": 13.205960043102683
-  },
-  {
-    "keyword": "many",
-    "score": 13.200001225933239
-  },
-  {
-    "keyword": "cowen",
-    "score": 12.882161007852705
-  },
-  {
-    "keyword": "believe",
-    "score": 12.759097214301693
-  },
-  {
-    "keyword": "kind",
-    "score": 12.428705310319256
-  },
-  {
-    "keyword": "jumpers",
-    "score": 12.404273618590965
-  },
-  {
-    "keyword": "rodney mckay",
-    "score": 12.385901854909537
-  },
-  {
-    "keyword": "infirmary",
-    "score": 12.259079747003156
-  },
-  {
-    "keyword": "sir",
-    "score": 11.949832033204222
-  },
-  {
-    "keyword": "ioa",
-    "score": 11.946299357189035
-  },
-  {
-    "keyword": "weapons",
-    "score": 11.821336295439009
-  },
-  {
-    "keyword": "last",
-    "score": 11.234843910661478
-  },
-  {
-    "keyword": "yet",
-    "score": 11.155094856548168
-  },
-  {
-    "keyword": "pods",
-    "score": 10.952710001133763
-  },
-  {
-    "keyword": "years",
-    "score": 10.951685936379912
-  },
-  {
-    "keyword": "try",
-    "score": 10.883183460925336
-  },
-  {
-    "keyword": "working",
-    "score": 10.603771749504142
-  },
-  {
-    "keyword": "around",
-    "score": 10.561143582374639
-  },
-  {
-    "keyword": "asgard",
-    "score": 10.551144996620666
-  },
-  {
-    "keyword": "already",
-    "score": 10.459677565885787
-  },
-  {
-    "keyword": "doctor",
-    "score": 10.34479118224852
-  },
-  {
-    "keyword": "stay",
-    "score": 10.150658127863448
-  },
-  {
-    "keyword": "done",
-    "score": 10.076301794053167
-  },
-  {
-    "keyword": "understand",
-    "score": 9.918005035419947
-  },
-  {
-    "keyword": "device",
-    "score": 9.816743915645828
-  },
-  {
-    "keyword": "getting",
-    "score": 9.75800309854263
-  },
-  {
-    "keyword": "found",
-    "score": 9.64510992103239
-  },
-  {
-    "keyword": "ford",
-    "score": 9.631798826556654
-  },
-  {
-    "keyword": "little",
-    "score": 9.624700936814232
-  },
-  {
-    "keyword": "beam",
-    "score": 9.437143437336367
-  },
-  {
-    "keyword": "better",
-    "score": 9.266719385476478
-  },
-  {
-    "keyword": "malp",
-    "score": 9.244463257135244
-  },
-  {
-    "keyword": "goa uld",
-    "score": 9.233517171906328
-  },
-  {
-    "keyword": "systems",
-    "score": 9.102801442442106
-  },
-  {
-    "keyword": "problem",
-    "score": 8.954862903517926
-  },
-  {
-    "keyword": "city",
-    "score": 8.907980706222233
-  },
-  {
-    "keyword": "far",
-    "score": 8.87056323069159
-  },
-  {
-    "keyword": "talking",
-    "score": 8.810398829955066
-  },
-  {
-    "keyword": "sure",
-    "score": 8.656496382740277
-  },
-  {
-    "keyword": "kolya",
-    "score": 8.620129065394861
-  },
-  {
-    "keyword": "colonel carter",
-    "score": 8.398736806546335
-  },
-  {
-    "keyword": "leave",
-    "score": 8.370290602211028
-  },
-  {
-    "keyword": "major",
-    "score": 8.342667017408573
-  },
-  {
-    "keyword": "exactly",
-    "score": 8.1479446426882
-  },
-  {
-    "keyword": "carson",
-    "score": 8.108723013739166
-  },
-  {
-    "keyword": "system",
-    "score": 8.072378314443494
-  },
-  {
-    "keyword": "control",
-    "score": 7.833491460668462
-  },
-  {
-    "keyword": "stargate command",
-    "score": 7.828358372053657
-  },
-  {
-    "keyword": "probably",
-    "score": 7.717652728483087
-  },
-  {
-    "keyword": "actually",
-    "score": 7.647520096137188
-  },
-  {
-    "keyword": "ancient",
-    "score": 7.571886765778008
-  },
-  {
-    "keyword": "kill",
-    "score": 7.568915340623934
-  },
-  {
-    "keyword": "hell",
-    "score": 7.567008187716627
-  },
-  {
-    "keyword": "means",
-    "score": 7.52414669359098
-  },
-  {
-    "keyword": "told",
-    "score": 7.483778993949144
-  },
-  {
-    "keyword": "great",
-    "score": 7.360268131618151
-  },
-  {
-    "keyword": "shut",
-    "score": 7.3228947381197695
-  },
-  {
-    "keyword": "wrong",
-    "score": 7.230793534277289
-  },
-  {
-    "keyword": "earth",
-    "score": 6.9739843674334105
-  },
-  {
-    "keyword": "keller",
-    "score": 6.9425269440760715
-  },
-  {
-    "keyword": "www projet",
-    "score": 6.8355892849143665
-  },
-  {
-    "keyword": "life",
-    "score": 6.825004353507876
-  },
-  {
-    "keyword": "away",
-    "score": 6.808481650609276
-  },
-  {
-    "keyword": "technology",
-    "score": 6.7704397689447955
-  },
-  {
-    "keyword": "move",
-    "score": 6.475053626036847
-  },
-  {
-    "keyword": "without",
-    "score": 6.361354843307863
-  },
-  {
-    "keyword": "coming",
-    "score": 6.171758749196845
-  },
-  {
-    "keyword": "sgc",
-    "score": 6.163047808029769
-  },
-  {
-    "keyword": "sensors",
-    "score": 6.087640530436138
-  },
-  {
-    "keyword": "orbit",
-    "score": 5.962007459308015
-  },
-  {
-    "keyword": "cloak",
-    "score": 5.915441678725169
-  },
-  {
-    "keyword": "fine",
-    "score": 5.890922072263086
-  },
-  {
-    "keyword": "pretty",
-    "score": 5.764397208303016
-  },
-  {
-    "keyword": "hear",
-    "score": 5.701270997919105
-  },
-  {
-    "keyword": "energy",
-    "score": 5.630535265438329
-  },
-  {
-    "keyword": "everything",
-    "score": 5.610293022358944
-  },
-  {
-    "keyword": "dead",
-    "score": 5.564905079690042
-  },
-  {
-    "keyword": "matter",
-    "score": 5.476949859029511
-  },
-  {
-    "keyword": "least",
-    "score": 5.440453697887703
-  },
-  {
-    "keyword": "three",
-    "score": 5.4208104250824745
-  },
-  {
-    "keyword": "dial",
-    "score": 5.402221054646618
-  },
-  {
-    "keyword": "wormhole",
-    "score": 5.300420856484606
-  },
-  {
-    "keyword": "generator",
-    "score": 5.242761198555173
-  },
-  {
-    "keyword": "feel",
-    "score": 5.225565792849053
-  },
-  {
-    "keyword": "guess",
-    "score": 5.097262658786839
-  },
-  {
-    "keyword": "ahead",
-    "score": 5.052126839540619
-  },
-  {
-    "keyword": "long",
-    "score": 5.028360790560613
-  },
-  {
-    "keyword": "everyone",
-    "score": 5.022767763188361
-  },
-  {
-    "keyword": "fact",
-    "score": 5.016064560858781
-  },
-  {
-    "keyword": "lieutenant colonel",
-    "score": 4.961333735157612
-  },
-  {
-    "keyword": "team",
-    "score": 4.95420164925655
-  },
-  {
-    "keyword": "overload",
-    "score": 4.947169164436455
-  },
-  {
-    "keyword": "talk",
-    "score": 4.900652242328638
-  },
-  {
-    "keyword": "projet net",
-    "score": 4.882898187156136
-  },
-  {
-    "keyword": "room",
-    "score": 4.844109391167827
-  },
-  {
-    "keyword": "remember",
-    "score": 4.800388725979868
-  },
-  {
-    "keyword": "human",
-    "score": 4.75393542439951
-  },
-  {
-    "keyword": "aurora",
-    "score": 4.723872329294162
-  },
-  {
-    "keyword": "else",
-    "score": 4.711335459418372
-  },
-  {
-    "keyword": "soon",
-    "score": 4.613238076613155
-  },
-  {
-    "keyword": "darts",
-    "score": 4.598627780829164
-  },
-  {
-    "keyword": "readings",
-    "score": 4.5739058976894995
+    "keyword": "zelenka",
+    "score": 178.5789689468688
   },
   {
     "keyword": "uld",
-    "score": 4.547743815283629
+    "score": 171.73212094273345
   },
   {
-    "keyword": "back earth",
-    "score": 4.540299316219075
+    "keyword": "hive",
+    "score": 164.50367214660858
   },
   {
-    "keyword": "left",
-    "score": 4.499896057254349
+    "keyword": "major sheppard",
+    "score": 158.05613157078918
+  },
+  {
+    "keyword": "jumper",
+    "score": 153.00564712118125
+  },
+  {
+    "keyword": "colonel",
+    "score": 128.27944453655599
+  },
+  {
+    "keyword": "got",
+    "score": 124.65693632395067
+  },
+  {
+    "keyword": "hyperspace",
+    "score": 120.68305052863677
+  },
+  {
+    "keyword": "ship",
+    "score": 119.25749763259333
+  },
+  {
+    "keyword": "replicators",
+    "score": 116.00343126902148
+  },
+  {
+    "keyword": "ancients",
+    "score": 81.14842258365088
+  },
+  {
+    "keyword": "beckett",
+    "score": 77.98001536924835
+  },
+  {
+    "keyword": "gonna",
+    "score": 76.3614405278767
+  },
+  {
+    "keyword": "offworld",
+    "score": 70.8539006735346
+  },
+  {
+    "keyword": "lorne",
+    "score": 68.92000453573546
+  },
+  {
+    "keyword": "galaxy",
+    "score": 62.718038584462136
+  },
+  {
+    "keyword": "retrovirus",
+    "score": 61.025061246178154
+  },
+  {
+    "keyword": "john sheppard",
+    "score": 59.83589749532748
+  },
+  {
+    "keyword": "able",
+    "score": 59.19107594148145
+  },
+  {
+    "keyword": "ships",
+    "score": 59.18360419906429
+  },
+  {
+    "keyword": "still",
+    "score": 57.158714427218236
+  },
+  {
+    "keyword": "hyperdrive",
+    "score": 54.86804496662637
+  },
+  {
+    "keyword": "alright",
+    "score": 43.535287695304895
+  },
+  {
+    "keyword": "gate",
+    "score": 42.623092154043526
+  },
+  {
+    "keyword": "ladon",
+    "score": 42.56331616252659
+  },
+  {
+    "keyword": "power",
+    "score": 42.28858212966812
+  },
+  {
+    "keyword": "dhd",
+    "score": 40.05204893241709
+  },
+  {
+    "keyword": "shield",
+    "score": 38.18232245973957
+  },
+  {
+    "keyword": "www seriestele",
+    "score": 35.26517325975473
+  },
+  {
+    "keyword": "may",
+    "score": 34.216546940051316
+  },
+  {
+    "keyword": "seriestele",
+    "score": 33.94867696221171
+  },
+  {
+    "keyword": "seriestele net",
+    "score": 33.94867696221171
+  },
+  {
+    "keyword": "pegasus",
+    "score": 33.89263914895369
+  },
+  {
+    "keyword": "wait",
+    "score": 33.59557736695596
+  },
+  {
+    "keyword": "caldwell",
+    "score": 32.35892214967908
+  },
+  {
+    "keyword": "planet",
+    "score": 31.050818694965162
+  },
+  {
+    "keyword": "ready",
+    "score": 30.285898063731157
+  },
+  {
+    "keyword": "enough",
+    "score": 29.58961268429301
+  },
+  {
+    "keyword": "stargate atlantis",
+    "score": 29.234620729126664
+  },
+  {
+    "keyword": "thought",
+    "score": 28.533703869211998
+  },
+  {
+    "keyword": "two",
+    "score": 28.02180652344379
+  },
+  {
+    "keyword": "nanites",
+    "score": 25.918516030528
+  },
+  {
+    "keyword": "dart",
+    "score": 25.269408259962297
+  },
+  {
+    "keyword": "keep",
+    "score": 23.317429684870724
+  },
+  {
+    "keyword": "enzyme",
+    "score": 22.911318443980598
+  },
+  {
+    "keyword": "woolsey",
+    "score": 21.9807173973893
+  },
+  {
+    "keyword": "shields",
+    "score": 21.883719304488302
+  },
+  {
+    "keyword": "another",
+    "score": 20.048985328797862
+  },
+  {
+    "keyword": "happened",
+    "score": 19.167045185138
+  },
+  {
+    "keyword": "believe",
+    "score": 19.098281253670212
+  },
+  {
+    "keyword": "ancient",
+    "score": 17.59087248353089
+  },
+  {
+    "keyword": "kill",
+    "score": 17.41075041446213
+  },
+  {
+    "keyword": "system",
+    "score": 17.29558829038866
+  },
+  {
+    "keyword": "sir",
+    "score": 17.058998617472717
+  },
+  {
+    "keyword": "jumpers",
+    "score": 17.000659390473754
+  },
+  {
+    "keyword": "control room",
+    "score": 16.87220685304846
+  },
+  {
+    "keyword": "infirmary",
+    "score": 16.80166413832541
+  },
+  {
+    "keyword": "beam",
+    "score": 16.73708668777549
+  },
+  {
+    "keyword": "weapons",
+    "score": 16.25569873285926
+  },
+  {
+    "keyword": "understand",
+    "score": 15.40139691968656
+  },
+  {
+    "keyword": "yet",
+    "score": 15.36901274467149
+  },
+  {
+    "keyword": "asgard",
+    "score": 15.281451196053567
+  },
+  {
+    "keyword": "doctor",
+    "score": 15.027106377657699
+  },
+  {
+    "keyword": "years",
+    "score": 15.009817429114873
+  },
+  {
+    "keyword": "stay",
+    "score": 14.94373072780894
+  },
+  {
+    "keyword": "done",
+    "score": 14.705535678082917
+  },
+  {
+    "keyword": "happen",
+    "score": 14.671259509693593
+  },
+  {
+    "keyword": "hear",
+    "score": 14.587648589302443
+  },
+  {
+    "keyword": "problem",
+    "score": 14.48294363723672
+  },
+  {
+    "keyword": "already",
+    "score": 14.335496063654476
+  },
+  {
+    "keyword": "ford",
+    "score": 14.327088471753775
+  },
+  {
+    "keyword": "device",
+    "score": 14.112711970415907
+  },
+  {
+    "keyword": "hell",
+    "score": 13.469133774385936
+  },
+  {
+    "keyword": "goa uld",
+    "score": 13.427938289502693
+  },
+  {
+    "keyword": "found",
+    "score": 13.36180856166091
+  },
+  {
+    "keyword": "malp",
+    "score": 13.262793153982415
+  },
+  {
+    "keyword": "little",
+    "score": 13.236783834402623
+  },
+  {
+    "keyword": "talk",
+    "score": 12.951786441733288
+  },
+  {
+    "keyword": "control",
+    "score": 12.777392454566545
+  },
+  {
+    "keyword": "better",
+    "score": 12.766422777952409
+  },
+  {
+    "keyword": "city",
+    "score": 12.655001661252234
+  },
+  {
+    "keyword": "systems",
+    "score": 12.475831441684232
+  },
+  {
+    "keyword": "cloak",
+    "score": 12.362419400612206
+  },
+  {
+    "keyword": "talking",
+    "score": 12.18073128123465
+  },
+  {
+    "keyword": "major",
+    "score": 11.548228384658033
+  },
+  {
+    "keyword": "colonel carter",
+    "score": 11.510876666275017
+  },
+  {
+    "keyword": "shut",
+    "score": 11.465876265749564
+  },
+  {
+    "keyword": "weapon",
+    "score": 11.227373647713751
+  },
+  {
+    "keyword": "exactly",
+    "score": 11.16715382633686
+  },
+  {
+    "keyword": "carson",
+    "score": 11.113398679118669
+  },
+  {
+    "keyword": "dial",
+    "score": 10.908955550641046
+  },
+  {
+    "keyword": "real",
+    "score": 10.84920955812063
+  },
+  {
+    "keyword": "stargate command",
+    "score": 10.729145322172084
+  },
+  {
+    "keyword": "read",
+    "score": 10.554342134517444
+  },
+  {
+    "keyword": "told",
+    "score": 10.256882550464413
+  },
+  {
+    "keyword": "thin",
+    "score": 10.093535598736826
+  },
+  {
+    "keyword": "shep",
+    "score": 10.071275564591762
+  },
+  {
+    "keyword": "wrong",
+    "score": 9.910153692099213
+  },
+  {
+    "keyword": "earth",
+    "score": 9.838060844201078
+  },
+  {
+    "keyword": "rest",
+    "score": 9.664441333581513
+  },
+  {
+    "keyword": "generator",
+    "score": 9.658680042489824
+  },
+  {
+    "keyword": "keller",
+    "score": 9.51507033096477
+  },
+  {
+    "keyword": "technology",
+    "score": 9.366963594482746
+  },
+  {
+    "keyword": "eat",
+    "score": 9.11718777060662
+  },
+  {
+    "keyword": "human",
+    "score": 8.949024255371008
+  },
+  {
+    "keyword": "orbit",
+    "score": 8.847335113284258
+  },
+  {
+    "keyword": "fine",
+    "score": 8.811480207477679
+  },
+  {
+    "keyword": "without",
+    "score": 8.718545743051921
+  },
+  {
+    "keyword": "team",
+    "score": 8.585355401776141
+  },
+  {
+    "keyword": "sgc",
+    "score": 8.446756320699555
+  },
+  {
+    "keyword": "head",
+    "score": 8.353182545438457
+  },
+  {
+    "keyword": "ill",
+    "score": 8.350906199681443
+  },
+  {
+    "keyword": "sensors",
+    "score": 8.34340698470854
+  },
+  {
+    "keyword": "dead",
+    "score": 8.01741019946573
+  },
+  {
+    "keyword": "pod",
+    "score": 7.990636345349874
+  },
+  {
+    "keyword": "pretty",
+    "score": 7.900386313865374
+  },
+  {
+    "keyword": "start",
+    "score": 7.881803851925601
+  },
+  {
+    "keyword": "wormhole",
+    "score": 7.719781194518924
+  },
+  {
+    "keyword": "energy",
+    "score": 7.716922020351336
+  },
+  {
+    "keyword": "guess",
+    "score": 7.636162918662303
+  },
+  {
+    "keyword": "three",
+    "score": 7.4783622243197
+  },
+  {
+    "keyword": "least",
+    "score": 7.456406000977796
+  },
+  {
+    "keyword": "soon",
+    "score": 7.451661636987102
+  },
+  {
+    "keyword": "die",
+    "score": 7.279898409720828
+  },
+  {
+    "keyword": "command",
+    "score": 7.265822524331176
+  },
+  {
+    "keyword": "return",
+    "score": 7.24373186416436
+  },
+  {
+    "keyword": "activate",
+    "score": 7.076483578002215
+  },
+  {
+    "keyword": "safe",
+    "score": 7.050508737642893
+  },
+  {
+    "keyword": "though",
+    "score": 7.029597003142665
+  },
+  {
+    "keyword": "room",
+    "score": 6.954328597283496
+  },
+  {
+    "keyword": "ahead",
+    "score": 6.924185183062508
+  },
+  {
+    "keyword": "remember",
+    "score": 6.903022525706701
+  },
+  {
+    "keyword": "send",
+    "score": 6.870940030375668
+  },
+  {
+    "keyword": "destruct",
+    "score": 6.81367714659661
+  },
+  {
+    "keyword": "projet net",
+    "score": 6.692249096616821
+  },
+  {
+    "keyword": "trust",
+    "score": 6.639111665512203
+  },
+  {
+    "keyword": "mind",
+    "score": 6.633410674492995
+  },
+  {
+    "keyword": "else",
+    "score": 6.582193495104084
+  },
+  {
+    "keyword": "sit",
+    "score": 6.55650602365289
+  },
+  {
+    "keyword": "goa",
+    "score": 6.52017512310153
+  },
+  {
+    "keyword": "aye",
+    "score": 6.519492653734827
+  },
+  {
+    "keyword": "destroy",
+    "score": 6.478850242153987
+  },
+  {
+    "keyword": "aurora",
+    "score": 6.474296435548672
+  },
+  {
+    "keyword": "teal",
+    "score": 6.382061267853375
+  },
+  {
+    "keyword": "wanna",
+    "score": 6.365132473937842
+  },
+  {
+    "keyword": "run",
+    "score": 6.331407376824067
+  },
+  {
+    "keyword": "darts",
+    "score": 6.302642699551111
+  },
+  {
+    "keyword": "readings",
+    "score": 6.268760158124533
+  },
+  {
+    "keyword": "data",
+    "score": 6.163011592788482
   },
   {
     "keyword": "teams",
-    "score": 4.49046040182393
+    "score": 6.154394053627003
   },
   {
-    "keyword": "please respond",
-    "score": 4.461112915279341
-  },
-  {
-    "keyword": "janus",
-    "score": 4.446061062494702
-  },
-  {
-    "keyword": "someone",
-    "score": 4.445205912409217
+    "keyword": "till",
+    "score": 6.081909392334825
   },
   {
     "keyword": "made",
-    "score": 4.4369153720137025
+    "score": 6.081007989932621
   },
   {
     "keyword": "knew",
-    "score": 4.425112468933484
+    "score": 6.064831538069708
+  },
+  {
+    "keyword": "used",
+    "score": 6.018678112598616
+  },
+  {
+    "keyword": "elizabeth",
+    "score": 6.004352758996921
+  },
+  {
+    "keyword": "took",
+    "score": 5.991115524433547
+  },
+  {
+    "keyword": "jump",
+    "score": 5.951503930996994
+  },
+  {
+    "keyword": "hours",
+    "score": 5.895325350475694
+  },
+  {
+    "keyword": "lieutenant colonel",
+    "score": 5.832757498223481
+  },
+  {
+    "keyword": "god",
+    "score": 5.808598766467606
+  },
+  {
+    "keyword": "whole",
+    "score": 5.795895869938511
+  },
+  {
+    "keyword": "ten",
+    "score": 5.784522812043142
+  },
+  {
+    "keyword": "heard",
+    "score": 5.725564583435553
+  },
+  {
+    "keyword": "wanted",
+    "score": 5.702933546608137
+  },
+  {
+    "keyword": "hope",
+    "score": 5.656504875809597
+  },
+  {
+    "keyword": "villagers",
+    "score": 5.641438833340396
+  },
+  {
+    "keyword": "col",
+    "score": 5.617560999223349
+  },
+  {
+    "keyword": "came",
+    "score": 5.6158387456547
+  },
+  {
+    "keyword": "ran",
+    "score": 5.530635681296216
+  },
+  {
+    "keyword": "self destruct",
+    "score": 5.503540628002798
+  },
+  {
+    "keyword": "aiden",
+    "score": 5.48544865877772
+  },
+  {
+    "keyword": "others",
+    "score": 5.4515083737873
+  },
+  {
+    "keyword": "fly",
+    "score": 5.411387607840845
+  },
+  {
+    "keyword": "lieutenant",
+    "score": 5.353895883102571
+  },
+  {
+    "keyword": "act",
+    "score": 5.31519629786074
+  },
+  {
+    "keyword": "lost",
+    "score": 5.2890124756847925
+  },
+  {
+    "keyword": "war",
+    "score": 5.227011421730786
+  },
+  {
+    "keyword": "puddle",
+    "score": 5.2134696717447895
+  },
+  {
+    "keyword": "stem",
+    "score": 5.185692680412471
+  },
+  {
+    "keyword": "side",
+    "score": 5.167019238781892
+  },
+  {
+    "keyword": "drones",
+    "score": 5.152702748593499
+  },
+  {
+    "keyword": "protector",
+    "score": 5.129137950441654
+  },
+  {
+    "keyword": "afraid",
+    "score": 5.089397188114219
+  },
+  {
+    "keyword": "saying",
+    "score": 5.0598198278101325
+  },
+  {
+    "keyword": "ago",
+    "score": 5.018304705488058
   }
 ]

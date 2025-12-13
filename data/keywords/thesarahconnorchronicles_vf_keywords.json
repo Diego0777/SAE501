@@ -1,802 +1,802 @@
 [
   {
     "keyword": "skynet",
-    "score": 311.6128899645186
+    "score": 594.401339039829
   },
   {
     "keyword": "sarah connor",
-    "score": 111.63752489319853
-  },
-  {
-    "keyword": "john connor",
-    "score": 111.09175888841555
+    "score": 212.9484896827123
   },
   {
     "keyword": "john henry",
-    "score": 80.74644601238677
+    "score": 154.02378135877154
   },
   {
     "keyword": "ellison",
-    "score": 63.8807017030138
+    "score": 121.85238754211605
   },
   {
     "keyword": "connor",
-    "score": 45.08971349992533
-  },
-  {
-    "keyword": "turc",
-    "score": 38.3813591062079
+    "score": 86.00859253392751
   },
   {
     "keyword": "john",
-    "score": 23.977789761787243
+    "score": 46.44673308024358
   },
   {
     "keyword": "savannah",
-    "score": 20.996080910319368
-  },
-  {
-    "keyword": "baum",
-    "score": 16.484280340350054
-  },
-  {
-    "keyword": "charley",
-    "score": 15.485323532051316
-  },
-  {
-    "keyword": "fais",
-    "score": 14.481052602085777
-  },
-  {
-    "keyword": "peut etre",
-    "score": 14.081726705745988
-  },
-  {
-    "keyword": "passe",
-    "score": 12.213383032140372
-  },
-  {
-    "keyword": "tuer",
-    "score": 12.151386254781235
-  },
-  {
-    "keyword": "besoin",
-    "score": 11.594398059762913
-  },
-  {
-    "keyword": "quelque chose",
-    "score": 11.465857499636732
-  },
-  {
-    "keyword": "riley",
-    "score": 11.026418833607721
-  },
-  {
-    "keyword": "vraiment",
-    "score": 10.441259026791146
-  },
-  {
-    "keyword": "ouais",
-    "score": 10.32138451216746
-  },
-  {
-    "keyword": "voir",
-    "score": 10.127514893104921
-  },
-  {
-    "keyword": "mort",
-    "score": 9.905502338021439
-  },
-  {
-    "keyword": "maintenant",
-    "score": 9.812327296376761
-  },
-  {
-    "keyword": "futur",
-    "score": 9.800340649074078
-  },
-  {
-    "keyword": "reese",
-    "score": 9.621713238761929
-  },
-  {
-    "keyword": "cameron",
-    "score": 9.607690065546443
-  },
-  {
-    "keyword": "quelqu",
-    "score": 9.362253346895638
-  },
-  {
-    "keyword": "parler",
-    "score": 9.20961026890043
-  },
-  {
-    "keyword": "pense",
-    "score": 9.063066625731256
-  },
-  {
-    "keyword": "personne",
-    "score": 8.758386641843927
-  },
-  {
-    "keyword": "faut",
-    "score": 8.47849750778924
+    "score": 40.05000758827228
   },
   {
     "keyword": "tue",
-    "score": 8.183087359780862
-  },
-  {
-    "keyword": "sarah",
-    "score": 8.107192631009365
-  },
-  {
-    "keyword": "temps",
-    "score": 7.977773679246182
+    "score": 38.27026230716375
   },
   {
     "keyword": "parle",
-    "score": 7.8993008752545135
+    "score": 32.893020607756554
   },
   {
-    "keyword": "maman",
-    "score": 7.841260479099278
+    "keyword": "charley",
+    "score": 29.53824228504904
   },
   {
-    "keyword": "fischer",
-    "score": 7.700343118196687
+    "keyword": "mort",
+    "score": 28.32180410977339
   },
   {
-    "keyword": "peu",
-    "score": 7.6342844822952864
+    "keyword": "tuer",
+    "score": 26.36350369121682
+  },
+  {
+    "keyword": "besoin",
+    "score": 22.116305050373843
+  },
+  {
+    "keyword": "riley",
+    "score": 21.032885129548703
   },
   {
     "keyword": "connais",
-    "score": 7.0747756538289535
-  },
-  {
-    "keyword": "fille",
-    "score": 6.94129208459132
-  },
-  {
-    "keyword": "weaver",
-    "score": 6.889306606773583
-  },
-  {
-    "keyword": "http projet",
-    "score": 6.734007045224026
-  },
-  {
-    "keyword": "monde",
-    "score": 6.523941722117351
-  },
-  {
-    "keyword": "fils",
-    "score": 6.110208879309884
-  },
-  {
-    "keyword": "gens",
-    "score": 6.011332744979006
-  },
-  {
-    "keyword": "projet net",
-    "score": 5.920182058406538
-  },
-  {
-    "keyword": "juste",
-    "score": 5.873072925155511
-  },
-  {
-    "keyword": "ans",
-    "score": 5.850906600330462
-  },
-  {
-    "keyword": "savoir",
-    "score": 5.762040026072155
-  },
-  {
-    "keyword": "trouve",
-    "score": 5.608203692723173
-  },
-  {
-    "keyword": "deux",
-    "score": 5.601085421456649
-  },
-  {
-    "keyword": "merci",
-    "score": 5.587828585790008
-  },
-  {
-    "keyword": "fois",
-    "score": 5.458947349578736
-  },
-  {
-    "keyword": "pere",
-    "score": 5.277588593881489
-  },
-  {
-    "keyword": "vie",
-    "score": 5.136379357842873
-  },
-  {
-    "keyword": "truc",
-    "score": 5.042476010232921
-  },
-  {
-    "keyword": "sherman",
-    "score": 4.369133792916994
-  },
-  {
-    "keyword": "mere",
-    "score": 4.269294301176495
-  },
-  {
-    "keyword": "parce",
-    "score": 4.043914075602058
-  },
-  {
-    "keyword": "pris",
-    "score": 3.978675745680764
-  },
-  {
-    "keyword": "homme",
-    "score": 3.9146839268205094
-  },
-  {
-    "keyword": "viens",
-    "score": 3.8353782469215645
+    "score": 20.682839653678304
   },
   {
     "keyword": "aime",
-    "score": 3.8030677859073085
+    "score": 19.731181751345897
   },
   {
-    "keyword": "plait",
-    "score": 3.7850463529432226
+    "keyword": "parler",
+    "score": 19.47608973913205
   },
   {
-    "keyword": "vrai",
-    "score": 3.732954013434696
+    "keyword": "futur",
+    "score": 18.989704963470142
   },
   {
-    "keyword": "derek",
-    "score": 3.593107000360372
+    "keyword": "reese",
+    "score": 18.353410327886454
   },
   {
-    "keyword": "accord",
-    "score": 3.5713255849422354
+    "keyword": "cameron",
+    "score": 18.32666113616392
   },
   {
-    "keyword": "crois",
-    "score": 3.5557132435925882
+    "keyword": "faut",
+    "score": 17.979055203869457
   },
   {
-    "keyword": "echecs",
-    "score": 3.5316087359879953
+    "keyword": "pris",
+    "score": 16.777760639686605
   },
   {
-    "keyword": "puce",
-    "score": 3.405206629614379
+    "keyword": "mme",
+    "score": 16.48419702829709
   },
   {
-    "keyword": "aider",
-    "score": 3.335635574795922
+    "keyword": "sarah",
+    "score": 15.46446347670182
   },
   {
-    "keyword": "vois",
-    "score": 3.292702912115783
+    "keyword": "maman",
+    "score": 14.95719810906219
   },
   {
-    "keyword": "arrive",
-    "score": 3.2318346500229853
-  },
-  {
-    "keyword": "beaucoup",
-    "score": 3.2153999060110525
-  },
-  {
-    "keyword": "stark",
-    "score": 3.2009346712617788
-  },
-  {
-    "keyword": "depuis",
-    "score": 3.196179012669666
-  },
-  {
-    "keyword": "guerre",
-    "score": 3.196179012669666
-  },
-  {
-    "keyword": "maison",
-    "score": 3.0766158110359454
-  },
-  {
-    "keyword": "desole",
-    "score": 3.043971557054264
-  },
-  {
-    "keyword": "enrique",
-    "score": 3.022061300207387
-  },
-  {
-    "keyword": "ecoute",
-    "score": 3.0069709548850967
-  },
-  {
-    "keyword": "trouver",
-    "score": 3.0069709548850967
-  },
-  {
-    "keyword": "faites",
-    "score": 3.0069709548850967
-  },
-  {
-    "keyword": "securite",
-    "score": 2.8708006841369493
-  },
-  {
-    "keyword": "desolee",
-    "score": 2.8694911747133465
-  },
-  {
-    "keyword": "appelle",
-    "score": 2.731004310077316
-  },
-  {
-    "keyword": "trois",
-    "score": 2.731004310077316
-  },
-  {
-    "keyword": "nom",
-    "score": 2.7157766682320066
-  },
-  {
-    "keyword": "partir",
-    "score": 2.688601254661126
-  },
-  {
-    "keyword": "dieu",
-    "score": 2.687339089990162
-  },
-  {
-    "keyword": "frere",
-    "score": 2.5609463854986365
-  },
-  {
-    "keyword": "famille",
-    "score": 2.4703862606801557
-  },
-  {
-    "keyword": "ordinateur",
-    "score": 2.3823655728636886
-  },
-  {
-    "keyword": "henry",
-    "score": 2.3504502861611942
-  },
-  {
-    "keyword": "jour",
-    "score": 2.292921910005329
-  },
-  {
-    "keyword": "seul",
-    "score": 2.2197894796661033
-  },
-  {
-    "keyword": "donne",
-    "score": 2.1997536459287743
-  },
-  {
-    "keyword": "probleme",
-    "score": 2.1923725065979967
-  },
-  {
-    "keyword": "kyle",
-    "score": 2.1796309355703514
-  },
-  {
-    "keyword": "tete",
-    "score": 2.1646841811911943
-  },
-  {
-    "keyword": "combien",
-    "score": 2.1486373812129704
-  },
-  {
-    "keyword": "arrete",
-    "score": 2.138912763398097
-  },
-  {
-    "keyword": "reste",
-    "score": 2.104300620033914
-  },
-  {
-    "keyword": "bon",
-    "score": 2.0898860546214726
-  },
-  {
-    "keyword": "entre",
-    "score": 2.03705411649202
-  },
-  {
-    "keyword": "pourrait",
-    "score": 2.02604785981252
-  },
-  {
-    "keyword": "histoire",
-    "score": 1.9677924233265778
-  },
-  {
-    "keyword": "laisse",
-    "score": 1.9491158489508746
-  },
-  {
-    "keyword": "dis",
-    "score": 1.9072945563741692
-  },
-  {
-    "keyword": "devrais",
-    "score": 1.85900801603135
-  },
-  {
-    "keyword": "terminator",
-    "score": 1.8049376528965504
-  },
-  {
-    "keyword": "comprends",
-    "score": 1.7992370003329254
-  },
-  {
-    "keyword": "voulais",
-    "score": 1.7546967220878849
-  },
-  {
-    "keyword": "attends",
-    "score": 1.7411377661355552
-  },
-  {
-    "keyword": "dixon",
-    "score": 1.7340866042073602
-  },
-  {
-    "keyword": "arme",
-    "score": 1.7263020088742986
-  },
-  {
-    "keyword": "celui",
-    "score": 1.7263020088742986
-  },
-  {
-    "keyword": "bonne",
-    "score": 1.7138091729555411
-  },
-  {
-    "keyword": "porte",
-    "score": 1.7138091729555411
-  },
-  {
-    "keyword": "cherche",
-    "score": 1.7096813234637402
-  },
-  {
-    "keyword": "informatique",
-    "score": 1.7078814987806945
-  },
-  {
-    "keyword": "femme",
-    "score": 1.6985427977654943
-  },
-  {
-    "keyword": "metal",
-    "score": 1.689843394136163
-  },
-  {
-    "keyword": "dehors",
-    "score": 1.6819286463110785
-  },
-  {
-    "keyword": "argent",
-    "score": 1.671135093534858
-  },
-  {
-    "keyword": "genre",
-    "score": 1.649846556315357
-  },
-  {
-    "keyword": "arreter",
-    "score": 1.6371082115165891
-  },
-  {
-    "keyword": "systeme",
-    "score": 1.630764185494958
-  },
-  {
-    "keyword": "morte",
-    "score": 1.6180463170118407
-  },
-  {
-    "keyword": "jours",
-    "score": 1.6105335890798513
-  },
-  {
-    "keyword": "aide",
-    "score": 1.5904945767443626
-  },
-  {
-    "keyword": "voiture",
-    "score": 1.5719672002400156
-  },
-  {
-    "keyword": "jody",
-    "score": 1.568477319461544
-  },
-  {
-    "keyword": "dites",
-    "score": 1.5659375171045464
-  },
-  {
-    "keyword": "xander",
-    "score": 1.5484897081266764
-  },
-  {
-    "keyword": "partie",
-    "score": 1.5405181844154594
-  },
-  {
-    "keyword": "regarde",
-    "score": 1.5405181844154594
-  },
-  {
-    "keyword": "dimitri",
-    "score": 1.5032094843699138
-  },
-  {
-    "keyword": "raison",
-    "score": 1.5019570111927647
-  },
-  {
-    "keyword": "ecole",
-    "score": 1.478143620198808
-  },
-  {
-    "keyword": "parfois",
-    "score": 1.4514672234004948
-  },
-  {
-    "keyword": "babylon",
-    "score": 1.4381868324891947
-  },
-  {
-    "keyword": "aucune",
-    "score": 1.4278313678412062
-  },
-  {
-    "keyword": "gars",
-    "score": 1.4046538654398466
-  },
-  {
-    "keyword": "vue",
-    "score": 1.4046538654398466
-  },
-  {
-    "keyword": "humanite",
-    "score": 1.3843996350564087
-  },
-  {
-    "keyword": "precedemment",
-    "score": 1.3843996350564087
-  },
-  {
-    "keyword": "croire",
-    "score": 1.3834385159191869
-  },
-  {
-    "keyword": "souviens",
-    "score": 1.3819235877961626
-  },
-  {
-    "keyword": "cas",
-    "score": 1.3710656372119054
-  },
-  {
-    "keyword": "dyson",
-    "score": 1.364298250428572
-  },
-  {
-    "keyword": "aujourd hui",
-    "score": 1.3596297444401455
-  },
-  {
-    "keyword": "aujourd",
-    "score": 1.3596297444401455
-  },
-  {
-    "keyword": "abraham",
-    "score": 1.356791776475396
-  },
-  {
-    "keyword": "chandler",
-    "score": 1.3525231273975846
-  },
-  {
-    "keyword": "mourir",
-    "score": 1.3388192496910833
-  },
-  {
-    "keyword": "proteger",
-    "score": 1.338735257639388
-  },
-  {
-    "keyword": "hui",
-    "score": 1.3377618703321135
-  },
-  {
-    "keyword": "projet",
-    "score": 1.3348815845586999
-  },
-  {
-    "keyword": "idee",
-    "score": 1.3171543157105987
-  },
-  {
-    "keyword": "contre",
-    "score": 1.3168650170366083
-  },
-  {
-    "keyword": "andy",
-    "score": 1.3114607236219449
-  },
-  {
-    "keyword": "oncle",
-    "score": 1.2960772982390507
-  },
-  {
-    "keyword": "perdu",
-    "score": 1.2954210389488103
-  },
-  {
-    "keyword": "savais",
-    "score": 1.2954210389488103
-  },
-  {
-    "keyword": "mexique",
-    "score": 1.2748941581911957
-  },
-  {
-    "keyword": "enfant",
-    "score": 1.272543625486757
-  },
-  {
-    "keyword": "tout monde",
-    "score": 1.2537705293289674
-  },
-  {
-    "keyword": "usine",
-    "score": 1.2483295470313334
-  },
-  {
-    "keyword": "dakara",
-    "score": 1.2369795048752397
-  },
-  {
-    "keyword": "demande",
-    "score": 1.233544111579035
-  },
-  {
-    "keyword": "jesse",
-    "score": 1.223818167408371
-  },
-  {
-    "keyword": "hein",
-    "score": 1.213704160703422
-  },
-  {
-    "keyword": "vient",
-    "score": 1.2113825813143957
-  },
-  {
-    "keyword": "voulait",
-    "score": 1.2078479057783664
-  },
-  {
-    "keyword": "sous marin",
-    "score": 1.2032779279948744
-  },
-  {
-    "keyword": "ami",
-    "score": 1.195006863121179
-  },
-  {
-    "keyword": "bloc team",
-    "score": 1.193815863848536
-  },
-  {
-    "keyword": "humains",
-    "score": 1.1780499319595632
-  },
-  {
-    "keyword": "mieux",
-    "score": 1.1536944919590144
-  },
-  {
-    "keyword": "enfants",
-    "score": 1.1497962699528772
-  },
-  {
-    "keyword": "assez",
-    "score": 1.1497962699528772
-  },
-  {
-    "keyword": "jusqu",
-    "score": 1.1311901285448538
-  },
-  {
-    "keyword": "prendre",
-    "score": 1.1311901285448538
-  },
-  {
-    "keyword": "cyborg",
-    "score": 1.1296710524252485
-  },
-  {
-    "keyword": "sorciere",
-    "score": 1.1240898877807668
-  },
-  {
-    "keyword": "oublie",
-    "score": 1.107621906345708
-  },
-  {
-    "keyword": "rester",
-    "score": 1.107621906345708
-  },
-  {
-    "keyword": "mec",
-    "score": 1.1010249192895056
-  },
-  {
-    "keyword": "machines",
-    "score": 1.0907587879475125
-  },
-  {
-    "keyword": "veut dire",
-    "score": 1.0896422555463698
-  },
-  {
-    "keyword": "pendant",
-    "score": 1.0880650171837254
+    "keyword": "pere",
+    "score": 14.753656781329207
   },
   {
     "keyword": "pos",
-    "score": 1.0521389065012587
+    "score": 14.379553654110474
   },
   {
-    "keyword": "chercher",
-    "score": 1.047939971053496
+    "keyword": "truc",
+    "score": 13.756893910163729
   },
   {
-    "keyword": "marche",
-    "score": 1.047939971053496
+    "keyword": "weaver",
+    "score": 13.141346856955858
   },
   {
-    "keyword": "ceux",
-    "score": 1.047939971053496
+    "keyword": "http projet",
+    "score": 12.845113067179492
   },
   {
-    "keyword": "venir",
-    "score": 1.0377516466066627
+    "keyword": "fils",
+    "score": 11.763513713230877
+  },
+  {
+    "keyword": "projet net",
+    "score": 11.292742553997364
+  },
+  {
+    "keyword": "deux",
+    "score": 11.054097367806099
+  },
+  {
+    "keyword": "savoir",
+    "score": 10.991086753466325
+  },
+  {
+    "keyword": "entre",
+    "score": 10.129584723462278
+  },
+  {
+    "keyword": "desole",
+    "score": 9.838986080160549
+  },
+  {
+    "keyword": "dis",
+    "score": 9.818479337234697
+  },
+  {
+    "keyword": "ment",
+    "score": 9.263943898749444
+  },
+  {
+    "keyword": "trouver",
+    "score": 8.655030262481533
+  },
+  {
+    "keyword": "donne",
+    "score": 8.651246895706796
+  },
+  {
+    "keyword": "jours",
+    "score": 8.624939973209068
+  },
+  {
+    "keyword": "arrive",
+    "score": 8.345222081071931
+  },
+  {
+    "keyword": "sherman",
+    "score": 8.334119224816837
+  },
+  {
+    "keyword": "mere",
+    "score": 8.253912292263664
+  },
+  {
+    "keyword": "ami",
+    "score": 8.15875819392779
+  },
+  {
+    "keyword": "nom",
+    "score": 7.999189570867885
+  },
+  {
+    "keyword": "arrete",
+    "score": 7.747676332025013
+  },
+  {
+    "keyword": "alle",
+    "score": 7.5017484929430385
+  },
+  {
+    "keyword": "aider",
+    "score": 7.488252569806693
+  },
+  {
+    "keyword": "cherche",
+    "score": 7.401654170670157
+  },
+  {
+    "keyword": "ame",
+    "score": 7.32250285909121
+  },
+  {
+    "keyword": "ver",
+    "score": 7.282948077554337
+  },
+  {
+    "keyword": "laisse",
+    "score": 7.250040702967044
+  },
+  {
+    "keyword": "plait",
+    "score": 7.219972898981962
+  },
+  {
+    "keyword": "porte",
+    "score": 7.1973113889238425
+  },
+  {
+    "keyword": "accord",
+    "score": 7.003978547782204
+  },
+  {
+    "keyword": "derek",
+    "score": 6.853848737036432
+  },
+  {
+    "keyword": "aide",
+    "score": 6.81495060921962
+  },
+  {
+    "keyword": "echecs",
+    "score": 6.7365408468020815
+  },
+  {
+    "keyword": "puce",
+    "score": 6.59914958364228
+  },
+  {
+    "keyword": "maison",
+    "score": 6.318753466252912
+  },
+  {
+    "keyword": "guerre",
+    "score": 6.177863781970158
+  },
+  {
+    "keyword": "stark",
+    "score": 6.10578033210904
+  },
+  {
+    "keyword": "depuis",
+    "score": 6.096708917138081
+  },
+  {
+    "keyword": "ordinateur",
+    "score": 6.080332001446794
+  },
+  {
+    "keyword": "faites",
+    "score": 6.0501278883349165
+  },
+  {
+    "keyword": "arme",
+    "score": 5.945664290327726
+  },
+  {
+    "keyword": "enrique",
+    "score": 5.764579519506567
+  },
+  {
+    "keyword": "securite",
+    "score": 5.634782264807847
+  },
+  {
+    "keyword": "desolee",
+    "score": 5.4735521268288805
+  },
+  {
+    "keyword": "trois",
+    "score": 5.427600406586011
+  },
+  {
+    "keyword": "dieu",
+    "score": 5.411913143114169
+  },
+  {
+    "keyword": "frere",
+    "score": 5.376356411776836
+  },
+  {
+    "keyword": "partir",
+    "score": 5.351099238505357
+  },
+  {
+    "keyword": "pres",
+    "score": 5.02595950313848
+  },
+  {
+    "keyword": "famille",
+    "score": 5.000080253344264
+  },
+  {
+    "keyword": "probleme",
+    "score": 4.7740209228165265
+  },
+  {
+    "keyword": "henry",
+    "score": 4.483482045944387
+  },
+  {
+    "keyword": "cas",
+    "score": 4.464445396186785
+  },
+  {
+    "keyword": "demande",
+    "score": 4.457065726372873
+  },
+  {
+    "keyword": "parti",
+    "score": 4.424424206503433
+  },
+  {
+    "keyword": "histoire",
+    "score": 4.213823229683466
+  },
+  {
+    "keyword": "tete",
+    "score": 4.193778052164598
+  },
+  {
+    "keyword": "kyle",
+    "score": 4.157644270951599
   },
   {
     "keyword": "prends",
-    "score": 1.030929116870977
+    "score": 4.133911769321422
   },
   {
-    "keyword": "soeur",
-    "score": 1.0195879905624263
+    "keyword": "combien",
+    "score": 4.098524090737847
+  },
+  {
+    "keyword": "contre",
+    "score": 3.980224826087975
+  },
+  {
+    "keyword": "prendre",
+    "score": 3.9762632199720183
+  },
+  {
+    "keyword": "venu",
+    "score": 3.900257192536793
+  },
+  {
+    "keyword": "humain",
+    "score": 3.8534587531869713
+  },
+  {
+    "keyword": "sol",
+    "score": 3.7381640477210887
+  },
+  {
+    "keyword": "hui",
+    "score": 3.677369767410915
+  },
+  {
+    "keyword": "morte",
+    "score": 3.593215171414187
+  },
+  {
+    "keyword": "devrais",
+    "score": 3.546056307685569
+  },
+  {
+    "keyword": "systeme",
+    "score": 3.497766338479427
+  },
+  {
+    "keyword": "eau",
+    "score": 3.4539922929344073
+  },
+  {
+    "keyword": "travail",
+    "score": 3.4449169057465325
+  },
+  {
+    "keyword": "terminator",
+    "score": 3.4429171331368065
+  },
+  {
+    "keyword": "bonne",
+    "score": 3.3874348572804247
+  },
+  {
+    "keyword": "metal",
+    "score": 3.383560718155765
+  },
+  {
+    "keyword": "arreter",
+    "score": 3.3642222402279334
+  },
+  {
+    "keyword": "informatique",
+    "score": 3.3616211723103793
+  },
+  {
+    "keyword": "voulais",
+    "score": 3.3470825976954823
+  },
+  {
+    "keyword": "tant",
+    "score": 3.3292069004260076
+  },
+  {
+    "keyword": "dixon",
+    "score": 3.307768814278668
+  },
+  {
+    "keyword": "argent",
+    "score": 3.3057588629552357
+  },
+  {
+    "keyword": "garde",
+    "score": 3.303629265819947
+  },
+  {
+    "keyword": "celui",
+    "score": 3.2929197048904726
+  },
+  {
+    "keyword": "envoye",
+    "score": 3.246730202650197
+  },
+  {
+    "keyword": "raison",
+    "score": 3.241002001598911
+  },
+  {
+    "keyword": "dehors",
+    "score": 3.208277551196891
+  },
+  {
+    "keyword": "prend",
+    "score": 3.2074895813753272
+  },
+  {
+    "keyword": "appele",
+    "score": 3.156021473204645
+  },
+  {
+    "keyword": "genre",
+    "score": 3.147080990121306
+  },
+  {
+    "keyword": "partie",
+    "score": 3.113565207158588
+  },
+  {
+    "keyword": "voiture",
+    "score": 3.0598782915953104
+  },
+  {
+    "keyword": "trou",
+    "score": 3.0590464305312537
+  },
+  {
+    "keyword": "mec",
+    "score": 3.049282572268578
+  },
+  {
+    "keyword": "jody",
+    "score": 2.991869235729302
+  },
+  {
+    "keyword": "dites",
+    "score": 2.98702456475928
+  },
+  {
+    "keyword": "xander",
+    "score": 2.9537428830517674
+  },
+  {
+    "keyword": "idee",
+    "score": 2.8860362792727883
+  },
+  {
+    "keyword": "ecole",
+    "score": 2.8803581770741062
+  },
+  {
+    "keyword": "vue",
+    "score": 2.8473043508827547
+  },
+  {
+    "keyword": "usine",
+    "score": 2.787005150668131
+  },
+  {
+    "keyword": "projet",
+    "score": 2.783241237423762
+  },
+  {
+    "keyword": "parfois",
+    "score": 2.7686725708295095
+  },
+  {
+    "keyword": "jeu",
+    "score": 2.761706750792227
+  },
+  {
+    "keyword": "gars",
+    "score": 2.7356371447566614
+  },
+  {
+    "keyword": "aucune",
+    "score": 2.7235871952040247
+  },
+  {
+    "keyword": "croire",
+    "score": 2.695812766333996
+  },
+  {
+    "keyword": "oublie",
+    "score": 2.6595422307641767
+  },
+  {
+    "keyword": "humanite",
+    "score": 2.6407411995616648
+  },
+  {
+    "keyword": "precedemment",
+    "score": 2.6407411995616648
+  },
+  {
+    "keyword": "souviens",
+    "score": 2.63601814138784
+  },
+  {
+    "keyword": "perdu",
+    "score": 2.6344198870680136
+  },
+  {
+    "keyword": "marche",
+    "score": 2.625734431397411
+  },
+  {
+    "keyword": "abraham",
+    "score": 2.5880792313406302
+  },
+  {
+    "keyword": "chandler",
+    "score": 2.5799367866297227
+  },
+  {
+    "keyword": "mourir",
+    "score": 2.5537966508358863
+  },
+  {
+    "keyword": "proteger",
+    "score": 2.5536364360642767
+  },
+  {
+    "keyword": "andy",
+    "score": 2.551518643228823
+  },
+  {
+    "keyword": "ble",
+    "score": 2.5423883810797574
+  },
+  {
+    "keyword": "joue",
+    "score": 2.5402953821408665
+  },
+  {
+    "keyword": "rester",
+    "score": 2.5134591719536554
+  },
+  {
+    "keyword": "tin",
+    "score": 2.4852771887937974
+  },
+  {
+    "keyword": "oncle",
+    "score": 2.47226641253555
+  },
+  {
+    "keyword": "savais",
+    "score": 2.4710145984629017
+  },
+  {
+    "keyword": "mexique",
+    "score": 2.431859589791642
+  },
+  {
+    "keyword": "ours",
+    "score": 2.408989073748064
+  },
+  {
+    "keyword": "bas",
+    "score": 2.3891976252309184
+  },
+  {
+    "keyword": "dakara",
+    "score": 2.3595374188352314
+  },
+  {
+    "keyword": "jesse",
+    "score": 2.3344321781157196
+  },
+  {
+    "keyword": "sorciere",
+    "score": 2.332767190095174
+  },
+  {
+    "keyword": "fou",
+    "score": 2.3264033775246085
+  },
+  {
+    "keyword": "voulait",
+    "score": 2.3039689167956507
+  },
+  {
+    "keyword": "lors",
+    "score": 2.250915710169094
+  },
+  {
+    "keyword": "humains",
+    "score": 2.247129305505543
+  },
+  {
+    "keyword": "dur",
+    "score": 2.2317565698763944
+  },
+  {
+    "keyword": "mis",
+    "score": 2.2100215185443046
+  },
+  {
+    "keyword": "jusqu",
+    "score": 2.2083671252389943
+  },
+  {
+    "keyword": "enfants",
+    "score": 2.1932354677651813
   },
   {
     "keyword": "nouvelle",
-    "score": 1.0142464980180417
+    "score": 2.1729477245836146
+  },
+  {
+    "keyword": "reve",
+    "score": 2.1712476256825757
+  },
+  {
+    "keyword": "ceux",
+    "score": 2.147510142236961
+  },
+  {
+    "keyword": "essaye",
+    "score": 2.1406670047728373
+  },
+  {
+    "keyword": "fin",
+    "score": 2.1034557162000143
+  },
+  {
+    "keyword": "main",
+    "score": 2.101341054290427
+  },
+  {
+    "keyword": "foi",
+    "score": 2.0946465363734834
+  },
+  {
+    "keyword": "leurs",
+    "score": 2.087743228797409
+  },
+  {
+    "keyword": "machines",
+    "score": 2.080621517932989
+  },
+  {
+    "keyword": "chercher",
+    "score": 2.0487640269829512
+  },
+  {
+    "keyword": "rend",
+    "score": 2.0273264401056514
+  },
+  {
+    "keyword": "reacteur",
+    "score": 2.0172683177289583
+  },
+  {
+    "keyword": "coup",
+    "score": 1.993995163898293
+  },
+  {
+    "keyword": "peur",
+    "score": 1.9810282896644746
+  },
+  {
+    "keyword": "cours",
+    "score": 1.978087884309468
+  },
+  {
+    "keyword": "aucun",
+    "score": 1.977860240635024
+  },
+  {
+    "keyword": "vit",
+    "score": 1.9742028357181278
+  },
+  {
+    "keyword": "cache",
+    "score": 1.9615393130159566
+  },
+  {
+    "keyword": "soeur",
+    "score": 1.9448632786924867
+  },
+  {
+    "keyword": "fini",
+    "score": 1.9428452974543877
+  },
+  {
+    "keyword": "machine",
+    "score": 1.9341015623720028
+  },
+  {
+    "keyword": "programme",
+    "score": 1.9291678580945901
+  },
+  {
+    "keyword": "vick",
+    "score": 1.9265456696657897
+  },
+  {
+    "keyword": "travaille",
+    "score": 1.9219002432489236
+  },
+  {
+    "keyword": "importe",
+    "score": 1.9050434534519702
+  },
+  {
+    "keyword": "celle",
+    "score": 1.9041357363285272
+  },
+  {
+    "keyword": "armes",
+    "score": 1.8971431026543355
+  },
+  {
+    "keyword": "yeux",
+    "score": 1.8895379393349507
+  },
+  {
+    "keyword": "mot",
+    "score": 1.85764440808229
+  },
+  {
+    "keyword": "com",
+    "score": 1.8564844972978904
+  },
+  {
+    "keyword": "vite",
+    "score": 1.8554295331616568
+  },
+  {
+    "keyword": "ile",
+    "score": 1.833112748052547
+  },
+  {
+    "keyword": "pourrais",
+    "score": 1.8272121305801228
+  },
+  {
+    "keyword": "cote",
+    "score": 1.814322059019026
+  },
+  {
+    "keyword": "passer",
+    "score": 1.8134951510747521
+  },
+  {
+    "keyword": "derniere",
+    "score": 1.8061939146301496
+  },
+  {
+    "keyword": "morts",
+    "score": 1.7885822330609344
+  },
+  {
+    "keyword": "plutot",
+    "score": 1.7797092934452081
   }
 ]

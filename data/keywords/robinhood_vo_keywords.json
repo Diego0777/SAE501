@@ -1,802 +1,802 @@
 [
   {
     "keyword": "gisborne",
-    "score": 4306.3345585378165
+    "score": 5454.398769584012
   },
   {
     "keyword": "marian",
-    "score": 1349.0658134201083
+    "score": 1725.233384078279
   },
   {
     "keyword": "nottingham",
-    "score": 584.8267934405801
+    "score": 743.7334343354163
   },
   {
     "keyword": "robin hood",
-    "score": 369.8605051991848
+    "score": 469.89450309251436
   },
   {
     "keyword": "robin",
-    "score": 320.5776047636419
+    "score": 405.44047958100356
   },
   {
     "keyword": "locksley",
-    "score": 316.86604936867616
+    "score": 400.74640620542937
   },
   {
     "keyword": "prince john",
-    "score": 309.44939563029965
+    "score": 391.3664258078884
   },
   {
     "keyword": "djaq",
-    "score": 297.9527279950281
+    "score": 376.8263756909611
   },
   {
     "keyword": "sheriff",
-    "score": 272.6166268784245
+    "score": 344.7833357693101
   },
   {
     "keyword": "lardner",
-    "score": 155.43117788259377
+    "score": 196.57671143005015
   },
   {
     "keyword": "hood",
-    "score": 139.2835108757776
+    "score": 178.68907651328144
   },
   {
-    "keyword": "holy land",
-    "score": 114.99060323817685
+    "keyword": "one",
+    "score": 68.77660840424919
   },
   {
     "keyword": "allan",
-    "score": 52.50054200905215
-  },
-  {
-    "keyword": "sir guy",
-    "score": 33.6392271045249
-  },
-  {
-    "keyword": "robin robin",
-    "score": 30.89147333253337
-  },
-  {
-    "keyword": "much",
-    "score": 30.380569020299177
-  },
-  {
-    "keyword": "isabella",
-    "score": 28.064863028203952
+    "score": 67.9840909674335
   },
   {
     "keyword": "king",
-    "score": 24.109514013296526
+    "score": 48.67282525338948
   },
   {
-    "keyword": "castle",
-    "score": 23.918768322519313
+    "keyword": "robin robin",
+    "score": 39.45210208121679
+  },
+  {
+    "keyword": "isabella",
+    "score": 35.49415603725507
   },
   {
     "keyword": "kill",
-    "score": 17.415506725374993
+    "score": 32.54155670808169
   },
   {
-    "keyword": "wood team",
-    "score": 17.178755022878303
+    "keyword": "castle",
+    "score": 30.25051268574766
   },
   {
-    "keyword": "sub wood",
-    "score": 17.178755022878303
-  },
-  {
-    "keyword": "find",
-    "score": 16.759193991599435
-  },
-  {
-    "keyword": "give",
-    "score": 16.200418447688858
+    "keyword": "got",
+    "score": 28.75929591575687
   },
   {
     "keyword": "saracen",
-    "score": 15.683263449151838
-  },
-  {
-    "keyword": "outlaw",
-    "score": 15.523833792842781
-  },
-  {
-    "keyword": "say",
-    "score": 14.639185065136969
-  },
-  {
-    "keyword": "father",
-    "score": 13.776313229660458
-  },
-  {
-    "keyword": "something",
-    "score": 12.425449671961902
-  },
-  {
-    "keyword": "really",
-    "score": 12.226456525411798
-  },
-  {
-    "keyword": "pact",
-    "score": 12.0593527367466
-  },
-  {
-    "keyword": "never",
-    "score": 11.672672461316075
-  },
-  {
-    "keyword": "please",
-    "score": 11.461409241140439
-  },
-  {
-    "keyword": "england",
-    "score": 11.377074253760771
-  },
-  {
-    "keyword": "john",
-    "score": 11.373029132902639
-  },
-  {
-    "keyword": "thank",
-    "score": 10.129101684187809
-  },
-  {
-    "keyword": "guards",
-    "score": 9.937466519861315
-  },
-  {
-    "keyword": "way",
-    "score": 9.876412640227267
-  },
-  {
-    "keyword": "thought",
-    "score": 9.679330745842327
+    "score": 28.60868355941506
   },
   {
     "keyword": "die",
-    "score": 9.38535683619542
+    "score": 20.0739713224091
   },
   {
-    "keyword": "nothing",
-    "score": 9.125522128721043
+    "keyword": "father",
+    "score": 17.8424656268108
   },
   {
-    "keyword": "prince",
-    "score": 8.690386695154617
+    "keyword": "pact",
+    "score": 15.251688465973444
   },
   {
-    "keyword": "told",
-    "score": 8.398641817829153
+    "keyword": "england",
+    "score": 14.388798135398025
   },
   {
-    "keyword": "majesty",
-    "score": 8.33577459172296
+    "keyword": "john",
+    "score": 14.383682195555961
   },
   {
-    "keyword": "said",
-    "score": 8.198726418150061
+    "keyword": "thought",
+    "score": 12.757109259670466
   },
   {
-    "keyword": "dead",
-    "score": 8.142226380588093
-  },
-  {
-    "keyword": "forest",
-    "score": 7.797683869688661
+    "keyword": "guards",
+    "score": 12.649118698719905
   },
   {
     "keyword": "wait",
-    "score": 7.746467990449387
+    "score": 12.302882054171443
   },
   {
-    "keyword": "gisbourne",
-    "score": 7.693352640339036
+    "keyword": "prince",
+    "score": 11.032744412286043
   },
   {
-    "keyword": "better",
-    "score": 7.581145866798535
+    "keyword": "told",
+    "score": 10.723564640744923
+  },
+  {
+    "keyword": "majesty",
+    "score": 10.542409694024276
+  },
+  {
+    "keyword": "dead",
+    "score": 10.457280555357919
   },
   {
     "keyword": "lord",
-    "score": 7.342066444853238
-  },
-  {
-    "keyword": "leave",
-    "score": 7.189318412375411
-  },
-  {
-    "keyword": "money",
-    "score": 7.040305657657291
-  },
-  {
-    "keyword": "friend",
-    "score": 6.889969597259614
-  },
-  {
-    "keyword": "still",
-    "score": 6.749413180301951
-  },
-  {
-    "keyword": "mean",
-    "score": 6.46208383096703
-  },
-  {
-    "keyword": "little",
-    "score": 6.369737633542691
-  },
-  {
-    "keyword": "knights",
-    "score": 6.362146685298388
-  },
-  {
-    "keyword": "done",
-    "score": 6.232828401099931
-  },
-  {
-    "keyword": "abbey",
-    "score": 6.064400057066343
-  },
-  {
-    "keyword": "away",
-    "score": 5.895454212198852
-  },
-  {
-    "keyword": "nous",
-    "score": 5.729958518831571
-  },
-  {
-    "keyword": "holy",
-    "score": 5.662662850665371
-  },
-  {
-    "keyword": "scarhand",
-    "score": 5.660714607596744
-  },
-  {
-    "keyword": "sire",
-    "score": 5.50710319954768
-  },
-  {
-    "keyword": "lads",
-    "score": 5.487991884195271
-  },
-  {
-    "keyword": "cannot",
-    "score": 5.323951364783405
-  },
-  {
-    "keyword": "thornton",
-    "score": 5.236869799983279
-  },
-  {
-    "keyword": "stay",
-    "score": 5.129124878702556
-  },
-  {
-    "keyword": "pestilence",
-    "score": 5.069988029672335
-  },
-  {
-    "keyword": "believe",
-    "score": 4.72315916737364
-  },
-  {
-    "keyword": "keep",
-    "score": 4.557309596339884
-  },
-  {
-    "keyword": "life",
-    "score": 4.527823629993744
-  },
-  {
-    "keyword": "work",
-    "score": 4.454027746457824
-  },
-  {
-    "keyword": "killed",
-    "score": 4.433721537328264
-  },
-  {
-    "keyword": "brother",
-    "score": 4.339689863966821
-  },
-  {
-    "keyword": "ready",
-    "score": 4.291168069390112
-  },
-  {
-    "keyword": "enough",
-    "score": 4.281353763328193
-  },
-  {
-    "keyword": "physician",
-    "score": 4.194649230246882
-  },
-  {
-    "keyword": "sir",
-    "score": 4.111844806039743
-  },
-  {
-    "keyword": "everything",
-    "score": 4.0691793029805945
+    "score": 10.115948403705005
   },
   {
     "keyword": "land",
-    "score": 3.9992552617169403
+    "score": 9.876485709902477
   },
   {
-    "keyword": "vous",
-    "score": 3.947462711715202
+    "keyword": "forest",
+    "score": 9.861876315653932
   },
   {
-    "keyword": "anything",
-    "score": 3.942392614167296
+    "keyword": "ood",
+    "score": 9.778562636776089
   },
   {
-    "keyword": "bring",
-    "score": 3.8962141117109823
+    "keyword": "gisbourne",
+    "score": 9.729926662795384
   },
   {
-    "keyword": "always",
-    "score": 3.8839394333143877
+    "keyword": "better",
+    "score": 9.676081455832296
   },
   {
-    "keyword": "day",
-    "score": 3.8188156082356355
+    "keyword": "money",
+    "score": 8.904005956192602
   },
   {
-    "keyword": "kate",
-    "score": 3.764029679420631
+    "keyword": "still",
+    "score": 8.577221962704517
   },
   {
-    "keyword": "save",
-    "score": 3.714121382867576
+    "keyword": "done",
+    "score": 8.221847248597607
   },
   {
-    "keyword": "knew",
-    "score": 3.71279028117191
+    "keyword": "little",
+    "score": 8.055926061500147
   },
   {
-    "keyword": "coming",
-    "score": 3.697946870159526
+    "keyword": "knights",
+    "score": 8.046325647588159
+  },
+  {
+    "keyword": "sire",
+    "score": 7.772946779774479
+  },
+  {
+    "keyword": "abbey",
+    "score": 7.669759930113814
+  },
+  {
+    "keyword": "ready",
+    "score": 7.628186698555388
+  },
+  {
+    "keyword": "stay",
+    "score": 7.475656670461082
+  },
+  {
+    "keyword": "holy",
+    "score": 7.161675387686614
+  },
+  {
+    "keyword": "lads",
+    "score": 6.940765756563976
+  },
+  {
+    "keyword": "sherif",
+    "score": 6.925922691305112
+  },
+  {
+    "keyword": "cannot",
+    "score": 6.733300650228492
+  },
+  {
+    "keyword": "keep",
+    "score": 6.393772077227756
   },
   {
     "keyword": "love",
-    "score": 3.662578174202928
+    "score": 6.35921802252512
   },
   {
-    "keyword": "ever",
-    "score": 3.596634091773092
+    "keyword": "believe",
+    "score": 6.343979952257282
   },
   {
-    "keyword": "mother",
-    "score": 3.5412458256331902
+    "keyword": "sir",
+    "score": 6.331448132883587
   },
   {
-    "keyword": "move",
-    "score": 3.40660045369399
+    "keyword": "save",
+    "score": 6.142044165718002
   },
   {
-    "keyword": "last",
-    "score": 3.3714117150403675
-  },
-  {
-    "keyword": "tuck",
-    "score": 3.2884428633110367
-  },
-  {
-    "keyword": "even",
-    "score": 3.264173680449444
-  },
-  {
-    "keyword": "made",
-    "score": 3.2236555198970267
-  },
-  {
-    "keyword": "poor",
-    "score": 3.066296485791472
-  },
-  {
-    "keyword": "name",
-    "score": 3.0541259583913414
-  },
-  {
-    "keyword": "wants",
-    "score": 3.0341345601626575
-  },
-  {
-    "keyword": "first",
-    "score": 3.0317841141117743
-  },
-  {
-    "keyword": "abbot",
-    "score": 2.9091407043592112
-  },
-  {
-    "keyword": "put",
-    "score": 2.8965376548508894
-  },
-  {
-    "keyword": "together",
-    "score": 2.843306238306468
-  },
-  {
-    "keyword": "winchester",
-    "score": 2.7932196307889967
-  },
-  {
-    "keyword": "home",
-    "score": 2.7844988573399654
-  },
-  {
-    "keyword": "archer",
-    "score": 2.7813524046605416
-  },
-  {
-    "keyword": "master",
-    "score": 2.780157970012998
-  },
-  {
-    "keyword": "gone",
-    "score": 2.727698203201358
-  },
-  {
-    "keyword": "seen",
-    "score": 2.7257668259372596
-  },
-  {
-    "keyword": "today",
-    "score": 2.7166822981315137
-  },
-  {
-    "keyword": "villagers",
-    "score": 2.703042949788304
-  },
-  {
-    "keyword": "traitor",
-    "score": 2.693225022705982
-  },
-  {
-    "keyword": "sherwood",
-    "score": 2.6154439466035053
-  },
-  {
-    "keyword": "marry",
-    "score": 2.6071335177146517
-  },
-  {
-    "keyword": "trust",
-    "score": 2.592431011234171
-  },
-  {
-    "keyword": "wrong",
-    "score": 2.59127191662022
-  },
-  {
-    "keyword": "listen",
-    "score": 2.4952616650667183
-  },
-  {
-    "keyword": "son",
-    "score": 2.424013421162752
-  },
-  {
-    "keyword": "yet",
-    "score": 2.4119996205774203
-  },
-  {
-    "keyword": "moochie",
-    "score": 2.3911973481831046
-  },
-  {
-    "keyword": "manor",
-    "score": 2.313427505384301
-  },
-  {
-    "keyword": "many",
-    "score": 2.29678833339661
-  },
-  {
-    "keyword": "understand",
-    "score": 2.2834549397735913
-  },
-  {
-    "keyword": "kiry",
-    "score": 2.2814353762293966
-  },
-  {
-    "keyword": "speak",
-    "score": 2.2329622885824976
-  },
-  {
-    "keyword": "stop",
-    "score": 2.178183101395729
-  },
-  {
-    "keyword": "god",
-    "score": 2.1732162713883323
-  },
-  {
-    "keyword": "run",
-    "score": 2.135149255433179
-  },
-  {
-    "keyword": "nobles",
-    "score": 2.08342653340937
-  },
-  {
-    "keyword": "hang",
-    "score": 2.0508757244029985
-  },
-  {
-    "keyword": "fight",
-    "score": 2.042173215599704
-  },
-  {
-    "keyword": "heard",
-    "score": 2.0207611087726147
-  },
-  {
-    "keyword": "remember",
-    "score": 1.932213610270726
-  },
-  {
-    "keyword": "lambert",
-    "score": 1.920503389731665
-  },
-  {
-    "keyword": "sheridan",
-    "score": 1.917600533804955
-  },
-  {
-    "keyword": "feel",
-    "score": 1.878481824415434
-  },
-  {
-    "keyword": "knows",
-    "score": 1.863390424369032
-  },
-  {
-    "keyword": "another",
-    "score": 1.8461349540832483
-  },
-  {
-    "keyword": "left",
-    "score": 1.842730989644729
-  },
-  {
-    "keyword": "richard",
-    "score": 1.8174126580208194
-  },
-  {
-    "keyword": "friends",
-    "score": 1.7760129076352837
-  },
-  {
-    "keyword": "idea",
-    "score": 1.7722340111058126
-  },
-  {
-    "keyword": "else",
-    "score": 1.7478525376808742
-  },
-  {
-    "keyword": "pay",
-    "score": 1.7466071384288748
-  },
-  {
-    "keyword": "safe",
-    "score": 1.73137873384615
-  },
-  {
-    "keyword": "family",
-    "score": 1.7271139545112069
-  },
-  {
-    "keyword": "without",
-    "score": 1.661418760994133
-  },
-  {
-    "keyword": "looking",
-    "score": 1.6494507232759386
-  },
-  {
-    "keyword": "used",
-    "score": 1.6494507232759386
-  },
-  {
-    "keyword": "true",
-    "score": 1.641155514429254
-  },
-  {
-    "keyword": "ask",
-    "score": 1.629753283686924
-  },
-  {
-    "keyword": "talk",
-    "score": 1.58534118677398
-  },
-  {
-    "keyword": "arrows",
-    "score": 1.5748678875100932
-  },
-  {
-    "keyword": "hold",
-    "score": 1.5616535918655767
-  },
-  {
-    "keyword": "died",
-    "score": 1.5509901691228714
-  },
-  {
-    "keyword": "ledger",
-    "score": 1.54711766924064
-  },
-  {
-    "keyword": "rubbish",
-    "score": 1.546334976124892
-  },
-  {
-    "keyword": "fire",
-    "score": 1.5409891725873441
-  },
-  {
-    "keyword": "hurt",
-    "score": 1.5127622511597367
-  },
-  {
-    "keyword": "live",
-    "score": 1.5016482939517004
-  },
-  {
-    "keyword": "horse",
-    "score": 1.4807552975234297
-  },
-  {
-    "keyword": "tomorrow",
-    "score": 1.480544698899491
-  },
-  {
-    "keyword": "les",
-    "score": 1.4804176143757617
-  },
-  {
-    "keyword": "death",
-    "score": 1.4482838138591594
-  },
-  {
-    "keyword": "coronation",
-    "score": 1.4477145112170255
-  },
-  {
-    "keyword": "old",
-    "score": 1.4317922543775017
-  },
-  {
-    "keyword": "anyone",
-    "score": 1.4172880473730474
+    "keyword": "brother",
+    "score": 5.82140729580907
   },
   {
     "keyword": "ring",
-    "score": 1.4070330263209456
+    "score": 5.773554898372132
   },
   {
-    "keyword": "already",
-    "score": 1.393151682718188
+    "keyword": "killed",
+    "score": 5.64638464289541
   },
   {
-    "keyword": "great",
-    "score": 1.379509041038337
+    "keyword": "eat",
+    "score": 5.61331681263392
   },
   {
-    "keyword": "happened",
-    "score": 1.3706075347774898
+    "keyword": "bring",
+    "score": 5.473530506968228
   },
   {
-    "keyword": "trying",
-    "score": 1.3706075347774898
+    "keyword": "enough",
+    "score": 5.4147080060053705
   },
   {
-    "keyword": "wanted",
-    "score": 1.3563712914878168
+    "keyword": "hang",
+    "score": 5.319981657628155
   },
   {
-    "keyword": "come come",
-    "score": 1.3492820828983618
+    "keyword": "physician",
+    "score": 5.305051164878706
   },
   {
-    "keyword": "fool",
-    "score": 1.3439904484827934
+    "keyword": "rest",
+    "score": 5.149559717090975
+  },
+  {
+    "keyword": "tuck",
+    "score": 5.085103574548623
+  },
+  {
+    "keyword": "ill",
+    "score": 5.011550789616777
+  },
+  {
+    "keyword": "two",
+    "score": 4.9411021328910705
+  },
+  {
+    "keyword": "kate",
+    "score": 4.760438582434978
+  },
+  {
+    "keyword": "archer",
+    "score": 4.739478983322401
+  },
+  {
+    "keyword": "knew",
+    "score": 4.69563515920546
+  },
+  {
+    "keyword": "mother",
+    "score": 4.602876258022919
+  },
+  {
+    "keyword": "live",
+    "score": 4.2955963255890826
+  },
+  {
+    "keyword": "name",
+    "score": 4.125278879602625
+  },
+  {
+    "keyword": "made",
+    "score": 4.077017298056851
+  },
+  {
+    "keyword": "poor",
+    "score": 4.012312927261693
+  },
+  {
+    "keyword": "war",
+    "score": 3.8756242479682377
+  },
+  {
+    "keyword": "traitor",
+    "score": 3.8723563014129585
+  },
+  {
+    "keyword": "hear",
+    "score": 3.8430845682928663
+  },
+  {
+    "keyword": "listen",
+    "score": 3.7929090996649117
+  },
+  {
+    "keyword": "trust",
+    "score": 3.7634749785434156
+  },
+  {
+    "keyword": "home",
+    "score": 3.736704180705864
+  },
+  {
+    "keyword": "run",
+    "score": 3.7060009938430967
+  },
+  {
+    "keyword": "marry",
+    "score": 3.6186784495991855
+  },
+  {
+    "keyword": "fight",
+    "score": 3.614672451651046
+  },
+  {
+    "keyword": "master",
+    "score": 3.596259033513509
+  },
+  {
+    "keyword": "together",
+    "score": 3.5959824632933217
+  },
+  {
+    "keyword": "winchester",
+    "score": 3.5326369960157766
+  },
+  {
+    "keyword": "seen",
+    "score": 3.5078084815500676
+  },
+  {
+    "keyword": "gone",
+    "score": 3.449770823740423
+  },
+  {
+    "keyword": "today",
+    "score": 3.4358388030123073
+  },
+  {
+    "keyword": "villagers",
+    "score": 3.418588864615892
+  },
+  {
+    "keyword": "eve",
+    "score": 3.417420638543069
+  },
+  {
+    "keyword": "wrong",
+    "score": 3.387163704631049
+  },
+  {
+    "keyword": "speak",
+    "score": 3.321881888027282
+  },
+  {
+    "keyword": "erm",
+    "score": 3.253469151460142
+  },
+  {
+    "keyword": "understand",
+    "score": 3.225408431536954
+  },
+  {
+    "keyword": "talk",
+    "score": 3.0809515688688105
+  },
+  {
+    "keyword": "god",
+    "score": 3.061770592668266
+  },
+  {
+    "keyword": "yet",
+    "score": 3.050500934515119
+  },
+  {
+    "keyword": "horse",
+    "score": 3.0297305713101275
+  },
+  {
+    "keyword": "moochie",
+    "score": 3.0241919123919283
+  },
+  {
+    "keyword": "though",
+    "score": 3.0110742198427953
+  },
+  {
+    "keyword": "manor",
+    "score": 2.925834940810793
   },
   {
     "keyword": "may",
-    "score": 1.3339260224052858
+    "score": 2.922972125210877
   },
   {
-    "keyword": "turn",
-    "score": 1.3296495847413456
+    "keyword": "tax",
+    "score": 2.8950465443025752
   },
   {
-    "keyword": "protect",
-    "score": 1.318675187994886
-  },
-  {
-    "keyword": "pas",
-    "score": 1.2958621191749993
-  },
-  {
-    "keyword": "horses",
-    "score": 1.293645659327909
-  },
-  {
-    "keyword": "found",
-    "score": 1.2846572976889115
-  },
-  {
-    "keyword": "shut",
-    "score": 1.2846572976889115
-  },
-  {
-    "keyword": "saw",
-    "score": 1.2846572976889115
-  },
-  {
-    "keyword": "arrow",
-    "score": 1.2817320848426952
+    "keyword": "pay",
+    "score": 2.8867621829477486
   },
   {
     "keyword": "care",
-    "score": 1.2770488323528713
+    "score": 2.883259116119251
   },
   {
-    "keyword": "water",
-    "score": 1.2724160074643085
+    "keyword": "rob",
+    "score": 2.8205720876065543
   },
   {
-    "keyword": "treasure",
-    "score": 1.2653405814151326
+    "keyword": "gonna",
+    "score": 2.8037214513659015
   },
   {
-    "keyword": "alone",
-    "score": 1.263105028432651
+    "keyword": "safe",
+    "score": 2.7103307464137765
+  },
+  {
+    "keyword": "remember",
+    "score": 2.661270867531477
   },
   {
     "keyword": "word",
-    "score": 1.2527665797488285
+    "score": 2.6546542890921
   },
   {
-    "keyword": "wife",
-    "score": 1.251669876580002
+    "keyword": "nobles",
+    "score": 2.6349484191201507
   },
   {
-    "keyword": "lady",
-    "score": 1.2425189355773234
+    "keyword": "heard",
+    "score": 2.5829188709320845
   },
   {
-    "keyword": "choice",
-    "score": 1.2330464609597196
+    "keyword": "arrow",
+    "score": 2.5001228653888328
   },
   {
-    "keyword": "army",
-    "score": 1.2328678177458774
+    "keyword": "hoo",
+    "score": 2.4463791662095646
+  },
+  {
+    "keyword": "lambert",
+    "score": 2.428896478728883
+  },
+  {
+    "keyword": "sheridan",
+    "score": 2.425225182663309
   },
   {
     "keyword": "quick",
-    "score": 1.2314773475513745
+    "score": 2.4081190870262454
   },
   {
-    "keyword": "sure",
-    "score": 1.2079678050292542
+    "keyword": "used",
+    "score": 2.404060652384381
+  },
+  {
+    "keyword": "guard",
+    "score": 2.4005355290525587
+  },
+  {
+    "keyword": "another",
+    "score": 2.334841330250206
+  },
+  {
+    "keyword": "richard",
+    "score": 2.2985157063851056
+  },
+  {
+    "keyword": "return",
+    "score": 2.2935620001367347
+  },
+  {
+    "keyword": "hurt",
+    "score": 2.2871392996926416
+  },
+  {
+    "keyword": "hold",
+    "score": 2.248291092971812
+  },
+  {
+    "keyword": "protect",
+    "score": 2.2406259184182145
+  },
+  {
+    "keyword": "else",
+    "score": 2.2340895633747384
+  },
+  {
+    "keyword": "thin",
+    "score": 2.1865847913461405
+  },
+  {
+    "keyword": "fire",
+    "score": 2.1744191527356302
+  },
+  {
+    "keyword": "died",
+    "score": 2.1584262381229173
+  },
+  {
+    "keyword": "ate",
+    "score": 2.1182174629011232
+  },
+  {
+    "keyword": "without",
+    "score": 2.101227313551676
+  },
+  {
+    "keyword": "fool",
+    "score": 2.0991751975941515
+  },
+  {
+    "keyword": "true",
+    "score": 2.0756000074546392
+  },
+  {
+    "keyword": "ten",
+    "score": 2.0582033147532792
+  },
+  {
+    "keyword": "ledger",
+    "score": 2.0345516176104113
+  },
+  {
+    "keyword": "late",
+    "score": 2.02841563717308
+  },
+  {
+    "keyword": "cos",
+    "score": 2.003319238368653
+  },
+  {
+    "keyword": "real",
+    "score": 1.975700352826785
+  },
+  {
+    "keyword": "happen",
+    "score": 1.9663019662727004
+  },
+  {
+    "keyword": "death",
+    "score": 1.947989486460754
+  },
+  {
+    "keyword": "crown",
+    "score": 1.9077658861804088
+  },
+  {
+    "keyword": "law",
+    "score": 1.8922214612787307
+  },
+  {
+    "keyword": "bird",
+    "score": 1.8773721754768702
+  },
+  {
+    "keyword": "watch",
+    "score": 1.8762079104265814
+  },
+  {
+    "keyword": "tomorrow",
+    "score": 1.8724725116263077
+  },
+  {
+    "keyword": "betray",
+    "score": 1.8668567571189527
+  },
+  {
+    "keyword": "side",
+    "score": 1.8562229060386566
+  },
+  {
+    "keyword": "earl",
+    "score": 1.828970521185735
+  },
+  {
+    "keyword": "burn",
+    "score": 1.7699246907324317
+  },
+  {
+    "keyword": "already",
+    "score": 1.7619449330741441
+  },
+  {
+    "keyword": "happened",
+    "score": 1.7334329284393821
+  },
+  {
+    "keyword": "choice",
+    "score": 1.7322244689495325
+  },
+  {
+    "keyword": "wood",
+    "score": 1.7154672547945127
+  },
+  {
+    "keyword": "wanted",
+    "score": 1.7154280858645161
+  },
+  {
+    "keyword": "found",
+    "score": 1.7094170557939385
+  },
+  {
+    "keyword": "shut",
+    "score": 1.7094170557939385
+  },
+  {
+    "keyword": "count",
+    "score": 1.708312006531209
+  },
+  {
+    "keyword": "honour",
+    "score": 1.6877699947070315
+  },
+  {
+    "keyword": "bow",
+    "score": 1.6827850290838497
+  },
+  {
+    "keyword": "body",
+    "score": 1.681559223909963
+  },
+  {
+    "keyword": "mind",
+    "score": 1.6727211830530646
+  },
+  {
+    "keyword": "horses",
+    "score": 1.6713783061443777
+  },
+  {
+    "keyword": "treasure",
+    "score": 1.6414663780809753
+  },
+  {
+    "keyword": "saw",
+    "score": 1.6247300595319083
+  },
+  {
+    "keyword": "hope",
+    "score": 1.6165828372775732
+  },
+  {
+    "keyword": "water",
+    "score": 1.6092482713296024
+  },
+  {
+    "keyword": "ran",
+    "score": 1.6015990861011709
+  },
+  {
+    "keyword": "lady",
+    "score": 1.600271041817655
+  },
+  {
+    "keyword": "alone",
+    "score": 1.597472502380467
+  },
+  {
+    "keyword": "wife",
+    "score": 1.5830102524218714
+  },
+  {
+    "keyword": "trap",
+    "score": 1.5808929098179896
+  },
+  {
+    "keyword": "meet",
+    "score": 1.565252356540811
+  },
+  {
+    "keyword": "army",
+    "score": 1.559230937717595
+  },
+  {
+    "keyword": "sit",
+    "score": 1.5294648284283467
   },
   {
     "keyword": "scarlett",
-    "score": 1.1972049846641841
+    "score": 1.5141274871552282
   },
   {
-    "keyword": "around",
-    "score": 1.1950452039182593
+    "keyword": "till",
+    "score": 1.5005161262393032
+  },
+  {
+    "keyword": "boy",
+    "score": 1.496430294511015
+  },
+  {
+    "keyword": "truth",
+    "score": 1.491222362414631
+  },
+  {
+    "keyword": "spy",
+    "score": 1.4907556591098472
+  },
+  {
+    "keyword": "food",
+    "score": 1.4867942214777574
+  },
+  {
+    "keyword": "peace",
+    "score": 1.4865095524712086
+  },
+  {
+    "keyword": "tried",
+    "score": 1.4861128444364324
+  },
+  {
+    "keyword": "village",
+    "score": 1.4814091591649956
+  },
+  {
+    "keyword": "escape",
+    "score": 1.4740187472327366
+  },
+  {
+    "keyword": "forgive",
+    "score": 1.465063173184707
+  },
+  {
+    "keyword": "took",
+    "score": 1.4613766667617212
+  },
+  {
+    "keyword": "head",
+    "score": 1.4454674043517648
+  },
+  {
+    "keyword": "follow",
+    "score": 1.4433923946076836
+  },
+  {
+    "keyword": "alive",
+    "score": 1.4368748773191145
+  },
+  {
+    "keyword": "messenger",
+    "score": 1.4313980060571632
+  },
+  {
+    "keyword": "end",
+    "score": 1.4307604301700814
+  },
+  {
+    "keyword": "win",
+    "score": 1.4257822073360944
+  },
+  {
+    "keyword": "taxes",
+    "score": 1.4118115706630885
+  },
+  {
+    "keyword": "child",
+    "score": 1.4087993616336991
+  },
+  {
+    "keyword": "returns",
+    "score": 1.405103159093864
+  },
+  {
+    "keyword": "surely",
+    "score": 1.405103159093864
+  },
+  {
+    "keyword": "lose",
+    "score": 1.3938120761824953
   }
 ]

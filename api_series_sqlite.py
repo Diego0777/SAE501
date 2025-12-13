@@ -16,8 +16,12 @@ def list_series():
         cursor = conn.cursor()
         
         query = """
-            SELECT s.id, s.title, s.language, s.average_rating, s.num_ratings, s.poster_url
+            SELECT s.id, s.title, s.language, 
+                   COALESCE(AVG(r.rating), 0) as average_rating,
+                   COUNT(r.id) as num_ratings,
+                   s.poster_url
             FROM series s
+            LEFT JOIN ratings r ON s.id = r.serie_id
         """
         params = []
         
@@ -25,7 +29,7 @@ def list_series():
             query += " WHERE s.language = ?"
             params.append(language)
         
-        query += " ORDER BY s.title"
+        query += " GROUP BY s.id, s.title, s.language, s.poster_url ORDER BY s.title"
         
         if limit:
             query += " LIMIT ?"
@@ -50,9 +54,14 @@ def get_series_details(title):
         cursor = conn.cursor()
         
         cursor.execute(
-            """SELECT s.id, s.title, s.language, s.average_rating, s.num_ratings, s.poster_url
+            """SELECT s.id, s.title, s.language, 
+                      COALESCE(AVG(r.rating), 0) as average_rating,
+                      COUNT(r.id) as num_ratings,
+                      s.poster_url
                FROM series s
-               WHERE s.title = ?""",
+               LEFT JOIN ratings r ON s.id = r.serie_id
+               WHERE s.title = ?
+               GROUP BY s.id, s.title, s.language, s.poster_url""",
             (title,)
         )
         serie = cursor.fetchone()

@@ -1,802 +1,802 @@
 [
   {
-    "keyword": "baseship",
-    "score": 480.27297537612105
-  },
-  {
     "keyword": "cylon",
-    "score": 365.10895088851686
-  },
-  {
-    "keyword": "cylons",
-    "score": 358.3068485366533
-  },
-  {
-    "keyword": "frakkin",
-    "score": 326.6099940488467
-  },
-  {
-    "keyword": "galactica",
-    "score": 257.27951090927246
-  },
-  {
-    "keyword": "baltar",
-    "score": 241.78996303369752
+    "score": 783.5299158620986
   },
   {
     "keyword": "frak",
-    "score": 235.50336715227914
+    "score": 600.8445373769764
+  },
+  {
+    "keyword": "cylons",
+    "score": 500.18764238155325
+  },
+  {
+    "keyword": "galactica",
+    "score": 359.15593720956696
+  },
+  {
+    "keyword": "baltar",
+    "score": 337.53290526060465
   },
   {
     "keyword": "gaius",
-    "score": 216.67955596560842
+    "score": 302.4793879697015
   },
   {
     "keyword": "adama",
-    "score": 184.4805694868512
-  },
-  {
-    "keyword": "roslin",
-    "score": 136.29923307349839
+    "score": 260.1350044005969
   },
   {
     "keyword": "fleet",
-    "score": 115.24820589806436
+    "score": 160.88369126151298
   },
   {
     "keyword": "admiral",
-    "score": 113.11534744906295
+    "score": 157.90627276254597
   },
   {
     "keyword": "raptor",
-    "score": 97.90086024564515
+    "score": 157.1973576104515
   },
   {
     "keyword": "gaeta",
-    "score": 82.45281082652981
-  },
-  {
-    "keyword": "zarek",
-    "score": 81.20891091831652
+    "score": 115.10211770578334
   },
   {
     "keyword": "caprica",
-    "score": 73.01085770681473
-  },
-  {
-    "keyword": "hera",
-    "score": 66.13928332534356
+    "score": 106.78493590289405
   },
   {
     "keyword": "kara",
-    "score": 57.33753886679756
+    "score": 80.04180914451693
   },
   {
-    "keyword": "kobol",
-    "score": 49.12649043128326
-  },
-  {
-    "keyword": "demetrius",
-    "score": 42.49583011650062
-  },
-  {
-    "keyword": "thrace",
-    "score": 41.38175510090251
-  },
-  {
-    "keyword": "ftl",
-    "score": 38.98404960633188
-  },
-  {
-    "keyword": "pegasus",
-    "score": 36.55069897216781
-  },
-  {
-    "keyword": "tigh",
-    "score": 34.10839620798055
+    "keyword": "one",
+    "score": 74.99587943766777
   },
   {
     "keyword": "ship",
-    "score": 32.315455398534425
+    "score": 71.08973654945278
   },
   {
-    "keyword": "lords kobol",
-    "score": 31.98472890250035
+    "keyword": "kobol",
+    "score": 68.57938531640943
   },
   {
-    "keyword": "boomer",
-    "score": 30.511738247772808
+    "keyword": "ftl",
+    "score": 62.10397229453214
+  },
+  {
+    "keyword": "pegasus",
+    "score": 51.02388642849588
   },
   {
     "keyword": "saul",
-    "score": 26.362862492719817
+    "score": 46.32563727419446
+  },
+  {
+    "keyword": "gonna",
+    "score": 43.15389648207148
+  },
+  {
+    "keyword": "boomer",
+    "score": 42.59364419476158
   },
   {
     "keyword": "starbuck",
-    "score": 25.648424921226457
+    "score": 35.80457712305262
   },
   {
     "keyword": "battlestar",
-    "score": 24.32142262353284
-  },
-  {
-    "keyword": "quorum",
-    "score": 24.146368606274233
+    "score": 35.71226714964822
   },
   {
     "keyword": "gods",
-    "score": 22.165274456284504
+    "score": 34.77833098581788
+  },
+  {
+    "keyword": "got",
+    "score": 30.336243228844328
   },
   {
     "keyword": "madam president",
-    "score": 19.481467920824006
+    "score": 27.195655202364925
   },
   {
     "keyword": "battlestar galactica",
-    "score": 18.918584940008294
+    "score": 26.409884256984547
   },
   {
     "keyword": "athena",
-    "score": 18.031891213760105
-  },
-  {
-    "keyword": "cally",
-    "score": 16.99090833139156
+    "score": 25.17208138981097
   },
   {
     "keyword": "sir",
-    "score": 16.306743419098343
-  },
-  {
-    "keyword": "something",
-    "score": 12.813962732043214
+    "score": 23.142430096744796
   },
   {
     "keyword": "jump",
-    "score": 12.60756442363662
-  },
-  {
-    "keyword": "hub",
-    "score": 12.551483625139005
-  },
-  {
-    "keyword": "really",
-    "score": 10.289676581889914
-  },
-  {
-    "keyword": "raiders",
-    "score": 9.877168473296553
-  },
-  {
-    "keyword": "vipers",
-    "score": 9.533186362126912
-  },
-  {
-    "keyword": "earth",
-    "score": 9.404471122638972
-  },
-  {
-    "keyword": "find",
-    "score": 9.103206476940128
-  },
-  {
-    "keyword": "thank",
-    "score": 7.762873147421928
-  },
-  {
-    "keyword": "colonial",
-    "score": 7.632900049905965
-  },
-  {
-    "keyword": "please",
-    "score": 7.47876735298457
-  },
-  {
-    "keyword": "say",
-    "score": 7.246353019893746
-  },
-  {
-    "keyword": "viper",
-    "score": 7.064980104438575
-  },
-  {
-    "keyword": "never",
-    "score": 6.794115874206704
-  },
-  {
-    "keyword": "anders",
-    "score": 6.677524451394865
+    "score": 22.365146419153437
   },
   {
     "keyword": "god",
-    "score": 6.675845147069645
+    "score": 16.41648755822416
+  },
+  {
+    "keyword": "viper",
+    "score": 14.749757424859766
+  },
+  {
+    "keyword": "raiders",
+    "score": 13.788286861500557
+  },
+  {
+    "keyword": "earth",
+    "score": 13.128412861461078
+  },
+  {
+    "keyword": "colonial",
+    "score": 10.912880659694444
   },
   {
     "keyword": "ships",
-    "score": 6.579734370330453
+    "score": 10.515485855055415
   },
   {
     "keyword": "lords",
-    "score": 6.51153896054792
-  },
-  {
-    "keyword": "way",
-    "score": 6.2530604749450625
-  },
-  {
-    "keyword": "still",
-    "score": 6.1761692711467555
-  },
-  {
-    "keyword": "president",
-    "score": 5.937862162709149
-  },
-  {
-    "keyword": "even",
-    "score": 5.880909808634232
-  },
-  {
-    "keyword": "give",
-    "score": 5.7206985055212805
-  },
-  {
-    "keyword": "pilots",
-    "score": 5.450955108276594
-  },
-  {
-    "keyword": "madame president",
-    "score": 5.395959638457084
-  },
-  {
-    "keyword": "hybrid",
-    "score": 5.385920490752161
-  },
-  {
-    "keyword": "thought",
-    "score": 5.280056026947865
-  },
-  {
-    "keyword": "raider",
-    "score": 5.188363439981457
-  },
-  {
-    "keyword": "five",
-    "score": 4.877509416845772
-  },
-  {
-    "keyword": "done",
-    "score": 4.714730814197849
-  },
-  {
-    "keyword": "said",
-    "score": 4.706334526775449
-  },
-  {
-    "keyword": "away",
-    "score": 4.66309748772942
-  },
-  {
-    "keyword": "believe",
-    "score": 4.111616909525426
-  },
-  {
-    "keyword": "much",
-    "score": 3.9621611242227126
-  },
-  {
-    "keyword": "colony",
-    "score": 3.7919542872325263
-  },
-  {
-    "keyword": "hell",
-    "score": 3.781802792302113
+    "score": 9.089949952823511
   },
   {
     "keyword": "hear",
-    "score": 3.612008758774736
+    "score": 8.988145008471356
   },
   {
-    "keyword": "made",
-    "score": 3.6108289491572427
+    "keyword": "hybrid",
+    "score": 8.903363099321082
   },
   {
-    "keyword": "keep",
-    "score": 3.5735377655464275
+    "keyword": "still",
+    "score": 8.621782026497531
   },
   {
-    "keyword": "listen",
-    "score": 3.5723391288608637
-  },
-  {
-    "keyword": "stay",
-    "score": 3.420252679945015
-  },
-  {
-    "keyword": "put",
-    "score": 3.3727721468276126
-  },
-  {
-    "keyword": "resurrection",
-    "score": 3.3507406004032867
-  },
-  {
-    "keyword": "order",
-    "score": 3.1652830120530977
-  },
-  {
-    "keyword": "enough",
-    "score": 3.107601097224573
-  },
-  {
-    "keyword": "deck",
-    "score": 3.050992608844974
-  },
-  {
-    "keyword": "yes sir",
-    "score": 2.9540609531261492
-  },
-  {
-    "keyword": "chief",
-    "score": 2.930080418170018
-  },
-  {
-    "keyword": "launch",
-    "score": 2.8827021524709715
-  },
-  {
-    "keyword": "laura",
-    "score": 2.857394321448623
-  },
-  {
-    "keyword": "aboard",
-    "score": 2.8142770818353253
-  },
-  {
-    "keyword": "feel",
-    "score": 2.8043933852893312
-  },
-  {
-    "keyword": "colonies",
-    "score": 2.7377065193603123
-  },
-  {
-    "keyword": "anything",
-    "score": 2.7351299848310244
-  },
-  {
-    "keyword": "better",
-    "score": 2.7351299848310244
-  },
-  {
-    "keyword": "life",
-    "score": 2.7187556084542344
-  },
-  {
-    "keyword": "mean",
-    "score": 2.6577372611351873
-  },
-  {
-    "keyword": "human",
-    "score": 2.47508735733875
-  },
-  {
-    "keyword": "madam",
-    "score": 2.4750357230097415
-  },
-  {
-    "keyword": "wrong",
-    "score": 2.454191578018219
-  },
-  {
-    "keyword": "wanted",
-    "score": 2.449756493903682
-  },
-  {
-    "keyword": "told",
-    "score": 2.4350351962983043
-  },
-  {
-    "keyword": "another",
-    "score": 2.3354008933604633
-  },
-  {
-    "keyword": "leave",
-    "score": 2.258131555002521
-  },
-  {
-    "keyword": "last",
-    "score": 2.235924997300935
-  },
-  {
-    "keyword": "father",
-    "score": 2.210245254947604
-  },
-  {
-    "keyword": "first",
-    "score": 2.1995064869043155
-  },
-  {
-    "keyword": "understand",
-    "score": 2.1832986852292007
-  },
-  {
-    "keyword": "work",
-    "score": 2.1752076688650126
-  },
-  {
-    "keyword": "crew",
-    "score": 2.129638968333977
-  },
-  {
-    "keyword": "remember",
-    "score": 2.1070701336217414
-  },
-  {
-    "keyword": "coordinates",
-    "score": 2.0756304136499266
-  },
-  {
-    "keyword": "ellen",
-    "score": 2.048974290985675
-  },
-  {
-    "keyword": "guess",
-    "score": 2.03493177732335
-  },
-  {
-    "keyword": "ready",
-    "score": 2.022288084629875
-  },
-  {
-    "keyword": "talk",
-    "score": 1.9765892569169357
-  },
-  {
-    "keyword": "anna",
-    "score": 1.9729888338455417
-  },
-  {
-    "keyword": "three",
-    "score": 1.8947413947690643
-  },
-  {
-    "keyword": "nothing",
-    "score": 1.879169270372365
-  },
-  {
-    "keyword": "trust",
-    "score": 1.85829460525587
-  },
-  {
-    "keyword": "felix",
-    "score": 1.8568556245266952
-  },
-  {
-    "keyword": "dead",
-    "score": 1.8535082842742039
-  },
-  {
-    "keyword": "many",
-    "score": 1.8366667797589002
-  },
-  {
-    "keyword": "wait",
-    "score": 1.7929002236067655
-  },
-  {
-    "keyword": "love",
-    "score": 1.7872779997824988
-  },
-  {
-    "keyword": "damn",
-    "score": 1.7738648889525803
-  },
-  {
-    "keyword": "truth",
-    "score": 1.7623082091318139
-  },
-  {
-    "keyword": "cain",
-    "score": 1.7341547286956096
-  },
-  {
-    "keyword": "without",
-    "score": 1.7218226410642596
-  },
-  {
-    "keyword": "coming",
-    "score": 1.7077650031918363
-  },
-  {
-    "keyword": "knew",
-    "score": 1.6787897902700653
+    "keyword": "president",
+    "score": 8.375120468247246
   },
   {
     "keyword": "lee",
-    "score": 1.634565911795074
+    "score": 8.321942590992276
   },
   {
-    "keyword": "command",
-    "score": 1.6287787342571316
+    "keyword": "thought",
+    "score": 7.728241764294656
   },
   {
-    "keyword": "little",
-    "score": 1.6254805210693117
+    "keyword": "pilots",
+    "score": 7.609400700745031
   },
   {
-    "keyword": "old",
-    "score": 1.622111708415733
+    "keyword": "madame president",
+    "score": 7.532628363004261
   },
   {
-    "keyword": "colonel",
-    "score": 1.6150806520278802
+    "keyword": "five",
+    "score": 7.047283383804739
   },
   {
-    "keyword": "saw",
-    "score": 1.6091696096804862
+    "keyword": "done",
+    "score": 6.921388903562941
   },
   {
-    "keyword": "everything",
-    "score": 1.5498722212381306
+    "keyword": "order",
+    "score": 6.846820206538843
   },
   {
-    "keyword": "thinking",
-    "score": 1.5471183513151419
+    "keyword": "believe",
+    "score": 6.67789978172386
   },
   {
-    "keyword": "idea",
-    "score": 1.5471183513151419
+    "keyword": "hell",
+    "score": 6.2979779117678
   },
   {
-    "keyword": "found",
-    "score": 1.540863051831039
+    "keyword": "two",
+    "score": 6.1072992857591535
   },
   {
-    "keyword": "left",
-    "score": 1.540544666071965
+    "keyword": "listen",
+    "score": 5.641413856902302
   },
   {
-    "keyword": "move",
-    "score": 1.5222349670885655
+    "keyword": "human",
+    "score": 5.587256358897274
   },
   {
-    "keyword": "captain",
-    "score": 1.5165117809822053
+    "keyword": "keep",
+    "score": 5.389491931057829
   },
   {
-    "keyword": "new",
-    "score": 1.509361471703131
+    "keyword": "stay",
+    "score": 5.239183905897262
   },
   {
-    "keyword": "fire",
-    "score": 1.5067158328939612
+    "keyword": "thin",
+    "score": 5.21465225514544
   },
   {
-    "keyword": "happened",
-    "score": 1.50243336179305
+    "keyword": "made",
+    "score": 5.040629355811117
   },
   {
-    "keyword": "humans",
-    "score": 1.5002795560142328
+    "keyword": "madam",
+    "score": 4.829856089201984
   },
   {
-    "keyword": "around",
-    "score": 1.4929137286648337
+    "keyword": "resurrection",
+    "score": 4.677552349313864
   },
   {
-    "keyword": "child",
-    "score": 1.4921933217790238
+    "keyword": "anna",
+    "score": 4.6545431812163045
   },
   {
-    "keyword": "hybrids",
-    "score": 1.4899661371583646
+    "keyword": "launch",
+    "score": 4.519797916981379
   },
   {
-    "keyword": "taking",
-    "score": 1.47819539790238
+    "keyword": "talk",
+    "score": 4.498273256473557
   },
   {
-    "keyword": "years",
-    "score": 1.4544205496390301
+    "keyword": "deck",
+    "score": 4.452725759141084
+  },
+  {
+    "keyword": "ready",
+    "score": 4.395280496230081
+  },
+  {
+    "keyword": "enough",
+    "score": 4.3381355188472766
+  },
+  {
+    "keyword": "chief",
+    "score": 4.090320970247636
+  },
+  {
+    "keyword": "laura",
+    "score": 3.98885294779293
+  },
+  {
+    "keyword": "side",
+    "score": 3.937792383670221
+  },
+  {
+    "keyword": "aboard",
+    "score": 3.928662330403797
+  },
+  {
+    "keyword": "wait",
+    "score": 3.8464185387970247
+  },
+  {
+    "keyword": "better",
+    "score": 3.818174908760569
   },
   {
     "keyword": "die",
-    "score": 1.4381298401038716
+    "score": 3.741853635721031
   },
   {
-    "keyword": "trying",
-    "score": 1.433802719819546
+    "keyword": "love",
+    "score": 3.5889709444192026
   },
   {
-    "keyword": "someone",
-    "score": 1.400170601817532
+    "keyword": "gotta",
+    "score": 3.5887204690751955
   },
   {
-    "keyword": "care",
-    "score": 1.3824900480978013
+    "keyword": "command",
+    "score": 3.584789270398308
   },
   {
-    "keyword": "always",
-    "score": 1.3782140154253932
+    "keyword": "wrong",
+    "score": 3.572049740795946
   },
   {
-    "keyword": "orders",
-    "score": 1.3754137460759774
-  },
-  {
-    "keyword": "together",
-    "score": 1.365725723170798
-  },
-  {
-    "keyword": "everyone",
-    "score": 1.3438895385624874
-  },
-  {
-    "keyword": "matter",
-    "score": 1.3421180012095912
-  },
-  {
-    "keyword": "weapons",
-    "score": 1.2987097785426251
-  },
-  {
-    "keyword": "ever",
-    "score": 1.2808105100625078
-  },
-  {
-    "keyword": "talking",
-    "score": 1.2798528933282003
-  },
-  {
-    "keyword": "gone",
-    "score": 1.2742650430413927
-  },
-  {
-    "keyword": "rest",
-    "score": 1.2592681259953655
-  },
-  {
-    "keyword": "start",
-    "score": 1.2545824015021043
-  },
-  {
-    "keyword": "hands",
-    "score": 1.240689618380072
-  },
-  {
-    "keyword": "day",
-    "score": 1.2125891240525848
-  },
-  {
-    "keyword": "used",
-    "score": 1.1929610534587491
-  },
-  {
-    "keyword": "already",
-    "score": 1.1929610534587491
-  },
-  {
-    "keyword": "clear",
-    "score": 1.177810699566227
-  },
-  {
-    "keyword": "kind",
-    "score": 1.1620342002643642
-  },
-  {
-    "keyword": "www seriestele",
-    "score": 1.1571441135527767
-  },
-  {
-    "keyword": "live",
-    "score": 1.149846436931424
-  },
-  {
-    "keyword": "heard",
-    "score": 1.1305487824578166
-  },
-  {
-    "keyword": "took",
-    "score": 1.1179311721672878
-  },
-  {
-    "keyword": "kendra",
-    "score": 1.1067141871720791
-  },
-  {
-    "keyword": "getting",
-    "score": 1.0943106981654236
-  },
-  {
-    "keyword": "human race",
-    "score": 1.0895040975422534
+    "keyword": "crew",
+    "score": 3.538577565280662
   },
   {
     "keyword": "war",
-    "score": 1.0871175556695178
+    "score": 3.458444278999446
   },
   {
-    "keyword": "true",
-    "score": 1.0759424647764386
+    "keyword": "wanted",
+    "score": 3.4198004590170017
   },
   {
-    "keyword": "looking",
-    "score": 1.0696314794568802
+    "keyword": "told",
+    "score": 3.3992498857524835
   },
   {
-    "keyword": "home",
-    "score": 1.0674019885541854
+    "keyword": "damn",
+    "score": 3.2939723873584557
   },
   {
-    "keyword": "wireless",
-    "score": 1.0602123310642122
+    "keyword": "another",
+    "score": 3.260162823112345
   },
   {
-    "keyword": "lieutenant",
-    "score": 1.0484228059452703
+    "keyword": "child",
+    "score": 3.195613795300905
   },
   {
-    "keyword": "shut",
-    "score": 1.0425051067978632
+    "keyword": "live",
+    "score": 3.169752339469339
   },
   {
-    "keyword": "soon",
-    "score": 1.0186938175521787
+    "keyword": "real",
+    "score": 3.1562537152271823
+  },
+  {
+    "keyword": "understand",
+    "score": 3.149009823861718
+  },
+  {
+    "keyword": "remember",
+    "score": 3.12457425955841
+  },
+  {
+    "keyword": "start",
+    "score": 3.1086611334905068
+  },
+  {
+    "keyword": "red",
+    "score": 3.0935766939074543
+  },
+  {
+    "keyword": "father",
+    "score": 3.085448597123772
+  },
+  {
+    "keyword": "trust",
+    "score": 2.9936439210543564
+  },
+  {
+    "keyword": "care",
+    "score": 2.9851842522141685
+  },
+  {
+    "keyword": "guess",
+    "score": 2.937015781312087
+  },
+  {
+    "keyword": "ellen",
+    "score": 2.9338978272469944
+  },
+  {
+    "keyword": "rest",
+    "score": 2.9238910713011927
+  },
+  {
+    "keyword": "coordinates",
+    "score": 2.897529554065447
+  },
+  {
+    "keyword": "ten",
+    "score": 2.8266504471335514
+  },
+  {
+    "keyword": "read",
+    "score": 2.793858235774777
+  },
+  {
+    "keyword": "may",
+    "score": 2.78689997907374
+  },
+  {
+    "keyword": "dead",
+    "score": 2.736930931830468
+  },
+  {
+    "keyword": "three",
+    "score": 2.7260895938488785
+  },
+  {
+    "keyword": "happen",
+    "score": 2.708043768909566
+  },
+  {
+    "keyword": "felix",
+    "score": 2.592125271588059
+  },
+  {
+    "keyword": "stand",
+    "score": 2.591902975990032
   },
   {
     "keyword": "actual",
-    "score": 1.0145999770250151
+    "score": 2.583695837730019
   },
   {
-    "keyword": "rendezvous",
-    "score": 0.9922712571840767
+    "keyword": "ass",
+    "score": 2.565674167910511
   },
   {
-    "keyword": "jumps",
-    "score": 0.9868558554514032
+    "keyword": "captain",
+    "score": 2.530763997331536
   },
   {
-    "keyword": "bring",
-    "score": 0.9706073094230842
+    "keyword": "clear",
+    "score": 2.530579052660911
   },
   {
-    "keyword": "yet",
-    "score": 0.9680328012031008
+    "keyword": "truth",
+    "score": 2.4601393801858262
+  },
+  {
+    "keyword": "without",
+    "score": 2.4036225122417956
+  },
+  {
+    "keyword": "fire",
+    "score": 2.39750700796825
+  },
+  {
+    "keyword": "com",
+    "score": 2.3457194243630655
+  },
+  {
+    "keyword": "knew",
+    "score": 2.3435496995908163
+  },
+  {
+    "keyword": "end",
+    "score": 2.3251658822696157
+  },
+  {
+    "keyword": "found",
+    "score": 2.317313628097771
   },
   {
     "keyword": "line",
-    "score": 0.9673334280411245
+    "score": 2.2765933104724128
   },
   {
-    "keyword": "seriestele net",
-    "score": 0.9663104277325101
+    "keyword": "little",
+    "score": 2.2691312568858875
+  },
+  {
+    "keyword": "colonel",
+    "score": 2.254613292749407
+  },
+  {
+    "keyword": "saw",
+    "score": 2.2463616214575084
+  },
+  {
+    "keyword": "head",
+    "score": 2.21937389345975
+  },
+  {
+    "keyword": "able",
+    "score": 2.1370615580188312
+  },
+  {
+    "keyword": "used",
+    "score": 2.1209344478923544
+  },
+  {
+    "keyword": "act",
+    "score": 2.1006252187946237
+  },
+  {
+    "keyword": "happened",
+    "score": 2.0973604164693533
+  },
+  {
+    "keyword": "humans",
+    "score": 2.0943537560076453
+  },
+  {
+    "keyword": "civilian",
+    "score": 2.0728998409997574
+  },
+  {
+    "keyword": "years",
+    "score": 2.0303356989304397
+  },
+  {
+    "keyword": "together",
+    "score": 1.986380548590647
+  },
+  {
+    "keyword": "orders",
+    "score": 1.9678970666049749
+  },
+  {
+    "keyword": "led",
+    "score": 1.9407027602885496
+  },
+  {
+    "keyword": "aid",
+    "score": 1.9317710478144947
+  },
+  {
+    "keyword": "weapons",
+    "score": 1.8129672511706216
+  },
+  {
+    "keyword": "talking",
+    "score": 1.786643498229299
+  },
+  {
+    "keyword": "gone",
+    "score": 1.7788429951902023
+  },
+  {
+    "keyword": "lose",
+    "score": 1.7660131473833687
+  },
+  {
+    "keyword": "kill",
+    "score": 1.7490778281454389
+  },
+  {
+    "keyword": "board",
+    "score": 1.7445742955266714
+  },
+  {
+    "keyword": "hands",
+    "score": 1.7319725193064919
+  },
+  {
+    "keyword": "shut",
+    "score": 1.697433937361159
+  },
+  {
+    "keyword": "word",
+    "score": 1.6776529563622615
+  },
+  {
+    "keyword": "somethin",
+    "score": 1.670596043120545
+  },
+  {
+    "keyword": "already",
+    "score": 1.6653446039882356
+  },
+  {
+    "keyword": "lead",
+    "score": 1.6565139910701274
+  },
+  {
+    "keyword": "cut",
+    "score": 1.651817440540403
+  },
+  {
+    "keyword": "www seriestele",
+    "score": 1.6153450273626233
+  },
+  {
+    "keyword": "home",
+    "score": 1.5828503877586613
+  },
+  {
+    "keyword": "heard",
+    "score": 1.578218592260772
+  },
+  {
+    "keyword": "wireless",
+    "score": 1.5779033012072583
+  },
+  {
+    "keyword": "hope",
+    "score": 1.5771730428025543
+  },
+  {
+    "keyword": "recon",
+    "score": 1.5710637317012452
+  },
+  {
+    "keyword": "mind",
+    "score": 1.5700203616325448
+  },
+  {
+    "keyword": "took",
+    "score": 1.5606047153017242
+  },
+  {
+    "keyword": "kendra",
+    "score": 1.5449460771755017
+  },
+  {
+    "keyword": "bring",
+    "score": 1.5218183021707556
+  },
+  {
+    "keyword": "human race",
+    "score": 1.520921210801123
+  },
+  {
+    "keyword": "till",
+    "score": 1.5173090975803663
+  },
+  {
+    "keyword": "true",
+    "score": 1.5019895014361446
+  },
+  {
+    "keyword": "soon",
+    "score": 1.4927417172418658
+  },
+  {
+    "keyword": "ran",
+    "score": 1.4823078774494116
+  },
+  {
+    "keyword": "qua",
+    "score": 1.4638944206245956
+  },
+  {
+    "keyword": "lieutenant",
+    "score": 1.4635727273049106
+  },
+  {
+    "keyword": "jumps",
+    "score": 1.4506229694491566
+  },
+  {
+    "keyword": "dee",
+    "score": 1.4497565099639016
+  },
+  {
+    "keyword": "hold",
+    "score": 1.4104899000278341
+  },
+  {
+    "keyword": "wanna",
+    "score": 1.3954359655568072
+  },
+  {
+    "keyword": "cap",
+    "score": 1.3913855448533088
+  },
+  {
+    "keyword": "report",
+    "score": 1.390284692866952
+  },
+  {
+    "keyword": "yet",
+    "score": 1.387267695842291
+  },
+  {
+    "keyword": "control",
+    "score": 1.3607334532237794
+  },
+  {
+    "keyword": "planet",
+    "score": 1.360372338781362
+  },
+  {
+    "keyword": "name",
+    "score": 1.3525599044991916
+  },
+  {
+    "keyword": "others",
+    "score": 1.351904682679199
   },
   {
     "keyword": "seriestele",
-    "score": 0.9663104277325101
+    "score": 1.348945845244683
+  },
+  {
+    "keyword": "seriestele net",
+    "score": 1.348945845244683
   },
   {
     "keyword": "seen",
-    "score": 0.9621100658178622
-  },
-  {
-    "keyword": "ask",
-    "score": 0.9466818794764248
-  },
-  {
-    "keyword": "along",
-    "score": 0.9369085116581732
+    "score": 1.3430822422133217
   },
   {
     "keyword": "civilians",
-    "score": 0.929836171109288
+    "score": 1.2980286704753512
   },
   {
     "keyword": "else",
-    "score": 0.9251752162271186
+    "score": 1.2915220908682898
   },
   {
-    "keyword": "try",
-    "score": 0.9251752162271186
+    "keyword": "sam",
+    "score": 1.2873813619716978
+  },
+  {
+    "keyword": "afraid",
+    "score": 1.271352729471979
+  },
+  {
+    "keyword": "killed",
+    "score": 1.271352729471979
+  },
+  {
+    "keyword": "waiting",
+    "score": 1.2661052704402045
+  },
+  {
+    "keyword": "half",
+    "score": 1.2616923068298067
+  },
+  {
+    "keyword": "ago",
+    "score": 1.2439084085224525
+  },
+  {
+    "keyword": "perfect",
+    "score": 1.2435905146215762
+  },
+  {
+    "keyword": "alone",
+    "score": 1.2417175935659017
+  },
+  {
+    "keyword": "tribe",
+    "score": 1.2391085583872838
+  },
+  {
+    "keyword": "body",
+    "score": 1.2304657918149777
+  },
+  {
+    "keyword": "mission",
+    "score": 1.2281985808989162
+  },
+  {
+    "keyword": "eve",
+    "score": 1.2274390715750934
+  },
+  {
+    "keyword": "ally",
+    "score": 1.2184842630675183
+  },
+  {
+    "keyword": "destroy",
+    "score": 1.218075136510067
+  },
+  {
+    "keyword": "lost",
+    "score": 1.200761510150461
+  },
+  {
+    "keyword": "safe",
+    "score": 1.1848655348607897
+  },
+  {
+    "keyword": "system",
+    "score": 1.1720116672204475
+  },
+  {
+    "keyword": "eat",
+    "score": 1.1666021569648592
+  },
+  {
+    "keyword": "humanity",
+    "score": 1.160926120702597
+  },
+  {
+    "keyword": "target",
+    "score": 1.157349245257426
+  },
+  {
+    "keyword": "sit",
+    "score": 1.1479166305729929
+  },
+  {
+    "keyword": "battle",
+    "score": 1.1308141347805525
+  },
+  {
+    "keyword": "run",
+    "score": 1.1089833776127511
   }
 ]

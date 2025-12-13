@@ -1,802 +1,802 @@
 [
   {
     "keyword": "britta",
-    "score": 921.9151549506377
+    "score": 1360.7052314562877
   },
   {
     "keyword": "abed",
-    "score": 741.7099796307053
-  },
-  {
-    "keyword": "greendale",
-    "score": 217.37571596696762
-  },
-  {
-    "keyword": "winger",
-    "score": 51.66275327005911
+    "score": 1094.7305118993036
   },
   {
     "keyword": "jeff",
-    "score": 35.27377921765343
+    "score": 55.30432592413995
+  },
+  {
+    "keyword": "one",
+    "score": 51.12635391737449
+  },
+  {
+    "keyword": "got",
+    "score": 49.12827035285241
+  },
+  {
+    "keyword": "gonna",
+    "score": 47.40681030265939
   },
   {
     "keyword": "troy",
-    "score": 29.772296764583267
+    "score": 46.955185675573546
   },
   {
     "keyword": "pierce",
-    "score": 29.720229107612504
+    "score": 43.86571910619377
   },
   {
     "keyword": "vaughn",
-    "score": 23.948874559077687
-  },
-  {
-    "keyword": "shirley",
-    "score": 15.816633288170863
-  },
-  {
-    "keyword": "study group",
-    "score": 15.08585817190835
-  },
-  {
-    "keyword": "really",
-    "score": 14.639304737412226
-  },
-  {
-    "keyword": "class",
-    "score": 14.566134660546162
-  },
-  {
-    "keyword": "say",
-    "score": 14.345429761181002
+    "score": 35.34745982321144
   },
   {
     "keyword": "chang",
-    "score": 13.1641378702532
+    "score": 31.15456781252441
+  },
+  {
+    "keyword": "class",
+    "score": 26.328606143401068
+  },
+  {
+    "keyword": "shirley",
+    "score": 23.344638108690276
   },
   {
     "keyword": "slater",
-    "score": 12.716940397393483
+    "score": 18.76963105978839
   },
   {
     "keyword": "spanish",
-    "score": 12.655579650675895
+    "score": 18.67906536226587
   },
   {
     "keyword": "annie",
-    "score": 12.056557017529313
-  },
-  {
-    "keyword": "something",
-    "score": 8.0594919696829
-  },
-  {
-    "keyword": "never",
-    "score": 7.9627571414834675
-  },
-  {
-    "keyword": "study",
-    "score": 6.895242561403768
-  },
-  {
-    "keyword": "group",
-    "score": 6.486137374404455
-  },
-  {
-    "keyword": "even",
-    "score": 6.443760319042273
-  },
-  {
-    "keyword": "pottery",
-    "score": 6.006655179983518
-  },
-  {
-    "keyword": "team fabrique",
-    "score": 5.983705723973033
-  },
-  {
-    "keyword": "said",
-    "score": 5.230435971694974
-  },
-  {
-    "keyword": "thought",
-    "score": 4.410481719912519
-  },
-  {
-    "keyword": "school",
-    "score": 4.378023632405633
-  },
-  {
-    "keyword": "getting",
-    "score": 4.302853530068727
-  },
-  {
-    "keyword": "day",
-    "score": 4.173431618019225
-  },
-  {
-    "keyword": "nice",
-    "score": 4.125970302184892
-  },
-  {
-    "keyword": "much",
-    "score": 4.03552700460849
-  },
-  {
-    "keyword": "professor",
-    "score": 3.963287076377558
-  },
-  {
-    "keyword": "everyone",
-    "score": 3.8524341872952417
-  },
-  {
-    "keyword": "talk",
-    "score": 3.851921628973269
-  },
-  {
-    "keyword": "mean",
-    "score": 3.7910169439892742
+    "score": 17.79493494494247
   },
   {
     "keyword": "real",
-    "score": 3.7801591363271996
+    "score": 13.922727122236394
   },
   {
-    "keyword": "friend",
-    "score": 3.666458128338127
+    "keyword": "ing",
+    "score": 11.992095414090553
   },
   {
-    "keyword": "thank",
-    "score": 3.4279064440651905
-  },
-  {
-    "keyword": "thanks",
-    "score": 3.388552815357943
-  },
-  {
-    "keyword": "little",
-    "score": 3.31951785164069
-  },
-  {
-    "keyword": "believe",
-    "score": 3.2727897316731567
-  },
-  {
-    "keyword": "trying",
-    "score": 3.2466264499502304
-  },
-  {
-    "keyword": "semester",
-    "score": 3.242754925290038
-  },
-  {
-    "keyword": "ever",
-    "score": 3.2209083163881194
-  },
-  {
-    "keyword": "someone",
-    "score": 3.176041504883705
-  },
-  {
-    "keyword": "way",
-    "score": 3.146137885663157
-  },
-  {
-    "keyword": "actually",
-    "score": 3.1306841804209284
-  },
-  {
-    "keyword": "great",
-    "score": 3.089446607383827
-  },
-  {
-    "keyword": "name",
-    "score": 3.0228018125390226
-  },
-  {
-    "keyword": "made",
-    "score": 2.9033924242037674
-  },
-  {
-    "keyword": "students",
-    "score": 2.8867039474620513
-  },
-  {
-    "keyword": "together",
-    "score": 2.8733903666941494
-  },
-  {
-    "keyword": "first",
-    "score": 2.8620192717747095
-  },
-  {
-    "keyword": "give",
-    "score": 2.830377596970575
-  },
-  {
-    "keyword": "last",
-    "score": 2.812350515232594
-  },
-  {
-    "keyword": "feel",
-    "score": 2.7430855495950586
-  },
-  {
-    "keyword": "better",
-    "score": 2.6246176964567858
-  },
-  {
-    "keyword": "anything",
-    "score": 2.6246176964567858
-  },
-  {
-    "keyword": "dean",
-    "score": 2.621698903080011
-  },
-  {
-    "keyword": "life",
-    "score": 2.5982659914593564
-  },
-  {
-    "keyword": "wrong",
-    "score": 2.56928113919883
-  },
-  {
-    "keyword": "wait",
-    "score": 2.477213910649389
-  },
-  {
-    "keyword": "bad",
-    "score": 2.4268201143704373
-  },
-  {
-    "keyword": "person",
-    "score": 2.411128332027398
-  },
-  {
-    "keyword": "keep",
-    "score": 2.3798056899029425
-  },
-  {
-    "keyword": "pretty",
-    "score": 2.375021585291026
-  },
-  {
-    "keyword": "put",
-    "score": 2.2968952123619557
-  },
-  {
-    "keyword": "guess",
-    "score": 2.2963063188906676
-  },
-  {
-    "keyword": "god",
-    "score": 2.2867015074157377
-  },
-  {
-    "keyword": "dude",
-    "score": 2.2718999711733
-  },
-  {
-    "keyword": "find",
-    "score": 2.196808595641417
-  },
-  {
-    "keyword": "still",
-    "score": 2.1818298760380825
-  },
-  {
-    "keyword": "call",
-    "score": 2.175475327942187
-  },
-  {
-    "keyword": "around",
-    "score": 2.147878978848874
-  },
-  {
-    "keyword": "racist",
-    "score": 2.132874463537986
-  },
-  {
-    "keyword": "friends",
-    "score": 2.11585766888965
-  },
-  {
-    "keyword": "stuff",
-    "score": 2.075881733212265
-  },
-  {
-    "keyword": "called",
-    "score": 2.042392629621772
-  },
-  {
-    "keyword": "wanted",
-    "score": 1.9721026787662226
-  },
-  {
-    "keyword": "family",
-    "score": 1.9082610208222468
-  },
-  {
-    "keyword": "love",
-    "score": 1.8942240181852956
-  },
-  {
-    "keyword": "work",
-    "score": 1.8543772478543448
-  },
-  {
-    "keyword": "movie",
-    "score": 1.8443620001582373
-  },
-  {
-    "keyword": "hear",
-    "score": 1.7981752366164745
-  },
-  {
-    "keyword": "everybody",
-    "score": 1.7981752366164745
-  },
-  {
-    "keyword": "kind",
-    "score": 1.7696699295680824
-  },
-  {
-    "keyword": "doreen",
-    "score": 1.7183682304785413
-  },
-  {
-    "keyword": "funny",
-    "score": 1.703223218217075
-  },
-  {
-    "keyword": "saying",
-    "score": 1.6809137189633898
-  },
-  {
-    "keyword": "makes",
-    "score": 1.6538784104589472
-  },
-  {
-    "keyword": "student",
-    "score": 1.6165352154187507
-  },
-  {
-    "keyword": "senor",
-    "score": 1.6135830916809157
-  },
-  {
-    "keyword": "year",
-    "score": 1.6013378458637926
-  },
-  {
-    "keyword": "sounds",
-    "score": 1.5878310684711374
-  },
-  {
-    "keyword": "may",
-    "score": 1.5346743627236366
-  },
-  {
-    "keyword": "try",
-    "score": 1.5020482991508337
-  },
-  {
-    "keyword": "seen",
-    "score": 1.4876685775162348
-  },
-  {
-    "keyword": "making",
-    "score": 1.463812649963174
-  },
-  {
-    "keyword": "please",
-    "score": 1.45512358979074
-  },
-  {
-    "keyword": "stupid",
-    "score": 1.442316483816898
-  },
-  {
-    "keyword": "word",
-    "score": 1.4323052655315347
-  },
-  {
-    "keyword": "done",
-    "score": 1.417444545610329
-  },
-  {
-    "keyword": "listen",
-    "score": 1.417444545610329
-  },
-  {
-    "keyword": "watch",
-    "score": 1.3949114218831808
-  },
-  {
-    "keyword": "ask",
-    "score": 1.384938106804982
-  },
-  {
-    "keyword": "girl",
-    "score": 1.3665143264299184
-  },
-  {
-    "keyword": "song",
-    "score": 1.3596520335150966
-  },
-  {
-    "keyword": "talking",
-    "score": 1.3510579919948267
-  },
-  {
-    "keyword": "taking",
-    "score": 1.3510579919948267
-  },
-  {
-    "keyword": "three",
-    "score": 1.3505038135569705
-  },
-  {
-    "keyword": "bring",
-    "score": 1.3410684526793804
-  },
-  {
-    "keyword": "mom",
-    "score": 1.337511306837324
-  },
-  {
-    "keyword": "old",
-    "score": 1.3353601809088556
-  },
-  {
-    "keyword": "nothing",
-    "score": 1.2968487671127664
-  },
-  {
-    "keyword": "told",
-    "score": 1.2945075066232392
-  },
-  {
-    "keyword": "mascot",
-    "score": 1.2911118811217328
-  },
-  {
-    "keyword": "next",
-    "score": 1.2639952485554904
-  },
-  {
-    "keyword": "teacher",
-    "score": 1.2614923732789298
-  },
-  {
-    "keyword": "chicken",
-    "score": 1.2531393186369881
-  },
-  {
-    "keyword": "already",
-    "score": 1.237906945888966
+    "keyword": "study",
+    "score": 11.575388739020127
   },
   {
     "keyword": "ass",
-    "score": 1.2330442509242538
+    "score": 10.835229681487752
   },
   {
-    "keyword": "cool",
-    "score": 1.2297639198291914
+    "keyword": "talk",
+    "score": 8.435950541903065
   },
   {
-    "keyword": "morning",
-    "score": 1.2290013914875522
+    "keyword": "team fabrique",
+    "score": 8.32003924544576
   },
   {
-    "keyword": "always",
-    "score": 1.2189420792908403
+    "keyword": "two",
+    "score": 6.94723205867437
   },
   {
-    "keyword": "stay",
-    "score": 1.1750052230692933
+    "keyword": "school",
+    "score": 6.823314617267618
   },
   {
-    "keyword": "crazy",
-    "score": 1.1627791715219018
+    "keyword": "thought",
+    "score": 6.760463314075083
   },
   {
-    "keyword": "enough",
-    "score": 1.1600502455963304
+    "keyword": "nice",
+    "score": 6.243921634703236
   },
   {
-    "keyword": "gets",
-    "score": 1.1600502455963304
+    "keyword": "professor",
+    "score": 5.969321071114978
   },
   {
-    "keyword": "says",
-    "score": 1.1600502455963304
+    "keyword": "hear",
+    "score": 5.243125351451136
   },
   {
-    "keyword": "fun",
-    "score": 1.1505247466032733
+    "keyword": "name",
+    "score": 5.123119876931951
   },
   {
-    "keyword": "college",
-    "score": 1.1306388311198168
+    "keyword": "may",
+    "score": 5.096319833779349
   },
   {
-    "keyword": "anyone",
-    "score": 1.1233041969515756
+    "keyword": "believe",
+    "score": 5.0480184102839365
   },
   {
-    "keyword": "cause",
-    "score": 1.117956334633256
+    "keyword": "little",
+    "score": 4.8994587868358375
   },
   {
-    "keyword": "night",
-    "score": 1.0867914324423937
+    "keyword": "semester",
+    "score": 4.7861601661261925
   },
   {
-    "keyword": "last semester",
-    "score": 1.084937046647778
+    "keyword": "wait",
+    "score": 4.785629126780431
   },
   {
-    "keyword": "looks",
-    "score": 1.0536047439301564
+    "keyword": "eat",
+    "score": 4.625412369805934
   },
   {
-    "keyword": "move",
-    "score": 1.0366588834897634
-  },
-  {
-    "keyword": "pool",
-    "score": 1.0222889934971944
-  },
-  {
-    "keyword": "wants",
-    "score": 1.0170062687690615
-  },
-  {
-    "keyword": "looking",
-    "score": 1.0170062687690615
-  },
-  {
-    "keyword": "care",
-    "score": 1.0051847113565187
-  },
-  {
-    "keyword": "turn",
-    "score": 0.9893376104815931
-  },
-  {
-    "keyword": "best",
-    "score": 0.9821101853752511
-  },
-  {
-    "keyword": "debate",
-    "score": 0.9806740013168193
-  },
-  {
-    "keyword": "heard",
-    "score": 0.9476841544547357
-  },
-  {
-    "keyword": "buddy",
-    "score": 0.9266480977025429
-  },
-  {
-    "keyword": "essay",
-    "score": 0.9265685576303998
-  },
-  {
-    "keyword": "weird",
-    "score": 0.9156439620669982
-  },
-  {
-    "keyword": "awesome",
-    "score": 0.9026720085128824
-  },
-  {
-    "keyword": "community",
-    "score": 0.8865571813863429
-  },
-  {
-    "keyword": "left",
-    "score": 0.8837341570596651
-  },
-  {
-    "keyword": "mind",
-    "score": 0.8837341570596651
-  },
-  {
-    "keyword": "went",
-    "score": 0.8738814158046649
-  },
-  {
-    "keyword": "start",
-    "score": 0.8725294497789697
-  },
-  {
-    "keyword": "high",
-    "score": 0.8683994769525332
-  },
-  {
-    "keyword": "another",
-    "score": 0.8657890511523019
-  },
-  {
-    "keyword": "christmas",
-    "score": 0.8595139322937103
-  },
-  {
-    "keyword": "anthropology",
-    "score": 0.8592202754517491
-  },
-  {
-    "keyword": "happy",
-    "score": 0.8558779175035098
-  },
-  {
-    "keyword": "hell",
-    "score": 0.8458773927533171
-  },
-  {
-    "keyword": "high school",
-    "score": 0.8296992898978415
-  },
-  {
-    "keyword": "started",
-    "score": 0.8290663881407166
-  },
-  {
-    "keyword": "pavel",
-    "score": 0.8248706254190403
-  },
-  {
-    "keyword": "getting rid",
-    "score": 0.8222526388249648
-  },
-  {
-    "keyword": "party",
-    "score": 0.8218216728698806
-  },
-  {
-    "keyword": "hard",
-    "score": 0.8185018401514378
-  },
-  {
-    "keyword": "used",
-    "score": 0.8156084346072606
-  },
-  {
-    "keyword": "probably",
-    "score": 0.8156084346072606
-  },
-  {
-    "keyword": "everything",
-    "score": 0.8067743435549583
-  },
-  {
-    "keyword": "write",
-    "score": 0.8038743666384075
-  },
-  {
-    "keyword": "number",
-    "score": 0.8024101609091719
-  },
-  {
-    "keyword": "fine",
-    "score": 0.7895955505179449
-  },
-  {
-    "keyword": "boobs",
-    "score": 0.7808277187880289
-  },
-  {
-    "keyword": "lawyer",
-    "score": 0.769748932541581
-  },
-  {
-    "keyword": "away",
-    "score": 0.768188584848751
-  },
-  {
-    "keyword": "human",
-    "score": 0.7528915606113809
-  },
-  {
-    "keyword": "remember",
-    "score": 0.7496185035493719
-  },
-  {
-    "keyword": "leave",
-    "score": 0.7496185035493719
-  },
-  {
-    "keyword": "girlfriend",
-    "score": 0.7488159150850645
-  },
-  {
-    "keyword": "coming",
-    "score": 0.7482097948540537
-  },
-  {
-    "keyword": "stop",
-    "score": 0.7463555103205064
-  },
-  {
-    "keyword": "new",
-    "score": 0.7354488266373813
-  },
-  {
-    "keyword": "dance",
-    "score": 0.7258448304827837
-  },
-  {
-    "keyword": "phony",
-    "score": 0.70605083911463
-  },
-  {
-    "keyword": "nobody",
-    "score": 0.6942586724086482
+    "keyword": "student",
+    "score": 4.470740644371182
   },
   {
     "keyword": "win",
-    "score": 0.6942586724086482
+    "score": 4.452044926677217
   },
   {
-    "keyword": "knew",
-    "score": 0.6942586724086482
+    "keyword": "keep",
+    "score": 4.344395286296466
+  },
+  {
+    "keyword": "made",
+    "score": 4.285276404634167
+  },
+  {
+    "keyword": "students",
+    "score": 4.260644964869295
+  },
+  {
+    "keyword": "together",
+    "score": 4.240994719504504
+  },
+  {
+    "keyword": "better",
+    "score": 3.873817466784913
+  },
+  {
+    "keyword": "dean",
+    "score": 3.8695094592681807
+  },
+  {
+    "keyword": "wrong",
+    "score": 3.7921432014825784
+  },
+  {
+    "keyword": "movie",
+    "score": 3.612321537702328
+  },
+  {
+    "keyword": "guess",
+    "score": 3.5815704638550665
+  },
+  {
+    "keyword": "dude",
+    "score": 3.5812508974739075
+  },
+  {
+    "keyword": "pretty",
+    "score": 3.505424852355466
+  },
+  {
+    "keyword": "tar",
+    "score": 3.4980543165086537
+  },
+  {
+    "keyword": "love",
+    "score": 3.452097725573649
+  },
+  {
+    "keyword": "god",
+    "score": 3.3750683967074764
+  },
+  {
+    "keyword": "stuff",
+    "score": 3.2510485438782775
+  },
+  {
+    "keyword": "still",
+    "score": 3.2202825938267647
+  },
+  {
+    "keyword": "racist",
+    "score": 3.1480266106820367
+  },
+  {
+    "keyword": "girl",
+    "score": 3.078334091988193
+  },
+  {
+    "keyword": "called",
+    "score": 3.014479500516413
+  },
+  {
+    "keyword": "mom",
+    "score": 2.9230108176617544
+  },
+  {
+    "keyword": "wanted",
+    "score": 2.910734699995076
+  },
+  {
+    "keyword": "word",
+    "score": 2.8570010119229092
+  },
+  {
+    "keyword": "start",
+    "score": 2.8022839879529466
+  },
+  {
+    "keyword": "wanna",
+    "score": 2.78572074610681
+  },
+  {
+    "keyword": "fun",
+    "score": 2.7791128376614647
+  },
+  {
+    "keyword": "act",
+    "score": 2.7744955249017713
+  },
+  {
+    "keyword": "hang",
+    "score": 2.7728287414072375
+  },
+  {
+    "keyword": "ear",
+    "score": 2.7662354075002424
+  },
+  {
+    "keyword": "watch",
+    "score": 2.73203881451867
+  },
+  {
+    "keyword": "care",
+    "score": 2.656653685051457
+  },
+  {
+    "keyword": "funny",
+    "score": 2.5138807306946584
+  },
+  {
+    "keyword": "saying",
+    "score": 2.4809529149595053
+  },
+  {
+    "keyword": "senor",
+    "score": 2.47187863337067
+  },
+  {
+    "keyword": "listen",
+    "score": 2.4401471603062936
+  },
+  {
+    "keyword": "sounds",
+    "score": 2.3435671167084653
+  },
+  {
+    "keyword": "ten",
+    "score": 2.336641019889324
+  },
+  {
+    "keyword": "poo",
+    "score": 2.3317378825083033
+  },
+  {
+    "keyword": "song",
+    "score": 2.2701696253845696
+  },
+  {
+    "keyword": "bed",
+    "score": 2.247822405703539
+  },
+  {
+    "keyword": "bring",
+    "score": 2.223132988868005
+  },
+  {
+    "keyword": "seen",
+    "score": 2.1957317929195566
+  },
+  {
+    "keyword": "hell",
+    "score": 2.142615512211836
+  },
+  {
+    "keyword": "stay",
+    "score": 2.139279745166725
+  },
+  {
+    "keyword": "stupid",
+    "score": 2.1287941459758013
+  },
+  {
+    "keyword": "done",
+    "score": 2.0920842857978896
+  },
+  {
+    "keyword": "cool",
+    "score": 2.0197071594635827
   },
   {
     "keyword": "ready",
-    "score": 0.6812100478801879
+    "score": 2.0125872320784577
   },
   {
-    "keyword": "problem",
-    "score": 0.6812100478801879
+    "keyword": "mind",
+    "score": 1.9976067437127232
+  },
+  {
+    "keyword": "talking",
+    "score": 1.9941007237337598
+  },
+  {
+    "keyword": "three",
+    "score": 1.9932827813282123
+  },
+  {
+    "keyword": "teacher",
+    "score": 1.9801438163940956
+  },
+  {
+    "keyword": "told",
+    "score": 1.9614174049751767
+  },
+  {
+    "keyword": "happen",
+    "score": 1.9078038093397107
+  },
+  {
+    "keyword": "chicken",
+    "score": 1.898736977466359
+  },
+  {
+    "keyword": "less",
+    "score": 1.8809488072421903
+  },
+  {
+    "keyword": "pen",
+    "score": 1.8424027780306016
+  },
+  {
+    "keyword": "already",
+    "score": 1.827094877746512
+  },
+  {
+    "keyword": "read",
+    "score": 1.8145743052366468
+  },
+  {
+    "keyword": "die",
+    "score": 1.7921976342235293
+  },
+  {
+    "keyword": "essay",
+    "score": 1.7214786792016723
+  },
+  {
+    "keyword": "sit",
+    "score": 1.7176159481864517
   },
   {
     "keyword": "play",
-    "score": 0.6766036287148814
+    "score": 1.7162554757717279
   },
   {
-    "keyword": "tonight",
-    "score": 0.6727027661588625
+    "keyword": "crazy",
+    "score": 1.716209667692225
   },
   {
-    "keyword": "idea",
-    "score": 0.6702204459701394
+    "keyword": "enough",
+    "score": 1.7121818959789152
   },
   {
-    "keyword": "hand",
-    "score": 0.6688135904064706
+    "keyword": "college",
+    "score": 1.6990449436039987
   },
   {
-    "keyword": "looks like",
-    "score": 0.6662189029368513
+    "keyword": "debate",
+    "score": 1.6906529658901055
   },
   {
-    "keyword": "sure",
-    "score": 0.6645330701036345
+    "keyword": "head",
+    "score": 1.6769190356960912
   },
   {
-    "keyword": "asked",
-    "score": 0.6553352217771864
+    "keyword": "end",
+    "score": 1.640291348015915
+  },
+  {
+    "keyword": "weird",
+    "score": 1.6268063754513693
+  },
+  {
+    "keyword": "mad",
+    "score": 1.5887171173617731
+  },
+  {
+    "keyword": "hard",
+    "score": 1.5586008866428491
+  },
+  {
+    "keyword": "body",
+    "score": 1.5448865261621199
+  },
+  {
+    "keyword": "pool",
+    "score": 1.5088524947681283
+  },
+  {
+    "keyword": "sing",
+    "score": 1.4962574535795066
+  },
+  {
+    "keyword": "best",
+    "score": 1.4816741158748645
+  },
+  {
+    "keyword": "stu",
+    "score": 1.4805608245530268
+  },
+  {
+    "keyword": "bro",
+    "score": 1.4713442490349349
+  },
+  {
+    "keyword": "side",
+    "score": 1.4638512800423151
+  },
+  {
+    "keyword": "used",
+    "score": 1.449075247867923
+  },
+  {
+    "keyword": "rid",
+    "score": 1.4490508896620666
+  },
+  {
+    "keyword": "late",
+    "score": 1.4405048243868956
+  },
+  {
+    "keyword": "able",
+    "score": 1.4292368572887182
+  },
+  {
+    "keyword": "pee",
+    "score": 1.4156076419326038
+  },
+  {
+    "keyword": "buddy",
+    "score": 1.4080671045719906
+  },
+  {
+    "keyword": "heard",
+    "score": 1.3987391136919023
+  },
+  {
+    "keyword": "high",
+    "score": 1.3620494073679488
+  },
+  {
+    "keyword": "goo",
+    "score": 1.3605168584458753
+  },
+  {
+    "keyword": "human",
+    "score": 1.347701804130936
+  },
+  {
+    "keyword": "high school",
+    "score": 1.3370096967563478
+  },
+  {
+    "keyword": "sex",
+    "score": 1.3359500334458314
+  },
+  {
+    "keyword": "awesome",
+    "score": 1.3323032143217122
+  },
+  {
+    "keyword": "ice",
+    "score": 1.3211533763629268
+  },
+  {
+    "keyword": "write",
+    "score": 1.3202459329221123
+  },
+  {
+    "keyword": "christmas",
+    "score": 1.3145289202665698
+  },
+  {
+    "keyword": "tea",
+    "score": 1.3124500314075218
+  },
+  {
+    "keyword": "gotta",
+    "score": 1.3107670635115933
+  },
+  {
+    "keyword": "community",
+    "score": 1.3085184555428306
+  },
+  {
+    "keyword": "problem",
+    "score": 1.3016586478083398
+  },
+  {
+    "keyword": "went",
+    "score": 1.289809596655891
+  },
+  {
+    "keyword": "another",
+    "score": 1.2778656310336833
+  },
+  {
+    "keyword": "number",
+    "score": 1.266016185330021
+  },
+  {
+    "keyword": "happy",
+    "score": 1.2632372443181012
+  },
+  {
+    "keyword": "pants",
+    "score": 1.2590821797427243
+  },
+  {
+    "keyword": "rest",
+    "score": 1.2563411902112227
+  },
+  {
+    "keyword": "rap",
+    "score": 1.2517974234887173
+  },
+  {
+    "keyword": "sup",
+    "score": 1.241221371238673
+  },
+  {
+    "keyword": "girlfriend",
+    "score": 1.235965757486739
+  },
+  {
+    "keyword": "fine",
+    "score": 1.2348225847078722
+  },
+  {
+    "keyword": "started",
+    "score": 1.2236646349826468
+  },
+  {
+    "keyword": "dance",
+    "score": 1.2218042042922204
+  },
+  {
+    "keyword": "party",
+    "score": 1.2129717616563962
+  },
+  {
+    "keyword": "leg",
+    "score": 1.2091070555617585
+  },
+  {
+    "keyword": "star",
+    "score": 1.1997305116253583
+  },
+  {
+    "keyword": "fight",
+    "score": 1.1907683594212986
+  },
+  {
+    "keyword": "later",
+    "score": 1.186684464081047
+  },
+  {
+    "keyword": "thou",
+    "score": 1.1847232926486388
+  },
+  {
+    "keyword": "ate",
+    "score": 1.184042606789472
+  },
+  {
+    "keyword": "hit",
+    "score": 1.1694679378138932
+  },
+  {
+    "keyword": "wear",
+    "score": 1.1667163052027116
+  },
+  {
+    "keyword": "bra",
+    "score": 1.1656051464059933
+  },
+  {
+    "keyword": "boobs",
+    "score": 1.1524665324303498
+  },
+  {
+    "keyword": "remember",
+    "score": 1.1431320782888899
+  },
+  {
+    "keyword": "lawyer",
+    "score": 1.136114743089676
+  },
+  {
+    "keyword": "meet",
+    "score": 1.1198542892546528
+  },
+  {
+    "keyword": "check",
+    "score": 1.1091859614927757
+  },
+  {
+    "keyword": "dad",
+    "score": 1.099671254012344
+  },
+  {
+    "keyword": "cut",
+    "score": 1.092492533545011
+  },
+  {
+    "keyword": "booty",
+    "score": 1.0757356476381874
+  },
+  {
+    "keyword": "hat",
+    "score": 1.0734360928410223
+  },
+  {
+    "keyword": "hip",
+    "score": 1.0644386547806588
+  },
+  {
+    "keyword": "hot",
+    "score": 1.0589330161817738
+  },
+  {
+    "keyword": "list",
+    "score": 1.0388771336795897
+  },
+  {
+    "keyword": "bet",
+    "score": 1.0299766833175688
+  },
+  {
+    "keyword": "since",
+    "score": 1.0289674818570365
+  },
+  {
+    "keyword": "knew",
+    "score": 1.0246945203769062
+  },
+  {
+    "keyword": "answer",
+    "score": 1.0223758881148215
+  },
+  {
+    "keyword": "brownie",
+    "score": 1.016208953627479
+  },
+  {
+    "keyword": "room",
+    "score": 1.0126807758247502
+  },
+  {
+    "keyword": "lose",
+    "score": 1.0083727472218376
+  },
+  {
+    "keyword": "learn",
+    "score": 0.9968396820091624
   },
   {
     "keyword": "whole",
-    "score": 0.6512117731780791
+    "score": 0.9959544306352636
+  },
+  {
+    "keyword": "tonight",
+    "score": 0.9928789739620787
+  },
+  {
+    "keyword": "text",
+    "score": 0.9786670953064797
+  },
+  {
+    "keyword": "ding",
+    "score": 0.9676908257198801
+  },
+  {
+    "keyword": "asked",
+    "score": 0.9672452609562858
   },
   {
     "keyword": "duncan",
-    "score": 0.6494957454761243
+    "score": 0.9586264570358255
   },
   {
     "keyword": "took",
-    "score": 0.6488661741341052
+    "score": 0.9576972381005906
   },
   {
-    "keyword": "seizing",
-    "score": 0.6477099121258683
+    "keyword": "lay",
+    "score": 0.9537596529949236
+  },
+  {
+    "keyword": "teach",
+    "score": 0.9505023796277648
+  },
+  {
+    "keyword": "tomorrow",
+    "score": 0.9460062132803494
+  },
+  {
+    "keyword": "run",
+    "score": 0.9452297050264344
+  },
+  {
+    "keyword": "saw",
+    "score": 0.9423849002458997
+  },
+  {
+    "keyword": "cute",
+    "score": 0.9403960882464132
+  },
+  {
+    "keyword": "wearing",
+    "score": 0.9387326775894248
+  },
+  {
+    "keyword": "burns",
+    "score": 0.9299803503078192
+  },
+  {
+    "keyword": "kick",
+    "score": 0.9231488661346485
+  },
+  {
+    "keyword": "fingers",
+    "score": 0.9140035551406795
+  },
+  {
+    "keyword": "exam",
+    "score": 0.9069469578857192
+  },
+  {
+    "keyword": "though",
+    "score": 0.9031907019317753
+  },
+  {
+    "keyword": "ran",
+    "score": 0.8984444009475472
+  },
+  {
+    "keyword": "ink",
+    "score": 0.8971184563813035
+  },
+  {
+    "keyword": "either",
+    "score": 0.894366035350048
+  },
+  {
+    "keyword": "drop",
+    "score": 0.8916295524405339
+  },
+  {
+    "keyword": "kid",
+    "score": 0.8831175182779125
   }
 ]

@@ -1,200 +1,200 @@
-ugly team	2135.463884
-wilhelmina	1110.472734
-headl	735.221708
-lemarcus	670.213840
-meade	636.161946
-yasmina	604.687431
-nonomy	587.721144
-spraf	422.689959
-team traduction	372.215884
-betty	367.484606
-hilda	343.581371
-traduction headl	310.228304
-nonomy lemarcus	243.947243
-headl nonomy	197.631259
-headl yasmina	172.427017
-suarez	156.850263
-daniel	151.726969
-gio	151.566214
-vraiment	142.070342
-betty saison	137.515312
-ugly betty	133.081550
-daniel meade	132.098945
-betty suarez	115.602418
-juste	106.929846
-wilhelmina slater	98.429021
-marc	86.063144
-ouais	78.682557
-fey	73.593711
-bradford	68.232069
-ugly	67.766939
-slater	63.611964
-alexis	57.555747
-fey sommers	55.718915
-peut etre	51.973504
-pense	51.901760
-merci	48.264875
-fais	42.458948
-besoin	41.017371
-peu	40.798992
-dieu	39.075574
-quelque chose	38.416821
-maintenant	37.782374
-parce	37.252648
-mode	33.744204
-hartley	32.731426
-quelqu	32.222925
-voir	31.685704
-bradford meade	31.681600
-traduction	31.062858
-claire meade	30.688158
-parler	30.420734
-aime	29.880696
-pere	29.830265
-crois	28.507322
-desolee	28.336619
-passe	27.579474
-amanda	27.387613
-redactrice	26.886377
-temps	26.086274
-christina	24.244133
-titres willow	22.187675
-deux	21.249912
-sommers	21.079815
-faut	21.072254
-justin	20.558847
-non non	20.459005
-bon	20.455490
-mija	20.304238
-monde	20.176302
-redacteur	19.228908
-fois	17.889393
-willow team	16.699684
-personne	15.874836
-soir	14.402444
-papi	14.337469
-pourrait	13.932277
-petit	13.865099
-parle	13.845279
-salut	12.977611
-bonne	12.808639
-mode magazine	12.619733
-voulais	12.503110
-ecoute	12.436009
-vrai	12.234768
-desole	12.035959
-viens	11.972289
-sofia	11.866305
-okay	11.744098
-vie	11.525150
-fille	10.957094
-tout monde	10.885087
-attends	10.870442
-beaucoup	10.816434
-trouve	10.622726
-laisse	10.512383
-famille	10.498079
-vois	10.066975
-kimmie	9.951074
-mieux	9.939021
-devrais	9.925083
-regarde	9.643924
-prendre	9.605970
-depuis	9.405811
-team	9.282268
-dis	9.259741
-aider	9.195447
-travail	9.127735
-matt	9.116154
-bebe	8.989777
-plait	8.777239
-connor	8.690963
-pourrais	8.679375
-femme	8.556406
-boulot	8.472623
-veux dire	8.367198
-truc	8.287169
-donne	8.135095
-ignacio	8.013034
-nouveau	8.005402
-gens	7.957423
-molly	7.765011
-magazine	7.575428
-relecture resynchro	7.466911
-pensais	7.465000
-maman	7.465000
-henry	7.463123
-argent	7.441532
-mere	7.394899
-genial	7.393038
-raison	7.272344
-idee	7.263470
-willie	7.094653
-nico	6.976510
-aujourd hui	6.941797
-aujourd	6.941797
-demain	6.911433
-tres bien	6.891086
-hui	6.880205
-ans	6.805606
-arrete	6.706322
-seule	6.554294
-trouver	6.554294
-reste	6.448232
-importe	6.403818
-betty betty	6.370895
-relecture	6.307696
-bonjour	6.299380
-accord	6.118884
-nouvelle	6.056857
-redacteur chef	5.874189
-probleme	5.863300
-assistante	5.755439
-sais quoi	5.723948
-nuit	5.677401
-venir	5.540466
-passer	5.273700
-entre	5.225784
-tellement	5.197659
-savoir	5.171288
-ensemble	5.158954
-fete	5.013865
-tant	4.932219
-santos	4.888927
-maison	4.728330
-demande	4.696627
-arrive	4.674320
-archie	4.613963
-renee	4.510761
-papa	4.311868
-oublie	4.196299
-mettre	4.139342
-croire	4.139342
-sortir	4.005838
-journee	3.989953
-rester	3.989953
-essaye	3.965421
-faites	3.965421
-savais	3.949240
-laisser	3.925186
-puis	3.901252
-pris	3.877437
-euh	3.845975
-seance photo	3.780768
-sens	3.773607
-jour	3.679901
-bureau	3.678041
-assez	3.648661
-connais	3.645356
-partir	3.589618
-homme	3.586725
-mec	3.571020
-appelle	3.529209
-tard	3.520494
-porte	3.492362
-mannequins	3.460753
-claire	3.446000
-semaine	3.438137
-numero	3.411272
-travaille	3.398847
-bas	3.364514
+wilhelmina	2079.196471
+headl	1376.594249
+meade	1194.305327
+team traduction	696.919364
+betty	688.060743
+hilda	643.305461
+gio	310.194273
+suarez	293.678992
+daniel	284.390989
+marc	281.644719
+daniel meade	251.261762
+ugly betty	249.175581
+betty suarez	216.448483
+wilhelmina slater	184.293830
+aime	163.532253
+fey	137.793374
+ugly	127.836466
+bradford	127.754489
+slater	119.657676
+alexis	108.169210
+fey sommers	104.325453
+besoin	77.449919
+pere	76.048093
+dieu	75.811854
+mode	67.576152
+parle	65.408935
+hartley	61.284770
+parler	60.387425
+traduction	58.160622
+desolee	53.056142
+mme	51.309305
+amanda	51.279268
+redactrice	50.340776
+desole	48.170255
+faut	46.903067
+redacteur	46.161576
+christina	45.393565
+titres willow	41.543149
+deux	40.729994
+sommers	39.468846
+justin	38.493409
+mija	38.016692
+dis	36.686166
+laisse	35.337405
+travail	34.999269
+tant	32.842711
+papi	32.281391
+willow team	31.267696
+lem	31.069933
+tra	30.192244
+donne	29.776904
+bonne	26.935933
+eme	26.007234
+prendre	25.240065
+salut	24.454465
+entre	23.504001
+porte	23.496665
+voulais	23.410230
+sofia	22.217907
+pris	20.812815
+truc	20.713899
+arrete	20.185486
+famille	20.171692
+ami	20.061936
+pos	19.454609
+aider	18.699684
+kimmie	18.631919
+devrais	18.583254
+jours	18.148980
+depuis	17.610995
+bebe	17.598479
+matt	17.561631
+idee	17.556038
+team	17.379678
+trouver	16.469266
+plait	16.434086
+boulot	16.388382
+res	16.311138
+connor	16.272547
+pourrais	16.250850
+ignacio	15.491159
+genial	15.441614
+magazine	15.427902
+raison	15.122796
+molly	14.538837
+argent	14.449248
+demande	14.438425
+tio	14.347170
+mere	14.345906
+eau	14.306278
+betty betty	14.292746
+probleme	14.099696
+maman	14.022364
+relecture resynchro	13.980689
+pensais	13.977112
+henry	13.973597
+nico	13.860330
+heu	13.536914
+nouvelle	13.499362
+hui	13.463063
+arrive	13.309113
+willie	13.283692
+aide	12.550799
+accord	12.424339
+travaille	12.409596
+importe	12.073182
+relecture	11.810231
+bonjour	11.794660
+essaye	11.654848
+fete	11.421537
+oublie	11.361004
+assistante	11.328903
+passer	11.247311
+mettre	10.655643
+nom	10.650834
+com	10.570210
+appele	10.197018
+prends	10.162908
+tellement	10.038984
+connais	9.992833
+mec	9.931215
+garde	9.744106
+savoir	9.682474
+alle	9.490903
+prend	9.421690
+maison	9.195273
+santos	9.153795
+coup	9.066495
+don	9.043756
+cas	8.851189
+archie	8.762161
+semaine	8.687457
+parti	8.612645
+sortir	8.560921
+renee	8.445734
+laisser	8.432468
+papa	8.360953
+rester	8.142357
+ava	8.110902
+propos	7.848162
+derniere	7.783030
+croire	7.750308
+pourra	7.676878
+journee	7.673657
+bas	7.665908
+pres	7.633525
+appel	7.632006
+adore	7.617209
+faites	7.558596
+partir	7.536230
+marche	7.513328
+mois	7.475479
+savais	7.394369
+claire	7.328575
+mis	7.312772
+ais	7.252815
+bureau	7.162816
+rendre	7.145503
+numero	6.930865
+partie	6.928419
+annee	6.887890
+rend	6.597412
+parfait	6.558995
+mannequins	6.479750
+beau	6.333893
+tante	6.315458
+resynchro	6.277557
+deteste	6.250513
+travailler	6.227408
+vite	6.142054
+histoire	6.094122
+appeler	5.928551
+fils	5.914926
+penses	5.876035
+contre	5.862006
+cal	5.842084
+jusqu	5.832814
+tucson	5.764988
+donner	5.748762
+defile	5.706385
+dur	5.671084
+enfin	5.644734
+aiment	5.630132
+retour	5.611223
+mariage	5.568570
+allo	5.544240
+espere	5.525573
+sympa	5.448454
+fini	5.422535
+cou	5.349046
+fil	5.284899
+cher	5.270429
+aille	5.176491
+adriana	5.163252
+pourrai	5.159605
+soeur	5.153493
+mange	5.096022
+mari	5.062763
+exactement	5.038395
+ose	5.011774

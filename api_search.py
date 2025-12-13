@@ -7,6 +7,7 @@ from flask import Blueprint, request, jsonify
 from sklearn.metrics.pairwise import cosine_similarity
 import os
 import joblib
+import unicodedata
 
 search_bp = Blueprint('search', __name__)
 
@@ -16,6 +17,13 @@ X = None
 titles = None
 keywords_dict = {}
 
+def remove_accents(text):
+    """
+    Convertit les caractères accentués en caractères non accentués.
+    Exemple: é -> e, ê -> e, à -> a, ç -> c, etc.
+    """
+    nfd_form = unicodedata.normalize('NFD', text)
+    return ''.join(char for char in nfd_form if unicodedata.category(char) != 'Mn')
 
 def init_search_engine(model_dir='./data/index'):
     """Initialise le moteur de recherche."""
@@ -58,13 +66,16 @@ def search():
     if not q:
         return jsonify({'error': 'Query parameter "q" is required'}), 400
     
+    # Enlever les accents de la requête pour matcher les mots indexés
+    q_clean = remove_accents(q).lower()
+    
     # Recherche TF-IDF standard
-    qv = vect.transform([q])
+    qv = vect.transform([q_clean])
     sims = cosine_similarity(qv, X).flatten()
     
     # Appliquer boost basé sur les mots-clés
     if keywords_dict:
-        query_lower = q.lower()
+        query_lower = q_clean
         query_tokens = set(query_lower.split())
         
         for i, title in enumerate(titles):
@@ -73,11 +84,12 @@ def search():
                 boost = 0.0
                 
                 for keyword, kw_score in kw_list:
-                    keyword_lower = keyword.lower()
-                    if keyword_lower in query_lower:
+                    # Enlever les accents du mot-clé aussi
+                    keyword_clean = remove_accents(keyword).lower()
+                    if keyword_clean in query_lower:
                         boost += kw_score * 0.5
                     for qt in query_tokens:
-                        if len(qt) > 2 and qt in keyword_lower:
+                        if len(qt) > 2 and qt in keyword_clean:
                             boost += kw_score * 0.2
                 
                 sims[i] = sims[i] + boost

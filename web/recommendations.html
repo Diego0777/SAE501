@@ -23,32 +23,6 @@
     <main class="container">
         <h1>Recommandations de séries</h1>
 
-        <!-- Séries populaires -->
-        <section style="margin-bottom: 50px;">
-            <div class="search-section">
-                <h2>Séries populaires</h2>
-                <div class="search-form">
-                    <div class="form-group">
-                        <label for="popularLanguage">Langue</label>
-                        <select id="popularLanguage" onchange="loadPopularSeries()">
-                            <option value="">Toutes</option>
-                            <option value="vf" selected>VF</option>
-                            <option value="vo">VO</option>
-                        </select>
-                    </div>
-                    <div class="form-group">
-                        <label for="popularTop">Nombre</label>
-                        <select id="popularTop" onchange="loadPopularSeries()">
-                            <option value="10">10</option>
-                            <option value="20" selected>20</option>
-                            <option value="50">50</option>
-                        </select>
-                    </div>
-                </div>
-            </div>
-            <div id="popularSeries" class="series-grid"></div>
-        </section>
-
         <!-- Recommandations personnalisées -->
         <section id="userRecommendations" style="display: none; margin-bottom: 50px;">
             <div class="search-section">
@@ -82,6 +56,32 @@
             </div>
             <div id="userRecResults" class="series-grid"></div>
         </section>
+
+        <!-- Séries populaires -->
+        <section style="margin-bottom: 50px;">
+            <div class="search-section">
+                <h2>Séries populaires</h2>
+                <div class="search-form">
+                    <div class="form-group">
+                        <label for="popularLanguage">Langue</label>
+                        <select id="popularLanguage" onchange="loadPopularSeries()">
+                            <option value="">Toutes</option>
+                            <option value="vf" selected>VF</option>
+                            <option value="vo">VO</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="popularTop">Nombre</label>
+                        <select id="popularTop" onchange="loadPopularSeries()">
+                            <option value="10">10</option>
+                            <option value="20" selected>20</option>
+                            <option value="50">50</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div id="popularSeries" class="series-grid"></div>
+        </section>
     </main>
 
     <footer>
@@ -95,6 +95,15 @@
         // Charger les utilisateurs disponibles
         async function loadUsers() {
             try {
+                // Récupérer l'utilisateur actuellement connecté
+                let currentUserId = null;
+                try {
+                    const profile = await apiRequest('/profile');
+                    currentUserId = profile.user_id || profile.id;
+                } catch (error) {
+                    console.log('Pas d\'utilisateur connecté');
+                }
+                
                 const users = await apiRequest('/api/users', { requireAuth: false });
                 const userSelect = document.getElementById('userSelect');
                 
@@ -104,6 +113,12 @@
                     option.textContent = `${user.username.charAt(0).toUpperCase() + user.username.slice(1)} (${user.num_ratings} notes)`;
                     userSelect.appendChild(option);
                 });
+                
+                // Si un utilisateur est connecté, le sélectionner par défaut et charger ses recommandations
+                if (currentUserId) {
+                    userSelect.value = currentUserId;
+                    loadUserRecommendations();
+                }
                 
                 document.getElementById('userRecommendations').style.display = 'block';
             } catch (error) {

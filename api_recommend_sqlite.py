@@ -78,27 +78,29 @@ def recommend_popularity():
         
         # Construire la requête SQL avec score de popularité
         query = """
-            SELECT s.id, s.title, s.language, s.average_rating, s.num_ratings, s.poster_url,
+            SELECT s.id, s.title, s.language, 
+                   COALESCE(AVG(r.rating), 0) as average_rating,
+                   COUNT(r.id) as num_ratings,
+                   s.poster_url,
                    CASE 
-                       WHEN s.num_ratings > 0 THEN (s.average_rating * LOG(1 + s.num_ratings))
-                       ELSE (
-                           SELECT COUNT(*) * 0.01
-                           FROM keywords k
-                           WHERE k.serie_id = s.id
-                       )
+                       WHEN COUNT(r.id) > 0 THEN (AVG(r.rating) * LOG(1 + COUNT(r.id)))
+                       ELSE 0
                    END as pop_score
             FROM series s
+            LEFT JOIN ratings r ON s.id = r.serie_id
         """
         params = []
         
-        # Appliquer le filtre de langue si spécifié
+        # Appliquer le filtre de langue et les critères minimum
+        where_clauses = ["COUNT(r.id) >= 1", "AVG(r.rating) >= 4.0"]
+        
         if language:
-            query += " WHERE s.language = ?"
+            where_clauses.append("s.language = ?")
             params.append(language.lower())
         
-        # Tri par score de popularité décroissant, puis par note moyenne
-        # (pas de tri alphabétique pour éviter les biais)
-        query += " ORDER BY pop_score DESC, s.average_rating DESC LIMIT ?"
+        query += " GROUP BY s.id, s.title, s.language, s.poster_url"
+        query += " HAVING " + " AND ".join(where_clauses)
+        query += " ORDER BY pop_score DESC, average_rating DESC LIMIT ?"
         params.append(limit)
         
         cursor.execute(query, params)
@@ -231,18 +233,21 @@ def recommend_collaborative(user_id):
         # Séries non vues, aimées par utilisateurs similaires, dans la langue préférée
         placeholders = ','.join('?' * len(similar_users))
         cursor.execute(
-            f"""SELECT s.id, s.title, s.language, s.average_rating, s.num_ratings, s.poster_url,
-                       AVG(r.rating) as pred_rating,
-                       COUNT(*) as recommendation_count
+            f"""SELECT s.id, s.title, s.language, 
+                       COALESCE(AVG(rall.rating), 0) as average_rating,
+                       COUNT(DISTINCT rall.id) as num_ratings,
+                       s.poster_url,
+                       AVG(r.rating) as pred_rating
                 FROM series s
                 JOIN ratings r ON s.id = r.serie_id
+                LEFT JOIN ratings rall ON s.id = rall.serie_id
                 WHERE r.user_id IN ({placeholders})
                   AND r.rating >= 4
                   AND s.id NOT IN ({','.join('?' * len(user_ratings))})
                   AND s.language = ?
-                GROUP BY s.id
+                GROUP BY s.id, s.title, s.language, s.poster_url
                 HAVING AVG(r.rating) >= 4.0
-                ORDER BY pred_rating DESC, recommendation_count DESC
+                ORDER BY pred_rating DESC, num_ratings DESC
                 LIMIT ?""",
             similar_users + list(user_ratings.keys()) + [user_lang, limit]
         )
@@ -285,10 +290,17 @@ def recommend_hybrid(user_id):
     with get_connection() as conn:
         cursor = conn.cursor()
         cursor.execute(
-            """SELECT s.id, s.title, s.language, s.average_rating, s.num_ratings, s.poster_url,
-                      (s.average_rating * LOG(1 + s.num_ratings)) as pop_score
+            """SELECT s.id, s.title, s.language, 
+                      COALESCE(AVG(r.rating), 0) as average_rating,
+                      COUNT(r.id) as num_ratings,
+                      s.poster_url,
+                      CASE 
+                          WHEN COUNT(r.id) > 0 THEN (AVG(r.rating) * LOG(1 + COUNT(r.id)))
+                          ELSE 0
+                      END as pop_score
                FROM series s
-               WHERE s.num_ratings > 0
+               LEFT JOIN ratings r ON s.id = r.serie_id
+               GROUP BY s.id, s.title, s.language, s.poster_url
                ORDER BY pop_score DESC
                LIMIT ?""",
             (limit * 2,)
