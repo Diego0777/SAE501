@@ -200,7 +200,7 @@ def main():
     try:
         import sys
         sys.path.append(os.path.dirname(os.path.dirname(__file__)))
-        from fetch_posters import fetch_all_posters
+        from scripts.fetch_posters import fetch_all_posters
         fetch_all_posters()
         print("✅ Posters téléchargés")
     except Exception as e:
