@@ -214,7 +214,7 @@ def recommend_collaborative(user_id):
                JOIN ratings r2 ON r1.serie_id = r2.serie_id
                WHERE r1.user_id = ? AND r2.user_id != r1.user_id
                GROUP BY r2.user_id
-               HAVING common_ratings >= 2
+               HAVING common_ratings >= 1
                ORDER BY similar_ratings DESC, common_ratings DESC
                LIMIT 10""",
             (user_id,)
